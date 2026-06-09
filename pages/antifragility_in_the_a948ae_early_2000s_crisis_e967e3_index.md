@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-early/
 description: Focused pages that expand on Crisis Test.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: antifragility_in_the_a948ae_early_2000s_crisis_e967e3
 parent_title: Crisis Test | antifragility in the context of the Lego company

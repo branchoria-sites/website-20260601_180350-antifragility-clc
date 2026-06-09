@@ -11,27 +11,27 @@ sibling_basenames:
 tags:
 - antifragility-in-the-context-of-the-lego-company
 - fan-signals
-- bricklink
+- brick-link
 keywords:
 - antifragility-in-the-context-of-the-lego-company
 - fan-signals
-- bricklink
+- brick-link
 affiliate_category: antifragility-in-the-context-of-the-lego-company
 show_ads: true
 description: BrickLink revealed what adult fans actually bought, rebuilt and valued, giving LEGO behavior data that surveys could miss.
 hero_summary: BrickLink revealed what adult fans actually bought, rebuilt and valued, giving LEGO behavior data that surveys could miss.
 layout: default
-permalink: /bricklink/
+permalink: /brick-link/
 sidebar_expanded_urls:
 - /antifragility-in-the-context-of-the/
 - /fan-signals/
-nav_short_title: BrickLink
-title: What BrickLink Revealed That Surveys Missed
-title_full: What BrickLink Revealed That Surveys Missed | Fan Signals
-display_title_short: BrickLink
-display_title: BrickLink
-heading_title: What BrickLink Revealed That Surveys Missed
-page_heading_title: What BrickLink Revealed That Surveys Missed
+nav_short_title: Brick Link
+title: What Brick Link Revealed That Surveys Missed
+title_full: What Brick Link Revealed That Surveys Missed | Fan Signals
+display_title_short: Brick Link
+display_title: Brick Link
+heading_title: What Brick Link Revealed That Surveys Missed
+page_heading_title: What Brick Link Revealed That Surveys Missed
 source_count: 41
 infographic_count: 3
 planned_sections:
@@ -202,7 +202,6 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-01 11:07:38'
 parent_title: How LEGO Fans Became a Market Sensor | LEGO Antifragility
 parent_permalink: /fan-signals/
 parent_nav_short_title: Fan Signals
@@ -266,6 +265,7 @@ next_link:
   permalink: /minecraft-signal/
   short_title: Minecraft Signal
   heading_title: Why LEGO Minecraft Became a Demand Clue
+date: '2026-06-09 03:44:08 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1.webp
@@ -277,7 +277,7 @@ image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_br
 BrickLink exposed a side of LEGO demand that ordinary market research could not easily see. Long before adult-focused LEGO sets became a major business category, BrickLink was already recording what dedicated builders were actually spending money on: individual parts, rare colours, discontinued elements, retired sets and custom creations. Unlike surveys, which capture what people say they want, BrickLink captured behaviour. Every purchase, wanted list, resale price and part search created a record of what fans genuinely valued.
 
 
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-dark.svg" | relative_url }}" alt="BrickLink illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-dark.svg" | relative_url }}" alt="Brick Link illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That made BrickLink more than a marketplace. It became an informal demand-sensing system for LEGO’s most engaged customers. In the context of LEGO’s antifragility, this mattered because it turned fan experimentation into usable information. The company could observe unexpected demand patterns emerging from thousands of independent builders rather than relying solely on forecasts, focus groups or retail sales reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span>
 
 ## What BrickLink Revealed That Surveys Missed
@@ -339,7 +339,7 @@ This distinction matters because adult LEGO fans often operate outside the assum
 Surveys struggle with that fragmentation because researchers must decide in advance which questions to ask. BrickLink allowed unexpected interests to emerge naturally. If thousands of builders suddenly began seeking certain parts or colours, the behaviour appeared in marketplace activity whether LEGO had anticipated it or not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">r/lego - Bricklink Studio... Anyone use it?Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-dark.svg" | relative_url }}" alt="BrickLink illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-dark.svg" | relative_url }}" alt="Brick Link illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Custom Building Revealed Unserved Demand
 
 BrickLink also captured activity around creations that LEGO itself never produced. Builders assembled original models from individual parts rather than official instructions. In doing so, they generated evidence about themes, scales and building styles that lacked official products.
@@ -387,7 +387,7 @@ That information became increasingly important as adults grew into a larger shar
 The acquisition also reflected a broader shift inside LEGO. Rather than treating fan activity as something happening outside the company, LEGO increasingly recognised it as a source of market intelligence.
 
 
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-dark.svg" | relative_url }}" alt="BrickLink illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-dark.svg" | relative_url }}" alt="Brick Link illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Tension Behind the Acquisition
 
 Not every fan welcomed the purchase. Some members of the community worried that LEGO ownership might compromise BrickLink's independence or give the company excessive visibility into a marketplace that had traditionally operated outside official channels. Media coverage at the time documented concerns that LEGO could gain unprecedented insight into collector behaviour and the secondary market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">lego accused of muscling in on fans after bricklink takeover</span><span class="citation-popover-snippet">The GuardianLego accused of muscling in on fans after BrickLink takeover20 Dec 2019 — Nicknamed CrackLink, it is the world&#x27;s largest onli...</span></span></span>
@@ -419,55 +419,21 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What BrickLink Revealed That Surveys Missed. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">Books and field guides related to What Brick Link Revealed That Surveys Missed. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+          <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
+        <p class="fr-book-author">By David C. Robertson</p>
         
-        <p class="fr-book-desc">Context on LEGO strategy and collected parts relevance.</p>
+        <p class="fr-book-desc">Covers LEGO strategy including fan engagement and product community.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
-        </h4>
-        <p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
-        
-        <p class="fr-book-desc">Explains fan behaviour insights applicable to marketplaces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Things+Work+Yaneer+Bar-Yam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Things Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/729934-M.jpg" alt="Cover for Making Things Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Things+Work+Yaneer+Bar-Yam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Things Work">Making Things Work</a>
-        </h4>
-        <p class="fr-book-author">By Yaneer Bar-Yam</p>
-        
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Things+Work+Yaneer+Bar-Yam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -482,7 +448,7 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
         </h4>
         <p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Includes deep LEGO design and part history relevant to parts marketplace.</p>
+        <p class="fr-book-desc">Includes insights into design culture and community impact.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -490,9 +456,43 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
+        </h4>
+        <p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
+        
+        <p class="fr-book-desc">Framework for how communities inform business decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+C.+Robertson+%26+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+C.+Robertson+%26+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry">Brick by Brick: How LEGO Rewrote the Rules of Innovation and...</a>
+        </h4>
+        <p class="fr-book-author">By David C. Robertson &amp; Bill Breen</p>
+        
+        
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+C.+Robertson+%26+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Things+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Things Work</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Life of Lego Bricks: The Inside Story of a Design Icon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -526,75 +526,71 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patent Print - Lego Pair - Brick and Minifigure - Vintage Poster Wall Art A4"><img src="{{ '/assets/images/marketplace-covers/12c160d7a33de6a05d57.jpg' | relative_url }}" alt="Listing image for Patent Print - Lego Pair - Brick and Minifigure - Vintage Poster Wall Art A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Patent Print - Lego Pair - Brick and Minifigure - Vintage Poster Wall Art A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=custom+LEGO+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-custom-lego-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="custom LEGO parts" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-custom-lego-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open custom LEGO parts on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20custom%20LEGO%20parts%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECustom%20Lego%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EParts%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELego%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EParts%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for custom LEGO parts on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">custom LEGO parts</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Lego</span><span class="fr-search-tag">Parts</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=custom+LEGO+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-custom-lego-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="custom LEGO parts" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-custom-lego-parts" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Figure with Umbrella Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34e48e6fbcd04c48a091.jpg' | relative_url }}" alt="Listing image for Lego Figure with Umbrella Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Lego Figure with Umbrella Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=loose+LEGO+pieces+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="loose LEGO pieces merch" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open loose LEGO pieces merch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20loose%20LEGO%20pieces%20merch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELoose%20Lego%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPieces%20Merch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELoose%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELego%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPieces%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for loose LEGO pieces merch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">loose LEGO pieces merch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Loose</span><span class="fr-search-tag">Lego</span><span class="fr-search-tag">Pieces</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=loose+LEGO+pieces+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="loose LEGO pieces merch" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-merch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO BATMAN MOVIE POSTER Wall Art Photo Print Pic Poster A3 A4"><img src="{{ '/assets/images/marketplace-covers/dd27228687fc2973155d.jpg' | relative_url }}" alt="Listing image for LEGO BATMAN MOVIE POSTER Wall Art Photo Print Pic Poster A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LEGO BATMAN MOVIE POSTER Wall Art Photo Print Pic Poster A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=loose+LEGO+pieces+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="loose LEGO pieces poster -book -books" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open loose LEGO pieces poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20loose%20LEGO%20pieces%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELoose%20Lego%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPieces%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELoose%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELego%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPieces%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for loose LEGO pieces poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">loose LEGO pieces poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Loose</span><span class="fr-search-tag">Lego</span><span class="fr-search-tag">Pieces</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=loose+LEGO+pieces+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="loose LEGO pieces poster -book -books" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Lego Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/212e9cad752f91a05cb3.jpg' | relative_url }}" alt="Listing image for The Lego Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Lego Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=loose+LEGO+pieces+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="loose LEGO pieces patch" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open loose LEGO pieces patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20loose%20LEGO%20pieces%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELoose%20Lego%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPieces%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELoose%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELego%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPieces%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for loose LEGO pieces patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">loose LEGO pieces patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Loose</span><span class="fr-search-tag">Lego</span><span class="fr-search-tag">Pieces</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=loose+LEGO+pieces+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="loose LEGO pieces patch" data-ebay-reference="brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-loose-lego-pieces-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego poster -book -books -dvd" data-ebay-reference="bricklink-what-bricklink-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-c-lego-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=custom+LEGO+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brick-link-what-brick-link-revealed-that-surveys-missed-antifragility-in-the-context-of-the-lego-custom-lego-parts&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>

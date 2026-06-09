@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-adult-lego/
 description: Focused pages that expand on Adult Sets.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: antifragility_in_the_a948ae_adult_lego_growth_a0b7c1
 parent_title: Adult Sets | antifragility in the context of the Lego company

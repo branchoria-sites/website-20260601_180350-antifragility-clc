@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-physical/
 description: Focused pages that expand on Digital Play.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: antifragility_in_the_a948ae_physical_digital_pla_5f0dee
 parent_title: Digital Play | antifragility in the context of the Lego company

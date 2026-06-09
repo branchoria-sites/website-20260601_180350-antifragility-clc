@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-portfolio/
 description: Focused pages that expand on Portfolio.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: antifragility_in_the_a948ae_portfolio_breadth_049172
 parent_title: Portfolio | antifragility in the context of the Lego company

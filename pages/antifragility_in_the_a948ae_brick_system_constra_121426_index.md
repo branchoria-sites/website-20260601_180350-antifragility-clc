@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-brick/
 description: Focused pages that expand on Brick System.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: antifragility_in_the_a948ae_brick_system_constra_121426
 parent_title: Brick System | antifragility in the context of the Lego company

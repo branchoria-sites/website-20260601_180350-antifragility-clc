@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-fan/
 description: Focused pages that expand on Fan Signals.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: antifragility_in_the_a948ae_fan_community_signal_45d9df
 parent_title: Fan Signals | antifragility in the context of the Lego company
@@ -20,6 +20,6 @@ The following pages expand on the main **[Fan Signals]({{ '/fan-signals/' | rela
 
 - [Adult Fans]({{ '/adult-fans/' | relative_url }})
 - [Botanicals]({{ '/botanicals-3aa67f/' | relative_url }})
-- [BrickLink]({{ '/bricklink/' | relative_url }})
+- [Brick Link]({{ '/brick-link/' | relative_url }})
 - [Vote Risk]({{ '/vote-risk/' | relative_url }})
 - [Minecraft Signal]({{ '/minecraft-signal/' | relative_url }})
