@@ -276,7 +276,7 @@ This distinction matters because LEGO uses fan communities as a demand sensor, n
 
 ## When 10,000 Supporters Is a Signal, Not a Guarantee
 
-The LEGO Ideas system is deliberately designed so that 10,000 supporters only qualifies a project for review. LEGO's own guidance states that reaching the milestone means a project enters review and may be chosen for production, not that it will automatically become a set. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOWhat happens to my product idea after I reach...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Ideas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas. After that, your product idea is considered to be in...</span></span></span>
+The LEGO Ideas system is deliberately designed so that 10,000 supporters only qualifies a project for review. LEGO's own guidance states that reaching the milestone means a project enters review and may be chosen for production, not that it will automatically become a set. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOWhat happens to my product idea after I reach...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Ideas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO Ideas. After that, your product idea is considered to be in...</span></span></span>
 
 That distinction is easy to overlook because the number itself feels large. Ten thousand supporters sounds like a market. In practice, it is closer to a screening mechanism.
 
@@ -305,7 +305,7 @@ The crowd is much less reliable at answering other questions:
 
 </div>
 
-Research on LEGO Ideas highlights this gap. A 2023 study in *Research Policy* found that crowd signals help identify projects that survive early stages, but become much less useful for predicting which concepts ultimately succeed in later selection stages. The factors that attract supporters are not necessarily the same factors that produce a commercially successful product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0048733323001592" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Weeding out or picking winners in open innovation?</span><span class="citation-popover-snippet">by L Dahlander · 2023 · Cited by 27 — The crowd selection process on LEGO Ideas has a multi-stage design with four stages, as shown in Ap...</span></span></span>
+Research on LEGO Ideas highlights this gap. A 2023 study in *Research Policy* found that crowd signals help identify projects that survive early stages, but become much less useful for predicting which concepts ultimately succeed in later selection stages. The factors that attract supporters are not necessarily the same factors that produce a commercially successful product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0048733323001592" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Weeding out or picking winners in open innovation?</span><span class="citation-popover-snippet">by L Dahlander  2023  Cited by 27  The crowd selection process on LEGO Ideas has a multi-stage design with four stages, as shown in Ap...</span></span></span>
 
 From an antifragility perspective, this is exactly why the review stage exists. LEGO benefits from fan-generated experimentation but avoids becoming dependent on fan voting as its sole decision system.
 
@@ -320,7 +320,7 @@ Many fan-supported projects fail because the online vote measures excitement whi
 
 One of the most common misunderstandings in the LEGO Ideas community is the belief that enough votes can overcome licensing barriers.
 
-In reality, some projects reach 10,000 supporters and still cannot move forward because intellectual-property rights are unavailable, too expensive or strategically unsuitable. Community discussions frequently point to licensing as a major reason why highly supported projects never become official products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Some of the “ideas” sets that gained 10k votes but didn&#x27;t</span><span class="citation-popover-snippet">Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</span></span></span>
+In reality, some projects reach 10,000 supporters and still cannot move forward because intellectual-property rights are unavailable, too expensive or strategically unsuitable. Community discussions frequently point to licensing as a major reason why highly supported projects never become official products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Some of the ideas sets that gained 10k votes but didn&#x27;t</span><span class="citation-popover-snippet">Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</span></span></span>
 
 LEGO has repeatedly tightened Ideas rules around third-party licences. Over time, the platform introduced restrictions on properties already covered by existing LEGO partnerships and on intellectual-property situations that would create commercial conflicts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
 
@@ -334,7 +334,7 @@ Many Ideas projects are created by experienced [adult fans]({{ 'adult-fans/' | r
 
 That creates a recurring problem. A model that looks impressive online may be too large, too fragile, too expensive or too specialised for a commercial release.
 
-LEGO has repeatedly adjusted submission rules to manage this issue. Previous updates imposed piece-count [limits]({{ 'limits/' | relative_url }}) and other constraints, while later revisions increased maximum size but still maintained formal boundaries around what can realistically become a retail product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebrickpost.com/news/lego-ideas-introduces-updated-rules-and-new-possibilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebrickpost.com">[2thebrickpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebrickpost.com</span><span class="citation-popover-title">lego ideas introduces updated rules and new possibilities</span><span class="citation-popover-snippet">30 Sept 2024 — Official details: · The maximum number of elements a build can feature will be raised from 3,000 to 5,000 elements. · A mi...</span></span></span>
+LEGO has repeatedly adjusted submission rules to manage this issue. Previous updates imposed piece-count [limits]({{ 'limits/' | relative_url }}) and other constraints, while later revisions increased maximum size but still maintained formal boundaries around what can realistically become a retail product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebrickpost.com/news/lego-ideas-introduces-updated-rules-and-new-possibilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebrickpost.com">[2thebrickpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebrickpost.com</span><span class="citation-popover-title">lego ideas introduces updated rules and new possibilities</span><span class="citation-popover-snippet">30 Sept 2024  Official details:  The maximum number of elements a build can feature will be raised from 3,000 to 5,000 elements.  A mi...</span></span></span>
 
 The review team therefore evaluates more than popularity. It has to ask whether a design can become:
 
@@ -355,7 +355,7 @@ A fan community can love a project precisely because it is unusually ambitious. 
 
 ### Voting Measures Interest, Not Purchase Behaviour
 
-Supporting a project costs nothing. Buying a finished set may require spending £50, £150 or even more.
+Supporting a project costs nothing. Buying a finished set may require spending 50, 150 or even more.
 
 This difference matters because online support creates very low-friction participation. Someone may enthusiastically vote for dozens of projects while ultimately purchasing only one or two official sets.
 
@@ -418,7 +418,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
         </h4>
         <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses LEGOâ€™s use of fan signals and innovation processes.</p>
+        <p class="fr-book-desc">Discusses LEGO’s use of fan signals and innovation processes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -469,7 +469,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
         </h4>
         <p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Insight into LEGOâ€™s history and product ecosystem relevant to fan votes.</p>
+        <p class="fr-book-desc">Insight into LEGO’s history and product ecosystem relevant to fan votes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -516,15 +516,15 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO TECHNIC: Ultralight Helicopter (42057). Discontinued model. New &amp; unopened"><img src="https://i.ebayimg.com/images/g/ChMAAeSwqLtpI2Sp/s-l225.jpg" alt="Listing image for LEGO TECHNIC: Ultralight Helicopter (42057). Discontinued model. New &amp; unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer">LEGO TECHNIC: Ultralight Helicopter (42057). Discontinued model. New &amp; unopened</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego technic model">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego technic model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +532,15 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 42207 Technic Ferrari SF-24 F1 Car Model Kit"><img src="https://i.ebayimg.com/images/g/ZKcAAeSwVJVp8zxp/s-l225.jpg" alt="Listing image for LEGO 42207 Technic Ferrari SF-24 F1 Car Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+"><img src="https://i.ebayimg.com/images/g/7vYAAeSwLqJqJmb2/s-l225.jpg" alt="Listing image for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer">LEGO 42207 Technic Ferrari SF-24 F1 Car Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego technic model">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego technic model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +548,15 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 42207 Technic Ferrari SF-24 F1 Car Model Kit"><img src="https://i.ebayimg.com/images/g/ZKcAAeSwVJVp8zxp/s-l225.jpg" alt="Listing image for LEGO 42207 Technic Ferrari SF-24 F1 Car Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595"><img src="https://i.ebayimg.com/images/g/R-4AAeSwizRqHuLN/s-l225.jpg" alt="Listing image for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer">LEGO 42207 Technic Ferrari SF-24 F1 Car Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego technic model">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego technic model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +564,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+technic+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-technic-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego technic model" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-technic-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fan-excitement-can-mislead-lego-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="when-fan-excitement-can-mislead-lego-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -774,7 +774,6 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -786,22 +785,22 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
    Source: lego.com  
    Title: what happens to my product idea after i reach 10 000 supporters  
    Link: [https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas. After that, your product idea is considered to be in...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO Ideas. After that, your product idea is considered to be in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Link: [https://www.lego.com/en-gb/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-gb/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOWhat happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOWhat happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO Ideas...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Weeding out or picking winners in open innovation?  
    Link: [https://www.sciencedirect.com/science/article/pii/S0048733323001592](https://www.sciencedirect.com/science/article/pii/S0048733323001592)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Dahlander · 2023 · Cited by 27 — The crowd selection process on LEGO Ideas has a multi-stage design with four stages, as shown in Ap...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Dahlander  2023  Cited by 27  The crowd selection process on LEGO Ideas has a multi-stage design with four stages, as shown in Ap...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Title: Some of the “ideas” sets that gained 10k votes but didn't  
+   Title: Some of the ideas sets that gained 10k votes but didn't  
    Link: [https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/](https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/)  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</p></details>
 
@@ -814,7 +813,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
    Source: thebrickpost.com  
    Title: lego ideas introduces updated rules and new possibilities  
    Link: [https://www.thebrickpost.com/news/lego-ideas-introduces-updated-rules-and-new-possibilities/](https://www.thebrickpost.com/news/lego-ideas-introduces-updated-rules-and-new-possibilities/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Sept 2024 — Official details: · The maximum number of elements a build can feature will be raised from 3,000 to 5,000 elements. · A mi...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Sept 2024  Official details:  The maximum number of elements a build can feature will be raised from 3,000 to 5,000 elements.  A mi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
@@ -837,7 +836,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
 11. <a id="endnote-11"></a>
    Source: ideas.lego.com  
    Link: [https://ideas.lego.com/guidelines](https://ideas.lego.com/guidelines)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Apr 2026 — Every build on LEGO Ideas that clocks up 10,000 supporters qualifies for an official review. There are three reviews each y...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Apr 2026  Every build on LEGO Ideas that clocks up 10,000 supporters qualifies for an official review. There are three reviews each y...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ideas.lego.com  
@@ -858,7 +857,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Link: [https://www.facebook.com/groups/adultswholego/posts/3149762195209517/](https://www.facebook.com/groups/adultswholego/posts/3149762195209517/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The next Lego Ideas review period starts at the beginning...15 Apr 2026 — My project needs 10,000 supporters to qualify for it and I onl...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The next Lego Ideas review period starts at the beginning...15 Apr 2026  My project needs 10,000 supporters to qualify for it and I onl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
@@ -884,7 +883,7 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
 20. <a id="endnote-20"></a>
    Source: brothers-brick.com  
    Link: [https://www.brothers-brick.com/2016/06/22/lego-ideas-guidelines-and-terms-of-services-updated-makes-submission-rules-tighter-news/](https://www.brothers-brick.com/2016/06/22/lego-ideas-guidelines-and-terms-of-services-updated-makes-submission-rules-tighter-news/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers Brick22 Jun 2016 — The two biggest changes are a 3,000 piece, single-box limit for all creations, as well as a new rule for...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers Brick22 Jun 2016  The two biggest changes are a 3,000 piece, single-box limit for all creations, as well as a new rule for...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
@@ -895,13 +894,13 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
    Source: brickset.com  
    Title: record breaking number of projects qualify for review at lego ideas  
    Link: [https://brickset.com/article/53694/record-breaking-number-of-projects-qualify-for-review-at-lego-ideas](https://brickset.com/article/53694/record-breaking-number-of-projects-qualify-for-review-at-lego-ideas)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record-breaking number of projects qualify for review at...7 Sept 2020 — We have a project on Ideas and, while I&#x27;d love it to reach 10k...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record-breaking number of projects qualify for review at...7 Sept 2020  We have a project on Ideas and, while I&#x27;d love it to reach 10k...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gameofbricks.eu  
    Title: lego ideas and how to turn your lego imaginations to get royalties  
    Link: [https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties?srsltid=AfmBOoqlrCxwaFws4I6GZnPmJpvJmVX3kUdRCz8beKSu1tBRuivjdbeo](https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties?srsltid=AfmBOoqlrCxwaFws4I6GZnPmJpvJmVX3kUdRCz8beKSu1tBRuivjdbeo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego® Ideas and how to turn your Lego® imaginations to...2 Nov 2021 — The original designer or the person who initially brought on the i...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Ideas and how to turn your Lego imaginations to...2 Nov 2021  The original designer or the person who initially brought on the i...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: idisplayit.co.uk  
@@ -918,22 +917,22 @@ That is why the most important number in LEGO Ideas is not necessarily 10,000. T
    Source: stonewars.com  
    Title: lego ideas rules and guidelines explained  
    Link: [https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/](https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Jan 2021 — The Ideas Guidelines explicitly state that LEGO designers can work internally on an identical product idea. In the event of...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Jan 2021  The Ideas Guidelines explicitly state that LEGO designers can work internally on an identical product idea. In the event of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: brickfanatics.com  
    Title: first lego ideas 2026 review 60 projects  
    Link: [https://www.brickfanatics.com/first-lego-ideas-2026-review-60-projects/](https://www.brickfanatics.com/first-lego-ideas-2026-review-60-projects/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First LEGO Ideas 2026 review hits 60 with puppets and petals18 Mar 2026 — Three more LEGO Ideas projects have gained 10000 supporters, br...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First LEGO Ideas 2026 review hits 60 with puppets and petals18 Mar 2026  Three more LEGO Ideas projects have gained 10000 supporters, br...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: brickfanatics.com  
    Title: record breaking lego ideas review closes  
    Link: [https://www.brickfanatics.com/record-breaking-lego-ideas-review-closes](https://www.brickfanatics.com/record-breaking-lego-ideas-review-closes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record-breaking LEGO Ideas review round officially closes...2 Sept 2025 — The LEGO Ideas team has officially closed the second review ro...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record-breaking LEGO Ideas review round officially closes...2 Sept 2025  The LEGO Ideas team has officially closed the second review ro...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: thebrickblogger.com  
    Title: lego ideas rules guidelines updates  
    Link: [https://thebrickblogger.com/2024/10/lego-ideas-rules-guidelines-updates/](https://thebrickblogger.com/2024/10/lego-ideas-rules-guidelines-updates/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas Rules &amp; Guidelines Updates3 Oct 2024 —... review, should they reach 10,000 supporters. This also means that previously submit...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas Rules &amp; Guidelines Updates3 Oct 2024 ... review, should they reach 10,000 supporters. This also means that previously submit...</p></details>

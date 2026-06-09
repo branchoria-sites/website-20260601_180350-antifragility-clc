@@ -268,7 +268,7 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_br
 
 ## Introduction
 
-LEGO’s recovery from its early-2000s crisis depended on a deceptively simple distinction: not every successful-looking idea strengthened the company. Some ventures extended the LEGO brand into new categories, but did little to reinforce the underlying building system that made LEGO valuable. Others expanded the system itself by creating new parts, themes and play patterns that remained compatible with the wider ecosystem of bricks.
+LEGOs recovery from its early-2000s crisis depended on a deceptively simple distinction: not every successful-looking idea strengthened the company. Some ventures extended the LEGO brand into new categories, but did little to reinforce the underlying building system that made LEGO valuable. Others expanded the system itself by creating new parts, themes and play patterns that remained compatible with the wider ecosystem of bricks.
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-1-dark.svg" | relative_url }}" alt="System Fit illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,9 +303,9 @@ That made failure expensive. Instead of generating reusable capabilities, the ve
 
 Clikits revealed a different version of the same mistake.
 
-The line attempted to reach girls through jewellery, accessories and fashion-oriented customisation. As contemporary reporting noted, LEGO was trying to become a broader lifestyle brand while entering a market shaped by rapidly changing tastes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[campaignlive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">analysis lego moves girls market</span><span class="citation-popover-snippet">ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — As the toy firm bids to become a lifestyle brand, it enters a market of fast-ch...</span></span></span>
+The line attempted to reach girls through jewellery, accessories and fashion-oriented customisation. As contemporary reporting noted, LEGO was trying to become a broader lifestyle brand while entering a market shaped by rapidly changing tastes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[campaignlive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">analysis lego moves girls market</span><span class="citation-popover-snippet">ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003  As the toy firm bids to become a lifestyle brand, it enters a market of fast-ch...</span></span></span>
 
-The issue was not that girls were uninterested in building. The issue was that Clikits was structured around accessory creation rather than the open-ended construction logic that defined LEGO’s strongest products.
+The issue was not that girls were uninterested in building. The issue was that Clikits was structured around accessory creation rather than the open-ended construction logic that defined LEGOs strongest products.
 
 When consumers bought traditional LEGO themes, the pieces remained useful long after a specific set disappeared. Parts migrated into new creations and mixed with pieces from hundreds of other products. Clikits had far less of that cross-system value. Much of its appeal depended on the finished accessory rather than continued recombination.
 
@@ -317,13 +317,13 @@ The LEGOLAND parks were not creative failures in the way Galidor was. Visitors o
 
 Running parks required expertise in hospitality, attractions, property operations and visitor management. Those capabilities were largely separate from designing modular construction toys. When LEGO eventually sold the parks as part of its financial restructuring, the decision reflected an emerging recognition that a strong brand presence was not enough to justify ownership of a business that operated according to different economic rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span>
 
-The parks expressed the brand successfully. They did not necessarily strengthen the manufacturing, design and system advantages that drove LEGO’s core business.
+The parks expressed the brand successfully. They did not necessarily strengthen the manufacturing, design and system advantages that drove LEGOs core business.
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-2-dark.svg" | relative_url }}" alt="System Fit illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How System Extension Protects Learning
 
-The turnaround gradually replaced the question “Can LEGO enter this market?” with “Does this make the LEGO system stronger?”
+The turnaround gradually replaced the question Can LEGO enter this market? with Does this make the LEGO system stronger?
 
 That change encouraged experiments that produced reusable assets.
 
@@ -345,13 +345,13 @@ This logic helps explain why LEGO could successfully develop highly specialised 
 That compatibility changes the economics of experimentation. A new element designed for one theme may later appear in dozens of others. Design knowledge gained in one product line can improve future products. The cost of failure decreases because learning remains available after a specific project ends.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O13pz3unFrM" title="Bits N’ Bricks Season 3 Episode 37 – The Surreal History of LEGO Galidor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O13pz3unFrM" target="_blank" rel="noopener noreferrer">Bits N’ Bricks Season 3 Episode 37 – The Surreal History of LEGO Galidor</a></p><p class="youtube-embed-meta">Channel: LEGO Gaming &middot; Views: 5.3K &middot; Uploaded: October 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O13pz3unFrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O13pz3unFrM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O13pz3unFrM" title="Bits N Bricks Season 3 Episode 37  The Surreal History of LEGO Galidor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O13pz3unFrM" target="_blank" rel="noopener noreferrer">Bits N Bricks Season 3 Episode 37  The Surreal History of LEGO Galidor</a></p><p class="youtube-embed-meta">Channel: LEGO Gaming &middot; Views: 5.3K &middot; Uploaded: October 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O13pz3unFrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O13pz3unFrM">Open on YouTube</a></p></div></div></div>
 
 ## Why Antifragile Experiments Need Reusable Feedback
 
 Antifragility is not simply the ability to survive mistakes. It is the ability to become stronger because mistakes reveal useful information.
 
-LEGO’s post-crisis approach increasingly favoured experiments that generated feedback loops instead of isolated outcomes.
+LEGOs post-crisis approach increasingly favoured experiments that generated feedback loops instead of isolated outcomes.
 
 A television series tied to a stand-alone toy line creates a relatively narrow feedback channel: consumers either buy the line or they do not. A modular building system creates many more signals. LEGO can observe which parts are reused, which themes inspire fan creations, which building techniques spread through communities and which components appear repeatedly in user-generated designs.
 
@@ -365,9 +365,9 @@ The distinction becomes clearer when comparing a closed product with an open bui
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-3-dark.svg" | relative_url }}" alt="System Fit illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Governance After the Crisis
 
-The lasting lesson was not “stay with the brick” in a narrow sense. It was that innovation should strengthen the network around the brick.
+The lasting lesson was not stay with the brick in a narrow sense. It was that innovation should strengthen the network around the brick.
 
-Jørgen Vig Knudstorp’s leadership period is often described as a return to LEGO’s core. That description is partly accurate but incomplete. The company did not stop experimenting. Instead, it developed stricter filters for deciding which experiments deserved resources. The brick, the system of play and the surrounding community became reference points for evaluating new opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyforoperators.substack.com">[historyforoperators.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyforoperators.substack.com</span><span class="citation-popover-title">How LEGO Nearly Collapsed</span><span class="citation-popover-snippet">History for OperatorsKnudstorp drew a big red circle around LEGO&#x27;s core business – the interlocking brick system and the play experiences...</span></span></span>
+Jrgen Vig Knudstorps leadership period is often described as a return to LEGOs core. That description is partly accurate but incomplete. The company did not stop experimenting. Instead, it developed stricter filters for deciding which experiments deserved resources. The brick, the system of play and the surrounding community became reference points for evaluating new opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyforoperators.substack.com">[historyforoperators.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyforoperators.substack.com</span><span class="citation-popover-title">How LEGO Nearly Collapsed</span><span class="citation-popover-snippet">History for OperatorsKnudstorp drew a big red circle around LEGO&#x27;s core business  the interlocking brick system and the play experiences...</span></span></span>
 
 Under that logic, a proposal had to answer more than a marketing question. It had to answer a systems question:
 
@@ -386,7 +386,7 @@ Those questions transformed innovation governance. They reduced the risk that gr
 In antifragile terms, LEGO learned that the safest way to experiment was not to avoid failure. It was to design experiments whose failures could still strengthen the system. The crucial distinction was no longer whether an idea carried the LEGO brand. It was whether it added value to the LEGO system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UPFqDch6F-Q" title="🔄 Why is this LEGO? Galidor unboxing &amp; reviews: Nick Bluetooth, Jens, Nepol &amp; Shimmel re upload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UPFqDch6F-Q" target="_blank" rel="noopener noreferrer">🔄 Why is this LEGO? Galidor unboxing &amp; reviews: Nick Bluetooth, Jens, Nepol &amp; Shimmel re upload</a></p><p class="youtube-embed-meta">Channel: JANG&#x27;s LEGO Reviews &middot; Views: 915 &middot; Uploaded: April 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UPFqDch6F-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UPFqDch6F-Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UPFqDch6F-Q" title=" Why is this LEGO? Galidor unboxing &amp; reviews: Nick Bluetooth, Jens, Nepol &amp; Shimmel re upload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UPFqDch6F-Q" target="_blank" rel="noopener noreferrer"> Why is this LEGO? Galidor unboxing &amp; reviews: Nick Bluetooth, Jens, Nepol &amp; Shimmel re upload</a></p><p class="youtube-embed-meta">Channel: JANG&#x27;s LEGO Reviews &middot; Views: 915 &middot; Uploaded: April 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UPFqDch6F-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UPFqDch6F-Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -408,7 +408,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
         </h4>
         <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores LEGOâ€™s strategic choices around expansion and core system strength.</p>
+        <p class="fr-book-desc">Explores LEGO’s strategic choices around expansion and core system strength.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -442,7 +442,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
         </h4>
         <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Broad lessons on disciplined growth relevant to LEGOâ€™s flops and recoveries.</p>
+        <p class="fr-book-desc">Broad lessons on disciplined growth relevant to LEGO’s flops and recoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -459,7 +459,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
         </h4>
         <p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Contextualises LEGOâ€™s product decisions and system evolution.</p>
+        <p class="fr-book-desc">Contextualises LEGO’s product decisions and system evolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -506,15 +506,15 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Legoland: 6593 Blaze Battler Complete Set with Instructions"><img src="https://i.ebayimg.com/images/g/7QYAAeSwNXFqHYa2/s-l225.jpg" alt="Listing image for Lego Legoland: 6593 Blaze Battler Complete Set with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB"><img src="https://i.ebayimg.com/images/g/F5sAAOSw2~Zmzxqj/s-l225.jpg" alt="Listing image for Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer">Lego Legoland: 6593 Blaze Battler Complete Set with Instructions</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO system expansion set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO system expansion set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +522,15 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego system 6415/6428 Complete Set. Includes Instructions. No Box."><img src="https://i.ebayimg.com/images/g/T4cAAeSwQONpzSJ~/s-l225.jpg" alt="Listing image for Lego system 6415/6428 Complete Set. Includes Instructions. No Box." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot (4) LEGO Galidor NEPOL Allegra JENS Action Figures PIECES Parts"><img src="https://i.ebayimg.com/images/g/ynwAAeSw8wZoZfOF/s-l225.jpg" alt="Listing image for Lot (4) LEGO Galidor NEPOL Allegra JENS Action Figures PIECES Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer">Lego system 6415/6428 Complete Set. Includes Instructions. No Box.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lot (4) LEGO Galidor NEPOL Allegra JENS Action Figures PIECES Parts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO system expansion set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO system expansion set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +538,15 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO System Set Vintage"><img src="https://i.ebayimg.com/images/g/d80AAeSwo41p5dGS/s-l225.jpg" alt="Listing image for LEGO System Set Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26"><img src="https://i.ebayimg.com/images/g/2cAAAOSwVB5mCsW9/s-l225.jpg" alt="Listing image for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer">LEGO System Set Vintage</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO system expansion set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO system expansion set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +554,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+system+expansion+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-system-expansion-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO system expansion set" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-system-expansion-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-lego-learned-from-its-flops-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-test-lego-learned-from-its-flops-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -764,7 +764,6 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -776,7 +775,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
    Source: historyforoperators.substack.com  
    Title: How LEGO Nearly Collapsed  
    Link: [https://historyforoperators.substack.com/p/the-lego-turnaround](https://historyforoperators.substack.com/p/the-lego-turnaround)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History for OperatorsKnudstorp drew a big red circle around LEGO&#x27;s core business – the interlocking [brick system](&amp;#123;&amp;#123; &#x27;brick-system/&#x27; | relative_url &amp;#125;&amp;#125;) and the play experiences...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>History for OperatorsKnudstorp drew a big red circle around LEGO&#x27;s core business  the interlocking [brick system](&amp;#123;&amp;#123; &#x27;brick-system/&#x27; | relative_url &amp;#125;&amp;#125;) and the play experiences...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
@@ -786,7 +785,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
    Source: campaignlive.co.uk  
    Title: analysis lego moves girls market  
    Link: [https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455](https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — As the toy firm bids to become a lifestyle brand, it enters a market of fast-ch...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003  As the toy firm bids to become a lifestyle brand, it enters a market of fast-ch...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
@@ -797,7 +796,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
    Link: [https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/](https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015  The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: hbr.org  
@@ -808,7 +807,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
    Source: hbr.org  
    Title: innovation under constraint constructing a turnaround at lego  
    Link: [https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego](https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Ri...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovation Under Constraint: Constructing a Turnaround at...4 Oct 2016  Harvard Business School professor Jan Ri...</p></details>
 
 ### Additional References
 
@@ -825,7 +824,7 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
 11. <a id="endnote-11"></a>
    Source: designnews.com  
    Link: [https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps](https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Odd Ventures &amp; Mishaps16 Jul 2025 — Explore LEGO&#x27;s experimental product lines and engineering challenges, from the infamous Galido...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Odd Ventures &amp; Mishaps16 Jul 2025  Explore LEGO&#x27;s experimental product lines and engineering challenges, from the infamous Galido...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
@@ -841,24 +840,24 @@ In antifragile terms, LEGO learned that the safest way to experiment was not to 
    Source: theguardian.com  
    Title: how lego clicked the super brand that reinvented itself  
    Link: [https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego clicked: the super brand that reinvented itself4 Jun 2017 — The revival of Lego has been hailed as the greatest turnaround in co...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego clicked: the super brand that reinvented itself4 Jun 2017  The revival of Lego has been hailed as the greatest turnaround in co...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: markhub24.com  
    Title: lego strategic turnaround through innovation and focus  
    Link: [https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus](https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025 — The company achieved a strategic turnaround by refocusing on its cor...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025  The company achieved a strategic turnaround by refocusing on its cor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: helpmegrow.co.uk  
    Title: the lego turnaround a masterclass in business revival  
    Link: [https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/](https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Turnaround: A Masterclass in Business Revival11 Dec 2024 — LEGO&#x27;s remarkable turnaround offers valuable insights into how strate...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Turnaround: A Masterclass in Business Revival11 Dec 2024  LEGO&#x27;s remarkable turnaround offers valuable insights into how strate...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nowgocreate.co.uk  
    Link: [https://nowgocreate.co.uk/blog/brick-by-brick-the-lego-innovation-matrix/](https://nowgocreate.co.uk/blog/brick-by-brick-the-lego-innovation-matrix/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick by brick – how to use the Lego innovation matrix10 Mar 2023 — The matrix includes four quadrants: Core; Adjacent; Transformational...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick by brick  how to use the Lego innovation matrix10 Mar 2023  The matrix includes four quadrants: Core; Adjacent; Transformational...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  

@@ -274,15 +274,15 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bi
 
 ## Introduction
 
-LEGO’s response to the failure of Galidor was not to abandon storytelling. Instead, it learned a more important lesson: stories strengthen the LEGO system only when they lead children back into building. That distinction became one of the clearest examples of antifragility inside the company’s early-2000s crisis.
+LEGOs response to the failure of Galidor was not to abandon storytelling. Instead, it learned a more important lesson: stories strengthen the LEGO system only when they lead children back into building. That distinction became one of the clearest examples of antifragility inside the companys early-2000s crisis.
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-1-dark.svg" | relative_url }}" alt="Story Test illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Both Bionicle and Galidor were character-led experiments launched during a period when LEGO was searching for growth beyond traditional brick sets. Both used original mythology, heroes, villains and multimedia worlds. Yet Bionicle became one of LEGO’s most successful internal franchises, while Galidor became a symbol of how far the company had drifted from its core strengths. The difference was not that one had a story and the other did not. The difference was that Bionicle treated story as fuel for construction play, while Galidor increasingly resembled a conventional action-figure brand with a LEGO logo attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bionicle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Galidor: Defenders of the Outer Dimension</span><span class="citation-popover-snippet">Galidor: Defenders of the Outer Dimension</span></span></span>
+Both Bionicle and Galidor were character-led experiments launched during a period when LEGO was searching for growth beyond traditional brick sets. Both used original mythology, heroes, villains and multimedia worlds. Yet Bionicle became one of LEGOs most successful internal franchises, while Galidor became a symbol of how far the company had drifted from its core strengths. The difference was not that one had a story and the other did not. The difference was that Bionicle treated story as fuel for construction play, while Galidor increasingly resembled a conventional action-figure brand with a LEGO logo attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bionicle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Galidor: Defenders of the Outer Dimension</span><span class="citation-popover-snippet">Galidor: Defenders of the Outer Dimension</span></span></span>
 
 ## Why Bionicle Worked Where Galidor Struggled
 
-The comparison matters because it reveals a deeper rule behind LEGO’s eventual recovery. Storytelling was not the problem. The problem was whether the story strengthened the building system or replaced it.
+The comparison matters because it reveals a deeper rule behind LEGOs eventual recovery. Storytelling was not the problem. The problem was whether the story strengthened the building system or replaced it.
 
 Bionicle emerged in 2001 as a construction-based action franchise built around collectible masks, elemental heroes and an evolving mythology. LEGO developed an extensive narrative through comics, books, games and online content, creating one of its first fully integrated original story worlds. The theme quickly became a major commercial success and is widely credited as one of the products that helped stabilise LEGO during a difficult financial period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GalidorGalidor is a discontinued Lego theme released from 2002 until 2003. Noted for its departure from traditional Lego bricks in fav...</span></span></span>
 
@@ -310,7 +310,7 @@ Both featured:
 
 </div>
 
-Both also emerged from LEGO’s desire to create intellectual property it could own outright rather than depend on external licences. After seeing the success of licensed themes such as [Star Wars]({{ 'star-wars/' | relative_url }}), LEGO wanted franchises whose characters, stories and merchandise belonged entirely to the company. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GalidorGalidor is a discontinued Lego theme released from 2002 until 2003. Noted for its departure from traditional Lego bricks in fav...</span></span></span>
+Both also emerged from LEGOs desire to create intellectual property it could own outright rather than depend on external licences. After seeing the success of licensed themes such as [Star Wars]({{ 'star-wars/' | relative_url }}), LEGO wanted franchises whose characters, stories and merchandise belonged entirely to the company. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GalidorGalidor is a discontinued Lego theme released from 2002 until 2003. Noted for its departure from traditional Lego bricks in fav...</span></span></span>
 
 Yet the development logic behind each theme was different.
 
@@ -318,7 +318,7 @@ Bionicle began with a construction concept and then wrapped a mythology around i
 
 Galidor moved in the opposite direction. LEGO and television producers developed a story-driven entertainment property centred on a live-action television show. The toys were designed to represent characters from that programme. Construction existed, but largely as a secondary feature attached to action figures rather than as the foundation of play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GalidorGalidor is a discontinued Lego theme released from 2002 until 2003. Noted for its departure from traditional Lego bricks in fav...</span></span></span>
 
-This difference seems subtle until viewed through LEGO’s core business model. Bionicle encouraged children to imagine, rebuild and combine. Galidor encouraged children to own and recognise characters from a narrative.
+This difference seems subtle until viewed through LEGOs core business model. Bionicle encouraged children to imagine, rebuild and combine. Galidor encouraged children to own and recognise characters from a narrative.
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-2-dark.svg" | relative_url }}" alt="Story Test illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,13 +326,13 @@ This difference seems subtle until viewed through LEGO’s core business model. 
 
 The strongest contrast between the two lines was not aesthetic. It was structural.
 
-Bionicle’s mythology gave meaning to construction. Masks could be collected, exchanged and upgraded. Heroes could be modified. New releases expanded both the narrative and the building possibilities. Children could recreate official stories or invent entirely new ones using the same parts. The lore increased the value of the construction system rather than competing with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GalidorGalidor is a discontinued Lego theme released from 2002 until 2003. Noted for its departure from traditional Lego bricks in fav...</span></span></span>
+Bionicles mythology gave meaning to construction. Masks could be collected, exchanged and upgraded. Heroes could be modified. New releases expanded both the narrative and the building possibilities. Children could recreate official stories or invent entirely new ones using the same parts. The lore increased the value of the construction system rather than competing with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GalidorGalidor is a discontinued Lego theme released from 2002 until 2003. Noted for its departure from traditional Lego bricks in fav...</span></span></span>
 
 The result was what might be called buildable lore: a fictional world whose rules encouraged further construction.
 
-Galidor's world worked differently. The characters existed primarily as finished personalities from a television narrative. While limbs could be swapped between figures, the play pattern resembled customising action figures more than building new creations. Even LEGO’s own retrospective commentary later noted that the products lacked the familiar studs-and-tubes architecture associated with the LEGO identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s03e37 feature and transcript</span><span class="citation-popover-snippet">LEGOThe LEGO® game console from another reality13 Oct 2021 — The toys didn&#x27;t feature any of the familiar studs and tubes that make up the...</span></span></span>
+Galidor's world worked differently. The characters existed primarily as finished personalities from a television narrative. While limbs could be swapped between figures, the play pattern resembled customising action figures more than building new creations. Even LEGOs own retrospective commentary later noted that the products lacked the familiar studs-and-tubes architecture associated with the LEGO identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s03e37 feature and transcript</span><span class="citation-popover-snippet">LEGOThe LEGO game console from another reality13 Oct 2021  The toys didn&#x27;t feature any of the familiar studs and tubes that make up the...</span></span></span>
 
-Many fan retrospectives and community discussions return to the same criticism: Galidor did not feel sufficiently connected to LEGO's building DNA. The complaint was rarely that the story was weak in isolation. Rather, the story did not generate the kind of creative construction loop that consumers expected from LEGO products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">galidor was it all bad</span><span class="citation-popover-snippet">Galidor: was it all bad?2 Apr 2015 — The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bzpower.com/topic/9641-why-do-you-hate-galidor-soo-much/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bzpower.com">[bzpower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bzpower.com</span><span class="citation-popover-title">Why do you hate galidor soo much?</span><span class="citation-popover-snippet">LEGO Discussion3 May 2013 — As to why it was hated - the products had nothing to do with Lego, and the show they were taken from was drea...</span><span class="citation-popover-meta">Published: May 2013</span></span></span> Bionicle succeeded because the fiction expanded the reasons to build.
+Many fan retrospectives and community discussions return to the same criticism: Galidor did not feel sufficiently connected to LEGO's building DNA. The complaint was rarely that the story was weak in isolation. Rather, the story did not generate the kind of creative construction loop that consumers expected from LEGO products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">galidor was it all bad</span><span class="citation-popover-snippet">Galidor: was it all bad?2 Apr 2015  The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bzpower.com/topic/9641-why-do-you-hate-galidor-soo-much/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bzpower.com">[bzpower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bzpower.com</span><span class="citation-popover-title">Why do you hate galidor soo much?</span><span class="citation-popover-snippet">LEGO Discussion3 May 2013  As to why it was hated - the products had nothing to do with Lego, and the show they were taken from was drea...</span><span class="citation-popover-meta">Published: May 2013</span></span></span> Bionicle succeeded because the fiction expanded the reasons to build.
 
 Galidor struggled because the fiction reduced building to an accessory.
 
@@ -357,7 +357,7 @@ A child who knew nothing about Mata Nui could still build and rebuild a Bionicle
 
 **The story should explain the system.**
 
-Bionicle's lore justified modularity, interchangeable parts and upgrades. The fiction made the mechanics feel meaningful rather than arbitrary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://speakingofcollecting.blogspot.com/2015/10/the-building-chronicle-critical_20.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speakingofcollecting.blogspot.com">[speakingofcollecting.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speakingofcollecting.blogspot.com</span><span class="citation-popover-snippet">The Building Chronicle: A Critical Consideration of LEGO&#x27;s...20 Oct 2015 — The Bionicle Power Pack was an early experiment for Bionicle...</span></span></span>
+Bionicle's lore justified modularity, interchangeable parts and upgrades. The fiction made the mechanics feel meaningful rather than arbitrary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://speakingofcollecting.blogspot.com/2015/10/the-building-chronicle-critical_20.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speakingofcollecting.blogspot.com">[speakingofcollecting.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speakingofcollecting.blogspot.com</span><span class="citation-popover-snippet">The Building Chronicle: A Critical Consideration of LEGO&#x27;s...20 Oct 2015  The Bionicle Power Pack was an early experiment for Bionicle...</span></span></span>
 
 **Media should amplify play, not replace it.**
 
@@ -371,7 +371,7 @@ These principles became especially important after LEGO's financial crisis. The 
 
 From an antifragility perspective, Bionicle is more important than its sales figures.
 
-The franchise showed that LEGO could absorb lessons from failure without retreating into conservatism. Galidor demonstrated that storytelling alone could not justify a product line that drifted away from construction play. Bionicle demonstrated that storytelling could become a force multiplier when it deepened the building experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s03e37 feature and transcript</span><span class="citation-popover-snippet">LEGOThe LEGO® game console from another reality13 Oct 2021 — The toys didn&#x27;t feature any of the familiar studs and tubes that make up the...</span></span></span>
+The franchise showed that LEGO could absorb lessons from failure without retreating into conservatism. Galidor demonstrated that storytelling alone could not justify a product line that drifted away from construction play. Bionicle demonstrated that storytelling could become a force multiplier when it deepened the building experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s03e37 feature and transcript</span><span class="citation-popover-snippet">LEGOThe LEGO game console from another reality13 Oct 2021  The toys didn&#x27;t feature any of the familiar studs and tubes that make up the...</span></span></span>
 
 That distinction allowed LEGO to keep experimenting while reducing fragility. Instead of abandoning characters, lore and media, the company learned to judge them by a different standard: did they strengthen the construction system or compete with it?
 
@@ -400,7 +400,7 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
         </h4>
         <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Covers LEGOâ€™s success, failures like Galidor vs Bionicle and strategic lessons.</p>
+        <p class="fr-book-desc">Covers LEGO’s success, failures like Galidor vs Bionicle and strategic lessons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -434,7 +434,7 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
         </h4>
         <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Broad lessons on company focus and strategic alignment that mirror LEGOâ€™s decisions.</p>
+        <p class="fr-book-desc">Broad lessons on company focus and strategic alignment that mirror LEGO’s decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -451,7 +451,7 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
         </h4>
         <p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Deep history and details about LEGOâ€™s bricks and design that contextualise product experiments.</p>
+        <p class="fr-book-desc">Deep history and details about LEGO’s bricks and design that contextualise product experiments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -474,7 +474,7 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -498,15 +498,15 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2013 LEGO Star Wars Boba Fett LED Lite (Night Light / Torch) Sealed, Memorabilia"><img src="{{ '/assets/images/marketplace-covers/91fb9a75a59fae43b57c.jpg' | relative_url }}" alt="Listing image for 2013 LEGO Star Wars Boba Fett LED Lite (Night Light / Torch) Sealed, Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension"><img src="https://i.ebayimg.com/images/g/i9IAAOSwGBNiwNFP/s-l225.jpg" alt="Listing image for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">2013 LEGO Star Wars Boba Fett LED Lite (Night Light / Torch) Sealed, Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +514,15 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Harry Potter Cedric Diggory Figure Keyring Keychain Movie Memorabilia"><img src="{{ '/assets/images/marketplace-covers/9f2fb4b8a3c7d6fc8cd7.jpg' | relative_url }}" alt="Listing image for Lego Harry Potter Cedric Diggory Figure Keyring Keychain Movie Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space"><img src="https://i.ebayimg.com/images/g/VM8AAeSwo3FpEzC6/s-l225.jpg" alt="Listing image for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">Lego Harry Potter Cedric Diggory Figure Keyring Keychain Movie Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,31 +530,15 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Custom Lego Hero MiniFigures Toy Football Soccer Sports Models Memorabilia"><img src="{{ '/assets/images/marketplace-covers/4ab58f018496bbdd2f3a.jpg' | relative_url }}" alt="Listing image for 8 Custom Lego Hero MiniFigures Toy Football Soccer Sports Models Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Gorm Villain Figure Defenders of the Outer Dimension Rare S9"><img src="https://i.ebayimg.com/images/g/KPcAAeSwi5dpa7hs/s-l225.jpg" alt="Listing image for Lego Galidor Gorm Villain Figure Defenders of the Outer Dimension Rare S9" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">8 Custom Lego Hero MiniFigures Toy Football Soccer Sports Models Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Gorm Villain Figure Defenders of the Outer Dimension Rare S9</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Crystal Palace FC Eagle Mascot Minifigure FA Cup Winners Memorabilia VGC"><img src="{{ '/assets/images/marketplace-covers/b3d6c984b60d347a5855.jpg' | relative_url }}" alt="Listing image for LEGO Crystal Palace FC Eagle Mascot Minifigure FA Cup Winners Memorabilia VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">LEGO Crystal Palace FC Eagle Mascot Minifigure FA Cup Winners Memorabilia VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lego memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: lego memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +546,7 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lego+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lego memorabilia -book -books -dvd" data-ebay-reference="story-test-why-bionicle-worked-where-galidor-struggled-antifragility-in-the-context-of-the-lego-lego-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bionicle-worked-where-galidor-struggled-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="why-bionicle-worked-where-galidor-struggled-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,7 +756,6 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -788,7 +771,7 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
    Source: lego.com  
    Title: bits n bricks s03e37 feature and transcript  
    Link: [https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf](https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe LEGO® game console from another reality13 Oct 2021 — The toys didn&#x27;t feature any of the familiar studs and tubes that make up the...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe LEGO game console from another reality13 Oct 2021  The toys didn&#x27;t feature any of the familiar studs and tubes that make up the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
@@ -798,26 +781,26 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
 5. <a id="endnote-5"></a>
    Source: speakingofcollecting.blogspot.com  
    Link: [https://speakingofcollecting.blogspot.com/2015/10/the-building-chronicle-critical_20.html](https://speakingofcollecting.blogspot.com/2015/10/the-building-chronicle-critical_20.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Building Chronicle: A Critical Consideration of LEGO&#x27;s...20 Oct 2015 — The Bionicle Power Pack was an early experiment for Bionicle...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Building Chronicle: A Critical Consideration of LEGO&#x27;s...20 Oct 2015  The Bionicle Power Pack was an early experiment for Bionicle...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: brickset.com  
    Title: galidor was it all bad  
    Link: [https://brickset.com/article/14936/galidor-was-it-all-bad](https://brickset.com/article/14936/galidor-was-it-all-bad)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galidor: was it all bad?2 Apr 2015 — The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galidor: was it all bad?2 Apr 2015  The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bzpower.com  
    Title: Why do you hate galidor soo much?  
    Link: [https://www.bzpower.com/topic/9641-why-do-you-hate-galidor-soo-much/](https://www.bzpower.com/topic/9641-why-do-you-hate-galidor-soo-much/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Discussion3 May 2013 — As to why it was hated - the products had nothing to do with Lego, and the show they were taken from was drea...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Discussion3 May 2013  As to why it was hated - the products had nothing to do with Lego, and the show they were taken from was drea...</p></details>
    Published: May 2013  
 
 8. <a id="endnote-8"></a>
    Source: eurobricks.com  
    Title: Galidor Vs  
    Link: [https://www.eurobricks.com/forum/forums/topic/69273-galidor-vs-bionicle/](https://www.eurobricks.com/forum/forums/topic/69273-galidor-vs-bionicle/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bionicle - LEGO Action Figures3 May 2012 — Bionicle is certainly better. Galidor was never an Action Figures theme, it was somewhat like...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bionicle - LEGO Action Figures3 May 2012  Bionicle is certainly better. Galidor was never an Action Figures theme, it was somewhat like...</p></details>
    Published: May 2012  
 
 ### Additional References
@@ -839,13 +822,13 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
 12. <a id="endnote-12"></a>
    Source: designnews.com  
    Link: [https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps](https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Odd Ventures &amp; Mishaps16 Jul 2025 — Nice-try failures. Galidor (2002). Perhaps LEGO&#x27;s most infamous failure, Galidor was launched...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Odd Ventures &amp; Mishaps16 Jul 2025  Nice-try failures. Galidor (2002). Perhaps LEGO&#x27;s most infamous failure, Galidor was launched...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
    Link: [https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/](https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s... Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
@@ -856,13 +839,13 @@ The success of later story-rich themes suggests that this lesson endured. Bionic
    Source: platform01consulting.com  
    Title: lego one of the greatest turnaround stories in corporate history  
    Link: [https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history](https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: One of the Greatest Turnaround Stories In...13 Aug 2023 — The company also failed to accurately predict the demand for its product...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: One of the Greatest Turnaround Stories In...13 Aug 2023  The company also failed to accurately predict the demand for its product...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: x.com  
    Title: (formerly Twitter)Bionicle is the only reason LEGO still exists  
    Link: [https://x.com/aakashgupta/status/2048968959328956516](https://x.com/aakashgupta/status/2048968959328956516)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bionicle is the only reason LEGO still exists. In 2003...First-year sales hit £100M. It won Toy of the Year for Most Innovative Toy in 2...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bionicle is the only reason LEGO still exists. In 2003...First-year sales hit 100M. It won Toy of the Year for Most Innovative Toy in 2...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  

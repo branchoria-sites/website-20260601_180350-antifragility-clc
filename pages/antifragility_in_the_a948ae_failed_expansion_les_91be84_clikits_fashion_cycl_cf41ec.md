@@ -268,15 +268,15 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_cl
 
 ## Introduction
 
-Clikits exposed a specific weakness in LEGO’s early-2000s expansion strategy: it moved the company closer to fashion and accessories, where consumer tastes change far faster than they do in construction toys. The line was designed to attract girls through jewellery, room decoration and personal accessories rather than through the open-ended building system that had made LEGO durable across generations. That shift mattered because fashion-led products depend on constant novelty. A brick can remain useful for decades because it connects with thousands of other pieces. A bracelet, hair accessory or decorative motif is judged more by whether it feels current. When LEGO pursued growth through Clikits, it entered a category where products could become culturally dated long before they became physically obsolete. In antifragility terms, the experiment increased exposure to short-term taste volatility while weakening the advantages that normally make LEGO products resilient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004 — CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
+Clikits exposed a specific weakness in LEGOs early-2000s expansion strategy: it moved the company closer to fashion and accessories, where consumer tastes change far faster than they do in construction toys. The line was designed to attract girls through jewellery, room decoration and personal accessories rather than through the open-ended building system that had made LEGO durable across generations. That shift mattered because fashion-led products depend on constant novelty. A brick can remain useful for decades because it connects with thousands of other pieces. A bracelet, hair accessory or decorative motif is judged more by whether it feels current. When LEGO pursued growth through Clikits, it entered a category where products could become culturally dated long before they became physically obsolete. In antifragility terms, the experiment increased exposure to short-term taste volatility while weakening the advantages that normally make LEGO products resilient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004  CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-1-dark.svg" | relative_url }}" alt="Clikits Risk illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Problem With Turning LEGO Into Fashion
 
-Clikits launched in 2003 as a major attempt to reach girls through arts-and-crafts style play. LEGO described it as a system for creating jewellery, fashion accessories and decorative items for bedrooms and everyday use. The company said years of research had shown that many girls valued self-expression and enjoyed making practical personal objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004 — CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
+Clikits launched in 2003 as a major attempt to reach girls through arts-and-crafts style play. LEGO described it as a system for creating jewellery, fashion accessories and decorative items for bedrooms and everyday use. The company said years of research had shown that many girls valued self-expression and enjoyed making practical personal objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004  CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
 
-That insight was not necessarily wrong. The problem was the form that the solution took. Rather than translating LEGO’s construction logic into a new audience, Clikits often centred on wearable accessories, bags, picture frames, hair bands and decorative objects. Contemporary marketing described the range as including jewellery, room décor, picture frames and fashion accessories targeted at girls aged six and above. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[campaignlive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">jewellery, room decor, picture frames and hair and fashion accessories.Read more</span><span class="citation-popover-snippet">ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Clikits is targeting girls aged six and above, and consists of...</span></span></span>
+That insight was not necessarily wrong. The problem was the form that the solution took. Rather than translating LEGOs construction logic into a new audience, Clikits often centred on wearable accessories, bags, picture frames, hair bands and decorative objects. Contemporary marketing described the range as including jewellery, room dcor, picture frames and fashion accessories targeted at girls aged six and above. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[campaignlive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">jewellery, room decor, picture frames and hair and fashion accessories.Read more</span><span class="citation-popover-snippet">ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003  Clikits is targeting girls aged six and above, and consists of...</span></span></span>
 
 The distinction seems subtle but was strategically important. Traditional LEGO sets derive value from a system of reusable components. Clikits derived much of its value from the finished object and its appearance. That moved the product closer to fashion consumption than construction play.
 
@@ -299,7 +299,7 @@ The core LEGO system benefits from several stabilising characteristics:
 
 These qualities reduce dependence on changing trends because the brick itself remains useful regardless of whether a particular theme is popular.
 
-Clikits operated differently. Many sets were organised around bracelets, rings, handbags, hair accessories, stationery items and decorative room objects. Looking across the range reveals how heavily it relied on personal accessories and design motifs rather than construction challenges. Sets included products such as “Starry Bangles & Rings”, “Flowered Hair Bands”, “Cool Jewels ’n’ Clips” and “Trendy Tote” bags. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/sets/theme-Clikits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-snippet">LEGO ClikitsFound at a toy market in Moscow. Set contains 16-pieces. Our community: 61 own this set, 34 want it. Your collection...Read...</span></span></span>
+Clikits operated differently. Many sets were organised around bracelets, rings, handbags, hair accessories, stationery items and decorative room objects. Looking across the range reveals how heavily it relied on personal accessories and design motifs rather than construction challenges. Sets included products such as Starry Bangles & Rings, Flowered Hair Bands, Cool Jewels n Clips and Trendy Tote bags. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/sets/theme-Clikits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-snippet">LEGO ClikitsFound at a toy market in Moscow. Set contains 16-pieces. Our community: 61 own this set, 34 want it. Your collection...Read...</span></span></span>
 
 A child buying a bracelet kit is often evaluating it differently from a child buying a construction set. The question becomes whether the accessory looks appealing now, not whether its parts will remain useful in future projects. That difference shortens the commercial life of the product.
 
@@ -314,15 +314,15 @@ Fashion categories are governed by cycles of novelty. Colours, decorative motifs
 
 A LEGO castle or spaceship can survive changing tastes because it appeals to enduring forms of imaginative play. A jewellery design or bedroom decoration competes in a market where consumers frequently seek something new simply because existing styles no longer feel current.
 
-Evidence from the Clikits catalogue illustrates this vulnerability. Many products emphasised highly specific early-2000s visual trends: bright translucent plastics, decorative gems, flower motifs, pastel colours and accessory-centred branding. These design choices were not accidental; they were central to the line’s appeal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/sets/theme-Clikits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-snippet">LEGO ClikitsFound at a toy market in Moscow. Set contains 16-pieces. Our community: 61 own this set, 34 want it. Your collection...Read...</span></span></span>
+Evidence from the Clikits catalogue illustrates this vulnerability. Many products emphasised highly specific early-2000s visual trends: bright translucent plastics, decorative gems, flower motifs, pastel colours and accessory-centred branding. These design choices were not accidental; they were central to the lines appeal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/sets/theme-Clikits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-snippet">LEGO ClikitsFound at a toy market in Moscow. Set contains 16-pieces. Our community: 61 own this set, 34 want it. Your collection...Read...</span></span></span>
 
 That created two risks:
 
 **Trend risk.** If the aesthetic fell out of fashion, the product lost relevance quickly.
 
-**Inventory risk.** Retailers and manufacturers faced greater danger of unsold stock because last season’s accessory style could look outdated much faster than a generic construction set.
+**Inventory risk.** Retailers and manufacturers faced greater danger of unsold stock because last seasons accessory style could look outdated much faster than a generic construction set.
 
-For LEGO, this meant entering a category where forecasting became more difficult. The company had long experience predicting demand for building toys, but fashion-led products required sensitivity to cultural shifts that were often unrelated to LEGO’s traditional expertise.
+For LEGO, this meant entering a category where forecasting became more difficult. The company had long experience predicting demand for building toys, but fashion-led products required sensitivity to cultural shifts that were often unrelated to LEGOs traditional expertise.
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-2-dark.svg" | relative_url }}" alt="Clikits Risk illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ Clikits produced weaker learning effects because much of the value was tied to s
 
 If a castle theme underperforms, the bricks remain compatible with thousands of other products. If a fashion accessory line underperforms, many of the design decisions are harder to reuse elsewhere. The knowledge gained may be narrowly tied to a particular trend or demographic moment.
 
-This distinction affected organisational learning. Construction-themed experimentation typically reinforces LEGO’s understanding of modular design, building techniques and play systems. Fashion-led experimentation teaches different skills, many of which are less transferable to the core construction business.
+This distinction affected organisational learning. Construction-themed experimentation typically reinforces LEGOs understanding of modular design, building techniques and play systems. Fashion-led experimentation teaches different skills, many of which are less transferable to the core construction business.
 
 The consequence was greater fragility: failures generated less reusable value.
 
@@ -349,7 +349,7 @@ The company eventually found more durable approaches. Later initiatives aimed at
 
 From an antifragility perspective, audience expansion works best when new products strengthen the same underlying network of parts, skills and play patterns. Clikits pursued a new audience through jewellery and decoration, but in doing so it exposed LEGO to faster fashion cycles and weaker system-level learning.
 
-That is why Clikits became a revealing expansion lesson. It showed that a product can be carefully researched, creatively designed and aimed at a genuine market opportunity, yet still increase fragility if success depends on trends that change faster than the company’s core strengths can adapt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004 — CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
+That is why Clikits became a revealing expansion lesson. It showed that a product can be carefully researched, creatively designed and aimed at a genuine market opportunity, yet still increase fragility if success depends on trends that change faster than the companys core strengths can adapt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004  CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-3-dark.svg" | relative_url }}" alt="Clikits Risk illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -407,7 +407,7 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
         </h4>
         <p class="fr-book-author">By David C. Robertson</p>
         
-        <p class="fr-book-desc">Analyses how LEGOâ€™s strategic choices affected product lines like Clikits.</p>
+        <p class="fr-book-desc">Analyses how LEGO’s strategic choices affected product lines like Clikits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -471,15 +471,15 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Clikits Lego 7523 Cool Clip &#x27;n&#x27; Comb Set for girls - NEW"><img src="https://i.ebayimg.com/images/g/saEAAOSw~aFalY1m/s-l225.jpg" alt="Listing image for LEGO Clikits Lego 7523 Cool Clip &#x27;n&#x27; Comb Set for girls - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE"><img src="https://i.ebayimg.com/images/g/Z3QAAeSw93xpLE74/s-l225.jpg" alt="Listing image for Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Clikits Lego 7523 Cool Clip &#x27;n&#x27; Comb Set for girls - NEW</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +487,15 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Clikits Flower Bracelet Jewellery Set 3195"><img src="https://i.ebayimg.com/images/g/-QkAAOSwBXRmwK4d/s-l225.jpg" alt="Listing image for LEGO Clikits Flower Bracelet Jewellery Set 3195" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE"><img src="https://i.ebayimg.com/images/g/d10AAeSw1aZpLFHY/s-l225.jpg" alt="Listing image for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Clikits Flower Bracelet Jewellery Set 3195</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +503,15 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Lego Clikits 7522 - Party Set"><img src="https://i.ebayimg.com/images/g/1DIAAOSw-hRk42TM/s-l225.jpg" alt="Listing image for New Lego Clikits 7522 - Party Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 8311 Galidor Defenders Of Outer Dimensions Gorm Building Action Figure BNIB"><img src="https://i.ebayimg.com/images/g/PCgAAOSwTYxku0BN/s-l225.jpg" alt="Listing image for LEGO 8311 Galidor Defenders Of Outer Dimensions Gorm Building Action Figure BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">New Lego Clikits 7522 - Party Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO 8311 Galidor Defenders Of Outer Dimensions Gorm Building Action Figure BNIB</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,7 +519,7 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-problem-with-turning-lego-into-fashion-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="the-problem-with-turning-lego-into-fashion-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,27 +729,26 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2003 ENG  
    Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004 — CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004  CLIKITS is a new Arts &amp; Crafts design system, which enables girls to make decorative...</p></details>
    Published: March 10, 2004  
 
 2. <a id="endnote-2"></a>
    Source: campaignlive.co.uk  
    Title: jewellery, room decor, picture frames and hair and fashion accessories.Read more  
    Link: [https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455](https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Clikits is targeting girls aged six and above, and consists of...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003  Clikits is targeting girls aged six and above, and consists of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: campaignlive.co.uk  
    Title: lego targets girls clikits range  
    Link: [https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786](https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego targets girls with Clikits range6 Feb 2003 — It comprises 16 collectable kits with pieces that can be clicked together to create jew...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego targets girls with Clikits range6 Feb 2003  It comprises 16 collectable kits with pieces that can be clicked together to create jew...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: brickset.com  
@@ -760,7 +759,7 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
    Source: campaignlive.co.uk  
    Title: BRANDIN G: Design Choice  
    Link: [https://www.campaignlive.co.uk/article/branding-design-choice-clikits/186724](https://www.campaignlive.co.uk/article/branding-design-choice-clikits/186724)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BRANDING: Design Choice - Clikits31 Jul 2003 — Clikits are girly Lego. In the box you will find something like a picture frame, bag or cu...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BRANDING: Design Choice - Clikits31 Jul 2003  Clikits are girly Lego. In the box you will find something like a picture frame, bag or cu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
@@ -771,13 +770,13 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
    Source: campaignlive.co.uk  
    Title: lego expands clikits core brand focus  
    Link: [https://www.campaignlive.co.uk/article/lego-expands-clikits-core-brand-focus/481194](https://www.campaignlive.co.uk/article/lego-expands-clikits-core-brand-focus/481194)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego expands Clikits in core brand focus22 Jun 2005 — LONDON - Embattled toy maker Lego is planning a major expansion of girl-orientated...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego expands Clikits in core brand focus22 Jun 2005  LONDON - Embattled toy maker Lego is planning a major expansion of girl-orientated...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: campaignlive.co.uk  
    Title: lego backs clikits launch via net push  
    Link: [https://www.campaignlive.co.uk/article/lego-backs-clikits-launch-via-net-push/193469](https://www.campaignlive.co.uk/article/lego-backs-clikits-launch-via-net-push/193469)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Nov 2003 — Toy giant the Lego Company is targeting six- to 10-year-old girls online as part of the launch of its new Clikits brand...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Nov 2003  Toy giant the Lego Company is targeting six- to 10-year-old girls online as part of the launch of its new Clikits brand...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: en.brickimedia.org  
@@ -810,7 +809,7 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
    Source: toypro.com  
    Title: lego history lego clikits  
    Link: [https://www.toypro.com/gb/news/973/lego-history-lego-clikits?srsltid=AfmBOoqUJLCtNFCCZhOkEfYYAwZSnFZmXoy8I3sFFqws9pGX8bA4eSJY](https://www.toypro.com/gb/news/973/lego-history-lego-clikits?srsltid=AfmBOoqUJLCtNFCCZhOkEfYYAwZSnFZmXoy8I3sFFqws9pGX8bA4eSJY)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® History: LEGO® Clikits16 May 2023 — LEGO Clikits is a colorful and fun series of LEGO parts and accessories introduced in 2003. Des...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO History: LEGO Clikits16 May 2023  LEGO Clikits is a colorful and fun series of LEGO parts and accessories introduced in 2003. Des...</p></details>
    Published: May 2023  
 
 15. <a id="endnote-15"></a>
@@ -827,7 +826,7 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
    Source: youtube.com  
    Title: How LEGO Saved Itself From Bankruptcy: The Greatest Turnaround Story  
    Link: [https://www.youtube.com/watch?v=bnmM4FtT02k](https://www.youtube.com/watch?v=bnmM4FtT02k)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO’s Comeback: From Nearly Bankrupt To $6 Billion...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOs Comeback: From Nearly Bankrupt To $6 Billion...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
@@ -837,6 +836,6 @@ That is why Clikits became a revealing expansion lesson. It showed that a produc
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Title: LEGO’s Comeback: From Nearly Bankrupt To $6 Billion  
+   Title: LEGOs Comeback: From Nearly Bankrupt To $6 Billion  
    Link: [https://www.youtube.com/watch?v=IjcSKukg9IE](https://www.youtube.com/watch?v=IjcSKukg9IE)  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Almost DISAPPEARED Forever in 2003?...</p></details>

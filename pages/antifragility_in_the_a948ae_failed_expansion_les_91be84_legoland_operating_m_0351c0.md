@@ -274,7 +274,7 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_le
 
 ## Introduction
 
-LEGOLAND looked like a perfect extension of the LEGO brand. Families could move from building with bricks at home to walking through entire worlds built around LEGO creativity. The parks were popular, highly visible and deeply aligned with the company’s identity. Yet they also exposed a problem that became central to LEGO’s early-2000s crisis: a strong brand experience does not automatically fit a company’s operating model.
+LEGOLAND looked like a perfect extension of the LEGO brand. Families could move from building with bricks at home to walking through entire worlds built around LEGO creativity. The parks were popular, highly visible and deeply aligned with the companys identity. Yet they also exposed a problem that became central to LEGOs early-2000s crisis: a strong brand experience does not automatically fit a companys operating model.
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1-dark.svg" | relative_url }}" alt="Park Strain illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ From an antifragility perspective, LEGOLAND revealed the difference between bran
 
 The attraction of LEGOLAND was obvious. LEGO had always sold imagination, worlds and storytelling rather than just plastic bricks. A theme park translated those ideas into a physical environment where families could experience the brand at a larger scale.
 
-Unlike some of LEGO’s later experiments, the parks were not a confusing fit with the brand. Visitors could see giant brick-built landmarks, themed lands based on LEGO products and hands-on activities that reinforced creative play. The parks helped transform LEGO from a toy manufacturer into a cultural experience.
+Unlike some of LEGOs later experiments, the parks were not a confusing fit with the brand. Visitors could see giant brick-built landmarks, themed lands based on LEGO products and hands-on activities that reinforced creative play. The parks helped transform LEGO from a toy manufacturer into a cultural experience.
 
 This is what made the challenge more important. LEGOLAND was not a failure because consumers rejected it. The parks demonstrated that even a successful brand expression can create organisational strain if it relies on a fundamentally different business system.
 
@@ -330,7 +330,7 @@ A new LEGO set can improve the wider system. Designers learn from customer behav
 
 Theme parks generated weaker feedback loops.
 
-Lessons learned about ride operations, queue management, hotel occupancy or food-service logistics had limited value for improving the brick business itself. The parks strengthened the brand but did not strengthen LEGO’s core production and product-development engine in the same way.
+Lessons learned about ride operations, queue management, hotel occupancy or food-service logistics had limited value for improving the brick business itself. The parks strengthened the brand but did not strengthen LEGOs core production and product-development engine in the same way.
 
 This distinction matters in antifragility terms. Product experiments can make a system stronger when knowledge gained from failures improves future products. Asset-heavy park operations created fewer opportunities for that kind of transferable learning.
 
@@ -358,7 +358,7 @@ These commitments tie up large amounts of capital for years.
 
 When business conditions worsen, a company cannot easily scale a theme park down in the way it can reduce a product line. The assets remain. Maintenance continues. Staff are still needed. Facilities must still operate.
 
-As LEGO’s broader business weakened in the early 2000s, these fixed commitments became harder to justify. Harvard Business Review later grouped theme parks among the innovation efforts that were unprofitable or failing during the period when LEGO approached a financial crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
+As LEGOs broader business weakened in the early 2000s, these fixed commitments became harder to justify. Harvard Business Review later grouped theme parks among the innovation efforts that were unprofitable or failing during the period when LEGO approached a financial crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts...</span></span></span>
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-2-dark.svg" | relative_url }}" alt="Park Strain illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,7 +366,7 @@ As LEGO’s broader business weakened in the early 2000s, these fixed commitment
 
 The issue was not whether LEGOLAND created brand value. The issue was whether LEGO could afford to keep large amounts of capital tied up in park operations while the core company struggled.
 
-LEGO’s 2004 annual report stated that the company had decided to sell the LEGOLAND Parks “to improve liquidity and establish a more solid financial base”. The parks were treated as discontinuing activities rather than part of the continuing LEGO Group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
+LEGOs 2004 annual report stated that the company had decided to sell the LEGOLAND Parks to improve liquidity and establish a more solid financial base. The parks were treated as discontinuing activities rather than part of the continuing LEGO Group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
 
 That language is revealing. Management was no longer evaluating the parks primarily as marketing assets or brand showcases. They were being evaluated as balance-sheet commitments during a period of financial stress.
 
@@ -376,7 +376,7 @@ In a fragile system, preserving liquidity becomes more important than maintainin
 
 The parks also complicated corporate focus.
 
-During the years leading up to LEGO’s crisis, the company was pursuing multiple growth initiatives simultaneously. It was experimenting with media properties, retail expansion, new product categories and entertainment ventures. LEGOLAND sat within a broader push to become more than a toy manufacturer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
+During the years leading up to LEGOs crisis, the company was pursuing multiple growth initiatives simultaneously. It was experimenting with media properties, retail expansion, new product categories and entertainment ventures. LEGOLAND sat within a broader push to become more than a toy manufacturer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts...</span></span></span>
 
 The challenge was not that each initiative was irrational in isolation. The challenge was that each demanded management attention, investment and specialised knowledge.
 
@@ -389,7 +389,7 @@ As [complexity]({{ 'complexity/' | relative_url }}) accumulated across the organ
 
 ## Selling LEGOLAND as a Refocusing Move
 
-In 2005, LEGO sold the four LEGOLAND parks to Merlin Entertainments in a deal valued at approximately €375 million while maintaining a continuing ownership connection through the transaction structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US swoop takes Legoland under Merlin&#x27;s wand | Business</span><span class="citation-popover-snippet">The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</span><span class="citation-popover-meta">Published: July 14, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackstone.com">[blackstone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackstone.com</span><span class="citation-popover-title">major new force in european leisure as blackstone acquires legoland</span><span class="citation-popover-snippet">Major New Force In European Leisure As...13 Jul 2005 — The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</span></span></span> The sale is often remembered as a financial necessity, but it also represented a strategic clarification.
+In 2005, LEGO sold the four LEGOLAND parks to Merlin Entertainments in a deal valued at approximately 375 million while maintaining a continuing ownership connection through the transaction structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US swoop takes Legoland under Merlin&#x27;s wand | Business</span><span class="citation-popover-snippet">The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005  13 Jul 2005  Lego, the world&#x27;s fourth largest toymaker...</span><span class="citation-popover-meta">Published: July 14, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackstone.com">[blackstone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackstone.com</span><span class="citation-popover-title">major new force in european leisure as blackstone acquires legoland</span><span class="citation-popover-snippet">Major New Force In European Leisure As...13 Jul 2005  The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</span></span></span> The sale is often remembered as a financial necessity, but it also represented a strategic clarification.
 
 The move separated two questions:
 
@@ -414,7 +414,7 @@ The move separated two questions:
         </h4>
         <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Includes context on LEGOâ€™s expansion experiments relevant to LEGOLAND.</p>
+        <p class="fr-book-desc">Includes context on LEGO’s expansion experiments relevant to LEGOLAND.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -488,7 +488,7 @@ The move separated two questions:
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -512,15 +512,15 @@ The move separated two questions:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minifigure Mr. Gold Pop Badge â€“ LEGOLAND Exclusive â€“ Rare Collectible Pin"><img src="{{ '/assets/images/marketplace-covers/bc7afd90c0fd5bdc80c6.jpg' | relative_url }}" alt="Listing image for LEGO Minifigure Mr. Gold Pop Badge â€“ LEGOLAND Exclusive â€“ Rare Collectible Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space"><img src="https://i.ebayimg.com/images/g/VM8AAeSwo3FpEzC6/s-l225.jpg" alt="Listing image for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">LEGO Minifigure Mr. Gold Pop Badge â€“ LEGOLAND Exclusive â€“ Rare Collectible Pin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +528,31 @@ The move separated two questions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pin 80 Legoland California Gand Opening 1999 collectible pin"><img src="{{ '/assets/images/marketplace-covers/165e6e8317296c8b47e0.jpg' | relative_url }}" alt="Listing image for Pin 80 Legoland California Gand Opening 1999 collectible pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE"><img src="https://i.ebayimg.com/images/g/d10AAeSw1aZpLFHY/s-l225.jpg" alt="Listing image for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Pin 80 Legoland California Gand Opening 1999 collectible pin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working"><img src="https://i.ebayimg.com/images/g/QCIAAeSwQAFqFegV/s-l225.jpg" alt="Listing image for Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +560,7 @@ The move separated two questions:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+collectible+pin+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND collectible pin -book -books" data-ebay-reference="park-strain-when-a-great-brand-experience-becomes-too-heavy-antifragility-in-the-context-of-the-legoland-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -754,22 +770,21 @@ The move separated two questions:
 })();
 </script>
 </section>
-
-2. Must LEGO itself operate theme parks? <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">FortuneThe Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
+2. Must LEGO itself operate theme parks? <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">FortuneThe Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019  But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
 
 The answer turned out to be different for each question.
 
-The brand could still benefit from LEGOLAND attractions. What changed was the assumption that the toy company needed to own and operate those capital-intensive assets directly. By moving park operations to a specialist operator, LEGO reduced exposure to a business model that demanded different capabilities and financial structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">FortuneThe Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
+The brand could still benefit from LEGOLAND attractions. What changed was the assumption that the toy company needed to own and operate those capital-intensive assets directly. By moving park operations to a specialist operator, LEGO reduced exposure to a business model that demanded different capabilities and financial structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">FortuneThe Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019  But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
 
 ## The Antifragility Lesson
 
-LEGOLAND illustrates a subtle form of fragility. The parks were not obviously off-brand, unpopular or creatively misguided. In many ways they were among LEGO’s strongest brand extensions.
+LEGOLAND illustrates a subtle form of fragility. The parks were not obviously off-brand, unpopular or creatively misguided. In many ways they were among LEGOs strongest brand extensions.
 
 Their weakness came from economics and organisational design rather than customer appeal.
 
-An antifragile company benefits when experiments reinforce the system that made the company successful in the first place. LEGOLAND reinforced the brand but placed pressure on the operating model. It added fixed assets, specialised operational demands and capital requirements that did not naturally strengthen LEGO’s core advantage in modular construction toys.
+An antifragile company benefits when experiments reinforce the system that made the company successful in the first place. LEGOLAND reinforced the brand but placed pressure on the operating model. It added fixed assets, specialised operational demands and capital requirements that did not naturally strengthen LEGOs core advantage in modular construction toys.
 
-The lesson was not that LEGO should avoid immersive experiences. It was that ownership structure matters. A toy company can benefit from a theme-park ecosystem while avoiding much of the fragility created by operating that ecosystem itself. The eventual sale of the parks reflected a broader turnaround insight: growth is healthiest when it deepens the capabilities that make the core business resilient, rather than binding the company to entirely different economic realities. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
+The lesson was not that LEGO should avoid immersive experiences. It was that ownership structure matters. A toy company can benefit from a theme-park ecosystem while avoiding much of the fragility created by operating that ecosystem itself. The eventual sale of the parks reflected a broader turnaround insight: growth is healthiest when it deepens the capabilities that make the core business resilient, rather than binding the company to entirely different economic realities. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts...</span></span></span>
 
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-3-dark.svg" | relative_url }}" alt="Park Strain illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -785,13 +800,13 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
    Source: blackstone.com  
    Title: major new force in european leisure as blackstone acquires legoland  
    Link: [https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/](https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Major New Force In European Leisure As...13 Jul 2005 — The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Major New Force In European Leisure As...13 Jul 2005  The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fortune.com  
    Title: legoland lego family acquires theme parks  
    Link: [https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/](https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FortuneThe Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FortuneThe Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019  But Lego sold its theme parks business to Merlin Entertainments...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
@@ -802,31 +817,31 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
    Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — Half of the [materials](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) purchased in 2024 were produced with sustainable sources: we more than doubled the share...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025  Half of the [materials](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) purchased in 2024 were produced with sustainable sources: we more than doubled the share...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
    Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO Group14 Feb 2006 — As part of our financial strategy, we sold the majority shareholding in the LEGO-. LAND Parks...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO Group14 Feb 2006  As part of our financial strategy, we sold the majority shareholding in the LEGO-. LAND Parks...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
    Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report12 Mar 2024 — The majority of the LEGO Group&#x27;s sales are in foreign currencies, and the risks relating to currency fluctuati...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report12 Mar 2024  The majority of the LEGO Group&#x27;s sales are in foreign currencies, and the risks relating to currency fluctuati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
    Link: [https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/](https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(5)David Robertson, “Innovating a Turnaround at LEGO,”...Read more...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(5)David Robertson, Innovating a Turnaround at LEGO,...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
    Link: [https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/](https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015  The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: hbr.org  
@@ -836,25 +851,25 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
    Source: theguardian.com  
    Title: The Guardian US swoop takes Legoland under Merlin's wand | Business  
    Link: [https://www.theguardian.com/business/2005/jul/14/1](https://www.theguardian.com/business/2005/jul/14/1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005  13 Jul 2005  Lego, the world&#x27;s fourth largest toymaker...</p></details>
    Published: July 14, 2005  
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Link: [https://www.theguardian.com/business/2005/jul/13/money.uknews](https://www.theguardian.com/business/2005/jul/13/money.uknews)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legoland on the block | Business13 Jul 2005 — The Danish toymaker Lego today sold its Legoland theme parks for £258m in order to concentr...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legoland on the block | Business13 Jul 2005  The Danish toymaker Lego today sold its Legoland theme parks for 258m in order to concentr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: infrastructureinvestor.com  
    Title: blackstone buys e375m lego set  
    Link: [https://www.infrastructureinvestor.com/blackstone-buys-e375m-lego-set/](https://www.infrastructureinvestor.com/blackstone-buys-e375m-lego-set/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blackstone buys €375m Lego set13 Jul 2005 — Blackstone Group, the New York-based buyout firm, has announced the acquisition of the Legola...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blackstone buys 375m Lego set13 Jul 2005  Blackstone Group, the New York-based buyout firm, has announced the acquisition of the Legola...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: buyoutsinsider.com  
    Title: blackstone goes to the amusement park  
    Link: [https://www.buyoutsinsider.com/blackstone-goes-to-the-amusement-park/](https://www.buyoutsinsider.com/blackstone-goes-to-the-amusement-park/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2005 — The Blackstone Group has completed its acquisition of Legoland, an operator of four amusement parks, for $459 million (o375...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2005  The Blackstone Group has completed its acquisition of Legoland, an operator of four amusement parks, for $459 million (o375...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: perenews.com  
@@ -891,7 +906,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
    Link: [https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I](https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Turnaround: Innovation Lessons from Near-...LEGO® was losing ~$1M a day—and nearly collapsed. What they did next became a masterc...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Turnaround: Innovation Lessons from Near-...LEGO was losing ~$1M a dayand nearly collapsed. What they did next became a masterc...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: strategicmanagementexperience.com  
@@ -906,7 +921,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
 24. <a id="endnote-24"></a>
    Source: brothers-brick.com  
    Link: [https://www.brothers-brick.com/2019/07/07/a-brief-history-of-legoland-and-merlin-entertainments-how-they-came-together-and-what-it-means-today-feature/](https://www.brothers-brick.com/2019/07/07/a-brief-history-of-legoland-and-merlin-entertainments-how-they-came-together-and-what-it-means-today-feature/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickA brief history of LEGOLAND and Merlin Entertainments7 Jul 2019 — Merlin acquired four LEGOLAND Parks in 2005 (Billund...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickA brief history of LEGOLAND and Merlin Entertainments7 Jul 2019  Merlin acquired four LEGOLAND Parks in 2005 (Billund...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
@@ -916,4 +931,4 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
 26. <a id="endnote-26"></a>
    Source: traverssmith.com  
    Link: [https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/](https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travers Smith advises Merlin Entertainments on the sale of...25 Sept 2025 — Travers Smith LLP has advised long-standing client Merlin En...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travers Smith advises Merlin Entertainments on the sale of...25 Sept 2025  Travers Smith LLP has advised long-standing client Merlin En...</p></details>
