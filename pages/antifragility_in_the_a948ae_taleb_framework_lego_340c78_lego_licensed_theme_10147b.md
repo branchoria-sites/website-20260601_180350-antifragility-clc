@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /framework/
 nav_short_title: Licensed Themes
 title: Do Licensed Themes Make LEGO Stronger?
-title_full: Do Licensed Themes Make LEGO Stronger? | Framework
+title_full: Do Licensed Themes Make LEGO Stronger?
 display_title_short: Licensed Themes
 display_title: Licensed Themes
 heading_title: Do Licensed Themes Make LEGO Stronger?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Is LEGO Really Antifragile or Just Resilient? | LEGO Antifragility
+parent_title: Is LEGO Really Antifragile or Just Resilient?
 parent_permalink: /framework/
 parent_nav_short_title: Framework
 parent_heading_title: Is LEGO Really Antifragile or Just Resilient?
@@ -265,7 +265,7 @@ next_link:
   permalink: /limits/
   short_title: Limits
   heading_title: Why LEGO Is Not Fully Antifragile
-date: '2026-06-09 03:41:30 '
+date: '2026-06-11 21:40:05 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_le
 
 ## Introduction
 
-Licensed themes are one of LEGOs most powerful growth engines, but they also introduce a form of volatility that sits at the centre of Nassim Nicholas Talebs fragile-versus-antifragile distinction. Franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}), Harry Potter, Marvel and Jurassic World can generate surges of demand, attract new audiences and create cultural relevance that LEGO could not easily produce alone. Yet those same licences tie parts of LEGOs business to film schedules, shifting fan enthusiasm and intellectual property owned by other companies. The question is not whether licences are good or bad for LEGO. The more important question is whether LEGO uses them in a way that strengthens the underlying [brick system]({{ 'brick-system/' | relative_url }}) or allows external franchises to dominate it.
-
+Licensed themes are one of LEGO’s most powerful growth engines, but they also introduce a form of volatility that sits at the centre of Nassim Nicholas Taleb’s fragile-versus-antifragile distinction. Franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}), Harry Potter, Marvel and Jurassic World can generate surges of demand, attract new audiences and create cultural relevance that LEGO could not easily produce alone. Yet those same licences tie parts of LEGO’s business to film schedules, shifting fan enthusiasm and intellectual property owned by other companies. The question is not whether licences are good or bad for LEGO. The more important question is whether LEGO uses them in a way that strengthens the underlying [brick system]({{ 'brick-system/' | relative_url }}) or allows external franchises to dominate it.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1-dark.svg" | relative_url }}" alt="Licensed Themes illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Viewed through Talebs [framework]({{ 'framework/' | relative_url }}), licensed themes help LEGO when they increase optionality while remaining anchored to the companys core building platform. They become a source of fragility when short-term franchise momentum replaces the broader creative ecosystem that made LEGO valuable in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">Global At LEGO, Growth and Culture Are Not Kid Stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020  9 Feb 2017  In this interview, conducted in his final days as CEO...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
+Viewed through Taleb’s [framework]({{ 'framework/' | relative_url }}), licensed themes help LEGO when they increase optionality while remaining anchored to the company’s core building platform. They become a source of fragility when short-term franchise momentum replaces the broader creative ecosystem that made LEGO valuable in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">Global At LEGO, Growth and Culture Are Not Kid Stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020 — 9 Feb 2017 — In this interview, conducted in his final days as CEO...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
 
 ## Why Movie-Linked Demand Can Be Volatile
 
@@ -288,23 +287,21 @@ The problem is that entertainment franchises rarely generate stable demand. They
 
 From a Taleb perspective, this creates exposure to forces that LEGO does not fully control. The company cannot determine whether a film succeeds, whether a streaming series attracts viewers or whether a franchise owner changes strategic direction. Revenue generated by licensed products can therefore fluctuate more sharply than demand for evergreen internal themes such as City, Technic or Creator.
 
-The early 2000s highlighted this risk. During the period when LEGO was expanding aggressively across multiple businesses, licensed themes helped generate revenue but also contributed to a broader dependence on external entertainment cycles. Strong sales could mask underlying [complexity]({{ 'complexity/' | relative_url }}) and strategic drift. Taleb argues that fragile systems often appear healthy until conditions change. In LEGOs case, rising complexity and dependence on multiple external drivers became visible only when performance weakened and the company entered crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.licenseglobal.com/toys-games/rebuilding-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: licenseglobal.com">[License Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">licenseglobal.com</span><span class="citation-popover-title">rebuilding lego</span><span class="citation-popover-snippet">License GlobalRebuilding LEGOApril 6, 2018  When speaking with Jorgen Vig Knudstorp, it&#x27;s worth bearing in mind how, only recently, LEGO...</span><span class="citation-popover-meta">Published: April 6, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">Global At LEGO, Growth and Culture Are Not Kid Stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020  9 Feb 2017  In this interview, conducted in his final days as CEO...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
+The early 2000s highlighted this risk. During the period when LEGO was expanding aggressively across multiple businesses, licensed themes helped generate revenue but also contributed to a broader dependence on external entertainment cycles. Strong sales could mask underlying [complexity]({{ 'complexity/' | relative_url }}) and strategic drift. Taleb argues that fragile systems often appear healthy until conditions change. In LEGO’s case, rising complexity and dependence on multiple external drivers became visible only when performance weakened and the company entered crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.licenseglobal.com/toys-games/rebuilding-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: licenseglobal.com">[License Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">licenseglobal.com</span><span class="citation-popover-title">rebuilding lego</span><span class="citation-popover-snippet">License GlobalRebuilding LEGOApril 6, 2018 — When speaking with Jorgen Vig Knudstorp, it&#x27;s worth bearing in mind how, only recently, LEGO...</span><span class="citation-popover-meta">Published: April 6, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">Global At LEGO, Growth and Culture Are Not Kid Stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020 — 9 Feb 2017 — In this interview, conducted in his final days as CEO...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7vG6dfhpt-Y" title="Interview with LEGO CEO Jrgen Vig Knudstorp: Past, Future &amp; Bricks!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7vG6dfhpt-Y" target="_blank" rel="noopener noreferrer">Interview with LEGO CEO Jrgen Vig Knudstorp: Past, Future &amp; Bricks!</a></p><p class="youtube-embed-meta">Channel: Zusammengebaut &middot; Views: 9.2K &middot; Uploaded: March 2016 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7vG6dfhpt-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7vG6dfhpt-Y">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7vG6dfhpt-Y" title="Interview with LEGO CEO Jørgen Vig Knudstorp: Past, Future &amp; Bricks!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7vG6dfhpt-Y" target="_blank" rel="noopener noreferrer">Interview with LEGO CEO Jørgen Vig Knudstorp: Past, Future &amp; Bricks!</a></p><p class="youtube-embed-meta">Channel: Zusammengebaut &middot; Views: 9.2K &middot; Uploaded: March 2016 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7vG6dfhpt-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7vG6dfhpt-Y">Open on YouTube</a></p></div></div></div>
 
 ## How LEGO Keeps Licences Connected to Its Identity
 
-The reason licensed themes have not overwhelmed LEGOs identity is that the company generally treats the licence as content layered onto an existing system rather than as a replacement for the system itself.
+The reason licensed themes have not overwhelmed LEGO’s identity is that the company generally treats the licence as content layered onto an existing system rather than as a replacement for the system itself.
 
 A Star Wars X-wing, a Hogwarts castle or a Jurassic World dinosaur enclosure still relies on the same bricks, connection standards and construction logic that support non-licensed themes. The underlying platform remains LEGO's own. New intellectual property enters the ecosystem without requiring the company to redesign its manufacturing foundation or abandon [compatibility]({{ 'compatibility/' | relative_url }}) with previous products.
 
-This distinction matters in Talebs framework because it increases optionality. LEGO can experiment with new franchises while preserving accumulated capabilities. If one licence fades, the production knowledge, building techniques, distribution channels and design expertise remain useful for future themes. The downside is limited compared with creating entirely separate product systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  As Knudstorp explained in a 2009 interview with Harvard Business...</span></span></span>
+This distinction matters in Taleb’s framework because it increases optionality. LEGO can experiment with new franchises while preserving accumulated capabilities. If one licence fades, the production knowledge, building techniques, distribution channels and design expertise remain useful for future themes. The downside is limited compared with creating entirely separate product systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through Licensing31 Jan 2026 — As Knudstorp explained in a 2009 interview with Harvard Business...</span></span></span>
 
-The company has repeatedly reinforced this approach after its early-2000s restructuring. Jrgen Vig Knudstorp's turnaround strategy focused on returning to the core brick system rather than chasing growth through unrelated ventures. Licensing remained important, but it was expected to complement the building experience instead of redefining it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  As Knudstorp explained in a 2009 interview with Harvard Business...</span></span></span>
+The company has repeatedly reinforced this approach after its early-2000s restructuring. Jørgen Vig Knudstorp's turnaround strategy focused on returning to the core brick system rather than chasing growth through unrelated ventures. Licensing remained important, but it was expected to complement the building experience instead of redefining it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through Licensing31 Jan 2026 — As Knudstorp explained in a 2009 interview with Harvard Business...</span></span></span>
 
 A useful example is the way licensed elements often migrate across LEGO's broader ecosystem:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,67 +313,63 @@ A useful example is the way licensed elements often migrate across LEGO's broade
 
 The result is that consumers may enter through a franchise but often stay because of the building system itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a65lZxoPJas" title="BEST Theme For LEGO Investing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a65lZxoPJas" target="_blank" rel="noopener noreferrer">BEST Theme For LEGO Investing</a></p><p class="youtube-embed-meta">Channel: Brick Bucks &middot; Views: 4.1K &middot; Uploaded: November 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a65lZxoPJas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a65lZxoPJas">Open on YouTube</a></p></div></div></div>
 
 ## Why Star Wars Became More Than a Simple Licence
 
 The Star Wars partnership is especially important because it demonstrates both the strengths and risks of licensing.
 
-Commercially, LEGO Star Wars became one of the most successful licensed toy partnerships in history. The relationship has lasted for more than two decades and has expanded into games, animation and collector products. Rather than functioning as a short promotional tie-in, it evolved into a long-term product ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisforthat.biz/p/the-partnership-that-saved-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisforthat.biz">[thisforthat.biz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisforthat.biz</span><span class="citation-popover-snippet">The Partnership that Saved Lego - by Glen RothOctober 29, 2024  29 Oct 2024  In the 25 years since it began, the Lego / Star Wars partn...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
+Commercially, LEGO Star Wars became one of the most successful licensed toy partnerships in history. The relationship has lasted for more than two decades and has expanded into games, animation and collector products. Rather than functioning as a short promotional tie-in, it evolved into a long-term product ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisforthat.biz/p/the-partnership-that-saved-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisforthat.biz">[thisforthat.biz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisforthat.biz</span><span class="citation-popover-snippet">The Partnership that Saved Lego - by Glen RothOctober 29, 2024 — 29 Oct 2024 — In the 25 years since it began, the Lego / Star Wars partn...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
 
 This longevity reduced one of the usual weaknesses of licensed products. Instead of depending entirely on a single film launch, LEGO could draw on multiple generations of Star Wars content, adult collectors, nostalgia and ongoing media releases. The licence became more durable than many traditional entertainment partnerships.
 
-At the same time, the success of Star Wars created a strategic tension. When a licensed line becomes exceptionally strong, it can crowd out internal experimentation. Some fans and commentators have argued that the dominance of Star Wars and other licensed themes reduced the prominence of original LEGO science-fiction themes during certain periods. Whether that claim is fully accurate or not, it reflects a genuine governance question: how much of LEGO's future should depend on intellectual property that it does not own? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/lego/comments/1muliq6/licensed_themes_that_killed_lego/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Licensed Themes that killed Lego</span><span class="citation-popover-snippet">RedditLicensed Themes that killed LegoAugust 19, 2025  There&#x27;s been suspicions for years that the Star Wars contract specifically prohib...</span><span class="citation-popover-meta">Published: August 19, 2025</span></span></span>
+At the same time, the success of Star Wars created a strategic tension. When a licensed line becomes exceptionally strong, it can crowd out internal experimentation. Some fans and commentators have argued that the dominance of Star Wars and other licensed themes reduced the prominence of original LEGO science-fiction themes during certain periods. Whether that claim is fully accurate or not, it reflects a genuine governance question: how much of LEGO's future should depend on intellectual property that it does not own? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/lego/comments/1muliq6/licensed_themes_that_killed_lego/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Licensed Themes that killed Lego</span><span class="citation-popover-snippet">Licensed Themes that killed LegoAugust 19, 2025 — There&#x27;s been suspicions for years that the Star Wars contract specifically prohib...</span><span class="citation-popover-meta">Published: August 19, 2025</span></span></span>
 
 Taleb's framework suggests caution here. A system becomes more fragile when too much value depends on a small number of external relationships. Even highly successful licences can create hidden concentration risk if they become indispensable.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-2-dark.svg" | relative_url }}" alt="Licensed Themes illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Licensed Themes Strengthen the Core
 
-The strongest licensed themes tend to share several characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[brickipedia.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Licensed themes</span><span class="citation-popover-snippet">themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</span></span></span>
+The strongest licensed themes tend to share several characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[brickipedia.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Licensed themes</span><span class="citation-popover-snippet">themes &#124; Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</span></span></span>
 
 ### They attract new audiences without changing the platform
 
-A Harry Potter fan, Marvel fan or Jurassic World fan can enter the LEGO ecosystem through a familiar story world. Once inside, they encounter the same building logic used across the rest of the companys products. The licence expands the audience while the platform remains stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Harry_Potter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Harry Potter</span><span class="citation-popover-snippet">Lego Harry Potter</span></span></span>
+A Harry Potter fan, Marvel fan or Jurassic World fan can enter the LEGO ecosystem through a familiar story world. Once inside, they encounter the same building logic used across the rest of the company’s products. The licence expands the audience while the platform remains stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Harry_Potter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Harry Potter</span><span class="citation-popover-snippet">Lego Harry Potter</span></span></span>
 
 ### They create reusable design capabilities
 
 Designers learn new techniques for architecture, vehicles, creatures and display models. Those lessons can later influence non-licensed products. Because all themes use compatible bricks, knowledge gained in one area can benefit others.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AjDC5jVHDuc" title="These Themes Saved Lego!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AjDC5jVHDuc" target="_blank" rel="noopener noreferrer">These Themes Saved Lego!</a></p><p class="youtube-embed-meta">Channel: Robrick &middot; Views: 18.9K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AjDC5jVHDuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AjDC5jVHDuc">Open on YouTube</a></p></div></div></div>
 
 ### They extend age ranges
 
-Many modern licensed themes serve adult collectors as well as children. Premium display sets linked to major franchises have helped LEGO participate in the growing adult market while maintaining its identity as a construction system. Licensed and non-licensed premium themes increasingly coexist within the same collector ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOooDVN67m2t3v1QEJGRNtZIVO6kMs3KTt75NKbf4vEsTynHTs_cC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matrixbcg.com">[MatrixBCG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matrixbcg.com</span><span class="citation-popover-title">Matrix BCGWhat is Competitive Landscape of LEGO Group Company?</span><span class="citation-popover-snippet">MatrixBCGWhat is Competitive Landscape of LEGO Group Company?April 3, 2026  3 Apr 2026  Iconic core themes plus licensed lines (Star Wa...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+Many modern licensed themes serve adult collectors as well as children. Premium display sets linked to major franchises have helped LEGO participate in the growing adult market while maintaining its identity as a construction system. Licensed and non-licensed premium themes increasingly coexist within the same collector ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOooDVN67m2t3v1QEJGRNtZIVO6kMs3KTt75NKbf4vEsTynHTs_cC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matrixbcg.com">[MatrixBCG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matrixbcg.com</span><span class="citation-popover-title">Matrix BCGWhat is Competitive Landscape of LEGO Group Company?</span><span class="citation-popover-snippet">What is Competitive Landscape of LEGO Group Company?April 3, 2026 — 3 Apr 2026 — Iconic core themes plus licensed lines (Star Wa...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 ### They support cross-media visibility
 
-Video games, films and streaming projects can keep LEGO culturally relevant without requiring the company to invent every narrative universe itself. Successful digital adaptations often encourage consumers to return to physical building rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrategyinstitute.org">[The Strategy Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrategyinstitute.org</span><span class="citation-popover-snippet">The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025  The company launched blockbuster video...</span></span></span>
+Video games, films and streaming projects can keep LEGO culturally relevant without requiring the company to invent every narrative universe itself. Successful digital adaptations often encourage consumers to return to physical building rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrategyinstitute.org">[The Strategy Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrategyinstitute.org</span><span class="citation-popover-snippet">The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company launched blockbuster video...</span></span></span>
 
 Under Taleb's logic, these benefits matter because they create multiple pathways for upside while preserving a common operational foundation.
 
 ## Where Franchise Dependence Can Still Create Fragility
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[Licensed themes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-snippet">themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</span></span></span> do not automatically make LEGO antifragile. Some risks remain structural.
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[Licensed themes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-snippet">themes &#124; Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</span></span></span> do not automatically make LEGO antifragile. Some risks remain structural.
 
 The first is dependence on intellectual property owners. Disney, Warner Bros., Universal and other partners control the underlying franchises. LEGO benefits from their success but does not own the core narrative assets. If relationships change or franchise performance declines, LEGO has limited influence over the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Jurassic_World_%28theme%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Jurassic World (theme</span><span class="citation-popover-snippet">Lego Jurassic World (theme</span></span></span>
 
-The second is cost. Licensing fees can reduce margins compared with internally owned themes. Analysis of licensed LEGO sets has suggested that licensed products often command higher prices, reflecting both brand value and the costs associated with intellectual property rights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricknerd.com/home/how-much-extra-do-we-pay-for-licensed-sets-8-24-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricknerd.com">[BrickNerd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricknerd.com</span><span class="citation-popover-title">Obtaining parts from licensed sets would cost 5.92p per gram.Read more</span><span class="citation-popover-snippet">BrickNerdThe LEGO IP Tax: How Much Extra Do Licensed Sets Cost?August 19, 2024  29 Aug 2023  Licensed sets were 20.0% more expensive th...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
+The second is cost. Licensing fees can reduce margins compared with internally owned themes. Analysis of licensed LEGO sets has suggested that licensed products often command higher prices, reflecting both brand value and the costs associated with intellectual property rights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricknerd.com/home/how-much-extra-do-we-pay-for-licensed-sets-8-24-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricknerd.com">[BrickNerd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricknerd.com</span><span class="citation-popover-title">Obtaining parts from licensed sets would cost 5.92p per gram.Read more</span><span class="citation-popover-snippet">The LEGO IP Tax: How Much Extra Do Licensed Sets Cost?August 19, 2024 — 29 Aug 2023 — Licensed sets were 20.0% more expensive th...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
 
 The third is brand dilution. If consumers begin to associate LEGO primarily with external franchises, the company's own creative identity can weaken. The risk is subtle. LEGO's long-term strength comes from the idea that a brick can become almost anything. A portfolio dominated by predefined fictional worlds could gradually narrow that perception.
 
 Finally, licences can encourage reactive behaviour. Entertainment companies operate on release schedules and cultural trends. A business that becomes too dependent on those cycles may find itself responding to external volatility rather than benefiting from it. Taleb's antifragile systems exploit uncertainty on their own terms; fragile systems become exposed to uncertainty created by others.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-3-dark.svg" | relative_url }}" alt="Licensed Themes illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Balance That Matters
 
 Licensed themes are neither a deviation from LEGO's strengths nor a guaranteed source of resilience. Their value depends on how they are governed.
 
-When LEGO uses licences as modular additions to its brick ecosystem, they create optionality. The company can reach new audiences, test new ideas and participate in cultural trends while preserving the compatibility and flexibility of its core system. In that form, licences contribute to the adaptive qualities that emerged after LEGO's crisis and restructuring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">Global At LEGO, Growth and Culture Are Not Kid Stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020  9 Feb 2017  In this interview, conducted in his final days as CEO...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
+When LEGO uses licences as modular additions to its brick ecosystem, they create optionality. The company can reach new audiences, test new ideas and participate in cultural trends while preserving the compatibility and flexibility of its core system. In that form, licences contribute to the adaptive qualities that emerged after LEGO's crisis and restructuring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">Global At LEGO, Growth and Culture Are Not Kid Stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020 — 9 Feb 2017 — In this interview, conducted in his final days as CEO...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
 
 When licences become substitutes for LEGO's own identity, however, the logic reverses. Dependence on external franchises increases exposure to forces beyond the company's control and can recreate the kind of hidden vulnerability that Taleb associates with fragile systems.
 
@@ -499,15 +492,15 @@ The enduring lesson is that LEGO's real asset is not Star Wars, Harry Potter or 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display"><img src="https://i.ebayimg.com/images/g/75EAAeSwulZqJ6U4/s-l225.jpg" alt="Listing image for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars Jango Fett Helmet Building Set 75408"><img src="https://i.ebayimg.com/images/g/dLgAAeSwfSZqKDmM/s-l225.jpg" alt="Listing image for LEGO Star Wars Jango Fett Helmet Building Set 75408" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars Jango Fett Helmet Building Set 75408</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +508,15 @@ The enduring lesson is that LEGO's real asset is not Star Wars, Harry Potter or 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND  "><img src="https://i.ebayimg.com/images/g/G4MAAeSwAqxqHcoJ/s-l225.jpg" alt="Listing image for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND  " loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Star Wars Siege Of Mandalore Battle Pack 75449 Brand New (Read Description)"><img src="https://i.ebayimg.com/images/g/aUAAAeSwgjxqJx3~/s-l225.jpg" alt="Listing image for Lego Star Wars Siege Of Mandalore Battle Pack 75449 Brand New (Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND  </a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">Lego Star Wars Siege Of Mandalore Battle Pack 75449 Brand New (Read Description)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +524,31 @@ The enduring lesson is that LEGO's real asset is not Star Wars, Harry Potter or 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set LEGO Flowers Display Gift Home Dcor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set LEGO Flowers Display Gift Home Dcor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brand New, Sealed, LEGO Star Wars 75299 Trouble On Tatooine Set."><img src="https://i.ebayimg.com/images/g/1m0AAeSw2rxqJvRe/s-l225.jpg" alt="Listing image for Brand New, Sealed, LEGO Star Wars 75299 Trouble On Tatooine Set." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set LEGO Flowers Display Gift Home Dcor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">Brand New, Sealed, LEGO Star Wars 75299 Trouble On Tatooine Set.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars Helmet Collection Scout Trooper Helmet 75305 471-Piece Set"><img src="https://i.ebayimg.com/images/g/GJIAAeSw53VqKxZO/s-l225.jpg" alt="Listing image for LEGO Star Wars Helmet Collection Scout Trooper Helmet 75305 471-Piece Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars Helmet Collection Scout Trooper Helmet 75305 471-Piece Set</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +556,7 @@ The enduring lesson is that LEGO's real asset is not Star Wars, Harry Potter or 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-licensed-themes-make-lego-stronger-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="do-licensed-themes-make-lego-stronger-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,135 +766,136 @@ The enduring lesson is that LEGO's real asset is not Star Wars, Harry Potter or 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: bcg.com  
    Title: Global At LEGO, Growth and Culture Are Not Kid Stuff  
-   Link: [https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff](https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020  9 Feb 2017  In this interview, conducted in his final days as CEO...</p></details>
+   Link: <a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid StuffJuly 31, 2020 — 9 Feb 2017 — In this interview, conducted in his final days as CEO...</p></details>
    Published: July 31, 2020  
 
 2. <a id="endnote-2"></a>
    Source: markhub24.com  
    Title: lego business model reinvention through licensing  
-   Link: [https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing](https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  As Knudstorp explained in a 2009 interview with Harvard Business...</p></details>
+   Link: <a href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: Business Model Reinvention Through Licensing31 Jan 2026 — As Knudstorp explained in a 2009 interview with Harvard Business...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Lego Star Wars  
-   Link: [https://en.wikipedia.org/wiki/Lego_Star_Wars](https://en.wikipedia.org/wiki/Lego_Star_Wars)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Star_Wars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Star_Wars</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Lego Harry Potter  
-   Link: [https://en.wikipedia.org/wiki/Lego_Harry_Potter](https://en.wikipedia.org/wiki/Lego_Harry_Potter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Harry_Potter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Harry_Potter</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Lego Jurassic World (theme)  
-   Link: [https://en.wikipedia.org/wiki/Lego_Jurassic_World_%28theme%29](https://en.wikipedia.org/wiki/Lego_Jurassic_World_%28theme%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Jurassic_World_%28theme%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Jurassic_World_%28theme%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: thisforthat.biz  
-   Link: [https://www.thisforthat.biz/p/the-partnership-that-saved-lego](https://www.thisforthat.biz/p/the-partnership-that-saved-lego)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Partnership that Saved Lego - by Glen RothOctober 29, 2024  29 Oct 2024  In the 25 years since it began, the Lego / Star Wars partn...</p></details>
+   Link: <a href="https://www.thisforthat.biz/p/the-partnership-that-saved-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.thisforthat.biz/p/the-partnership-that-saved-lego</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Partnership that Saved Lego - by Glen RothOctober 29, 2024 — 29 Oct 2024 — In the 25 years since it began, the Lego / Star Wars partn...</p></details>
    Published: October 29, 2024  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: Licensed Themes that killed Lego  
-   Link: [https://www.reddit.com/r/lego/comments/1muliq6/licensed_themes_that_killed_lego/](https://www.reddit.com/r/lego/comments/1muliq6/licensed_themes_that_killed_lego/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditLicensed Themes that killed LegoAugust 19, 2025  There&#x27;s been suspicions for years that the Star Wars contract specifically prohib...</p></details>
+   Link: <a href="https://www.reddit.com/r/lego/comments/1muliq6/licensed_themes_that_killed_lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1muliq6/licensed_themes_that_killed_lego/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensed Themes that killed LegoAugust 19, 2025 — There&#x27;s been suspicions for years that the Star Wars contract specifically prohib...</p></details>
    Published: August 19, 2025  
 
 8. <a id="endnote-8"></a>
    Source: matrixbcg.com  
    Title: Matrix BCGWhat is Competitive Landscape of LEGO Group Company?  
-   Link: [https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOooDVN67m2t3v1QEJGRNtZIVO6kMs3KTt75NKbf4vEsTynHTs_cC](https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOooDVN67m2t3v1QEJGRNtZIVO6kMs3KTt75NKbf4vEsTynHTs_cC)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MatrixBCGWhat is Competitive Landscape of LEGO Group Company?April 3, 2026  3 Apr 2026  Iconic core themes plus licensed lines (Star Wa...</p></details>
+   Link: <a href="https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOooDVN67m2t3v1QEJGRNtZIVO6kMs3KTt75NKbf4vEsTynHTs_cC" target="_blank" rel="noopener noreferrer nofollow">https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOooDVN67m2t3v1QEJGRNtZIVO6kMs3KTt75NKbf4vEsTynHTs_cC</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Competitive Landscape of LEGO Group Company?April 3, 2026 — 3 Apr 2026 — Iconic core themes plus licensed lines (Star Wa...</p></details>
    Published: April 3, 2026  
 
 9. <a id="endnote-9"></a>
    Source: bricknerd.com  
    Title: Obtaining parts from licensed sets would cost 5.92p per gram.Read more  
-   Link: [https://bricknerd.com/home/how-much-extra-do-we-pay-for-licensed-sets-8-24-2023](https://bricknerd.com/home/how-much-extra-do-we-pay-for-licensed-sets-8-24-2023)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickNerdThe LEGO IP Tax: How Much Extra Do Licensed Sets Cost?August 19, 2024  29 Aug 2023  Licensed sets were 20.0% more expensive th...</p></details>
+   Link: <a href="https://bricknerd.com/home/how-much-extra-do-we-pay-for-licensed-sets-8-24-2023" target="_blank" rel="noopener noreferrer nofollow">https://bricknerd.com/home/how-much-extra-do-we-pay-for-licensed-sets-8-24-2023</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO IP Tax: How Much Extra Do Licensed Sets Cost?August 19, 2024 — 29 Aug 2023 — Licensed sets were 20.0% more expensive th...</p></details>
    Published: August 19, 2024  
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
    Title: bits n bricks s01e18 a fabled history feature and transcript  
-   Link: [https://www.lego.com/cdn/cs/set/assets/blt9683a284a3ea1597/bits_n_bricks_s01e18_a_fabled_history_feature_and_transcript.pdf](https://www.lego.com/cdn/cs/set/assets/blt9683a284a3ea1597/bits_n_bricks_s01e18_a_fabled_history_feature_and_transcript.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Fabled LEGO Brick History7 Apr 2021  Jrgen Vig Knudstorp has an interesting perspective on the company, both through his time runnin...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/set/assets/blt9683a284a3ea1597/bits_n_bricks_s01e18_a_fabled_history_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/set/assets/blt9683a284a3ea1597/bits_n_bricks_s01e18_a_fabled_history_feature_and_transcript.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Fabled LEGO® Brick History7 Apr 2021 — Jørgen Vig Knudstorp has an interesting perspective on the company, both through his time runnin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: licenseglobal.com  
    Title: rebuilding lego  
-   Link: [https://www.licenseglobal.com/toys-games/rebuilding-lego](https://www.licenseglobal.com/toys-games/rebuilding-lego)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>License GlobalRebuilding LEGOApril 6, 2018  When speaking with Jorgen Vig Knudstorp, it&#x27;s worth bearing in mind how, only recently, LEGO...</p></details>
+   Link: <a href="https://www.licenseglobal.com/toys-games/rebuilding-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/toys-games/rebuilding-lego</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>License GlobalRebuilding LEGOApril 6, 2018 — When speaking with Jorgen Vig Knudstorp, it&#x27;s worth bearing in mind how, only recently, LEGO...</p></details>
    Published: April 6, 2018  
 
 12. <a id="endnote-12"></a>
    Source: thestrategyinstitute.org  
-   Link: [https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation](https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025  The company launched blockbuster video...</p></details>
+   Link: <a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company launched blockbuster video...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: brickipedia.fandom.com  
    Title: Licensed themes  
-   Link: [https://brickipedia.fandom.com/wiki/Licensed_themes](https://brickipedia.fandom.com/wiki/Licensed_themes)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DL4XThVoJdk/](https://www.instagram.com/reel/DL4XThVoJdk/)  
+   Link: <a href="https://www.instagram.com/reel/DL4XThVoJdk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL4XThVoJdk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before the Empire struck back, LEGO nearly went bankruptBionicle saved them really from bankruptcy, also star wars demanded a very high c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/831715627/FINAL-REPORT](https://www.scribd.com/document/831715627/FINAL-REPORT)  
+   Link: <a href="https://www.scribd.com/document/831715627/FINAL-REPORT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/831715627/FINAL-REPORT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Licensing Strategy Analysis | PDF | BrandLEGO&#x27;s licensing agreements significantly enhance market reach and revenue growth by expand...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lup.lub.lu.se  
-   Link: [https://lup.lub.lu.se/student-papers/record/9150944/file/9150945.pdf](https://lup.lub.lu.se/student-papers/record/9150944/file/9150945.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MASTER CASES10 At LEGO, Growth and Culture Are Not Kid Stuff: An Interview with Jrgen Vig Knudstorp. Boston Consulting Group. Page 9. 02...</p></details>
+   Link: <a href="https://lup.lub.lu.se/student-papers/record/9150944/file/9150945.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lup.lub.lu.se/student-papers/record/9150944/file/9150945.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MASTER CASES10 At LEGO, Growth and Culture Are Not Kid Stuff: An Interview with Jørgen Vig Knudstorp. Boston Consulting Group. Page 9. 02...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement](https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement)  
+   Link: <a href="https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Lego Multi-channel Development: Success...This article mentions three major possibilities of reaching out that are important...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ramblingbrick.com  
-   Link: [https://ramblingbrick.com/2021/04/19/representation-in-licenced-lego-themes-with-a-contemporary-cinematic-narrative-ii-lego-harry-potter/](https://ramblingbrick.com/2021/04/19/representation-in-licenced-lego-themes-with-a-contemporary-cinematic-narrative-ii-lego-harry-potter/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representation In Licenced LEGO Themes with a...19 Apr 2021  This is a post regarding the way in which the LEGO Group have chosen to r...</p></details>
+   Link: <a href="https://ramblingbrick.com/2021/04/19/representation-in-licenced-lego-themes-with-a-contemporary-cinematic-narrative-ii-lego-harry-potter/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2021/04/19/representation-in-licenced-lego-themes-with-a-contemporary-cinematic-narrative-ii-lego-harry-potter/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representation In Licenced LEGO® Themes with a...19 Apr 2021 — This is a post regarding the way in which the LEGO Group have chosen to r...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: licensingsource.net  
-   Link: [https://www.licensingsource.net/licences-among-key-drivers-as-lego-delivers-double-digit-growth-in-first-half-of-2024/](https://www.licensingsource.net/licences-among-key-drivers-as-lego-delivers-double-digit-growth-in-first-half-of-2024/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Licences among key drivers as LEGO delivers double digit...28 Aug 2024  Some of the top performing themes were a mix of homegrown and l...</p></details>
+   Link: <a href="https://www.licensingsource.net/licences-among-key-drivers-as-lego-delivers-double-digit-growth-in-first-half-of-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.licensingsource.net/licences-among-key-drivers-as-lego-delivers-double-digit-growth-in-first-half-of-2024/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Licences among key drivers as LEGO delivers double digit...28 Aug 2024 — Some of the top performing themes were a mix of homegrown and l...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: blog.firestartoys.com  
-   Link: [https://blog.firestartoys.com/why-the-lego-harry-potter-theme-is-the-perfect-blueprint-for-lego-licensed-themes/](https://blog.firestartoys.com/why-the-lego-harry-potter-theme-is-the-perfect-blueprint-for-lego-licensed-themes/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Harry Potter Theme is the PERFECT...22 Feb 2021  In this post, Tom breaks down why the LEGO Harry Potter is the perfect exampl...</p></details>
+   Link: <a href="https://blog.firestartoys.com/why-the-lego-harry-potter-theme-is-the-perfect-blueprint-for-lego-licensed-themes/" target="_blank" rel="noopener noreferrer nofollow">https://blog.firestartoys.com/why-the-lego-harry-potter-theme-is-the-perfect-blueprint-for-lego-licensed-themes/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Harry Potter Theme is the PERFECT...22 Feb 2021 — In this post, Tom breaks down why the LEGO Harry Potter is the perfect exampl...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a65lZxoPJas](https://www.youtube.com/watch?v=a65lZxoPJas)  
+   Link: <a href="https://www.youtube.com/watch?v=a65lZxoPJas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a65lZxoPJas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BEST Theme For LEGO InvestingLEGO Investing Expert Interview: Set Picking, Retirement Delay, Collectibility, &amp; More | Podcast #14. DG Bri...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AlphaSenseInc/videos/exclusive-qa-j%C3%B8rgen-vig-knudstorp-former-lego-ceo-and-garth-saloner-stanford-gsb/994023125763552/](https://www.facebook.com/AlphaSenseInc/videos/exclusive-qa-j%C3%B8rgen-vig-knudstorp-former-lego-ceo-and-garth-saloner-stanford-gsb/994023125763552/)  
+   Link: <a href="https://www.facebook.com/AlphaSenseInc/videos/exclusive-qa-j%C3%B8rgen-vig-knudstorp-former-lego-ceo-and-garth-saloner-stanford-gsb/994023125763552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlphaSenseInc/videos/exclusive-qa-j%C3%B8rgen-vig-knudstorp-former-lego-ceo-and-garth-saloner-stanford-gsb/994023125763552/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ccessful corporate turnarounds with Garth Saloner, Professor at Stanford...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnbc/posts/heres-how-lego-once-on-the-brink-of-bankruptcy-reclaimed-its-status-as-one-of-th/10159866382459369/](https://www.facebook.com/cnbc/posts/heres-how-lego-once-on-the-brink-of-bankruptcy-reclaimed-its-status-as-one-of-th/10159866382459369/)  
+   Link: <a href="https://www.facebook.com/cnbc/posts/heres-how-lego-once-on-the-brink-of-bankruptcy-reclaimed-its-status-as-one-of-th/10159866382459369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnbc/posts/heres-how-lego-once-on-the-brink-of-bankruptcy-reclaimed-its-status-as-one-of-th/10159866382459369/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r, the company at one point was on the verge of bankruptcy.Read more...</p></details>

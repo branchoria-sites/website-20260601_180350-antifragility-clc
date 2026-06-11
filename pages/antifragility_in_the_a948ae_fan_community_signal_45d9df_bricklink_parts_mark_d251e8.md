@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /fan-signals/
 nav_short_title: Brick Link
 title: What Brick Link Revealed That Surveys Missed
-title_full: What Brick Link Revealed That Surveys Missed | Fan Signals
+title_full: What Brick Link Revealed That Surveys Missed
 display_title_short: Brick Link
 display_title: Brick Link
 heading_title: What Brick Link Revealed That Surveys Missed
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How LEGO Fans Became a Market Sensor | LEGO Antifragility
+parent_title: How LEGO Fans Became a Market Sensor
 parent_permalink: /fan-signals/
 parent_nav_short_title: Fan Signals
 parent_heading_title: How LEGO Fans Became a Market Sensor
@@ -265,7 +265,7 @@ next_link:
   permalink: /minecraft-signal/
   short_title: Minecraft Signal
   heading_title: Why LEGO Minecraft Became a Demand Clue
-date: '2026-06-09 03:44:08 '
+date: '2026-06-11 21:40:26 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_br
 
 BrickLink exposed a side of LEGO demand that ordinary market research could not easily see. Long before adult-focused LEGO sets became a major business category, BrickLink was already recording what dedicated builders were actually spending money on: individual parts, rare colours, discontinued elements, retired sets and custom creations. Unlike surveys, which capture what people say they want, BrickLink captured behaviour. Every purchase, wanted list, resale price and part search created a record of what fans genuinely valued.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-dark.svg" | relative_url }}" alt="Brick Link illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That made BrickLink more than a marketplace. It became an informal demand-sensing system for LEGO’s most engaged customers. In the context of LEGO’s antifragility, this mattered because it turned fan experimentation into usable information. The company could observe unexpected demand patterns emerging from thousands of independent builders rather than relying solely on forecasts, focus groups or retail sales reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span>
+That made BrickLink more than a marketplace. It became an informal demand-sensing system for LEGO’s most engaged customers. In the context of LEGO’s antifragility, this mattered because it turned fan experimentation into usable information. The company could observe unexpected demand patterns emerging from thousands of independent builders rather than relying solely on forecasts, focus groups or retail sales reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span>
 
 ## What BrickLink Revealed That Surveys Missed
 
 Founded in 2000 by fan Daniel Jezek, BrickLink grew into the largest marketplace for buying and selling LEGO parts, sets and minifigures. Its importance came from a simple fact: most LEGO products are sold as complete sets, but many fans do not build that way. They rebuild, customise, repair, collect and design their own models. BrickLink made those activities visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brick Link</span></span></span>
 
 Traditional consumer surveys often ask broad questions: Which themes do you like? Which characters interest you? Which sets would you buy? BrickLink instead recorded highly specific behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,7 @@ The difference is important because enthusiasts frequently behave differently fr
 
 ## Parts, Colours and Retired Sets as Demand Signals
 
-One of BrickLink's most valuable features is its catalogue system. The platform tracks individual elements, colour variations, inventories, historical availability and pricing. Users can see which sets contain a part, how often it appears and how much it costs on the secondary market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">r/lego - Bricklink Studio... Anyone use it?Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
+One of BrickLink's most valuable features is its catalogue system. The platform tracks individual elements, colour variations, inventories, historical availability and pricing. Users can see which sets contain a part, how often it appears and how much it costs on the secondary market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">r/lego - Bricklink Studio... Anyone use it?Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
 
 ### Scarcity Became Measurable
 
@@ -313,12 +311,11 @@ The colour database itself illustrates how specialised this demand became. Brick
 
 A fan recreating a classic spaceship, train layout or castle scene may require precise colours rather than whatever currently exists in production. The willingness to pay premium prices for those pieces signals emotional attachment, nostalgia and display-building priorities that are difficult to capture through conventional surveys.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syRINZqBTOo" title="LEGO buys Bricklink - What happens now?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syRINZqBTOo" target="_blank" rel="noopener noreferrer">LEGO buys Bricklink - What happens now?</a></p><p class="youtube-embed-meta">Channel: Solid Brix Studios &middot; Views: 143.6K &middot; Uploaded: November 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syRINZqBTOo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syRINZqBTOo">Open on YouTube</a></p></div></div></div>
 
 ### Retired Sets Functioned as Historical Demand Data
 
-BrickLink also made retired sets economically visible. Instead of disappearing when production ended, sets continued trading in a transparent market. Collectors paid premiums for unopened copies. Builders bought used versions for parts. Others broke sets apart and sold components individually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bricklink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricklink.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricklink.com</span><span class="citation-popover-snippet">BrickLink - Buy and sell LEGO Parts, Sets and Minifigures2 hours ago — BrickLink® is the world&#x27;s largest online marketplace to buy and se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brick Link</span></span></span>
+BrickLink also made retired sets economically visible. Instead of disappearing when production ended, sets continued trading in a transparent market. Collectors paid premiums for unopened copies. Builders bought used versions for parts. Others broke sets apart and sold components individually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bricklink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricklink.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricklink.com</span><span class="citation-popover-snippet">Buy and sell LEGO Parts, Sets and Minifigures2 hours ago — BrickLink® is the world&#x27;s largest online marketplace to buy and se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brick Link</span></span></span>
 
 For LEGO, this secondary market effectively showed which products retained long-term relevance. A set that remained expensive years after retirement suggested durable demand rather than temporary retail success. Fans were revealing which themes, designs and building experiences still mattered after marketing campaigns had ended.
 
@@ -338,7 +335,6 @@ This distinction matters because adult LEGO fans often operate outside the assum
 
 Surveys struggle with that fragmentation because researchers must decide in advance which questions to ask. BrickLink allowed unexpected interests to emerge naturally. If thousands of builders suddenly began seeking certain parts or colours, the behaviour appeared in marketplace activity whether LEGO had anticipated it or not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">r/lego - Bricklink Studio... Anyone use it?Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-dark.svg" | relative_url }}" alt="Brick Link illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Custom Building Revealed Unserved Demand
 
@@ -352,25 +348,23 @@ In antifragile terms, BrickLink transformed experimentation into information. Th
 
 BrickLink evolved beyond buying and selling. It developed digital design tools and programmes that connected virtual building with physical production.
 
-Stud.io, later branded BrickLink Studio, allowed users to create digital LEGO models using a catalogue tied closely to real parts inventories. Builders could design models, generate instructions and connect projects directly to part sourcing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
+Stud.io, later branded BrickLink Studio, allowed users to create digital LEGO models using a catalogue tied closely to real parts inventories. Builders could design models, generate instructions and connect projects directly to part sourcing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
 
 This expanded the information available to LEGO. Fans were no longer merely purchasing pieces. They were demonstrating what they wanted to build before spending money on physical bricks.
 
-The BrickLink AFOL Designer Program, later the BrickLink Designer Program, pushed this further. Fan designers submitted original models, community interest was measured and selected projects moved into crowdfunding and production. The programme effectively created a structured pipeline between fan creativity and commercial testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
+The BrickLink AFOL Designer Program, later the BrickLink Designer Program, pushed this further. Fan designers submitted original models, community interest was measured and selected projects moved into crowdfunding and production. The programme effectively created a structured pipeline between fan creativity and commercial testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
 
 Unlike conventional product development, where ideas move from internal teams to consumers, BrickLink allowed ideas to emerge from the community first. That made the platform valuable not only as a marketplace but also as an observation point for emerging tastes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MGEYuqyVWIo" title="Behind the Scenes! BrickLink AFOL Designer Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MGEYuqyVWIo" target="_blank" rel="noopener noreferrer">Behind the Scenes! BrickLink AFOL Designer Program</a></p><p class="youtube-embed-meta">Channel: Beyond the Brick &middot; Views: 28.6K &middot; Uploaded: February 2019 &middot; Length: 4 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MGEYuqyVWIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MGEYuqyVWIo">Open on YouTube</a></p></div></div></div>
 
 ## Why LEGO Bought BrickLink
 
-When LEGO acquired BrickLink in 2019, the company described it as the world's largest online community and marketplace for adult LEGO fans. Executives explicitly framed the acquisition as a way to strengthen engagement with adult builders and deepen collaboration with the fan community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/47293/the-lego-group-acquires-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">the lego group acquires bricklink</span><span class="citation-popover-snippet">26 Nov 2019 — The LEGO Group today announced it has acquired BrickLink Ltd (www.bricklink.com), the world&#x27;s largest online community of a...</span></span></span>
+When LEGO acquired BrickLink in 2019, the company described it as the world's largest online community and marketplace for adult LEGO fans. Executives explicitly framed the acquisition as a way to strengthen engagement with adult builders and deepen collaboration with the fan community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/47293/the-lego-group-acquires-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">the lego group acquires bricklink</span><span class="citation-popover-snippet">26 Nov 2019 — The LEGO Group today announced it has acquired BrickLink Ltd (www.bricklink.com), the world&#x27;s largest online community of a...</span></span></span>
 
 The public explanation focused on community relationships, but the strategic significance ran deeper.
 
 BrickLink offered visibility into a part of the LEGO ecosystem that traditional retail channels could not fully reveal:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -382,17 +376,16 @@ BrickLink offered visibility into a part of the LEGO ecosystem that traditional 
 
 </div>
 
-That information became increasingly important as adults grew into a larger share of LEGO's customer base. Adult builders often purchase expensive display sets, source individual bricks and remain engaged with the hobby for decades. Their behaviour creates richer data than a simple toy purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
+That information became increasingly important as adults grew into a larger share of LEGO's customer base. Adult builders often purchase expensive display sets, source individual bricks and remain engaged with the hobby for decades. Their behaviour creates richer data than a simple toy purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
 
 The acquisition also reflected a broader shift inside LEGO. Rather than treating fan activity as something happening outside the company, LEGO increasingly recognised it as a source of market intelligence.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-dark.svg" | relative_url }}" alt="Brick Link illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Tension Behind the Acquisition
 
 Not every fan welcomed the purchase. Some members of the community worried that LEGO ownership might compromise BrickLink's independence or give the company excessive visibility into a marketplace that had traditionally operated outside official channels. Media coverage at the time documented concerns that LEGO could gain unprecedented insight into collector behaviour and the secondary market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">lego accused of muscling in on fans after bricklink takeover</span><span class="citation-popover-snippet">The GuardianLego accused of muscling in on fans after BrickLink takeover20 Dec 2019 — Nicknamed CrackLink, it is the world&#x27;s largest onli...</span></span></span>
 
-Those concerns themselves reveal BrickLink's importance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span>
+Those concerns themselves reveal BrickLink's importance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span>
 
 Fans understood that the platform was not merely a shop. It was a record of what builders truly cared about. The possibility that LEGO could observe those patterns more directly raised questions about how much influence a corporation should have over a community-created ecosystem.
 
@@ -406,11 +399,9 @@ That makes BrickLink different from a conventional fan forum or survey platform.
 
 For LEGO, this creates a system that benefits from variation rather than trying to eliminate it. Independent builders pursue their own interests, often in unpredictable directions. Some experiments fail. Others expose opportunities that would have been difficult to identify through traditional market research. BrickLink turns that collective experimentation into evidence.
 
-In that sense, the marketplace became more than a place to buy spare bricks. It became one of the clearest windows into how adult LEGO culture actually behaves when nobody is filling out a survey. BrickLink <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
-
+In that sense, the marketplace became more than a place to buy spare bricks. It became one of the clearest windows into how adult LEGO culture actually behaves when nobody is filling out a survey. BrickLink <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">LEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[BrickLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brick Link</span><span class="citation-popover-snippet">FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</span><span class="citation-popover-meta">Published: November 26, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqJyJgpZmS4" title="How the BrickLink AFOL Designer Program Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqJyJgpZmS4" target="_blank" rel="noopener noreferrer">How the BrickLink AFOL Designer Program Works</a></p><p class="youtube-embed-meta">Channel: Beyond the Brick &middot; Views: 6.6K &middot; Uploaded: February 2019 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqJyJgpZmS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqJyJgpZmS4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -505,7 +496,7 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -529,15 +520,15 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions"><img src="https://i.ebayimg.com/images/g/~G4AAeSwgrxqI96C/s-l225.jpg" alt="Listing image for LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bundle 1kg Set Mixed Bricks Parts Pieces Minifigures &amp; Accessories Job Lot"><img src="https://i.ebayimg.com/images/g/6NQAAOSwrTxklfLD/s-l225.jpg" alt="Listing image for LEGO Bundle 1kg Set Mixed Bricks Parts Pieces Minifigures &amp; Accessories Job Lot" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO Bundle 1kg Set Mixed Bricks Parts Pieces Minifigures &amp; Accessories Job Lot</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +536,15 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21376 Orange Cat NEW 2026"><img src="https://i.ebayimg.com/images/g/lmEAAeSwdDpqHfOp/s-l225.jpg" alt="Listing image for LEGO Ideas 21376 Orange Cat NEW 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Job Lot of Minifigures and Spare Parts"><img src="https://i.ebayimg.com/images/g/D9kAAeSw~bpqKVJi/s-l225.jpg" alt="Listing image for LEGO Job Lot of Minifigures and Spare Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21376 Orange Cat NEW 2026</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO Job Lot of Minifigures and Spare Parts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +552,31 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO® - LEGO® Ideas - The Office - 21336"><img src="https://i.ebayimg.com/images/g/yGQAAeSwTNZqJ~wb/s-l225.jpg" alt="Listing image for LEGO® - LEGO® Ideas - The Office - 21336" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine LEGO Bundle Mixed Bricks,Parts,Pieces,figures extras. JobLot Bags Of 1KG"><img src="https://i.ebayimg.com/images/g/sWgAAeSwTIRohiry/s-l225.jpg" alt="Listing image for Genuine LEGO Bundle Mixed Bricks,Parts,Pieces,figures extras. JobLot Bags Of 1KG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® - LEGO® Ideas - The Office - 21336</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">Genuine LEGO Bundle Mixed Bricks,Parts,Pieces,figures extras. JobLot Bags Of 1KG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 1 Kg Bundle - Job Lot of Bricks Plates Parts Pieces - Genuine LEGO Parts"><img src="https://i.ebayimg.com/images/g/yJYAAOSwEjFlqrKA/s-l225.jpg" alt="Listing image for LEGO 1 Kg Bundle - Job Lot of Bricks Plates Parts Pieces - Genuine LEGO Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO 1 Kg Bundle - Job Lot of Bricks Plates Parts Pieces - Genuine LEGO Parts</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,7 +584,7 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-bricklink-revealed-that-surveys-missed-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="what-bricklink-revealed-that-surveys-missed-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -787,201 +794,202 @@ In that sense, the marketplace became more than a place to buy spare bricks. It 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Brick Link  
-   Link: [https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink](https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</p></details>
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO BrickLink - About Us - LEGO.com26 Nov 2019 — The LEGO Group acquires BrickLink, the world&#x27;s largest online LEGO® fan community a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/](https://www.bricklink.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink - Buy and sell LEGO Parts, Sets and Minifigures2 hours ago — BrickLink® is the world&#x27;s largest online marketplace to buy and se...</p></details>
+   Link: <a href="https://www.bricklink.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Buy and sell LEGO Parts, Sets and Minifigures2 hours ago — BrickLink® is the world&#x27;s largest online marketplace to buy and se...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/catalog.asp](https://www.bricklink.com/catalog.asp)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLinkBrickLink Reference CatalogView colors that parts come in and browse parts by color. Price Guide Get an item&#x27;s price history, cu...</p></details>
+   Link: <a href="https://www.bricklink.com/catalog.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalog.asp</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink Reference CatalogView colors that parts come in and browse parts by color. Price Guide Get an item&#x27;s price history, cu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Brick Link  
-   Link: [https://en.wikipedia.org/wiki/BrickLink](https://en.wikipedia.org/wiki/BrickLink)  
+   Link: <a href="https://en.wikipedia.org/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/BrickLink</a>  
 
 5. <a id="endnote-5"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/catalogTree.asp?itemType=P](https://www.bricklink.com/catalogTree.asp?itemType=P)  
+   Link: <a href="https://www.bricklink.com/catalogTree.asp?itemType=P" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogTree.asp?itemType=P</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink Reference Catalog - PartsBrickLink® is the world&#x27;s largest online marketplace to buy and sell LEGO® parts, Minifigures and sets...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/catalogIn.asp](https://www.bricklink.com/catalogIn.asp)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLinkBrickLink Appearance In InventoriesInformation on which parts appear in which sets is gathered from items inventoried. It is the...</p></details>
+   Link: <a href="https://www.bricklink.com/catalogIn.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogIn.asp</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink Appearance In InventoriesInformation on which parts appear in which sets is gathered from items inventoried. It is the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: v2.bricklink.com  
-   Link: [https://v2.bricklink.com/en-gb/catalog/color-guide](https://v2.bricklink.com/en-gb/catalog/color-guide)  
+   Link: <a href="https://v2.bricklink.com/en-gb/catalog/color-guide" target="_blank" rel="noopener noreferrer nofollow">https://v2.bricklink.com/en-gb/catalog/color-guide</a>  
 
 8. <a id="endnote-8"></a>
    Source: store.bricklink.com  
-   Link: [https://store.bricklink.com/albi_cano](https://store.bricklink.com/albi_cano)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLinkRetired Set Only!Bricklink® is the world&#x27;s largest online marketplace to buy and sell LEGO® parts, Minifigures and sets, both ne...</p></details>
+   Link: <a href="https://store.bricklink.com/albi_cano" target="_blank" rel="noopener noreferrer nofollow">https://store.bricklink.com/albi_cano</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Set Only!Bricklink® is the world&#x27;s largest online marketplace to buy and sell LEGO® parts, Minifigures and sets, both ne...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: store.bricklink.com  
    Title: Brick Link Only Retired Sets  
-   Link: [https://store.bricklink.com/RetiredSets](https://store.bricklink.com/RetiredSets)  
+   Link: <a href="https://store.bricklink.com/RetiredSets" target="_blank" rel="noopener noreferrer nofollow">https://store.bricklink.com/RetiredSets</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink.comBricklink® is the world&#x27;s largest online marketplace to buy and sell LEGO® parts, Minifigures and sets, both new or used. Se...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/studio/download.page](https://www.bricklink.com/v3/studio/download.page)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLinkStudio Download [BrickLink]Digitally build designs of your wildest imagination. Unlimited bricks give you total freedom to creat...</p></details>
+   Link: <a href="https://www.bricklink.com/v3/studio/download.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/studio/download.page</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studio Download [BrickLink]Digitally build designs of your wildest imagination. Unlimited bricks give you total freedom to creat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/past/adp.page](https://www.bricklink.com/v3/designer-program/past/adp.page)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLinkAFOL Designer ProgramA program that would help realize unique designs with truly original themes. The program realized 13 design...</p></details>
+   Link: <a href="https://www.bricklink.com/v3/designer-program/past/adp.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/past/adp.page</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFOL Designer ProgramA program that would help realize unique designs with truly original themes. The program realized 13 design...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/main.page](https://www.bricklink.com/v3/designer-program/main.page)  
+   Link: <a href="https://www.bricklink.com/v3/designer-program/main.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/main.page</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Designer Program [BrickLink]Designed by LEGO® fans for experienced builders. · Series 8 · Series 11 · Learn about our test builds.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/faq.page](https://www.bricklink.com/v3/designer-program/faq.page)  
+   Link: <a href="https://www.bricklink.com/v3/designer-program/faq.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/faq.page</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Designer Program FAQs [BrickLink]A fresh opportunity for LEGO fans to continue submitting digital designs to be realized as a BrickLink D...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: brickset.com  
    Title: the lego group acquires bricklink  
-   Link: [https://brickset.com/article/47293/the-lego-group-acquires-bricklink](https://brickset.com/article/47293/the-lego-group-acquires-bricklink)  
+   Link: <a href="https://brickset.com/article/47293/the-lego-group-acquires-bricklink" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/47293/the-lego-group-acquires-bricklink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Nov 2019 — The LEGO Group today announced it has acquired BrickLink Ltd (www.bricklink.com), the world&#x27;s largest online community of a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AFOL/comments/e20n22/the_lego_group_buys_bricklink/](https://www.reddit.com/r/AFOL/comments/e20n22/the_lego_group_buys_bricklink/)  
+   Link: <a href="https://www.reddit.com/r/AFOL/comments/e20n22/the_lego_group_buys_bricklink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AFOL/comments/e20n22/the_lego_group_buys_bricklink/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ot mess it up or get greedy with it.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: It's been nearly 5 years since LEGO bought Bricklink  
-   Link: [https://www.reddit.com/r/lego/comments/1ek6mrh/its_been_nearly_5_years_since_lego_bought/](https://www.reddit.com/r/lego/comments/1ek6mrh/its_been_nearly_5_years_since_lego_bought/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/1ek6mrh/its_been_nearly_5_years_since_lego_bought/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ek6mrh/its_been_nearly_5_years_since_lego_bought/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4, 2024 — The fact that we didn&#x27;t even know that Lego owns bricklink means that Lego has done a good job keeping hands off...</p></details>
    Published: August 4, 2024  
 
 17. <a id="endnote-17"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/about.page](https://www.bricklink.com/v3/about.page)  
+   Link: <a href="https://www.bricklink.com/v3/about.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/about.page</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About the teamBrickLink is the leading marketplace for genuine LEGO products and contains an extensive catalog of every LEGO element and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/bricklink25/history.page](https://www.bricklink.com/v3/bricklink25/history.page)  
+   Link: <a href="https://www.bricklink.com/v3/bricklink25/history.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/bricklink25/history.page</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink&#x27;s 25th Anniversary History...On November 26, 2019, the LEGO Group announced it acquired BrickLink Ltd from NXMH to strengthen...</p></details>
    Published: November 26, 2019  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/e1xo7v/the_lego_group_acquires_bricklink_from_nexon/](https://www.reddit.com/r/lego/comments/e1xo7v/the_lego_group_acquires_bricklink_from_nexon/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/e1xo7v/the_lego_group_acquires_bricklink_from_nexon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/e1xo7v/the_lego_group_acquires_bricklink_from_nexon/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Bricklink/comments/1gj28p2/where_are_bricklink_sellers_getting_these_parts/](https://www.reddit.com/r/Bricklink/comments/1gj28p2/where_are_bricklink_sellers_getting_these_parts/)  
+   Link: <a href="https://www.reddit.com/r/Bricklink/comments/1gj28p2/where_are_bricklink_sellers_getting_these_parts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Bricklink/comments/1gj28p2/where_are_bricklink_sellers_getting_these_parts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in different colors that they specifically wrote in the description that this...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: Brick Link  
-   Link: [https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/](https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/aletre/bricklink_afol_designer_program_winners_are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/lego - Bricklink Studio... Anyone use it?Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ramblingbrick.com  
    Title: bricklink announces afol designer program  
-   Link: [https://ramblingbrick.com/2018/09/13/bricklink-announces-afol-designer-program/](https://ramblingbrick.com/2018/09/13/bricklink-announces-afol-designer-program/)  
+   Link: <a href="https://ramblingbrick.com/2018/09/13/bricklink-announces-afol-designer-program/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2018/09/13/bricklink-announces-afol-designer-program/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Entries can be submitted between September 18th and November 18th...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
    Title: lego accused of muscling in on fans after bricklink takeover  
-   Link: [https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover](https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianLego accused of muscling in on fans after BrickLink takeover20 Dec 2019 — Nicknamed CrackLink, it is the world&#x27;s largest onli...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ramblingbrick.com  
    Title: the lego group acquires bricklink  
-   Link: [https://ramblingbrick.com/2019/11/27/the-lego-group-acquires-bricklink/](https://ramblingbrick.com/2019/11/27/the-lego-group-acquires-bricklink/)  
+   Link: <a href="https://ramblingbrick.com/2019/11/27/the-lego-group-acquires-bricklink/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2019/11/27/the-lego-group-acquires-bricklink/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group Buys Out BrickLink.27 Nov 2019 — The LEGO Group today announced it has acquired BrickLink Ltd (www.bricklink.com), the wor...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: brickpicker.com  
    Title: 22311 bricklinks afol designer program 2024  
-   Link: [https://www.brickpicker.com/forums/topic/22311-bricklinks-afol-designer-program-2024/](https://www.brickpicker.com/forums/topic/22311-bricklinks-afol-designer-program-2024/)  
+   Link: <a href="https://www.brickpicker.com/forums/topic/22311-bricklinks-afol-designer-program-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickpicker.com/forums/topic/22311-bricklinks-afol-designer-program-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bricklink&#x27;s AFOL Designer Program 202418 Nov 2020 — A recent survey of the BrickLink community also indicated their strong approval in se...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: brickipedia.fandom.com  
    Title: Brick Link  
-   Link: [https://brickipedia.fandom.com/wiki/BrickLink](https://brickipedia.fandom.com/wiki/BrickLink)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brickipedia - FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</p></details>
+   Link: <a href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/BrickLink</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FandomOn November 26, 2019 it was announced that The LEGO Group acquires BrickLink Ltd. to strengthen its connection with i...</p></details>
    Published: November 26, 2019  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: licenseglobal.com  
-   Link: [https://www.licenseglobal.com/toys-games/lego-acquires-bricklink](https://www.licenseglobal.com/toys-games/lego-acquires-bricklink)  
+   Link: <a href="https://www.licenseglobal.com/toys-games/lego-acquires-bricklink" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/toys-games/lego-acquires-bricklink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Acquires BrickLinkLEGO Group acquires BrickLink to strengthen ties with [adult fans](&amp;#123;&amp;#123; &#x27;adult-fans/&#x27; | relative_url &amp;#125;&amp;#125;).... The LEGO Group has announced the acquisition...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2318028917/posts/10157683262948918/](https://www.facebook.com/groups/2318028917/posts/10157683262948918/)  
+   Link: <a href="https://www.facebook.com/groups/2318028917/posts/10157683262948918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2318028917/posts/10157683262948918/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are certain Lego parts in limited colors on Bricklink?Why are their such limited number of parts in certain colours on BrickLink such...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/100969210376382/posts/780596032413693/](https://www.facebook.com/groups/100969210376382/posts/780596032413693/)  
+   Link: <a href="https://www.facebook.com/groups/100969210376382/posts/780596032413693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/100969210376382/posts/780596032413693/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego Group acquires BrickLinkNews: The LEGO Group acquires BrickLink from Nexon founder Jay Kim for undisclosed sum - interview with...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dqJyJgpZmS4](https://www.youtube.com/watch?v=dqJyJgpZmS4)  
+   Link: <a href="https://www.youtube.com/watch?v=dqJyJgpZmS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dqJyJgpZmS4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the BrickLink AFOL Designer Program WorksSupport your favorite designs! [http://bit.ly/2RupLqR](http://bit.ly/2RupLqR) Watch our BrickLink ADP behind the scen...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MGEYuqyVWIo](https://www.youtube.com/watch?v=MGEYuqyVWIo)  
+   Link: <a href="https://www.youtube.com/watch?v=MGEYuqyVWIo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MGEYuqyVWIo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the Scenes! BrickLink AFOL Designer ProgramI&#x27;m in the Lego idea house in Bill and Denmark to give you a behind the-scenes look at...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: thebrickblogger.com  
    Title: the lego group acquires bricklink com  
-   Link: [https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/](https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/)  
+   Link: <a href="https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christiansen said: “Our adult fans are extremely important to us. They are passionate, committed, and endlessly...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: candidbricks.com  
    Title: LEG O acquires Bricklink  
-   Link: [https://candidbricks.com/2019/12/02/lego-acquires-bricklink-nov-2019/](https://candidbricks.com/2019/12/02/lego-acquires-bricklink-nov-2019/)  
+   Link: <a href="https://candidbricks.com/2019/12/02/lego-acquires-bricklink-nov-2019/" target="_blank" rel="noopener noreferrer nofollow">https://candidbricks.com/2019/12/02/lego-acquires-bricklink-nov-2019/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO acquires Bricklink - Nov 20192 Dec 2019 — Acquisition will strengthen the LEGO® Group&#x27;s engagement with its growing community of adu...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: LEG O BRICKLINK TUTORIALS  
-   Link: [https://www.youtube.com/watch?v=ZvWQA2Ljdsk](https://www.youtube.com/watch?v=ZvWQA2Ljdsk)  
+   Link: <a href="https://www.youtube.com/watch?v=ZvWQA2Ljdsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZvWQA2Ljdsk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO BRICKLINK TUTORIALS - how to source parts for...Welcome to the first in a series of Lego Bricklink Tutorials, this first video show...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: LEG O buys Bricklink  
-   Link: [https://www.youtube.com/watch?v=syRINZqBTOo](https://www.youtube.com/watch?v=syRINZqBTOo)  
+   Link: <a href="https://www.youtube.com/watch?v=syRINZqBTOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syRINZqBTOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO buys Bricklink - What happens now?The LEGO Group has purchased &amp; acquired Bricklink for an undisclosed amount. The most well known a...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: news.ycombinator.com  
-   Link: [https://news.ycombinator.com/item?id=21639428](https://news.ycombinator.com/item?id=21639428)  
+   Link: <a href="https://news.ycombinator.com/item?id=21639428" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=21639428</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group acquires BrickLink26 Nov 2019 — dynjo on Nov 27, 2019 | prev | next [–]. There is a huge untapped market opportunity for Lego...</p></details>

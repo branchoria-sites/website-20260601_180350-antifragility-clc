@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae/
 description: Focused pages that expand on Sustainability.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: antifragility_in_the_a948ae_sustainability_limit_bbd831
-parent_title: Sustainability | antifragility in the context of the Lego company
+parent_title: Sustainability
 parent_nav_short_title: Sustainability
 parent_permalink: /sustainability/
 ---

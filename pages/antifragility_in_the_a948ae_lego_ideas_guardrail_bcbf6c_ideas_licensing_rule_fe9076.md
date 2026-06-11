@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /lego-ideas/
 nav_short_title: Licensing
 title: Why Some Popular LEGO Ideas Cannot Win
-title_full: Why Some Popular LEGO Ideas Cannot Win | LEGO Ideas
+title_full: Why Some Popular LEGO Ideas Cannot Win
 display_title_short: Licensing
 display_title: Licensing
 heading_title: Why Some Popular LEGO Ideas Cannot Win
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why LEGO Ideas Is Not Just Crowdsourcing | LEGO Antifragility
+parent_title: Why LEGO Ideas Is Not Just Crowdsourcing
 parent_permalink: /lego-ideas/
 parent_nav_short_title: LEGO Ideas
 parent_heading_title: Why LEGO Ideas Is Not Just Crowdsourcing
@@ -265,7 +265,7 @@ next_link:
   permalink: /options/
   short_title: Options
   heading_title: How LEGO Turns Fan Chaos Into Options
-date: '2026-06-09 03:45:00 '
+date: '2026-06-11 21:40:33 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1.webp
@@ -276,13 +276,12 @@ image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_id
 
 One of the most misunderstood parts of LEGO Ideas is that popularity is never enough. A fan project can attract 10,000 supporters, generate media attention and build a passionate community, yet still be impossible for LEGO to produce because of licensing constraints. The platform invites open creativity, but it operates inside a carefully managed intellectual-property system.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1-dark.svg" | relative_url }}" alt="Licensing illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because LEGO Ideas is not simply a public wish list. It is a controlled experiment in open innovation. LEGO wants fans to surface unexpected opportunities, but it also needs to avoid legal conflicts, brand risks and commercial dead ends. Licensing rules therefore act as governance mechanisms: they limit which ideas can enter the pipeline, reduce costly review work and prevent the platform from filling with projects that have little realistic chance of becoming products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas... Lego, such as Star Wars and Harry Potter. All eligible projects are collectively reviewed in the order of whichever proj...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">LEGO IdeasRules Guidelines16 Apr 2026 — Your idea can be completely original or inspired by an existing Intellectual Property (IP), such...</span></span></span>
 
 ## Why Some Popular LEGO Ideas Cannot Win
 
-A common assumption is that LEGO Ideas functions like a vote. In reality, community support only determines whether a proposal receives formal review. Reaching 10,000 supporters creates a candidate for consideration, not an entitlement to production. LEGO explicitly states that projects entering review are assessed for factors including legal and licensing issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-nz/service/help-topics/article/creating-product-ideas-with-licensed-brands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOCreating product ideas with licensed brandsWe also no longer accept product ideas based on licenses or concepts that have been commer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">After that, your product idea is considered to be in LEGO review and may be</span><span class="citation-popover-snippet">LEGOWhat happens to my product idea after I reach 10000...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® I...</span></span></span>
+A common assumption is that LEGO Ideas functions like a vote. In reality, community support only determines whether a proposal receives formal review. Reaching 10,000 supporters creates a candidate for consideration, not an entitlement to production. LEGO explicitly states that projects entering review are assessed for factors including legal and licensing issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-nz/service/help-topics/article/creating-product-ideas-with-licensed-brands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Creating product ideas with licensed brandsWe also no longer accept product ideas based on licenses or concepts that have been commer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">After that, your product idea is considered to be in LEGO review and may be</span><span class="citation-popover-snippet">What happens to my product idea after I reach 10000...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® I...</span></span></span>
 
 For intellectual-property-based projects, this means fan enthusiasm comes after a more fundamental question: can LEGO legally and strategically make the product at all?
 
@@ -296,12 +295,9 @@ Over time, LEGO tightened the rules governing which licensed properties can even
 
 The reasoning was practical. If LEGO already has a major licensing relationship for a brand, Ideas does not need to serve as the route for developing products based on that property. Allowing thousands of submissions based on existing blockbuster licences would risk overwhelming the platform and crowding out original concepts or genuinely new opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/27446/lego-ideas-no-longer-accepting-projects-based-on-active-licenses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego ideas no longer accepting projects based on active licenses</span><span class="citation-popover-snippet">LEGO Ideas no longer accepting projects based on active...5 Apr 2017 — LEGO Ideas will no longer accept new submissions based on third-p...</span></span></span>
 
-LEGO has also maintained lists of intellectual properties that are not eligible because of conflicts, content concerns or strategic restrictions. Community discussions and official guidance have repeatedly pointed to situations where properties are blocked because another company controls construction-toy rights, because the subject matter clashes with LEGO's standards, or because LEGO already knows it is unlikely to pursue the licence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/19ewq8k/why_are_so_many_ips_banned_from_lego_ideas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWhy are so many IPs banned from Lego Ideas?January 25, 2024 — Lego bans IPs that they know won&#x27;t work or that they won&#x27;t want to pu...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/legoideas/comments/ti2jbv/question_about_blocked_ips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ual property that may be denied via LEGO Ideas...Read more...</span></span></span>
+LEGO has also maintained lists of intellectual properties that are not eligible because of conflicts, content concerns or strategic restrictions. Community discussions and official guidance have repeatedly pointed to situations where properties are blocked because another company controls construction-toy rights, because the subject matter clashes with LEGO's standards, or because LEGO already knows it is unlikely to pursue the licence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/19ewq8k/why_are_so_many_ips_banned_from_lego_ideas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why are so many IPs banned from Lego Ideas?January 25, 2024 — Lego bans IPs that they know won&#x27;t work or that they won&#x27;t want to pu...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/legoideas/comments/ti2jbv/question_about_blocked_ips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ual property that may be denied via LEGO Ideas...Read more...</span></span></span>
 
 The result is that some of the most requested brands never even reach the popularity stage. They are filtered out before voting can matter.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Pi1kYXrAyQ" title="How LEGO Turned Fan Ideas Into BILLIONS - BrickCast Ep. 90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Pi1kYXrAyQ" target="_blank" rel="noopener noreferrer">How LEGO Turned Fan Ideas Into BILLIONS - BrickCast Ep. 90</a></p><p class="youtube-embed-meta">Channel: The Imagination Brickshop &middot; Views: 166 &middot; Uploaded: June 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Pi1kYXrAyQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Pi1kYXrAyQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Rights and Existing Licences Matter
 
@@ -317,7 +313,6 @@ When a fan submits an idea based on a major entertainment franchise, LEGO must c
 
 The case of *The Legend of Zelda* illustrates how licensing conflicts can become visible to fans. In 2022, LEGO began automatically rejecting Zelda submissions on Ideas because of what it described as a licence conflict, leading observers to speculate that LEGO was pursuing the property through a different route. Whether or not a specific product was planned, the incident showed that licensing negotiations can override community demand long before review begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videogameschronicle.com/news/lego-is-no-longer-accepting-zelda-fan-submissions-due-to-a-license-conflict/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videogameschronicle.com">[VGC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videogameschronicle.com</span><span class="citation-popover-title">lego is no longer accepting zelda fan submissions due to a license conflict</span><span class="citation-popover-snippet">VGCLego is no longer accepting Zelda fan submissions due to &#x27;...9 Nov 2022 — Lego has blocked creators from submitting Zelda designs for...</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-2-dark.svg" | relative_url }}" alt="Licensing illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why LEGO Ideas Uses Stricter IP Rules Than LEGO Itself
 
@@ -331,12 +326,11 @@ The purpose of LEGO Ideas is not to expose every licensing negotiation to public
 
 In other words, LEGO Ideas is not an unrestricted market of [fan demand]({{ 'fan-demand/' | relative_url }}). It is a curated environment where demand signals are only useful when they exist inside boundaries that LEGO can realistically act upon.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4s5WZhBHgv4" title="LEGO Ideas - Top 10 Not Approved Projects!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4s5WZhBHgv4" target="_blank" rel="noopener noreferrer">LEGO Ideas - Top 10 Not Approved Projects!</a></p><p class="youtube-embed-meta">Channel: CutTheKragle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4s5WZhBHgv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4s5WZhBHgv4">Open on YouTube</a></p></div></div></div>
-
 ## How Licensing Guardrails Protect the Platform
 
 At first glance, these restrictions can appear anti-creative. Fans often see popular projects blocked, rejected or ruled ineligible despite strong support. Yet from a governance perspective, the restrictions perform several protective functions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Pi1kYXrAyQ" title="How LEGO Turned Fan Ideas Into BILLIONS - BrickCast Ep. 90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Pi1kYXrAyQ" target="_blank" rel="noopener noreferrer">How LEGO Turned Fan Ideas Into BILLIONS - BrickCast Ep. 90</a></p><p class="youtube-embed-meta">Channel: The Imagination Brickshop &middot; Views: 166 &middot; Uploaded: June 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Pi1kYXrAyQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Pi1kYXrAyQ">Open on YouTube</a></p></div></div></div>
 
 ### They reduce false signals
 
@@ -344,10 +338,8 @@ Without licensing filters, the platform could become dominated by famous franchi
 
 ### They prevent review overload
 
-Every project reaching 10,000 supporters requires assessment, rebuilding, legal checks and commercial analysis. Restricting submissions helps LEGO focus review resources on ideas that have at least some chance of reaching market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/howitworks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">LEGO IdeasHow It Works | LEGO® IdeasIf a Product Idea gets 10,000 supporters from our fan community, it gets considered for production as...</span></span></span>
+Every project reaching 10,000 supporters requires assessment, rebuilding, legal checks and commercial analysis. Restricting submissions helps LEGO focus review resources on ideas that have at least some chance of reaching market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/howitworks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">LEGO IdeasHow It Works &#124; LEGO® IdeasIf a Product Idea gets 10,000 supporters from our fan community, it gets considered for production as...</span></span></span>
 
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-3-dark.svg" | relative_url }}" alt="Licensing illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### They protect relationships with rights holders
 
 Licensing negotiations are often sensitive. Publicly encouraging thousands of supporters around properties that LEGO cannot secure could create friction with external partners or generate expectations that neither side can fulfil. Licensing guardrails avoid turning the platform into a public pressure campaign directed at rights owners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/legal/notices-and-policies/fair-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
@@ -356,6 +348,7 @@ Licensing negotiations are often sensitive. Publicly encouraging thousands of su
 
 If unrestricted, globally recognised entertainment brands could dominate attention. The platform's restrictions create space for original creations, niche properties and unexpected concepts that LEGO might otherwise overlook. This is one reason Ideas has produced sets based on unusual subjects ranging from scientific models to architecture, display pieces and specialised fan interests rather than becoming entirely dependent on blockbuster franchises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas... Lego, such as Star Wars and Harry Potter. All eligible projects are collectively reviewed in the order of whichever proj...</span></span></span>
 
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-3-dark.svg" | relative_url }}" alt="Licensing illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Licensing as an Antifragile Constraint
 
 In the context of LEGO's broader antifragility, licensing restrictions are not simply barriers. They are filters that help transform chaotic fan creativity into usable strategic information.
@@ -363,10 +356,6 @@ In the context of LEGO's broader antifragility, licensing restrictions are not s
 LEGO Ideas benefits from exposing the company to a wide range of external ideas, but unlimited openness would produce noise, legal conflicts and unrealistic expectations. Licensing rules narrow the field to proposals that can plausibly become products while still allowing unexpected opportunities to emerge. The company gains access to distributed creativity without surrendering control over intellectual property, brand management or commercial feasibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profwurzer.com">[IPBA® Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profwurzer.com</span><span class="citation-popover-snippet">IPBA® ConnectLEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas... Lego, such as Star Wars and Harry Potter. All eligible projects are collectively reviewed in the order of whichever proj...</span></span></span>
 
 That balance is central to why LEGO Ideas functions as more than crowdsourcing. The platform is open enough to discover surprises, yet constrained enough to convert those surprises into real products. Licensing rules are one of the key mechanisms that make that balance possible.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X6VFHxPYXDA" title="Rejected LEGO Ideas: What Could Have Been | BCC Podcast #235" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X6VFHxPYXDA" target="_blank" rel="noopener noreferrer">Rejected LEGO Ideas: What Could Have Been | BCC Podcast #235</a></p><p class="youtube-embed-meta">Channel: The BCC Crew</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X6VFHxPYXDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X6VFHxPYXDA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -522,6 +511,22 @@ That balance is central to why LEGO Ideas functions as more than crowdsourcing. 
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-popular-lego-ideas-cannot-win-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-some-popular-lego-ideas-cannot-win-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-popular-lego-ideas-cannot-win-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-some-popular-lego-ideas-cannot-win-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-popular-lego-ideas-cannot-win-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-some-popular-lego-ideas-cannot-win-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-popular-lego-ideas-cannot-win-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-some-popular-lego-ideas-cannot-win-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions"><img src="https://i.ebayimg.com/images/g/~G4AAeSwgrxqI96C/s-l225.jpg" alt="Listing image for LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-popular-lego-ideas-cannot-win-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-some-popular-lego-ideas-cannot-win-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-popular-lego-ideas-cannot-win-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-some-popular-lego-ideas-cannot-win-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
@@ -743,253 +748,254 @@ That balance is central to why LEGO Ideas functions as more than crowdsourcing. 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/guidelines](https://ideas.lego.com/guidelines)  
+   Link: <a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IdeasRules Guidelines16 Apr 2026 — Your idea can be completely original or inspired by an existing Intellectual Property (IP), such...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-nz/service/help-topics/article/creating-product-ideas-with-licensed-brands](https://www.lego.com/en-nz/service/help-topics/article/creating-product-ideas-with-licensed-brands)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOCreating product ideas with licensed brandsWe also no longer accept product ideas based on licenses or concepts that have been commer...</p></details>
+   Link: <a href="https://www.lego.com/en-nz/service/help-topics/article/creating-product-ideas-with-licensed-brands" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nz/service/help-topics/article/creating-product-ideas-with-licensed-brands</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating product ideas with licensed brandsWe also no longer accept product ideas based on licenses or concepts that have been commer...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Title: After that, your product idea is considered to be in LEGO review and may be  
-   Link: [https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOWhat happens to my product idea after I reach 10000...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® I...</p></details>
+   Link: <a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach 10000...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® I...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
+   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r that, your product idea is considered to be in LEGO review and may...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/howitworks](https://ideas.lego.com/howitworks)  
+   Link: <a href="https://ideas.lego.com/howitworks" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/howitworks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IdeasHow It Works | LEGO® IdeasIf a Product Idea gets 10,000 supporters from our fan community, it gets considered for production as...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: brickset.com  
    Title: lego ideas no longer accepting projects based on active licenses  
-   Link: [https://brickset.com/article/27446/lego-ideas-no-longer-accepting-projects-based-on-active-licenses](https://brickset.com/article/27446/lego-ideas-no-longer-accepting-projects-based-on-active-licenses)  
+   Link: <a href="https://brickset.com/article/27446/lego-ideas-no-longer-accepting-projects-based-on-active-licenses" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/27446/lego-ideas-no-longer-accepting-projects-based-on-active-licenses</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas no longer accepting projects based on active...5 Apr 2017 — LEGO Ideas will no longer accept new submissions based on third-p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: stonewars.com  
    Title: lego ideas rules and guidelines explained  
-   Link: [https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/](https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/)  
+   Link: <a href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow">https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: Rules and Guidelines explained22 Jan 2021 — Since then, ideas based on active or announced licenses will be rejected. In addi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/19ewq8k/why_are_so_many_ips_banned_from_lego_ideas/](https://www.reddit.com/r/lego/comments/19ewq8k/why_are_so_many_ips_banned_from_lego_ideas/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy are so many IPs banned from Lego Ideas?January 25, 2024 — Lego bans IPs that they know won&#x27;t work or that they won&#x27;t want to pu...</p></details>
+   Link: <a href="https://www.reddit.com/r/lego/comments/19ewq8k/why_are_so_many_ips_banned_from_lego_ideas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/19ewq8k/why_are_so_many_ips_banned_from_lego_ideas/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are so many IPs banned from Lego Ideas?January 25, 2024 — Lego bans IPs that they know won&#x27;t work or that they won&#x27;t want to pu...</p></details>
    Published: January 25, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/legoideas/comments/ti2jbv/question_about_blocked_ips/](https://www.reddit.com/r/legoideas/comments/ti2jbv/question_about_blocked_ips/)  
+   Link: <a href="https://www.reddit.com/r/legoideas/comments/ti2jbv/question_about_blocked_ips/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legoideas/comments/ti2jbv/question_about_blocked_ips/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ual property that may be denied via LEGO Ideas...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/legal/notices-and-policies/fair-play](https://www.lego.com/en-gb/legal/notices-and-policies/fair-play)  
+   Link: <a href="https://www.lego.com/en-gb/legal/notices-and-policies/fair-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/legal/notices-and-policies/fair-play</a>  
 
 11. <a id="endnote-11"></a>
    Source: videogameschronicle.com  
    Title: lego is no longer accepting zelda fan submissions due to a license conflict  
-   Link: [https://www.videogameschronicle.com/news/lego-is-no-longer-accepting-zelda-fan-submissions-due-to-a-license-conflict/](https://www.videogameschronicle.com/news/lego-is-no-longer-accepting-zelda-fan-submissions-due-to-a-license-conflict/)  
+   Link: <a href="https://www.videogameschronicle.com/news/lego-is-no-longer-accepting-zelda-fan-submissions-due-to-a-license-conflict/" target="_blank" rel="noopener noreferrer nofollow">https://www.videogameschronicle.com/news/lego-is-no-longer-accepting-zelda-fan-submissions-due-to-a-license-conflict/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VGCLego is no longer accepting Zelda fan submissions due to &#x27;...9 Nov 2022 — Lego has blocked creators from submitting Zelda designs for...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/terms](https://ideas.lego.com/terms)  
+   Link: <a href="https://ideas.lego.com/terms" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/terms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of ServiceIf you fail to comply with all of the requirements of this Section, you acknowledge that your intellectual property right in Co...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb](https://www.lego.com/en-gb)  
+   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us](https://www.lego.com/en-us)  
+   Link: <a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
+   Link: <a href="https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ideas.lego.com  
    Title: agree policies  
-   Link: [https://ideas.lego.com/agree_policies](https://ideas.lego.com/agree_policies)  
+   Link: <a href="https://ideas.lego.com/agree_policies" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/agree_policies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Policies Have ChangedYour submissions must be your own work and no one else&#x27;s, unless you are formally collaborating with another person...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/service/help-topics/article/using-lego-products-for-personal-projects](https://www.lego.com/en-us/service/help-topics/article/using-lego-products-for-personal-projects)  
+   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/using-lego-products-for-personal-projects" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/using-lego-products-for-personal-projects</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/63mg5n/lego_ideas_guidelines_updated_not_accepting/](https://www.reddit.com/r/lego/comments/63mg5n/lego_ideas_guidelines_updated_not_accepting/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/63mg5n/lego_ideas_guidelines_updated_not_accepting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/63mg5n/lego_ideas_guidelines_updated_not_accepting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas guidelines updated: Not accepting projects...It&#x27;s clear that Lego never intended for any active licenses to be successful...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/19629tz/question_about_lego_ideas/](https://www.reddit.com/r/lego/comments/19629tz/question_about_lego_ideas/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/19629tz/question_about_lego_ideas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/19629tz/question_about_lego_ideas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Question about Lego Ideas: r/legoThere&#x27;s a feature on Lego Ideas for when you&#x27;re submitting a project. If your potential project is base...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/16k5pky/thoughts_on_lego_ideas_creators_earning_1_of/](https://www.reddit.com/r/lego/comments/16k5pky/thoughts_on_lego_ideas_creators_earning_1_of/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/16k5pky/thoughts_on_lego_ideas_creators_earning_1_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/16k5pky/thoughts_on_lego_ideas_creators_earning_1_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So the other 99% includes manufacturing, development, distribution and paying licences to themed sets and you get a few sets.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: does anyone understand the copywrite laws around  
-   Link: [https://www.reddit.com/r/lego/comments/iugpcs/does_anyone_understand_the_copywrite_laws_around/](https://www.reddit.com/r/lego/comments/iugpcs/does_anyone_understand_the_copywrite_laws_around/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/iugpcs/does_anyone_understand_the_copywrite_laws_around/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/iugpcs/does_anyone_understand_the_copywrite_laws_around/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can I do a video showing how to build a specific model?Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: profwurzer.com  
-   Link: [https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/](https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/)  
+   Link: <a href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow">https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IPBA® ConnectLEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: brickingaround.com  
    Title: lego ideas no longer allowing projects using existing ip  
-   Link: [https://brickingaround.com/2017/04/07/lego-ideas-no-longer-allowing-projects-using-existing-ip/](https://brickingaround.com/2017/04/07/lego-ideas-no-longer-allowing-projects-using-existing-ip/)  
+   Link: <a href="https://brickingaround.com/2017/04/07/lego-ideas-no-longer-allowing-projects-using-existing-ip/" target="_blank" rel="noopener noreferrer nofollow">https://brickingaround.com/2017/04/07/lego-ideas-no-longer-allowing-projects-using-existing-ip/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that there...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thebrickfan.com  
    Title: lego ideas no longer accepting projects based on third party and active licenses  
-   Link: [https://www.thebrickfan.com/lego-ideas-no-longer-accepting-projects-based-on-third-party-and-active-licenses/](https://www.thebrickfan.com/lego-ideas-no-longer-accepting-projects-based-on-third-party-and-active-licenses/)  
+   Link: <a href="https://www.thebrickfan.com/lego-ideas-no-longer-accepting-projects-based-on-third-party-and-active-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-ideas-no-longer-accepting-projects-based-on-third-party-and-active-licenses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Ideas, as they can no longer submit their licensed models.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: brickfanatics.com  
    Title: lego ideas has an even stricter policy when it comes to ip choice  
-   Link: [https://www.brickfanatics.com/lego-ideas-has-an-even-stricter-policy-when-it-comes-to-ip-choice](https://www.brickfanatics.com/lego-ideas-has-an-even-stricter-policy-when-it-comes-to-ip-choice)  
+   Link: <a href="https://www.brickfanatics.com/lego-ideas-has-an-even-stricter-policy-when-it-comes-to-ip-choice" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-has-an-even-stricter-policy-when-it-comes-to-ip-choice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO Ideas has an “even stricter policy” when it comes to...13 Sept 2019 — The LEGO Ideas team has confirmed that stricter...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: brickipedia.fandom.com  
    Title: Brickipedia LEGO Ideas/Rejected Projects  
-   Link: [https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects](https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Bus&quot; LEGO Set - Rejected due to license overlap; Hulkbuster UCS - Rejected due to license overlap; Lego Store Modular...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Lego Ideas  
-   Link: [https://en.wikipedia.org/wiki/Lego_Ideas](https://en.wikipedia.org/wiki/Lego_Ideas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Ideas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Ideas... Lego, such as [Star Wars](&amp;#123;&amp;#123; &#x27;star-wars/&#x27; | relative_url &amp;#125;&amp;#125;) and Harry Potter. All eligible projects are collectively reviewed in the order of whichever proj...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: brickfanatics.com  
-   Link: [https://www.brickfanatics.com/one-reason-become-a-lego-ideas-fan-designer](https://www.brickfanatics.com/one-reason-become-a-lego-ideas-fan-designer)  
+   Link: <a href="https://www.brickfanatics.com/one-reason-become-a-lego-ideas-fan-designer" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/one-reason-become-a-lego-ideas-fan-designer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is one reason to become a LEGO Ideas fan designer28 Oct 2025 — Every LEGO Ideas fan designer gets 10 copies of the model which they...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: brickfanatics.com  
    Title: lego ideas space creativity licenses ip  
-   Link: [https://www.brickfanatics.com/lego-ideas-space-creativity-licenses-ip](https://www.brickfanatics.com/lego-ideas-space-creativity-licenses-ip)  
+   Link: <a href="https://www.brickfanatics.com/lego-ideas-space-creativity-licenses-ip" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-space-creativity-licenses-ip</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: A space for creativity or miscellaneous...30 Oct 2025 — The LEGO Ideas team has just announced six new confirmed sets are on...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: brickfanatics.com  
    Title: Does LEGO Ideas need a rethink?  
-   Link: [https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone](https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone)  
+   Link: <a href="https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fan-powered platform...14 Jul 2025 — LEGO Ideas projects need to hit 10,000 supporters on the fan-based platform before they can enter t...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: gameofbricks.eu  
    Title: lego ideas and how to turn your lego imaginations to get royalties  
-   Link: [https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties](https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties)  
+   Link: <a href="https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties" target="_blank" rel="noopener noreferrer nofollow">https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego® Ideas and how to turn your Lego® imaginations to...2 Nov 2021 — The original designer or the person who initially brought on the i...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: gameofbricks.eu  
    Title: lego ideas and how to turn your lego imaginations to get royalties  
-   Link: [https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties?srsltid=AfmBOorqK58QhZ7p4U5PQyqwprv-BFndCGSfqV1FyeU8ALJeoN3USpPX](https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties?srsltid=AfmBOorqK58QhZ7p4U5PQyqwprv-BFndCGSfqV1FyeU8ALJeoN3USpPX)  
+   Link: <a href="https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties?srsltid=AfmBOorqK58QhZ7p4U5PQyqwprv-BFndCGSfqV1FyeU8ALJeoN3USpPX" target="_blank" rel="noopener noreferrer nofollow">https://gameofbricks.eu/blogs/news/lego-ideas-and-how-to-turn-your-lego-imaginations-to-get-royalties?srsltid=AfmBOorqK58QhZ7p4U5PQyqwprv-BFndCGSfqV1FyeU8ALJeoN3USpPX</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Ideas and how to turn your Lego imaginations to get...Nov 2, 2021 — The original designer or the person who initially brought on th...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: brothers-brick.com  
-   Link: [https://www.brothers-brick.com/2016/06/22/lego-ideas-guidelines-and-terms-of-services-updated-makes-submission-rules-tighter-news/](https://www.brothers-brick.com/2016/06/22/lego-ideas-guidelines-and-terms-of-services-updated-makes-submission-rules-tighter-news/)  
+   Link: <a href="https://www.brothers-brick.com/2016/06/22/lego-ideas-guidelines-and-terms-of-services-updated-makes-submission-rules-tighter-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2016/06/22/lego-ideas-guidelines-and-terms-of-services-updated-makes-submission-rules-tighter-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas guidelines and terms of services updated...Jun 22, 2016 — The two biggest changes are a 3,000 piece, single-box limit for all...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: idisplayit.co.uk  
    Title: LEG O IDEAS Program  
-   Link: [https://www.idisplayit.co.uk/news/lego-releases/lego-ideas-program-what-it-is-and-how-to-submit-an-idea/?srsltid=AfmBOoqVV_3MLCuiB50muK46oLayGrknyph7369nOb2dmjo-DE-mPXIK](https://www.idisplayit.co.uk/news/lego-releases/lego-ideas-program-what-it-is-and-how-to-submit-an-idea/?srsltid=AfmBOoqVV_3MLCuiB50muK46oLayGrknyph7369nOb2dmjo-DE-mPXIK)  
+   Link: <a href="https://www.idisplayit.co.uk/news/lego-releases/lego-ideas-program-what-it-is-and-how-to-submit-an-idea/?srsltid=AfmBOoqVV_3MLCuiB50muK46oLayGrknyph7369nOb2dmjo-DE-mPXIK" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/lego-ideas-program-what-it-is-and-how-to-submit-an-idea/?srsltid=AfmBOoqVV_3MLCuiB50muK46oLayGrknyph7369nOb2dmjo-DE-mPXIK</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IDEAS Program - What It Is and How To Submit...Sep 2, 2024 — There is a time frame within which the 10,000 supporters must be achie...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: toysnbricks.com  
-   Link: [https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/](https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/)  
+   Link: <a href="https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: How It Works, Fan Voting, and How to Submit...Dec 7, 2025 — And based on the company&#x27;s policy, you simply need 10,000 suppor...</p></details>
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze](https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze)  
+   Link: <a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
 
 38. <a id="endnote-38"></a>
    Source: binodpanda66.medium.com  
    Title: crowdsourced creativity lego ideas case 703701e27b49  
-   Link: [https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49](https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49)  
+   Link: <a href="https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49" target="_blank" rel="noopener noreferrer nofollow">https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas Case Study: Crowdsourced CreativityAnd when an idea gathers 10,000 &#x27;supports&#x27; from the community, it is selected for being reviewe...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: thebrickblogger.com  
    Title: no more active licenses on lego ideas  
-   Link: [https://thebrickblogger.com/2017/04/no-more-active-licenses-on-lego-ideas/](https://thebrickblogger.com/2017/04/no-more-active-licenses-on-lego-ideas/)  
+   Link: <a href="https://thebrickblogger.com/2017/04/no-more-active-licenses-on-lego-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2017/04/no-more-active-licenses-on-lego-ideas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Apr 2017 — LEGO Ideas will no longer accept new submissions based on third-party licenses that are active in the LEGO Group&#x27;s portfoli...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ipo.blog.gov.uk  
    Title: legocy in the making an ip story  
-   Link: [https://ipo.blog.gov.uk/2025/03/20/legocy-in-the-making-an-ip-story/](https://ipo.blog.gov.uk/2025/03/20/legocy-in-the-making-an-ip-story/)  
+   Link: <a href="https://ipo.blog.gov.uk/2025/03/20/legocy-in-the-making-an-ip-story/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/03/20/legocy-in-the-making-an-ip-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the making: an IP story20 Mar 2025 — IP is vital to LEGO and the toy industry, providing essential protection and incentives for manuf...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: bzpower.com  
    Title: Licensed Theme Resentment  
-   Link: [https://www.bzpower.com/topic/29002-licensed-theme-resentment/](https://www.bzpower.com/topic/29002-licensed-theme-resentment/)  
+   Link: <a href="https://www.bzpower.com/topic/29002-licensed-theme-resentment/" target="_blank" rel="noopener noreferrer nofollow">https://www.bzpower.com/topic/29002-licensed-theme-resentment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO DiscussionApr 21, 2020 — What I am trying to say is that the theme of franchises replacing original ideas is not just happening with...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: harrisbricks.com  
    Title: the lego ideas process  
-   Link: [https://harrisbricks.com/2022/the-lego-ideas-process/](https://harrisbricks.com/2022/the-lego-ideas-process/)  
+   Link: <a href="https://harrisbricks.com/2022/the-lego-ideas-process/" target="_blank" rel="noopener noreferrer nofollow">https://harrisbricks.com/2022/the-lego-ideas-process/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2022 — The first thing you need to do (if your idea is based on a licensed property/IP) is make sure your idea is able to be a LE...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: How LEGO Turned Fan Ideas Into BILLIONS  
-   Link: [https://www.youtube.com/watch?v=-Pi1kYXrAyQ](https://www.youtube.com/watch?v=-Pi1kYXrAyQ)  
+   Link: <a href="https://www.youtube.com/watch?v=-Pi1kYXrAyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-Pi1kYXrAyQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickCast Ep. 90I&#x27;m going to give you a little bit of history on it, talk about some of the impressive sets, how it works, talk about som...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: rebrickable.com  
    Title: small set 2026  
-   Link: [https://rebrickable.com/blog/823/small-set-2026/](https://rebrickable.com/blog/823/small-set-2026/)  
+   Link: <a href="https://rebrickable.com/blog/823/small-set-2026/" target="_blank" rel="noopener noreferrer nofollow">https://rebrickable.com/blog/823/small-set-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[April Fools] LEGO to limit set sizes in 20261 Apr 2025 — In an unexpected move, LEGO has announced that in 2026, it will pause the relea...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9g_XzFdM6Lg](https://www.youtube.com/watch?v=9g_XzFdM6Lg)  
+   Link: <a href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g_XzFdM6Lg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>their own ideas for Lego sets...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: The Brutal Reality of LEGO Ideas  
-   Link: [https://www.youtube.com/watch?v=o040w6sQ3vQ](https://www.youtube.com/watch?v=o040w6sQ3vQ)  
+   Link: <a href="https://www.youtube.com/watch?v=o040w6sQ3vQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o040w6sQ3vQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your LEGO Ideas Project Will Never Become a Set...</p></details>

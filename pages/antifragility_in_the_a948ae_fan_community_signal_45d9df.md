@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /antifragility-in-the-context-of-the/
 nav_short_title: Fan Signals
 title: How LEGO Fans Became a Market Sensor
-title_full: How LEGO Fans Became a Market Sensor | LEGO Antifragility
+title_full: How LEGO Fans Became a Market Sensor
 display_title_short: Fan Signals
 display_title: Fan Signals
 heading_title: How LEGO Fans Became a Market Sensor
@@ -343,7 +343,7 @@ next_link:
   permalink: /framework/
   short_title: Framework
   heading_title: Is LEGO Really Antifragile or Just Resilient?
-date: '2026-06-09 03:33:21 '
+date: '2026-06-11 21:39:04 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-overview.webp
@@ -353,7 +353,6 @@ image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-ov
 ## Introduction
 
 LEGO’s fan communities became a demand sensor because they revealed enthusiasm before it was large enough to appear in ordinary toy-market data. [Adult fans]({{ 'adult-fans/' | relative_url }}), online builders, collectors, fan media, local user groups and LEGO Ideas voters showed the company which themes, building styles and cultural references were gaining energy beyond the children’s aisle. That matters for antifragility: rather than treating market noise as a threat, LEGO learned to use fan activity as early feedback.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-overview.webp" | relative_url }}" alt="Overview image for Fan Signals" loading="eager" decoding="sync" fetchpriority="high">
 The point is not that fans dictate the product line. LEGO still filters ideas through design, safety, brand, [licensing]({{ 'licensing/' | relative_url }}) and commercial tests. The antifragile value is narrower and more useful: fan communities make weak signals visible. They show where nostalgia, display building, pop culture, technical ambition and [adult gifting]({{ 'adult-gifting/' | relative_url }}) are turning into demand. When LEGO listens well, it can experiment earlier, reduce blind spots and convert scattered enthusiasm into stronger product options.
@@ -368,7 +367,6 @@ The early LEGO Minecraft case shows why this matters. In 2011, a Minecraft proje
 
 That kind of signal is especially valuable because fan enthusiasm often clusters around “passion points” rather than broad demographic categories. A fan-designed science set, a sitcom apartment, a space model, a botanical display or a retro castle is not just a toy idea. It is evidence that a specific group of people can imagine LEGO as a medium for their own identity, memory or hobby.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-1-dark.svg" | relative_url }}" alt="Fan Signals illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Community Feedback Reduces Blind Spots
 
@@ -381,7 +379,6 @@ The LEGO Ambassador Network formalised part of that relationship. LEGO describes
 BrickLink made the signal even stronger. When LEGO acquired BrickLink in 2019, the company described it as the world’s largest online community of adult LEGO fans and said the acquisition would strengthen its connection with an important adult fan base. BrickLink was not merely a sales channel; it was a marketplace, catalogue and design ecosystem where fan behaviour revealed which parts, colours, retired sets and building styles had persistent demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[lego]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is demand sensing in a practical sense. LEGO could observe not only what fans said they wanted, but what they built, traded, priced, collected and reconstructed. The difference matters. Surveys capture stated preferences; fan ecosystems reveal behaviour under constraint.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zTHTUPRCEO4" title="LEGO Ideas NASA Apollo Saturn V 21309 Official Images | Ninjago Set List | LEGO News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zTHTUPRCEO4" target="_blank" rel="noopener noreferrer">LEGO Ideas NASA Apollo Saturn V 21309 Official Images | Ninjago Set List | LEGO News</a></p><p class="youtube-embed-meta">Channel: BrickVault &middot; Views: 69.2K &middot; Uploaded: April 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zTHTUPRCEO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zTHTUPRCEO4">Open on YouTube</a></p></div></div></div>
 
@@ -397,7 +394,6 @@ More recently, pop-culture fandom has continued to show up through Ideas. The LE
 
 The antifragile mechanism is not “the crowd is always right”. It is that LEGO gains more [options]({{ 'options/' | relative_url }}). A fan idea can become a set, inspire a theme direction, reveal a licensing opportunity, or simply show that a cultural niche is more active than expected. Even rejected ideas can still teach LEGO something about the market.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-2-dark.svg" | relative_url }}" alt="Fan Signals illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Adult Fans Helped LEGO See a Broader Market
 
@@ -411,7 +407,6 @@ Reuters reported that LEGO had broadened its range to reach new customers and th
 
 Fan communities did not single-handedly create that adult market, but they helped make it legible. They showed LEGO that adults were not a fringe embarrassment or a novelty segment. They were builders, buyers, reviewers, organisers and advocates whose enthusiasm could identify demand before it became mainstream.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9mRzJaVjkzQ" title="LEGO&#x27;s financial report is good news for adults" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9mRzJaVjkzQ" target="_blank" rel="noopener noreferrer">LEGO&#x27;s financial report is good news for adults</a></p><p class="youtube-embed-meta">Channel: Brick Fanatics &middot; Views: 13.4K &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9mRzJaVjkzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9mRzJaVjkzQ">Open on YouTube</a></p></div></div></div>
 
 ## The Sensor Works Best When LEGO Listens, Not When It Obeys
@@ -423,7 +418,6 @@ LEGO Ideas shows this tension clearly. Reaching 10,000 supporters gets a project
 The volume of fan submissions also creates a signal-quality problem. Brickset reported that 146 projects qualified for the Second 2025 LEGO Ideas review, more than double the previous record of 71 for the First 2023 review period. A flood of 10,000-supporter projects is impressive, but it also means the threshold no longer separates viable products as sharply as it once did. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">146 projects qualify for second 2025 lego ideas review</span><span class="citation-popover-snippet">146 projects qualify for second 2025 lego ideas review</span></span></span>
 
 That does not make the platform weak. It means the sensor has to be calibrated. Fan votes can identify energy, but LEGO still needs judgement about which signals represent durable demand, which are temporary campaigns, which depend on impossible licences, and which would delight fans but fail at retail price points.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-3-dark.svg" | relative_url }}" alt="Fan Signals illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Crowd Enthusiasm Can Mislead
@@ -439,7 +433,6 @@ Third, online enthusiasm can clash with operational realities. Projects may rely
 The BrickLink acquisition also showed the trust risk in listening too closely. The Guardian reported that some adult fans worried LEGO’s takeover could threaten unofficial creativity and the market for custom creations. That reaction matters because fan communities are not just data sources; they are cultures with norms around independence, modification and ownership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Lego accused of muscling in on fans after Brick Link takeover</span><span class="citation-popover-snippet">The Guardian Lego accused of muscling in on fans after Brick Link takeover</span></span></span>
 
 For LEGO, the antifragile move is not to absorb fan culture completely. It is to keep enough distance that fan creativity remains alive, while building enough connection that LEGO can learn from it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KXIQbLEpd78" title="🔄 LEGO Ideas Women of NASA review! 21312 re upload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KXIQbLEpd78" target="_blank" rel="noopener noreferrer">🔄 LEGO Ideas Women of NASA review! 21312 re upload</a></p><p class="youtube-embed-meta">Channel: JANG&#x27;s LEGO Reviews &middot; Views: 891 &middot; Uploaded: April 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KXIQbLEpd78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KXIQbLEpd78">Open on YouTube</a></p></div></div></div>
 
@@ -570,15 +563,15 @@ The strongest lesson is disciplined openness. LEGO’s fan communities are not a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21376 Orange Cat NEW 2026"><img src="https://i.ebayimg.com/images/g/lmEAAeSwdDpqHfOp/s-l225.jpg" alt="Listing image for LEGO Ideas 21376 Orange Cat NEW 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21376 Orange Cat NEW 2026</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +579,15 @@ The strongest lesson is disciplined openness. LEGO’s fan communities are not a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed"><img src="https://i.ebayimg.com/images/g/5PUAAeSw0NhqJain/s-l225.jpg" alt="Listing image for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +595,31 @@ The strongest lesson is disciplined openness. LEGO’s fan communities are not a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Mineral Collection Building Set 21362 18+ New And Sealed"><img src="https://i.ebayimg.com/images/g/-tAAAeSww3lqI9fw/s-l225.jpg" alt="Listing image for LEGO Ideas Mineral Collection Building Set 21362 18+ New And Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Mineral Collection Building Set 21362 18+ New And Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces"><img src="https://i.ebayimg.com/images/g/P7EAAeSwnVVqJbLo/s-l225.jpg" alt="Listing image for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +627,7 @@ The strongest lesson is disciplined openness. LEGO’s fan communities are not a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-fans-became-a-market-sensor-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-lego-fans-became-a-market-sensor-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,229 +837,230 @@ The strongest lesson is disciplined openness. LEGO’s fan communities are not a
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/](https://ideas.lego.com/)  
+   Link: <a href="https://ideas.lego.com/" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/</a>  
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
+   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: See Your Project Become a LEGO Kit  
-   Link: [https://www.wired.com/2011/12/see-your-project-become-a-lego-kit](https://www.wired.com/2011/12/see-your-project-become-a-lego-kit)  
+   Link: <a href="https://www.wired.com/2011/12/see-your-project-become-a-lego-kit" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/12/see-your-project-become-a-lego-kit</a>  
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/service/help-topics/article/about-the-lego-ambassador-network-lan](https://www.lego.com/en-gb/service/help-topics/article/about-the-lego-ambassador-network-lan)  
+   Link: <a href="https://www.lego.com/en-gb/service/help-topics/article/about-the-lego-ambassador-network-lan" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/service/help-topics/article/about-the-lego-ambassador-network-lan</a>  
 
 5. <a id="endnote-5"></a>
    Source: lan.lego.com  
-   Link: [https://lan.lego.com/clubs/overview/](https://lan.lego.com/clubs/overview/)  
+   Link: <a href="https://lan.lego.com/clubs/overview/" target="_blank" rel="noopener noreferrer nofollow">https://lan.lego.com/clubs/overview/</a>  
 
 6. <a id="endnote-6"></a>
    Source: lan.lego.com  
    Title: Ambassador Network The LEGO® Group acquires [Brick Link](&#123;&#123; 'brick-link/' | relative_url &#125;&#125;), the world's largest  
-   Link: [https://lan.lego.com/news/overview/the-lego-group-acquires-bricklink/](https://lan.lego.com/news/overview/the-lego-group-acquires-bricklink/)  
+   Link: <a href="https://lan.lego.com/news/overview/the-lego-group-acquires-bricklink/" target="_blank" rel="noopener noreferrer nofollow">https://lan.lego.com/news/overview/the-lego-group-acquires-bricklink/</a>  
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
    Title: women of nasa 21312  
-   Link: [https://www.lego.com/en-gb/product/women-of-nasa-21312](https://www.lego.com/en-gb/product/women-of-nasa-21312)  
+   Link: <a href="https://www.lego.com/en-gb/product/women-of-nasa-21312" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/product/women-of-nasa-21312</a>  
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: lego nasa apollo saturn v 92176  
-   Link: [https://www.lego.com/en-gb/product/lego-nasa-apollo-saturn-v-92176](https://www.lego.com/en-gb/product/lego-nasa-apollo-saturn-v-92176)  
+   Link: <a href="https://www.lego.com/en-gb/product/lego-nasa-apollo-saturn-v-92176" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/product/lego-nasa-apollo-saturn-v-92176</a>  
 
 9. <a id="endnote-9"></a>
    Source: polygon.com  
    Title: Twilight comes to the Lego world  
-   Link: [https://www.polygon.com/deals/509148/lego-twilight-set-cullen-house-edward-bella](https://www.polygon.com/deals/509148/lego-twilight-set-cullen-house-edward-bella)  
+   Link: <a href="https://www.polygon.com/deals/509148/lego-twilight-set-cullen-house-edward-bella" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/deals/509148/lego-twilight-set-cullen-house-edward-bella</a>  
 
 10. <a id="endnote-10"></a>
    Source: people.com  
-   Link: [https://people.com/twilight-fans-can-now-build-their-very-own-cullen-family-lego-house-8776181](https://people.com/twilight-fans-can-now-build-their-very-own-cullen-family-lego-house-8776181)  
+   Link: <a href="https://people.com/twilight-fans-can-now-build-their-very-own-cullen-family-lego-house-8776181" target="_blank" rel="noopener noreferrer nofollow">https://people.com/twilight-fans-can-now-build-their-very-own-cullen-family-lego-house-8776181</a>  
 
 11. <a id="endnote-11"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: Lego sales rise as bricks click with more shoppers  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/](https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
 
 13. <a id="endnote-13"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/guidelines](https://ideas.lego.com/guidelines)  
+   Link: <a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
 
 14. <a id="endnote-14"></a>
    Source: brickset.com  
    Title: 146 projects qualify for second 2025 lego ideas review  
-   Link: [https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review](https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review)  
+   Link: <a href="https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review</a>  
 
 15. <a id="endnote-15"></a>
    Source: brickipedia.fandom.com  
    Title: Brickipedia LEGO Ideas/Rejected Projects  
-   Link: [https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects](https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects</a>  
 
 16. <a id="endnote-16"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: lego.com  
    Title: Hidden Disability Sunflower  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/november/hidden-disability-sunflower](https://www.lego.com/en-us/aboutus/news/2024/november/hidden-disability-sunflower)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/november/hidden-disability-sunflower" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/november/hidden-disability-sunflower</a>  
 
 19. <a id="endnote-19"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
 20. <a id="endnote-20"></a>
    Source: lego.com  
    Title: what happens to my product idea after i reach 10 000 supporters  
-   Link: [https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
+   Link: <a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
 
 21. <a id="endnote-21"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/terms](https://ideas.lego.com/terms)  
+   Link: <a href="https://ideas.lego.com/terms" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/terms</a>  
 
 22. <a id="endnote-22"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Performance Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Financial Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: wired.com  
    Title: a good idea lego minecraft  
-   Link: [https://www.wired.com/2011/11/a-good-idea-lego-minecraft/](https://www.wired.com/2011/11/a-good-idea-lego-minecraft/)  
+   Link: <a href="https://www.wired.com/2011/11/a-good-idea-lego-minecraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/11/a-good-idea-lego-minecraft/</a>  
 
 25. <a id="endnote-25"></a>
    Source: wired.com  
    Title: lego minecraft possibility  
-   Link: [https://www.wired.com/2011/12/lego-minecraft-possibility/](https://www.wired.com/2011/12/lego-minecraft-possibility/)  
+   Link: <a href="https://www.wired.com/2011/12/lego-minecraft-possibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/12/lego-minecraft-possibility/</a>  
 
 26. <a id="endnote-26"></a>
    Source: brickset.com  
    Title: the lego group acquires bricklink  
-   Link: [https://brickset.com/article/47293/the-lego-group-acquires-bricklink](https://brickset.com/article/47293/the-lego-group-acquires-bricklink)  
+   Link: <a href="https://brickset.com/article/47293/the-lego-group-acquires-bricklink" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/47293/the-lego-group-acquires-bricklink</a>  
 
 27. <a id="endnote-27"></a>
    Source: brickset.com  
    Title: lego achieves record revenue and profit in 2024  
-   Link: [https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024](https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024)  
+   Link: <a href="https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024</a>  
 
 28. <a id="endnote-28"></a>
    Source: brickipedia.fandom.com  
    Title: LEGO Ambassador Network  
-   Link: [https://brickipedia.fandom.com/wiki/LEGO_Ambassador_Network](https://brickipedia.fandom.com/wiki/LEGO_Ambassador_Network)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/LEGO_Ambassador_Network" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Ambassador_Network</a>  
 
 29. <a id="endnote-29"></a>
    Source: cuusoo.fandom.com  
    Title: LEGO Minecraft  
-   Link: [https://cuusoo.fandom.com/wiki/LEGO_Minecraft](https://cuusoo.fandom.com/wiki/LEGO_Minecraft)  
+   Link: <a href="https://cuusoo.fandom.com/wiki/LEGO_Minecraft" target="_blank" rel="noopener noreferrer nofollow">https://cuusoo.fandom.com/wiki/LEGO_Minecraft</a>  
 
 30. <a id="endnote-30"></a>
    Source: brickipedia.fandom.com  
    Title: 21312 Women of NASA  
-   Link: [https://brickipedia.fandom.com/wiki/21312_Women_of_NASA](https://brickipedia.fandom.com/wiki/21312_Women_of_NASA)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/21312_Women_of_NASA" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/21312_Women_of_NASA</a>  
 
 31. <a id="endnote-31"></a>
    Source: cuusoo.com  
-   Link: [https://cuusoo.com/brands/lego-cuusoo](https://cuusoo.com/brands/lego-cuusoo)  
+   Link: <a href="https://cuusoo.com/brands/lego-cuusoo" target="_blank" rel="noopener noreferrer nofollow">https://cuusoo.com/brands/lego-cuusoo</a>  
 
 32. <a id="endnote-32"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/past/adp.page](https://www.bricklink.com/v3/designer-program/past/adp.page)  
+   Link: <a href="https://www.bricklink.com/v3/designer-program/past/adp.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/past/adp.page</a>  
 
 33. <a id="endnote-33"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/main.page](https://www.bricklink.com/v3/designer-program/main.page)  
+   Link: <a href="https://www.bricklink.com/v3/designer-program/main.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/main.page</a>  
 
 34. <a id="endnote-34"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/catalogList.asp?catString=817&catType=S](https://www.bricklink.com/catalogList.asp?catString=817&catType=S)  
+   Link: <a href="https://www.bricklink.com/catalogList.asp?catString=817&amp;catType=S" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catString=817&amp;catType=S</a>  
 
 35. <a id="endnote-35"></a>
    Source: community.inc  
-   Link: [https://community.inc/deep-dives/community-growth-lego](https://community.inc/deep-dives/community-growth-lego)  
+   Link: <a href="https://community.inc/deep-dives/community-growth-lego" target="_blank" rel="noopener noreferrer nofollow">https://community.inc/deep-dives/community-growth-lego</a>  
 
 36. <a id="endnote-36"></a>
    Source: theguardian.com  
    Title: The Guardian Lego accused of muscling in on fans after Brick Link takeover  
-   Link: [https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover](https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2019/dec/20/lego-accused-of-muscling-in-on-fans-after-bricklink-takeover</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/26440309178917596/](https://www.facebook.com/groups/26440309178917596/)  
+   Link: <a href="https://www.facebook.com/groups/26440309178917596/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26440309178917596/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/991442004640863/posts/2476944839423898/](https://www.facebook.com/groups/991442004640863/posts/2476944839423898/)  
+   Link: <a href="https://www.facebook.com/groups/991442004640863/posts/2476944839423898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/991442004640863/posts/2476944839423898/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/967478717319949/posts/2147626449305164/](https://www.facebook.com/groups/967478717319949/posts/2147626449305164/)  
+   Link: <a href="https://www.facebook.com/groups/967478717319949/posts/2147626449305164/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/967478717319949/posts/2147626449305164/</a>  
 
 40. <a id="endnote-40"></a>
    Source: theguardian.com  
    Title: lego sales rise as parents steer children to activities away from smartphones  
-   Link: [https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones](https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334824791_The_adult_fans_of_Lego_and_their_online_communities_Proposing_a_brand_culture_typology](https://www.researchgate.net/publication/334824791_The_adult_fans_of_Lego_and_their_online_communities_Proposing_a_brand_culture_typology)  
+   Link: <a href="https://www.researchgate.net/publication/334824791_The_adult_fans_of_Lego_and_their_online_communities_Proposing_a_brand_culture_typology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334824791_The_adult_fans_of_Lego_and_their_online_communities_Proposing_a_brand_culture_typology</a>  
 
 42. <a id="endnote-42"></a>
    Source: steelcitylug.com  
-   Link: [https://www.steelcitylug.com/wp-content/uploads/2018/03/5a26699a6bc57_2018RecognizedLEGOFanCommunityProgram-4.pdf](https://www.steelcitylug.com/wp-content/uploads/2018/03/5a26699a6bc57_2018RecognizedLEGOFanCommunityProgram-4.pdf)  
+   Link: <a href="https://www.steelcitylug.com/wp-content/uploads/2018/03/5a26699a6bc57_2018RecognizedLEGOFanCommunityProgram-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.steelcitylug.com/wp-content/uploads/2018/03/5a26699a6bc57_2018RecognizedLEGOFanCommunityProgram-4.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1532129557644306/posts/1957898701734054/](https://www.facebook.com/groups/1532129557644306/posts/1957898701734054/)  
+   Link: <a href="https://www.facebook.com/groups/1532129557644306/posts/1957898701734054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1532129557644306/posts/1957898701734054/</a>  
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/1cqornl/how_do_i_join_the_lego_ambassador_club_i_think/](https://www.reddit.com/r/lego/comments/1cqornl/how_do_i_join_the_lego_ambassador_club_i_think/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/1cqornl/how_do_i_join_the_lego_ambassador_club_i_think/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1cqornl/how_do_i_join_the_lego_ambassador_club_i_think/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/998154171559369/posts/1566803628027751/](https://www.facebook.com/groups/998154171559369/posts/1566803628027751/)  
+   Link: <a href="https://www.facebook.com/groups/998154171559369/posts/1566803628027751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/998154171559369/posts/1566803628027751/</a>  
 
 46. <a id="endnote-46"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNTqhg3y1oy/?hl=en-gb](https://www.instagram.com/reel/DNTqhg3y1oy/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DNTqhg3y1oy/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNTqhg3y1oy/?hl=en-gb</a>  
 
 47. <a id="endnote-47"></a>
    Source: licenseglobal.com  
-   Link: [https://www.licenseglobal.com/toys-games/lego-acquires-bricklink](https://www.licenseglobal.com/toys-games/lego-acquires-bricklink)  
+   Link: <a href="https://www.licenseglobal.com/toys-games/lego-acquires-bricklink" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/toys-games/lego-acquires-bricklink</a>  
 
 48. <a id="endnote-48"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTtw89ejFra/](https://www.instagram.com/p/DTtw89ejFra/)  
+   Link: <a href="https://www.instagram.com/p/DTtw89ejFra/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTtw89ejFra/</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/rfj9xn/legos_biggest_market_are_adults_who_grew_up/](https://www.reddit.com/r/lego/comments/rfj9xn/legos_biggest_market_are_adults_who_grew_up/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/rfj9xn/legos_biggest_market_are_adults_who_grew_up/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/rfj9xn/legos_biggest_market_are_adults_who_grew_up/</a>  
 
 50. <a id="endnote-50"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/robingissing_a-friday-lego-thought-given-that-i-assume-activity-7461011257471430657-YWOl](https://www.linkedin.com/posts/robingissing_a-friday-lego-thought-given-that-i-assume-activity-7461011257471430657-YWOl)  
+   Link: <a href="https://www.linkedin.com/posts/robingissing_a-friday-lego-thought-given-that-i-assume-activity-7461011257471430657-YWOl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/robingissing_a-friday-lego-thought-given-that-i-assume-activity-7461011257471430657-YWOl</a>

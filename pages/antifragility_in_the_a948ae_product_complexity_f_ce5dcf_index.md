@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-product/
 description: Focused pages that expand on Complexity.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: antifragility_in_the_a948ae_product_complexity_f_ce5dcf
-parent_title: Complexity | antifragility in the context of the Lego company
+parent_title: Complexity
 parent_nav_short_title: Complexity
 parent_permalink: /complexity/
 ---

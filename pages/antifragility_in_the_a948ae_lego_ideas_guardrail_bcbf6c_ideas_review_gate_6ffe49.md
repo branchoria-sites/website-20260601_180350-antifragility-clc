@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /lego-ideas/
 nav_short_title: Review Gate
 title: What Happens After a Fan Model Wins
-title_full: What Happens After a Fan Model Wins | LEGO Ideas
+title_full: What Happens After a Fan Model Wins
 display_title_short: Review Gate
 display_title: Review Gate
 heading_title: What Happens After a Fan Model Wins
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why LEGO Ideas Is Not Just Crowdsourcing | LEGO Antifragility
+parent_title: Why LEGO Ideas Is Not Just Crowdsourcing
 parent_permalink: /lego-ideas/
 parent_nav_short_title: LEGO Ideas
 parent_heading_title: Why LEGO Ideas Is Not Just Crowdsourcing
@@ -259,7 +259,7 @@ prev_link:
   permalink: /options/
   short_title: Options
   heading_title: How LEGO Turns Fan Chaos Into Options
-date: '2026-06-09 03:37:52 '
+date: '2026-06-11 21:39:36 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_id
 
 ## Introduction
 
-A LEGO Ideas project does not become a retail set simply because 10,000 people support it. That milestone only earns a place in LEGO’s formal review process, where the company tests whether a fan-built model can survive the transition from impressive prototype to mass-produced product. The review stage is where LEGO’s open innovation system becomes heavily constrained: engineers, designers, brand managers and [licensing]({{ 'licensing/' | relative_url }}) specialists examine whether the model can be rebuilt, played with, manufactured at scale, sold at a realistic price and supported by the company’s safety standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">photos of your model deconstructed, or a Studio file to help us rebuild it in the review, while also being asked to complete other necess...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOWhat happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</span></span></span>
-
+A LEGO Ideas project does not become a retail set simply because 10,000 people support it. That milestone only earns a place in LEGO’s formal review process, where the company tests whether a fan-built model can survive the transition from impressive prototype to mass-produced product. The review stage is where LEGO’s open innovation system becomes heavily constrained: engineers, designers, brand managers and [licensing]({{ 'licensing/' | relative_url }}) specialists examine whether the model can be rebuilt, played with, manufactured at scale, sold at a realistic price and supported by the company’s safety standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">photos of your model deconstructed, or a Studio file to help us rebuild it in the review, while also being asked to complete other necess...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-1-dark.svg" | relative_url }}" alt="Review Gate illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This review gate is one of the most important guardrails in LEGO Ideas. It allows the company to benefit from fan creativity without allowing popularity alone to dictate products. In antifragility terms, LEGO welcomes variation from the crowd but filters that variation through practical tests before committing resources. The result is a system that learns from external experiments while limiting the cost of bad bets.
@@ -294,7 +293,6 @@ The request for Studio files and deconstructed photographs functions as a techni
 
 Several practical checks become possible once LEGO has access to the build data:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Part verification:** confirming that the design uses real LEGO elements and legal connections.
@@ -308,7 +306,6 @@ Several practical checks become possible once LEGO has access to the build data:
 A fan designer may optimise for visual impact. LEGO designers must optimise for repeatability. Thousands of customers need to achieve the same result using printed instructions, standard [packaging]({{ 'packaging/' | relative_url }}) and mass-produced parts.
 
 That difference explains why approved LEGO Ideas sets are often modified before release. The review process is not merely choosing winners; it is translating community concepts into products that can survive industrial production.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i6xSoqtQXH0" title="How does the LEGO Review work? - LEGO Ideas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i6xSoqtQXH0" target="_blank" rel="noopener noreferrer">How does the LEGO Review work? - LEGO Ideas</a></p><p class="youtube-embed-meta">Channel: LEGO &middot; Views: 35.8K &middot; Uploaded: October 2016 &middot; Length: 1 minute 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i6xSoqtQXH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i6xSoqtQXH0">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +329,6 @@ Retail products must withstand transportation, packaging, storage and normal han
 
 This is one reason why some final LEGO Ideas releases differ noticeably from the original submission. Changes are often less about aesthetics than about ensuring the model remains stable outside a carefully controlled photography setup.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-2-dark.svg" | relative_url }}" alt="Review Gate illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Does the Price Make Sense?
 
@@ -351,7 +347,6 @@ A fan proposal may attract support because voters imagine an ideal version uncon
 
 Community discussions frequently point to this economic reality. Fans often note that highly supported projects can be rejected because licensing, production or market considerations make them difficult to commercialise even when enthusiasm is obvious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Some of the “ideas” sets that gained 10k votes but didn&#x27;t</span><span class="citation-popover-snippet">Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rJSwUBtsjD0" title="LEGO Ideas Final Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rJSwUBtsjD0" target="_blank" rel="noopener noreferrer">LEGO Ideas Final Review</a></p><p class="youtube-embed-meta">Channel: Stud-Lord &middot; Views: 40.9K &middot; Uploaded: January 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rJSwUBtsjD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rJSwUBtsjD0">Open on YouTube</a></p></div></div></div>
 
 ## Brand Fit and Licensing Checks Happen Alongside Engineering
@@ -361,7 +356,6 @@ The review process is not purely technical.
 LEGO Ideas guidelines and review [materials]({{ 'materials/' | relative_url }}) make clear that projects are assessed against broader company requirements, including intellectual property considerations and brand [compatibility]({{ 'compatibility/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-title">Ideas Rules Guidelines</span><span class="citation-popover-snippet">LEGO IdeasRules Guidelines - LEGO® IdeasDecember 16, 2025 — You must include between four and 15 images per submission. Each image file y...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stonewars.com">[StoneWars.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stonewars.com</span><span class="citation-popover-snippet">LEGO Ideas: Rules and Guidelines explained22 Jan 2021 — The Ideas Guidelines explicitly state that LEGO designers can work internally on...</span></span></span>
 
 This means a model can satisfy engineering requirements yet still face obstacles because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +370,6 @@ The result is a layered filtering system. Community support demonstrates interes
 
 From an organisational perspective, this prevents the company from becoming captive to crowd preferences. [Fan demand]({{ 'fan-demand/' | relative_url }}) becomes an input rather than a command.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-3-dark.svg" | relative_url }}" alt="Review Gate illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Approved Sets Often Change Before Release
 
@@ -385,7 +378,6 @@ One common misunderstanding is that approval means LEGO will simply package the 
 In practice, approved Ideas projects frequently undergo substantial redesign.
 
 The reasons are usually practical:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -398,10 +390,9 @@ The reasons are usually practical:
 
 </div>
 
-Fans sometimes criticise these changes when comparing final products with original submissions. Yet those differences often reveal the purpose of the review process itself. LEGO is not purchasing finished products from fans. It is purchasing promising concepts and then converting them into retail-ready sets. Community discussions regularly note that approved projects can be significantly redesigned during development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1kg4wqs/57_product_ideas_qualify_for_the_first_2025_lego/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">57 product ideas qualify for the first 2025 lego</span><span class="citation-popover-snippet">Reddit57 Product Ideas Qualify for the First 2025 LEGO...57 LEGO product ideas for 2025 review. Best LEGO ideas to vote for. What happen...</span></span></span>
+Fans sometimes criticise these changes when comparing final products with original submissions. Yet those differences often reveal the purpose of the review process itself. LEGO is not purchasing finished products from fans. It is purchasing promising concepts and then converting them into retail-ready sets. Community discussions regularly note that approved projects can be significantly redesigned during development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1kg4wqs/57_product_ideas_qualify_for_the_first_2025_lego/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">57 product ideas qualify for the first 2025 lego</span><span class="citation-popover-snippet">57 Product Ideas Qualify for the First 2025 LEGO...57 LEGO product ideas for 2025 review. Best LEGO ideas to vote for. What happen...</span></span></span>
 
 Seen through the lens of implementation rather than fan ownership, redesign is evidence that the review system is working as intended.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9g_XzFdM6Lg" title="What is LEGO Ideas? Your Guide to Submitting &amp; Supporting Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer">What is LEGO Ideas? Your Guide to Submitting &amp; Supporting Projects</a></p><p class="youtube-embed-meta">Channel: Woad Bricks &middot; Views: 1.9K &middot; Uploaded: August 2025 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9g_XzFdM6Lg">Open on YouTube</a></p></div></div></div>
 
@@ -412,7 +403,6 @@ The most significant feature of the LEGO Ideas review process is not that it rej
 LEGO allows thousands of unconventional concepts to enter public view. Fans can test interest in unusual licences, niche subjects, experimental display models and ideas that internal planners might never have prioritised. Only after demand becomes visible does the company invest in deeper evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-title">Ideas Rules Guidelines</span><span class="citation-popover-snippet">LEGO IdeasRules Guidelines - LEGO® IdeasDecember 16, 2025 — You must include between four and 15 images per submission. Each image file y...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 
 This structure creates several advantages:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -544,22 +534,6 @@ The review gate is therefore not a barrier that blocks fan creativity. It is the
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+"><img src="https://i.ebayimg.com/images/g/7vYAAeSwLqJqJmb2/s-l225.jpg" alt="Listing image for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed"><img src="https://i.ebayimg.com/images/g/5PUAAeSw0NhqJain/s-l225.jpg" alt="Listing image for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -581,6 +555,38 @@ The review gate is therefore not a barrier that blocks fan creativity. It is the
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® - LEGO® Ideas - The Office - 21336</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595"><img src="https://i.ebayimg.com/images/g/R-4AAeSwizRqHuLN/s-l225.jpg" alt="Listing image for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21376 Orange Cat NEW 2026"><img src="https://i.ebayimg.com/images/g/lmEAAeSwdDpqHfOp/s-l225.jpg" alt="Listing image for LEGO Ideas 21376 Orange Cat NEW 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21376 Orange Cat NEW 2026</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-after-a-fan-model-wins-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-happens-after-a-fan-model-wins-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
         <div class="fr-book-actions">
@@ -802,236 +808,237 @@ The review gate is therefore not a barrier that blocks fan creativity. It is the
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: what happens to my product idea after i reach 10 000 supporters  
-   Link: [https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
+   Link: <a href="https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-ca/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>photos of your model deconstructed, or a Studio file to help us rebuild it in the review, while also being asked to complete other necess...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOWhat happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</p></details>
+   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
    Title: You Tube How does the LEGO Review work?  
-   Link: [https://www.youtube.com/watch?v=i6xSoqtQXH0](https://www.youtube.com/watch?v=i6xSoqtQXH0)  
+   Link: <a href="https://www.youtube.com/watch?v=i6xSoqtQXH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i6xSoqtQXH0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does the LEGO Review work? - LEGO Ideas - YouTubeAre you curious about how the LEGO Ideas Review process works? Questions such...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Some of the “ideas” sets that gained 10k votes but didn't  
-   Link: [https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/](https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: 57 product ideas qualify for the first 2025 lego  
-   Link: [https://www.reddit.com/r/lego/comments/1kg4wqs/57_product_ideas_qualify_for_the_first_2025_lego/](https://www.reddit.com/r/lego/comments/1kg4wqs/57_product_ideas_qualify_for_the_first_2025_lego/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit57 Product Ideas Qualify for the First 2025 LEGO...57 LEGO product ideas for 2025 review. Best LEGO ideas to vote for. What happen...</p></details>
+   Link: <a href="https://www.reddit.com/r/lego/comments/1kg4wqs/57_product_ideas_qualify_for_the_first_2025_lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1kg4wqs/57_product_ideas_qualify_for_the_first_2025_lego/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>57 Product Ideas Qualify for the First 2025 LEGO...57 LEGO product ideas for 2025 review. Best LEGO ideas to vote for. What happen...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ideas.lego.com  
    Title: Ideas Rules Guidelines  
-   Link: [https://ideas.lego.com/guidelines](https://ideas.lego.com/guidelines)  
+   Link: <a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IdeasRules Guidelines - LEGO® IdeasDecember 16, 2025 — You must include between four and 15 images per submission. Each image file y...</p></details>
    Published: December 16, 2025  
 
 7. <a id="endnote-7"></a>
    Source: stonewars.com  
-   Link: [https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/](https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/)  
+   Link: <a href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow">https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: Rules and Guidelines explained22 Jan 2021 — The Ideas Guidelines explicitly state that LEGO designers can work internally on...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: You Tube How to get your LEGO Ideas submissions approved  
-   Link: [https://www.youtube.com/watch?v=o8oNiuYGc0E](https://www.youtube.com/watch?v=o8oNiuYGc0E)  
+   Link: <a href="https://www.youtube.com/watch?v=o8oNiuYGc0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o8oNiuYGc0E</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to get your LEGO Ideas submissions approved - YouTube... LEGO Ideas project submission approved to become an official LEGO set...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/](https://ideas.lego.com/)  
+   Link: <a href="https://ideas.lego.com/" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IdeasLEGO® Ideas: HomeJoin the LEGO® Ideas community! Support the ideas you want to see become LEGO sets, or get creative and submit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: What is LEGO Ideas?  
-   Link: [https://www.youtube.com/watch?v=9g_XzFdM6Lg](https://www.youtube.com/watch?v=9g_XzFdM6Lg)  
+   Link: <a href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g_XzFdM6Lg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Guide to Submitting &amp; Supporting ProjectsAugust 22, 2025 — Have you ever dreamed of turning your LEGO creation into a real, retail s...</p></details>
    Published: August 22, 2025  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: Urgent help required with Lego Ideas photographs  
-   Link: [https://www.reddit.com/r/legoideas/comments/12f20oo/urgent_help_required_with_lego_ideas_photographs/](https://www.reddit.com/r/legoideas/comments/12f20oo/urgent_help_required_with_lego_ideas_photographs/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditApril 7, 2023 — They look fine in the submission form - but once the submission is created it seems to compress the image in some w...</p></details>
+   Link: <a href="https://www.reddit.com/r/legoideas/comments/12f20oo/urgent_help_required_with_lego_ideas_photographs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legoideas/comments/12f20oo/urgent_help_required_with_lego_ideas_photographs/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 2023 — They look fine in the submission form - but once the submission is created it seems to compress the image in some w...</p></details>
    Published: April 7, 2023  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9T9Amjujsp0](https://www.youtube.com/watch?v=9T9Amjujsp0)  
+   Link: <a href="https://www.youtube.com/watch?v=9T9Amjujsp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9T9Amjujsp0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uing the line of fan model inspired sets...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rJSwUBtsjD0](https://www.youtube.com/watch?v=rJSwUBtsjD0)  
+   Link: <a href="https://www.youtube.com/watch?v=rJSwUBtsjD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rJSwUBtsjD0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas Final ReviewThe 3rd &amp; final Lego Ideas Review for 2024 is here, covering all sets reaching 10,000 support votes between Septem...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/user/LEGO](https://www.youtube.com/user/LEGO)  
+   Link: <a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/UfmrnULwqYI](https://www.youtube.com/shorts/UfmrnULwqYI)  
+   Link: <a href="https://www.youtube.com/shorts/UfmrnULwqYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/UfmrnULwqYI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>become real LEGO® sets! This happened at Fan...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters](https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters)  
+   Link: <a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach 10000...Reaching 10,000 supporters is the biggest milestone you can achieve on LEGO® Ideas...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb](https://www.lego.com/en-gb)  
+   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ideas.lego.com  
-   Link: [https://ideas.lego.com/terms](https://ideas.lego.com/terms)  
+   Link: <a href="https://ideas.lego.com/terms" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/terms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Service - LEGO® IdeasAny unauthorized use of the images may violate copyright laws, trademark laws, the laws of privacy and publicity...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/](https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ad to Achieved Support, here is the data for the Ideas that were Approved.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How LEGO Ideas Sets Are Actually Designed  
-   Link: [https://www.youtube.com/watch?v=0k5qL8-yL3Y](https://www.youtube.com/watch?v=0k5qL8-yL3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=0k5qL8-yL3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5qL8-yL3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About How LEGO Ideas Sets Are Made...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Truth About How LEGO Ideas Sets Are Made  
-   Link: [https://www.youtube.com/watch?v=LqN6K64v96I](https://www.youtube.com/watch?v=LqN6K64v96I)  
+   Link: <a href="https://www.youtube.com/watch?v=LqN6K64v96I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LqN6K64v96I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Fan Idea to Official LEGO Set...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: From Fan Idea to Official LEGO Set  
-   Link: [https://www.youtube.com/watch?v=kYvV3y9q4dE](https://www.youtube.com/watch?v=kYvV3y9q4dE)  
+   Link: <a href="https://www.youtube.com/watch?v=kYvV3y9q4dE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYvV3y9q4dE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Redesigns Ideas Projects...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How LEGO Redesigns Ideas Projects  
-   Link: [https://www.youtube.com/watch?v=NnFk1s74n_0](https://www.youtube.com/watch?v=NnFk1s74n_0)  
+   Link: <a href="https://www.youtube.com/watch?v=NnFk1s74n_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NnFk1s74n_0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Behind LEGO Ideas Success...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Secret Behind LEGO Ideas Success  
-   Link: [https://www.youtube.com/watch?v=S8QWfQv5hT4](https://www.youtube.com/watch?v=S8QWfQv5hT4)  
+   Link: <a href="https://www.youtube.com/watch?v=S8QWfQv5hT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8QWfQv5hT4</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: the latest review qualification round has just closed and wow was it a big one 1  
-   Link: [https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/](https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/)  
+   Link: <a href="https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas146 submissions reached the 10,000 supporter milestone, and qualified for the Second 2025 Review. With 146 projects in this rev...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: lego ideas review results 2025 2  
-   Link: [https://www.facebook.com/LEGOIdeas/videos/lego-ideas-review-results-2025-2/890871573975902/](https://www.facebook.com/LEGOIdeas/videos/lego-ideas-review-results-2025-2/890871573975902/)  
+   Link: <a href="https://www.facebook.com/LEGOIdeas/videos/lego-ideas-review-results-2025-2/890871573975902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGOIdeas/videos/lego-ideas-review-results-2025-2/890871573975902/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re proud to announce the Review Results for the Second...We&#x27;re proud to announce the Review Results for the Second 2025 LEGO Ideas Re...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: brickfanatics.com  
    Title: lego ideas review doubles fan submissions  
-   Link: [https://www.brickfanatics.com/lego-ideas-review-doubles-fan-submissions](https://www.brickfanatics.com/lego-ideas-review-doubles-fan-submissions)  
+   Link: <a href="https://www.brickfanatics.com/lego-ideas-review-doubles-fan-submissions" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-review-doubles-fan-submissions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas second review of 2026 doubles up on fan...9 May 2026 — The second LEGO Ideas review of 2026 is currently in full swing, follo...</p></details>
    Published: May 2026  
 
 28. <a id="endnote-28"></a>
    Source: brickfanatics.com  
    Title: lego ideas review buzzing new fan submission  
-   Link: [https://www.brickfanatics.com/lego-ideas-review-buzzing-new-fan-submission](https://www.brickfanatics.com/lego-ideas-review-buzzing-new-fan-submission)  
+   Link: <a href="https://www.brickfanatics.com/lego-ideas-review-buzzing-new-fan-submission" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-review-buzzing-new-fan-submission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First LEGO Ideas review of 2026 is buzzing with a new fan...7 Apr 2026 — The first LEGO Ideas review of 2026 continues to grow and swell...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ramblingbrick.com  
    Title: does the lego ideas review team look at competor brands or vice versa  
-   Link: [https://ramblingbrick.com/2025/10/29/does-the-lego-ideas-review-team-look-at-competor-brands-or-vice-versa/](https://ramblingbrick.com/2025/10/29/does-the-lego-ideas-review-team-look-at-competor-brands-or-vice-versa/)  
+   Link: <a href="https://ramblingbrick.com/2025/10/29/does-the-lego-ideas-review-team-look-at-competor-brands-or-vice-versa/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2025/10/29/does-the-lego-ideas-review-team-look-at-competor-brands-or-vice-versa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IDEAS Review: Influence of Competing Brick Brands?29 Oct 2025 — Explore how LEGO IDEAS submissions influence competing brick brands...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/44053713/Deconstructing_LEGO_The_Medium_and_Messages_of_LEGO_Play](https://www.academia.edu/44053713/Deconstructing_LEGO_The_Medium_and_Messages_of_LEGO_Play)  
+   Link: <a href="https://www.academia.edu/44053713/Deconstructing_LEGO_The_Medium_and_Messages_of_LEGO_Play" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44053713/Deconstructing_LEGO_The_Medium_and_Messages_of_LEGO_Play</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deconstructing LEGO: The Medium and Messages of LEGO PlayFirst, this book considers theories and methods for deconstructing LEGO as a med...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: toysnbricks.com  
-   Link: [https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/](https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/)  
+   Link: <a href="https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: How It Works, Fan Voting, and How to Submit...7 Dec 2025 — And based on the company&#x27;s policy, you simply need 10,000 support...</p></details>
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: smythstoys.com  
-   Link: [https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/c/SM060107](https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/c/SM060107)  
+   Link: <a href="https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/c/SM060107" target="_blank" rel="noopener noreferrer nofollow">https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/c/SM060107</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
    Title: They want the images in 3:2 ratio but Studio only exports in 1:1 4:3 and 16:9  
-   Link: [https://www.facebook.com/groups/991442004640863/posts/1938105083307879/](https://www.facebook.com/groups/991442004640863/posts/1938105083307879/)  
+   Link: <a href="https://www.facebook.com/groups/991442004640863/posts/1938105083307879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/991442004640863/posts/1938105083307879/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to submit images for Lego ideas with correct ratio and quality?May 16, 2024 — Ask: anyone else having isses submitting images for Leg...</p></details>
    Published: May 16, 2024  
 
 35. <a id="endnote-35"></a>
    Source: brickset.com  
-   Link: [https://brickset.com/article/131817/first-2026-ideas-review-period-has-ended-97-projects-qualify](https://brickset.com/article/131817/first-2026-ideas-review-period-has-ended-97-projects-qualify)  
+   Link: <a href="https://brickset.com/article/131817/first-2026-ideas-review-period-has-ended-97-projects-qualify" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/131817/first-2026-ideas-review-period-has-ended-97-projects-qualify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First 2026 Ideas review period has ended: 97 projects qualify8 hours ago — First 2026 Ideas review period has ended: 97 projects qualify...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: brickfanatics.com  
    Title: record breaking lego ideas review closes  
-   Link: [https://www.brickfanatics.com/record-breaking-lego-ideas-review-closes](https://www.brickfanatics.com/record-breaking-lego-ideas-review-closes)  
+   Link: <a href="https://www.brickfanatics.com/record-breaking-lego-ideas-review-closes" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/record-breaking-lego-ideas-review-closes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record-breaking LEGO Ideas review round officially closes...2 Sept 2025 — The LEGO Ideas team has officially closed the second review ro...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVRlsVtDWjR/?hl=en-gb](https://www.instagram.com/reel/DVRlsVtDWjR/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DVRlsVtDWjR/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVRlsVtDWjR/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reach 10, 000 votes have amazing payoffs. Is it even worth...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewElementary/videos/the-biggest-lego-ideas-review-reveal-ever/837683995325763/](https://www.facebook.com/NewElementary/videos/the-biggest-lego-ideas-review-reveal-ever/837683995325763/)  
+   Link: <a href="https://www.facebook.com/NewElementary/videos/the-biggest-lego-ideas-review-reveal-ever/837683995325763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewElementary/videos/the-biggest-lego-ideas-review-reveal-ever/837683995325763/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eveal which fan models are going to go into production to...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/998154171559369/posts/1566803628027751/](https://www.facebook.com/groups/998154171559369/posts/1566803628027751/)  
+   Link: <a href="https://www.facebook.com/groups/998154171559369/posts/1566803628027751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/998154171559369/posts/1566803628027751/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et goes through an internal review process to see...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: harrisbricks.com  
    Title: The LEGO Ideas process  
-   Link: [https://harrisbricks.com/2022/the-lego-ideas-process/](https://harrisbricks.com/2022/the-lego-ideas-process/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HarrisBricksJuly 31, 2022 — Tell the audience about what makes your idea unique, why they would want to support it and all its features...</p></details>
+   Link: <a href="https://harrisbricks.com/2022/the-lego-ideas-process/" target="_blank" rel="noopener noreferrer nofollow">https://harrisbricks.com/2022/the-lego-ideas-process/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2022 — Tell the audience about what makes your idea unique, why they would want to support it and all its features...</p></details>
    Published: July 31, 2022  
 
 41. <a id="endnote-41"></a>
    Source: idisplayit.co.uk  
-   Link: [https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooIf4PkjlNmOHyg3HlIEJYkkg_GDlfQm8DgjOIPfmIb2nbfpEXk](https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooIf4PkjlNmOHyg3HlIEJYkkg_GDlfQm8DgjOIPfmIb2nbfpEXk)  
+   Link: <a href="https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooIf4PkjlNmOHyg3HlIEJYkkg_GDlfQm8DgjOIPfmIb2nbfpEXk" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooIf4PkjlNmOHyg3HlIEJYkkg_GDlfQm8DgjOIPfmIb2nbfpEXk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest LEGO Ideas Sets With 10000+ Supporters17 Feb 2025 — Here are five of the most recent LEGO Ideas sets with 10,000+ supporters...</p></details>

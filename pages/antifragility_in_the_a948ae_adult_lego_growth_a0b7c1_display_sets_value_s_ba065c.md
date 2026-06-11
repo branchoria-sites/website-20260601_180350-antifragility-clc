@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /adult-sets/
 nav_short_title: Display Value
 title: Why LEGO became something adults display
-title_full: Why LEGO became something adults display | Adult Sets
+title_full: Why LEGO became something adults display
 display_title_short: Display Value
 display_title: Display Value
 heading_title: Why LEGO became something adults display
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Adults Became Central to LEGO Growth | LEGO Antifragility
+parent_title: Why Adults Became Central to LEGO Growth
 parent_permalink: /adult-sets/
 parent_nav_short_title: Adult Sets
 parent_heading_title: Why Adults Became Central to LEGO Growth
@@ -265,7 +265,7 @@ next_link:
   permalink: /kidult-demand/
   short_title: Kidult Demand
   heading_title: Can adult buyers steady LEGO's growth?
-date: '2026-06-09 03:36:24 '
+date: '2026-06-11 21:39:25 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1.webp
@@ -274,20 +274,18 @@ image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_displ
 
 ## Introduction
 
-Adult LEGO sets changed the companys value proposition by shifting attention from what happens after a model is built to what the finished model becomes. For decades, LEGO sets were largely judged as toys: how many play features they offered, how many stories children could act out, or how easily the bricks could be rebuilt into something else. Adult display sets introduced a different logic. The model itself became part of the product. A LEGO orchid, Formula 1 car, retro radio or [Star Wars]({{ 'star-wars/' | relative_url }}) collector model could function as decoration, fandom expression, a conversation piece or a personal achievement as much as a toy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO Sets for Adults | Adults WelcomeHere are some of our most complex LEGO sets designed exclusively for grown-ups. From sport to...</span></span></span>
-
+Adult LEGO sets changed the company’s value proposition by shifting attention from what happens after a model is built to what the finished model becomes. For decades, LEGO sets were largely judged as toys: how many play features they offered, how many stories children could act out, or how easily the bricks could be rebuilt into something else. Adult display sets introduced a different logic. The model itself became part of the product. A LEGO orchid, Formula 1 car, retro radio or [Star Wars]({{ 'star-wars/' | relative_url }}) collector model could function as decoration, fandom expression, a conversation piece or a personal achievement as much as a toy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1-dark.svg" | relative_url }}" alt="Display Value illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That shift matters because it created new reasons to buy LEGO. Instead of competing only within the toy aisle, LEGO began competing for space in living rooms, home offices, display cabinets and gift occasions. In antifragility terms, this expanded the number of motivations attached to the same [brick system]({{ 'brick-system/' | relative_url }}). Demand became tied not only to children's play but also to collecting, nostalgia, home dcor, relaxation and identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/interior-design" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">our home decor and include superstars of Art and Music...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">LEGOAnnual Report10 Mar 2025  teenagers and adults with our LEGO Botanical Collection which attracted new builders to the LEGO brand...</span></span></span>
+That shift matters because it created new reasons to buy LEGO. Instead of competing only within the toy aisle, LEGO began competing for space in living rooms, home offices, display cabinets and gift occasions. In antifragility terms, this expanded the number of motivations attached to the same [brick system]({{ 'brick-system/' | relative_url }}). Demand became tied not only to children's play but also to collecting, nostalgia, home décor, relaxation and identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/interior-design" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">our home decor and include superstars of Art and Music...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">Annual Report10 Mar 2025 — teenagers and adults with our LEGO® Botanical Collection which attracted new builders to the LEGO brand...</span></span></span>
 
 ## From play features to shelf presence
 
 The most important change in adult-oriented LEGO design is that visual impact increasingly became a primary selling point rather than a secondary benefit.
 
-Traditional children's sets often emphasised functions: opening doors, firing mechanisms, moving parts, role-play scenarios and minifigure interaction. Adult display models still include engineering features, but they are usually judged first by how they look on a shelf. The design brief increasingly resembles that of a collectible or decorative object. LEGO's adult category openly markets sets around architecture, art, vehicles, film icons and interior design rather than around play scenarios. The company describes these products as premium sets designed specifically for adults and encourages buyers to unplug, unbox and unwind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+Traditional children's sets often emphasised functions: opening doors, firing mechanisms, moving parts, role-play scenarios and minifigure interaction. Adult display models still include engineering features, but they are usually judged first by how they look on a shelf. The design brief increasingly resembles that of a collectible or decorative object. LEGO's adult category openly markets sets around architecture, art, vehicles, film icons and interior design rather than around play scenarios. The company describes these products as premium sets designed specifically for adults and encourages buyers to “unplug, unbox and unwind”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 This changes the meaning of value. A buyer considering a large-scale LEGO Porsche, a botanical arrangement or an architectural landmark is often asking different questions from a parent shopping for a child:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,10 +297,9 @@ This changes the meaning of value. A buyer considering a large-scale LEGO Porsch
 
 </div>
 
-Those questions move LEGO closer to categories such as home dcor, collectibles and hobby crafts. The finished object becomes part of the purchase justification.
+Those questions move LEGO closer to categories such as home décor, collectibles and hobby crafts. The finished object becomes part of the purchase justification.
 
-The rise of LEGO Botanicals demonstrates the shift especially clearly. Flowers have almost no traditional play function, yet the line became one of LEGO's most successful adult ranges because the completed models function as decorative objects. LEGO has repeatedly highlighted the collection's popularity with new builders and around gifting occasions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/retro-nostalgia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO Retro NostalgiaStep into a world of nostalgia with incredible recreations of iconic movies, games, cars, and TV shows! Our arti...</span></span></span>
-
+The rise of LEGO Botanicals demonstrates the shift especially clearly. Flowers have almost no traditional play function, yet the line became one of LEGO's most successful adult ranges because the completed models function as decorative objects. LEGO has repeatedly highlighted the collection's popularity with new builders and around gifting occasions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/retro-nostalgia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Retro NostalgiaStep into a world of nostalgia with incredible recreations of iconic movies, games, cars, and TV shows! Our arti...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OHIWheZWoM4" title="Best LEGO AFOL Collector Sets 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OHIWheZWoM4" target="_blank" rel="noopener noreferrer">Best LEGO AFOL Collector Sets 2024</a></p><p class="youtube-embed-meta">Channel: Stud-Lord &middot; Views: 26.0K &middot; Uploaded: December 2024 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OHIWheZWoM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OHIWheZWoM4">Open on YouTube</a></p></div></div></div>
 
@@ -314,36 +311,32 @@ Once display becomes central, buyers start valuing qualities that are less impor
 
 Adult collectors often want a model to capture the look and feel of a real vehicle, building or fictional world. The appeal of a LEGO Titanic, Ultimate Collector Series spacecraft or detailed movie diorama depends heavily on recognisable accuracy. A model does not merely represent a subject; it acts as a display version of that subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Here is Lego&#x27;s $1,000 Death Star, the most expensive Lego set ever</span><span class="citation-popover-snippet">Standing nearly two feet tall and featuring over six different levels, the set offers a highly detailed cross-section diorama of the icon...</span></span></span>
 
-This is one reason LEGO's partnerships with brands such as Star Wars, Formula 1, Nintendo and major film franchises became so powerful in the adult market. Buyers are often purchasing a physical representation of an existing passion rather than entering the product through LEGO itself. Campaign Asia noted that LEGO's expansion into products linked to adult passion points, including supercars and botanicals, helped reveal the scale of the adult audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignasia.com">[Campaign Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignasia.com</span><span class="citation-popover-title">Campaign Asia No kidding: Lego sees strong growth from adult consumers</span><span class="citation-popover-snippet">Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021  20 Apr 2021  We launched a large-scale Lamborghin...</span><span class="citation-popover-meta">Published: April 20, 2021</span></span></span>
+This is one reason LEGO's partnerships with brands such as Star Wars, Formula 1, Nintendo and major film franchises became so powerful in the adult market. Buyers are often purchasing a physical representation of an existing passion rather than entering the product through LEGO itself. Campaign Asia noted that LEGO's expansion into products linked to adult passion points, including supercars and botanicals, helped reveal the scale of the adult audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignasia.com">[Campaign Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignasia.com</span><span class="citation-popover-title">Campaign Asia No kidding: Lego sees strong growth from adult consumers</span><span class="citation-popover-snippet">Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021 — 20 Apr 2021 — “We launched a large-scale Lamborghin...</span><span class="citation-popover-meta">Published: April 20, 2021</span></span></span>
 
 ### Difficulty signals craftsmanship
 
 [Complexity]({{ 'complexity/' | relative_url }}) also gained new value.
 
-For many [adult buyers]({{ 'adult-buyers/' | relative_url }}), a set's challenge is part of its attraction. Large piece counts, advanced techniques and lengthy builds create a sense of accomplishment that resembles model-making, puzzles or craft hobbies more than traditional toy play. LEGO actively promotes advanced and challenging builds within its adult range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/best-retro-home-decor-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Best retro home dcor ideasDecorate your space with retro home dcor like the LEGO Icons Retro Radio and other LEGO sets that bring a no...</span></span></span>
+For many [adult buyers]({{ 'adult-buyers/' | relative_url }}), a set's challenge is part of its attraction. Large piece counts, advanced techniques and lengthy builds create a sense of accomplishment that resembles model-making, puzzles or craft hobbies more than traditional toy play. LEGO actively promotes advanced and challenging builds within its adult range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/best-retro-home-decor-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Best retro home décor ideasDecorate your space with retro home décor like the LEGO® Icons Retro Radio and other LEGO sets that bring a no...</span></span></span>
 
 The finished display piece acts as visible evidence of the effort invested in creating it. In that sense, the object becomes both decoration and proof of participation. Buyers are not only displaying a product they bought; they are displaying something they completed.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-2-dark.svg" | relative_url }}" alt="Display Value illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Nostalgia becomes a premium feature
 
 Nostalgia has become one of the most powerful drivers of adult LEGO demand.
 
-Many adult-focused sets recreate cultural touchstones from earlier decades: classic films, retro electronics, vintage vehicles, early video games and television franchises. LEGO openly markets nostalgia-themed collections built around iconic memories and recognisable cultural artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">9 relaxing LEGO sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring together so...</span></span></span>
+Many adult-focused sets recreate cultural touchstones from earlier decades: classic films, retro electronics, vintage vehicles, early video games and television franchises. LEGO openly markets nostalgia-themed collections built around iconic memories and recognisable cultural artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">9 relaxing LEGO® sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring together so...</span></span></span>
 
 The value here is emotional rather than functional. A retro radio model or a display piece based on a childhood game does not need practical utility. Its purpose is to reconnect the owner with a remembered period of life. Recent adult-targeted releases tied to franchises such as Super Mario and Shrek continue to rely heavily on this mechanism, [packaging]({{ 'packaging/' | relative_url }}) recognition and memory into collectible display objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/tech/12020654/lego-super-mario-world-yoshi-set-release-date-price/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">This pixellated model replicates iconic characters Mario and Yoshi from the 1990 SNES game, noted as one of the greatest video games of i...</span></span></span>
 
-Community discussions among [adult fans]({{ 'adult-fans/' | relative_url }}) frequently reflect this shift. Conversations often focus on appearance, shelf presentation and emotional attachment rather than pure playability. Even when builders appreciate moving functions, many describe those features as secondary to how the finished model looks in a collection or evokes a favourite memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/12ff16m/as_an_afol_how_much_do_you_care_about_play/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAs an AFOL, how much do you care about play features of...Most creative LEGO builds of the year. Tips for organizing a LEGO collec...</span></span></span>
+Community discussions among [adult fans]({{ 'adult-fans/' | relative_url }}) frequently reflect this shift. Conversations often focus on appearance, shelf presentation and emotional attachment rather than pure playability. Even when builders appreciate moving functions, many describe those features as secondary to how the finished model looks in a collection or evokes a favourite memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/12ff16m/as_an_afol_how_much_do_you_care_about_play/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">As an AFOL, how much do you care about play features of...Most creative LEGO builds of the year. Tips for organizing a LEGO collec...</span></span></span>
 
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-3-dark.svg" | relative_url }}" alt="Display Value illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How display value widens buying occasions
 
 One reason display-oriented sets matter strategically is that they can enter purchasing situations that conventional toys rarely reach.
 
 A child-focused playset is usually bought for a child. A display-oriented LEGO set can be purchased for many different reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,26 +351,22 @@ A child-focused playset is usually bought for a child. A display-oriented LEGO s
 
 </div>
 
-The Botanical Collection shows how this works in practice. LEGO has explicitly positioned botanical sets around gifting moments and home display. The company highlighted their success with new builders and seasonal occasions, while later reports continued to identify Botanicals as one of its strongest-performing themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">lego builds record earnings botanical 170516106</span><span class="citation-popover-snippet">Yahoo FinanceLego builds record earnings from botanical-themed bricks...27 Aug 2025  &quot;The LEGO Botanicals theme was popular around shop...</span></span></span> [3LEGO 3LEGO]
+The Botanical Collection shows how this works in practice. LEGO has explicitly positioned botanical sets around gifting moments and home display. The company highlighted their success with new builders and seasonal occasions, while later reports continued to identify Botanicals as one of its strongest-performing themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">lego builds record earnings botanical 170516106</span><span class="citation-popover-snippet">Yahoo FinanceLego builds record earnings from botanical-themed bricks...27 Aug 2025 — &quot;The LEGO Botanicals theme was popular around shop...</span></span></span> [3LEGO 3LEGO]
 
 This diversification matters because each additional buying occasion creates another route to demand. A set no longer needs to succeed purely as a toy. It can succeed as decoration, as a hobby experience, as a fandom object or as a gift.
 
-The result is a broader customer base. People who may never have considered themselves toy buyers can still see value in a LEGO orchid on a desk, a framed LEGO art piece on a wall or a detailed spacecraft in a study. Media coverage of adult LEGO increasingly describes these products as home decorations, collectibles and relaxation activities alongside their role as construction toys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smythstoys.com/uk/en-gb/adult-lego-shop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smythstoys.com">[Smyths Toys UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smythstoys.com</span><span class="citation-popover-snippet">rated and designed specifically for adults. Shop All...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/adult-lego-sets-january-2025-8772947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">8 Lego Sets for Adults That Can Double as Home Decorations</span><span class="citation-popover-snippet">These sophisticated kits range from $30 to $110 and include various themes like the Botanical Collection Bonsai Tree, The Great Wave off...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO Sets for Adults | Adults WelcomeHere are some of our most complex LEGO sets designed exclusively for grown-ups. From sport to...</span></span></span>
+The result is a broader customer base. People who may never have considered themselves toy buyers can still see value in a LEGO orchid on a desk, a framed LEGO art piece on a wall or a detailed spacecraft in a study. Media coverage of adult LEGO increasingly describes these products as home decorations, collectibles and relaxation activities alongside their role as construction toys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smythstoys.com/uk/en-gb/adult-lego-shop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smythstoys.com">[Smyths Toys UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smythstoys.com</span><span class="citation-popover-snippet">rated and designed specifically for adults. Shop All...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/adult-lego-sets-january-2025-8772947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">8 Lego Sets for Adults That Can Double as Home Decorations</span><span class="citation-popover-snippet">These sophisticated kits range from $30 to $110 and include various themes like the Botanical Collection Bonsai Tree, The Great Wave off...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WRMWPoqRIpM" title="BILLIONS in Profits, Popular Themes, and What it Means | Lego 2025 Annual Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WRMWPoqRIpM" target="_blank" rel="noopener noreferrer">BILLIONS in Profits, Popular Themes, and What it Means | Lego 2025 Annual Report</a></p><p class="youtube-embed-meta">Channel: Building Together &middot; Views: 6.4K &middot; Uploaded: March 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WRMWPoqRIpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WRMWPoqRIpM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-3-dark.svg" | relative_url }}" alt="Display Value illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for LEGO's antifragility
 
 Display value strengthened LEGO because it attached the brick system to more forms of consumer motivation.
 
-The same core manufacturing platform can now serve very different desires: creative expression, fandom, interior design, collecting, nostalgia and mindful leisure. If demand weakens in one area, another can remain strong. A customer buying a botanical arrangement for home dcor is behaving differently from a Star Wars collector, an architecture enthusiast or a builder seeking a relaxing weekend project, yet all are purchasing variations of the same underlying product system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/interior-design" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">our home decor and include superstars of Art and Music...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">LEGOAnnual Report10 Mar 2025  teenagers and adults with our LEGO Botanical Collection which attracted new builders to the LEGO brand...</span></span></span>
+The same core manufacturing platform can now serve very different desires: creative expression, fandom, interior design, collecting, nostalgia and mindful leisure. If demand weakens in one area, another can remain strong. A customer buying a botanical arrangement for home décor is behaving differently from a Star Wars collector, an architecture enthusiast or a builder seeking a relaxing weekend project, yet all are purchasing variations of the same underlying product system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/interior-design" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">our home decor and include superstars of Art and Music...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">Annual Report10 Mar 2025 — teenagers and adults with our LEGO® Botanical Collection which attracted new builders to the LEGO brand...</span></span></span>
 
-That is the deeper significance of display-oriented LEGO. The company did not merely persuade adults to keep playing with toys. It changed what many buyers believe they are buying in the first place. The finished model became part dcor item, part collectible, part craft achievement and part personal statement. By expanding the meanings attached to a LEGO set, LEGO expanded the number of reasons people have to keep buying them.
+That is the deeper significance of display-oriented LEGO. The company did not merely persuade adults to keep playing with toys. It changed what many buyers believe they are buying in the first place. The finished model became part décor item, part collectible, part craft achievement and part personal statement. By expanding the meanings attached to a LEGO set, LEGO expanded the number of reasons people have to keep buying them.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ylzDYxrRNkc" title="How to Make a Board Game in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ylzDYxrRNkc" target="_blank" rel="noopener noreferrer">How to Make a Board Game in 2025</a></p><p class="youtube-embed-meta">Channel: Board Game Design Lab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ylzDYxrRNkc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ylzDYxrRNkc">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WRMWPoqRIpM" title="BILLIONS in Profits, Popular Themes, and What it Means | Lego 2025 Annual Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WRMWPoqRIpM" target="_blank" rel="noopener noreferrer">BILLIONS in Profits, Popular Themes, and What it Means | Lego 2025 Annual Report</a></p><p class="youtube-embed-meta">Channel: Building Together &middot; Views: 6.4K &middot; Uploaded: March 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WRMWPoqRIpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WRMWPoqRIpM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -528,11 +517,27 @@ That is the deeper significance of display-oriented LEGO. The company did not me
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 43013 Editions Kylian Mbappe - 3D Display Model Kit with Collectible Min..."><img src="https://i.ebayimg.com/images/g/i88AAeSwCy1p8kyn/s-l225.jpg" alt="Listing image for LEGO 43013 Editions Kylian Mbappe - 3D Display Model Kit with Collectible Min..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNIQUEDISPLAY Display Case for LEGO 11376 Ford Model T"><img src="https://i.ebayimg.com/images/g/kh0AAeSwO6xpsyfm/s-l225.jpg" alt="Listing image for UNIQUEDISPLAY Display Case for LEGO 11376 Ford Model T" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO 43013 Editions Kylian Mbappe - 3D Display Model Kit with Collectible Min...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">UNIQUEDISPLAY Display Case for LEGO 11376 Ford Model T</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney 43300 Winnie the Pooh Display Model Kit"><img src="https://i.ebayimg.com/images/g/yUEAAeSwqBVp5KlL/s-l225.jpg" alt="Listing image for LEGO Disney 43300 Winnie the Pooh Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney 43300 Winnie the Pooh Display Model Kit</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-became-something-adults-display-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-lego-became-something-adults-display-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
         <div class="fr-book-actions">
@@ -754,143 +759,144 @@ That is the deeper significance of display-oriented LEGO. The company did not me
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome](https://www.lego.com/en-gb/categories/adults-welcome)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO Sets for Adults | Adults WelcomeHere are some of our most complex LEGO sets designed exclusively for grown-ups. From sport to...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/adults-welcome/interior-design](https://www.lego.com/en-gb/adults-welcome/interior-design)  
+   Link: <a href="https://www.lego.com/en-gb/adults-welcome/interior-design" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/interior-design</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>our home decor and include superstars of Art and Music...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report10 Mar 2025  teenagers and adults with our LEGO Botanical Collection which attracted new builders to the LEGO brand...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — teenagers and adults with our LEGO® Botanical Collection which attracted new builders to the LEGO brand...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/[sustainability](https://www.lego.com/cdn/cs/[sustainability)  
+   Link: <a href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/[sustainability</a>  
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals](https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals</a>  
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/adults-welcome/retro-nostalgia](https://www.lego.com/en-gb/adults-welcome/retro-nostalgia)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO Retro NostalgiaStep into a world of nostalgia with incredible recreations of iconic movies, games, cars, and TV shows! Our arti...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/adults-welcome/retro-nostalgia" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/retro-nostalgia</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Retro NostalgiaStep into a world of nostalgia with incredible recreations of iconic movies, games, cars, and TV shows! Our arti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/best-retro-home-decor-ideas](https://www.lego.com/en-gb/categories/adults-welcome/article/best-retro-home-decor-ideas)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best retro home dcor ideasDecorate your space with retro home dcor like the LEGO Icons Retro Radio and other LEGO sets that bring a no...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/best-retro-home-decor-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/best-retro-home-decor-ideas</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best retro home décor ideasDecorate your space with retro home décor like the LEGO® Icons Retro Radio and other LEGO sets that bring a no...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/tech/12020654/lego-super-mario-world-yoshi-set-release-date-price/](https://www.the-sun.com/tech/12020654/lego-super-mario-world-yoshi-set-release-date-price/)  
+   Link: <a href="https://www.the-sun.com/tech/12020654/lego-super-mario-world-yoshi-set-release-date-price/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/tech/12020654/lego-super-mario-world-yoshi-set-release-date-price/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This pixellated model replicates iconic characters Mario and Yoshi from the 1990 SNES game, noted as one of the greatest video games of i...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/12ff16m/as_an_afol_how_much_do_you_care_about_play/](https://www.reddit.com/r/lego/comments/12ff16m/as_an_afol_how_much_do_you_care_about_play/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAs an AFOL, how much do you care about play features of...Most creative LEGO builds of the year. Tips for organizing a LEGO collec...</p></details>
+   Link: <a href="https://www.reddit.com/r/lego/comments/12ff16m/as_an_afol_how_much_do_you_care_about_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/12ff16m/as_an_afol_how_much_do_you_care_about_play/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>As an AFOL, how much do you care about play features of...Most creative LEGO builds of the year. Tips for organizing a LEGO collec...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: finance.yahoo.com  
    Title: lego builds record earnings botanical 170516106  
-   Link: [https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html](https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLego builds record earnings from botanical-themed bricks...27 Aug 2025  &quot;The LEGO Botanicals theme was popular around shop...</p></details>
+   Link: <a href="https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLego builds record earnings from botanical-themed bricks...27 Aug 2025 — &quot;The LEGO Botanicals theme was popular around shop...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: people.com  
    Title: 8 Lego Sets for Adults That Can Double as Home Decorations  
-   Link: [https://people.com/adult-lego-sets-january-2025-8772947](https://people.com/adult-lego-sets-january-2025-8772947)  
+   Link: <a href="https://people.com/adult-lego-sets-january-2025-8772947" target="_blank" rel="noopener noreferrer nofollow">https://people.com/adult-lego-sets-january-2025-8772947</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These sophisticated kits range from $30 to $110 and include various themes like the Botanical Collection Bonsai Tree, The Great Wave off...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults](https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 relaxing LEGO sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring together so...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 relaxing LEGO® sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring together so...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: smythstoys.com  
-   Link: [https://www.smythstoys.com/uk/en-gb/adult-lego-shop](https://www.smythstoys.com/uk/en-gb/adult-lego-shop)  
+   Link: <a href="https://www.smythstoys.com/uk/en-gb/adult-lego-shop" target="_blank" rel="noopener noreferrer nofollow">https://www.smythstoys.com/uk/en-gb/adult-lego-shop</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rated and designed specifically for adults. Shop All...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/legocastles/comments/1e82ya2/so_i_found_this_original_lego_display_case_my/](https://www.reddit.com/r/legocastles/comments/1e82ya2/so_i_found_this_original_lego_display_case_my/)  
+   Link: <a href="https://www.reddit.com/r/legocastles/comments/1e82ya2/so_i_found_this_original_lego_display_case_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legocastles/comments/1e82ya2/so_i_found_this_original_lego_display_case_my/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d condition unless they are for special events like the Star Wars...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theverge.com  
    Title: The Verge Here is Lego's $1,000 Death Star, the most expensive Lego set ever  
-   Link: [https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date](https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date)  
+   Link: <a href="https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Standing nearly two feet tall and featuring over six different levels, the set offers a highly detailed cross-section diorama of the icon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: campaignasia.com  
    Title: Campaign Asia No kidding: Lego sees strong growth from adult consumers  
-   Link: [https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91](https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021  20 Apr 2021  We launched a large-scale Lamborghin...</p></details>
+   Link: <a href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021 — 20 Apr 2021 — “We launched a large-scale Lamborghin...</p></details>
    Published: April 20, 2021  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1532129557644306/posts/2095210478002875/](https://www.facebook.com/groups/1532129557644306/posts/2095210478002875/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Displaying adult lego sets collectionBuilt-in shelving and display ideas for a room renovation. Profile photo of Aaron. Aaron Comer  ACO...</p></details>
+   Link: <a href="https://www.facebook.com/groups/1532129557644306/posts/2095210478002875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1532129557644306/posts/2095210478002875/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Displaying adult lego sets collectionBuilt-in shelving and display ideas for a room renovation. Profile photo of Aaron. Aaron Comer ▻ ACO...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gamesradar.com  
-   Link: [https://www.gamesradar.com/toys-collectibles/first-ever-lego-shrek-sets-revealed-and-just-like-ogre-they-have-layers/](https://www.gamesradar.com/toys-collectibles/first-ever-lego-shrek-sets-revealed-and-just-like-ogre-they-have-layers/)  
+   Link: <a href="https://www.gamesradar.com/toys-collectibles/first-ever-lego-shrek-sets-revealed-and-just-like-ogre-they-have-layers/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/toys-collectibles/first-ever-lego-shrek-sets-revealed-and-just-like-ogre-they-have-layers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two new sets are available for pre-order: a detailed 1,403-piece diorama intended for adults and a budget-friendly BrickHeadz trio featur...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf](https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf)  
+   Link: <a href="https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult interest has grown following Lego&#x27;s launch of the 18+ category in 2020, featuring intricate and expensive sets. Sales of these adul...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/991442004640863/posts/1866021427182912/](https://www.facebook.com/groups/991442004640863/posts/1866021427182912/)  
+   Link: <a href="https://www.facebook.com/groups/991442004640863/posts/1866021427182912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/991442004640863/posts/1866021427182912/</a>  
 
 21. <a id="endnote-21"></a>
    Source: oakleyforum.com  
    Title: afol adult fans of lego show us your lego collection display.79510  
-   Link: [https://www.oakleyforum.com/threads/afol-adult-fans-of-lego-show-us-your-lego-collection-display.79510/](https://www.oakleyforum.com/threads/afol-adult-fans-of-lego-show-us-your-lego-collection-display.79510/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFOL (Adult Fans Of LEGO), show us your LEGO collection...8 Sept 2017  Share pictures of how you display the built sets -- on your work...</p></details>
+   Link: <a href="https://www.oakleyforum.com/threads/afol-adult-fans-of-lego-show-us-your-lego-collection-display.79510/" target="_blank" rel="noopener noreferrer nofollow">https://www.oakleyforum.com/threads/afol-adult-fans-of-lego-show-us-your-lego-collection-display.79510/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFOL (Adult Fans Of LEGO), show us your LEGO collection...8 Sept 2017 — Share pictures of how you display the built sets -- on your work...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: brickfact.com  
-   Link: [https://brickfact.com/en-gb/for-adults/6](https://brickfact.com/en-gb/for-adults/6)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Sets for Adults | All 18+ sets at a glanceOverview of Lego building sets for adults  Get ideas what to buy  Find the lowest pric...</p></details>
+   Link: <a href="https://brickfact.com/en-gb/for-adults/6" target="_blank" rel="noopener noreferrer nofollow">https://brickfact.com/en-gb/for-adults/6</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego® Sets for Adults | All 18+ sets at a glanceOverview of Lego® building sets for adults ✓ Get ideas what to buy ✓ Find the lowest pric...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aol.com  
    Title: lego builds record earnings botanical 170516359  
-   Link: [https://www.aol.com/lego-builds-record-earnings-botanical-170516359.html](https://www.aol.com/lego-builds-record-earnings-botanical-170516359.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego builds record earnings from botanical-themed bricks...27 Aug 2025  A growing portfolio of Lego brick sets, led by the Lego Botanic...</p></details>
+   Link: <a href="https://www.aol.com/lego-builds-record-earnings-botanical-170516359.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/lego-builds-record-earnings-botanical-170516359.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego builds record earnings from botanical-themed bricks...27 Aug 2025 — A growing portfolio of Lego brick sets, led by the Lego Botanic...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: studocu.vn  
    Title: the lego group annual report 2024 financial highlights strategic overview  
-   Link: [https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972](https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group Annual Report 2024: Financial Highlights... LEGO Botanicals Collection The collection of sets featuring flowers and plan...</p></details>
+   Link: <a href="https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group Annual Report 2024: Financial Highlights...→ LEGO Botanicals Collection The collection of sets featuring flowers and plan...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTY47JAkeUI/](https://www.instagram.com/p/DTY47JAkeUI/)  
+   Link: <a href="https://www.instagram.com/p/DTY47JAkeUI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTY47JAkeUI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>toys, but as collectibles, display pieces, and long-term...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
    Title: The LEGO Group Annual Report 2024  
-   Link: [https://www.scribd.com/document/853276287/The-LEGO-Group-Annual-Report-2024](https://www.scribd.com/document/853276287/The-LEGO-Group-Annual-Report-2024)  
+   Link: <a href="https://www.scribd.com/document/853276287/The-LEGO-Group-Annual-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/853276287/The-LEGO-Group-Annual-Report-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The collection of sets featuring flowers and plants proved especially popular with new builders and around gifting occasions. In...Read...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /governed-bets/
 nav_short_title: LEGO Universe
 title: What LEGO Learned From a Digital Failure
-title_full: What LEGO Learned From a Digital Failure | Governed Bets
+title_full: What LEGO Learned From a Digital Failure
 display_title_short: LEGO Universe
 display_title: LEGO Universe
 heading_title: What LEGO Learned From a Digital Failure
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How LEGO Learned To Make Safer Bets | LEGO Antifragility
+parent_title: How LEGO Learned To Make Safer Bets
 parent_permalink: /governed-bets/
 parent_nav_short_title: Governed Bets
 parent_heading_title: How LEGO Learned To Make Safer Bets
@@ -259,7 +259,7 @@ prev_link:
   permalink: /lego-games/
   short_title: LEGO Games
   heading_title: The Board Games That Tested Safer Innovation
-date: '2026-06-09 03:41:02 '
+date: '2026-06-11 21:40:00 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_leg
 
 LEGO Universe was supposed to prove that the LEGO system could become more than a physical toy. The company envisioned a child-safe online world where building, exploration and social play would extend the LEGO experience into a persistent digital space. Instead, the massively multiplayer online game (MMO) became one of LEGO’s most expensive digital experiments and closed only fifteen months after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Universe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Universe</span><span class="citation-popover-snippet">Lego Universe</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-1-dark.svg" | relative_url }}" alt="LEGO Universe illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What made the project important was not simply that it failed. LEGO Universe revealed how difficult it was to scale [digital play]({{ 'digital-play/' | relative_url }}) before the company had fully developed the capabilities, governance structures and business models needed to support it. The shutdown exposed challenges around online safety, subscription economics, partner management and the long-term costs of running a live online service. Those lessons later shaped a more disciplined approach to digital innovation, making the failure part of LEGO’s broader move toward a more antifragile business model.
 
@@ -280,8 +279,7 @@ Unlike earlier LEGO video games, LEGO Universe was not a product that could be s
 
 The idea emerged during a period when virtual worlds for children appeared to be a major growth opportunity. Games such as Club Penguin demonstrated that large numbers of young users would spend time in persistent online communities, encouraging media and toy companies to imagine similar platforms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Club_Penguin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Club Penguin</span><span class="citation-popover-snippet">Club Penguin</span></span></span>
 
-LEGO partnered with the Colorado-based developer NetDevil and spent years building the project. Development was repeatedly delayed, with release targets moving from the late 2000s into 2010. Former participants and retrospective accounts describe a lengthy production process complicated by the geographical and organisational distance between LEGO and its external development partner. LEGO wanted substantial involvement in creative decisions, while development teams worked across continents and time zones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/game-platforms/agdc-interview-how-netdevil-got-the-i-lego-universe-i-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-title">Game Developer AGDC Interview: How Net Devil Got The LEGO Universe Deal</span><span class="citation-popover-snippet">Game DeveloperAGDC Interview: How NetDevil Got The LEGO Universe DealSeptember 18, 2008 — Amid a &quot;grim and despairing&quot; nine-month crunch...</span><span class="citation-popover-meta">Published: September 18, 2008</span></span></span> LEGO The scale of the ambition mattered. LEGO was not merely creating a game tied to a toy line. It was attempting to create a safe online society <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e11 lego universe part 1 feature and transcript</span><span class="citation-popover-snippet">LEGOThe Rise and Fall of LEGO® Universe: Inception17 Feb 2021 —... difference between NetDevil, located in Colorado, and the LEGO Group...</span></span></span> for children built around creativity and LEGO identity. That required expertise far beyond toy design:
-
+LEGO partnered with the Colorado-based developer NetDevil and spent years building the project. Development was repeatedly delayed, with release targets moving from the late 2000s into 2010. Former participants and retrospective accounts describe a lengthy production process complicated by the geographical and organisational distance between LEGO and its external development partner. LEGO wanted substantial involvement in creative decisions, while development teams worked across continents and time zones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/game-platforms/agdc-interview-how-netdevil-got-the-i-lego-universe-i-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-title">Game Developer AGDC Interview: How Net Devil Got The LEGO Universe Deal</span><span class="citation-popover-snippet">Game DeveloperAGDC Interview: How NetDevil Got The LEGO Universe DealSeptember 18, 2008 — Amid a &quot;grim and despairing&quot; nine-month crunch...</span><span class="citation-popover-meta">Published: September 18, 2008</span></span></span> LEGO The scale of the ambition mattered. LEGO was not merely creating a game tied to a toy line. It was attempting to create a safe online society <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e11 lego universe part 1 feature and transcript</span><span class="citation-popover-snippet">The Rise and Fall of LEGO® Universe: Inception17 Feb 2021 —... difference between NetDevil, located in Colorado, and the LEGO Group...</span></span></span> for children built around creativity and LEGO identity. That required expertise far beyond toy design:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,12 +288,11 @@ LEGO partnered with the Colorado-based developer NetDevil and spent years buildi
 * Child-safety moderation.
 * Continuous content production.
 * Community management.
-* Digital customer support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e13 lego universe part 2 feature and transcript</span><span class="citation-popover-snippet">LEGOLEGO® Universe: Death of a Dream3 Mar 2021 — &quot;It was obvious that something digital had to happen with the LEGO Group.&quot; From the LEGO...</span></span></span>
+* Digital customer support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e13 lego universe part 2 feature and transcript</span><span class="citation-popover-snippet">LEGO® Universe: Death of a Dream3 Mar 2021 — &quot;It was obvious that something digital had to happen with the LEGO Group.&quot; From the LEGO...</span></span></span>
 
 </div>
 
 In effect, LEGO was entering a business that behaved more like a social platform than a traditional toy product.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EEORQGVFTnc" title="LEGO Universe Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EEORQGVFTnc" target="_blank" rel="noopener noreferrer">LEGO Universe Official Trailer</a></p><p class="youtube-embed-meta">Channel: Subaca &middot; Views: 33.5K &middot; Uploaded: October 2010 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EEORQGVFTnc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EEORQGVFTnc">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +300,7 @@ In effect, LEGO was entering a business that behaved more like a social platform
 
 One of the most revealing lessons came from LEGO's effort to make the game safe for children.
 
-The company's brand depended heavily on parental trust. Any online environment aimed at younger players had to minimise risks involving inappropriate language, unwanted contact and unsafe interactions. As a result, LEGO Universe adopted heavily controlled communication systems. Players often communicated through restricted vocabulary systems and approval processes designed to protect younger users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego Universe shutting down:(: r/gaming</span><span class="citation-popover-snippet">RedditLego Universe shutting down:(: r/gamingNovember 8, 2011 — This was a result of trying to keep the game accessible to very young c...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
+The company's brand depended heavily on parental trust. Any online environment aimed at younger players had to minimise risks involving inappropriate language, unwanted contact and unsafe interactions. As a result, LEGO Universe adopted heavily controlled communication systems. Players often communicated through restricted vocabulary systems and approval processes designed to protect younger users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego Universe shutting down:(: r/gaming</span><span class="citation-popover-snippet">Lego Universe shutting down:(: r/gamingNovember 8, 2011 — This was a result of trying to keep the game accessible to very young c...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
 
 From a safety perspective, those controls were understandable. From a social perspective, they created tension.
 
@@ -315,7 +312,6 @@ This revealed a difficult reality for LEGO. Child-safe digital play was not simp
 * Creating vibrant social engagement.
 
 The company discovered that trust and engagement had to be designed together rather than treated as separate problems.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TbEh66LQW3o" title="The Story of LEGO Universe | LEGO Universe 10th Anniversary Retrospective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TbEh66LQW3o" target="_blank" rel="noopener noreferrer">The Story of LEGO Universe | LEGO Universe 10th Anniversary Retrospective</a></p><p class="youtube-embed-meta">Channel: Subpixel &middot; Views: 187.0K &middot; Uploaded: October 2020 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TbEh66LQW3o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TbEh66LQW3o">Open on YouTube</a></p></div></div></div>
 
@@ -331,14 +327,13 @@ Many players enjoyed the game, and LEGO executives acknowledged strong community
 
 Several pressures converged:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * MMO infrastructure required continuous spending rather than one-time development costs.
 * Content had to be updated regularly to retain players.
 * Moderation and safety systems increased operating expenses.
 * Young audiences often had limited spending power.
-* Families already had access to successful LEGO console games and physical products. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=TbEh66LQW3o" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">The Story of LEGO Universe | LEGO Universe 10th Anniversary Retrospective</span><span class="citation-popover-snippet">Why LEGO Games Died...</span></span></span>
+* Families already had access to successful LEGO console games and physical products. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=TbEh66LQW3o" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">The Story of LEGO Universe &#124; LEGO Universe 10th Anniversary Retrospective</span><span class="citation-popover-snippet">Why LEGO Games Died...</span></span></span>
 
 </div>
 
@@ -346,14 +341,12 @@ Industry observers at the time argued that LEGO may have struggled to convert pl
 
 This exposed an important strategic lesson: digital engagement metrics and sustainable economics are not the same thing. A large audience can still produce a weak business if operating costs rise faster than revenue.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-2-dark.svg" | relative_url }}" alt="LEGO Universe illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risk of Scaling Before the Model Was Proven
 
 From an antifragility perspective, LEGO Universe illustrated the danger of scaling uncertainty too early.
 
 The project required substantial [investment]({{ 'investment/' | relative_url }}) before key assumptions had been validated:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -373,7 +366,6 @@ An antifragile organisation prefers small failures that generate information che
 
 The company effectively learned several lessons simultaneously:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Running online worlds is fundamentally different from selling toys.
@@ -386,7 +378,6 @@ The company effectively learned several lessons simultaneously:
 
 Those lessons became more useful because LEGO survived the experiment financially. Had the company still been in its early-2000s crisis condition, a project of that scale could have been far more damaging.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzHeh0yBHuY" title="Why LEGO Games Died" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzHeh0yBHuY" target="_blank" rel="noopener noreferrer">Why LEGO Games Died</a></p><p class="youtube-embed-meta">Channel: RoboKast &middot; Views: 1.0M &middot; Uploaded: April 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzHeh0yBHuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzHeh0yBHuY">Open on YouTube</a></p></div></div></div>
 
 ## Why the Failure Became a Lesson Rather Than a Crisis
@@ -395,10 +386,9 @@ The most significant outcome was not the shutdown itself but what LEGO did after
 
 Rather than abandoning digital play, LEGO treated the project as a source of organisational learning. Business-school case studies on LEGO's digital transformation later highlighted LEGO Universe as a key episode that taught the company how to approach digital initiatives, partnerships and internal capabilities more carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbsp.harvard.edu/product/IMD976-PDF-ENG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbsp.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbsp.harvard.edu</span><span class="citation-popover-snippet">Harvard Business School PublishingLego in the Age of Digitization (A)It describes the LEGO Group&#x27;s decision to close the LEGO Universe ga...</span></span></span> Business School Publishing <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecasecentre.org/products/view?id=161713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecasecentre.org">[2thecasecentre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecasecentre.org</span><span class="citation-popover-snippet">LEGO in the Age of Digitization (B)It describes the LEGO Group&#x27;s decision to close the LEGO Universe game, its learnings on how to embark...</span></span></span>
 
-Former LEGO executives have even suggested that the company may have ended the project too quickly. In later reflections, former CEO Jørgen Vig Knudstorp argued that the rise of platforms such as Minecraft and Roblox demonstrated how powerful creative online worlds could become. Looking back, he described the closure as one of his major mistakes and suggested that LEGO Universe might have evolved into something far larger had the company remained patient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e11 lego universe part 1 feature and transcript</span><span class="citation-popover-snippet">LEGOThe Rise and Fall of LEGO® Universe: Inception17 Feb 2021 —... difference between NetDevil, located in Colorado, and the LEGO Group...</span></span></span>
+Former LEGO executives have even suggested that the company may have ended the project too quickly. In later reflections, former CEO Jørgen Vig Knudstorp argued that the rise of platforms such as Minecraft and Roblox demonstrated how powerful creative online worlds could become. Looking back, he described the closure as one of his major mistakes and suggested that LEGO Universe might have evolved into something far larger had the company remained patient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e11 lego universe part 1 feature and transcript</span><span class="citation-popover-snippet">The Rise and Fall of LEGO® Universe: Inception17 Feb 2021 —... difference between NetDevil, located in Colorado, and the LEGO Group...</span></span></span>
 
 That hindsight is revealing because it shows that the lesson was not “digital worlds are bad”. The lesson was more specific:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -409,15 +399,14 @@ That hindsight is revealing because it shows that the lesson was not “digital 
 
 </div>
 
-The company continued investing in digital experiences after LEGO Universe ended. What changed was the degree of caution around scaling. Future initiatives increasingly connected digital projects to existing LEGO strengths, partnerships and communities rather than treating digital worlds as standalone growth engines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e13 lego universe part 2 feature and transcript</span><span class="citation-popover-snippet">LEGOLEGO® Universe: Death of a Dream3 Mar 2021 — &quot;It was obvious that something digital had to happen with the LEGO Group.&quot; From the LEGO...</span></span></span>
-
+The company continued investing in digital experiences after LEGO Universe ended. What changed was the degree of caution around scaling. Future initiatives increasingly connected digital projects to existing LEGO strengths, partnerships and communities rather than treating digital worlds as standalone growth engines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">bits n bricks s01e13 lego universe part 2 feature and transcript</span><span class="citation-popover-snippet">LEGO® Universe: Death of a Dream3 Mar 2021 — &quot;It was obvious that something digital had to happen with the LEGO Group.&quot; From the LEGO...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-3-dark.svg" | relative_url }}" alt="LEGO Universe illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What LEGO Universe Revealed About Antifragility
 
 LEGO Universe occupies an unusual place in LEGO history because it was simultaneously a failure and a source of strategic resilience.
 
-The project exposed weaknesses in LEGO's understanding of digital platforms before those weaknesses became existential. It revealed how quickly costs could grow when moderation, infrastructure and live-service operations were involved. It showed that audience enthusiasm did not guarantee a viable business model. It demonstrated that child safety was not a feature that could be added later but a foundational design constraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gameinformer.com/b/news/archive/2011/11/04/lego-universe-closing-in-2012.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gameinformer.com">[Game Informer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gameinformer.com</span><span class="citation-popover-title">lego universe closing in 2012.aspx</span><span class="citation-popover-snippet">Game InformerLEGO Universe Closing In 20124 Nov 2011 — Unfortunately, we have not been able to build a satisfactory revenue model in our...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Most importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego Universe shutting down:(: r/gaming</span><span class="citation-popover-snippet">RedditLego Universe shutting down:(: r/gamingNovember 8, 2011 — This was a result of trying to keep the game accessible to very young c...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>, the experience pushed LEGO toward more governed forms of innovation. Instead of assuming that brand strength alone could carry the company into new digital categories, LEGO became more focused on testing assumptions, aligning digital projects with core capabilities and learning from controlled failures.
+The project exposed weaknesses in LEGO's understanding of digital platforms before those weaknesses became existential. It revealed how quickly costs could grow when moderation, infrastructure and live-service operations were involved. It showed that audience enthusiasm did not guarantee a viable business model. It demonstrated that child safety was not a feature that could be added later but a foundational design constraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gameinformer.com/b/news/archive/2011/11/04/lego-universe-closing-in-2012.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gameinformer.com">[Game Informer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gameinformer.com</span><span class="citation-popover-title">lego universe closing in 2012.aspx</span><span class="citation-popover-snippet">Game InformerLEGO Universe Closing In 20124 Nov 2011 — Unfortunately, we have not been able to build a satisfactory revenue model in our...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Most importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego Universe shutting down:(: r/gaming</span><span class="citation-popover-snippet">Lego Universe shutting down:(: r/gamingNovember 8, 2011 — This was a result of trying to keep the game accessible to very young c...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>, the experience pushed LEGO toward more governed forms of innovation. Instead of assuming that brand strength alone could carry the company into new digital categories, LEGO became more focused on testing assumptions, aligning digital projects with core capabilities and learning from controlled failures.
 
 In that sense, LEGO Universe fits the broader pattern of LEGO's recovery era. The company did not become antifragile because its experiments succeeded. It became more antifragile because expensive experiments forced it to build better ways of learning, governing risk and deciding when growth was arriving faster than understanding.
 
@@ -538,15 +527,15 @@ In that sense, LEGO Universe fits the broader pattern of LEGO's recovery era. Th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed"><img src="https://i.ebayimg.com/images/g/5PUAAeSw0NhqJain/s-l225.jpg" alt="Listing image for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Marvel Universe Mini Figure Collection Series Spider-Man Sh0536 / 2019"><img src="https://i.ebayimg.com/images/g/~I4AAeSwXH1poDV3/s-l225.jpg" alt="Listing image for Lego Marvel Universe Mini Figure Collection Series Spider-Man Sh0536 / 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Marvel Universe Mini Figure Collection Series Spider-Man Sh0536 / 2019</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Universe figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Universe figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +543,15 @@ In that sense, LEGO Universe fits the broader pattern of LEGO's recovery era. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO® - LEGO® Ideas - The Office - 21336"><img src="https://i.ebayimg.com/images/g/yGQAAeSwTNZqJ~wb/s-l225.jpg" alt="Listing image for LEGO® - LEGO® Ideas - The Office - 21336" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Marvel Universe Mini Figure Collection Series Carnage Sh0187 / 2015"><img src="https://i.ebayimg.com/images/g/pQ0AAeSw~9BqCN2T/s-l225.jpg" alt="Listing image for Lego Marvel Universe Mini Figure Collection Series Carnage Sh0187 / 2015" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® - LEGO® Ideas - The Office - 21336</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Marvel Universe Mini Figure Collection Series Carnage Sh0187 / 2015</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Universe figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Universe figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +559,31 @@ In that sense, LEGO Universe fits the broader pattern of LEGO's recovery era. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21376 Orange Cat NEW 2026"><img src="https://i.ebayimg.com/images/g/lmEAAeSwdDpqHfOp/s-l225.jpg" alt="Listing image for LEGO Ideas 21376 Orange Cat NEW 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Dc Universe Mini Figure Collection Series Batman Sh0089 / 2014"><img src="https://i.ebayimg.com/images/g/Q5AAAeSwHo5n7DeO/s-l225.jpg" alt="Listing image for Lego Dc Universe Mini Figure Collection Series Batman Sh0089 / 2014" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21376 Orange Cat NEW 2026</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Dc Universe Mini Figure Collection Series Batman Sh0089 / 2014</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Universe figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Universe figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego DC Universe Mini Figure Collection Series SUPERMAN Sh0219 / 2016"><img src="https://i.ebayimg.com/images/g/F-kAAOSwFfZmrTEQ/s-l225.jpg" alt="Listing image for Lego DC Universe Mini Figure Collection Series SUPERMAN Sh0219 / 2016" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer">Lego DC Universe Mini Figure Collection Series SUPERMAN Sh0219 / 2016</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Universe figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Universe figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +591,7 @@ In that sense, LEGO Universe fits the broader pattern of LEGO's recovery era. Th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Universe+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-learned-from-a-digital-failure-lego-universe-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Universe figure" data-ebay-reference="what-lego-learned-from-a-digital-failure-lego-universe-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -796,149 +801,150 @@ In that sense, LEGO Universe fits the broader pattern of LEGO's recovery era. Th
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lego Universe  
-   Link: [https://en.wikipedia.org/wiki/Lego_Universe](https://en.wikipedia.org/wiki/Lego_Universe)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Universe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Universe</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Club Penguin  
-   Link: [https://en.wikipedia.org/wiki/Club_Penguin](https://en.wikipedia.org/wiki/Club_Penguin)  
+   Link: <a href="https://en.wikipedia.org/wiki/Club_Penguin" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Club_Penguin</a>  
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Title: bits n bricks s01e11 lego universe part 1 feature and transcript  
-   Link: [https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf](https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe Rise and Fall of LEGO® Universe: Inception17 Feb 2021 —... difference between NetDevil, located in Colorado, and the LEGO Group...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/set/assets/blt73b64af9a0b918a8/bits_n_bricks_s01e11_lego_universe_part_1_feature_and_transcript.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise and Fall of LEGO® Universe: Inception17 Feb 2021 —... difference between NetDevil, located in Colorado, and the LEGO Group...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Lego Universe shutting down:(: r/gaming  
-   Link: [https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/](https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditLego Universe shutting down:(: r/gamingNovember 8, 2011 — This was a result of trying to keep the game accessible to very young c...</p></details>
+   Link: <a href="https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/gaming/comments/m5ddv/lego_universe_shutting_down/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Universe shutting down:(: r/gamingNovember 8, 2011 — This was a result of trying to keep the game accessible to very young c...</p></details>
    Published: November 8, 2011  
 
 5. <a id="endnote-5"></a>
    Source: netdevil.com  
-   Link: [https://www.netdevil.com/netdevil/](https://www.netdevil.com/netdevil/)  
+   Link: <a href="https://www.netdevil.com/netdevil/" target="_blank" rel="noopener noreferrer nofollow">https://www.netdevil.com/netdevil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Universe - Games - NetDevilLEGO Universe is being designed as the first MMOG professionally developed for LEGO fans and supported by...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bricker.info  
    Title: LEGO Universe to close in 2012  
-   Link: [https://bricker.info/articles/news/LEGO-Universe-to-close-in-2012.html](https://bricker.info/articles/news/LEGO-Universe-to-close-in-2012.html)  
+   Link: <a href="https://bricker.info/articles/news/LEGO-Universe-to-close-in-2012.html" target="_blank" rel="noopener noreferrer nofollow">https://bricker.info/articles/news/LEGO-Universe-to-close-in-2012.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Universe will be closed in 20125 Nov 2011 — Unfortunately, we have not been able to build a satisfactory revenue model in our target...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: padandpixel.com  
    Title: lego universe death of a dream  
-   Link: [https://padandpixel.com/lego-universe-death-of-a-dream/](https://padandpixel.com/lego-universe-death-of-a-dream/)  
+   Link: <a href="https://padandpixel.com/lego-universe-death-of-a-dream/" target="_blank" rel="noopener noreferrer nofollow">https://padandpixel.com/lego-universe-death-of-a-dream/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Universe: Death of a Dream3 Mar 2021 — The $125 million investment in a LEGO brick-themed massively multiplayer online game failed f...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: bits n bricks s01e13 lego universe part 2 feature and transcript  
-   Link: [https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf](https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Universe: Death of a Dream3 Mar 2021 — &quot;It was obvious that something digital had to happen with the LEGO Group.&quot; From the LEGO...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/set/assets/blt7d7fdb550ee498b3/bits_n_bricks_s01e13_lego_universe_part_2_feature_and_transcript.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Universe: Death of a Dream3 Mar 2021 — &quot;It was obvious that something digital had to happen with the LEGO Group.&quot; From the LEGO...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hbsp.harvard.edu  
-   Link: [https://www.hbsp.harvard.edu/product/IMD976-PDF-ENG](https://www.hbsp.harvard.edu/product/IMD976-PDF-ENG)  
+   Link: <a href="https://www.hbsp.harvard.edu/product/IMD976-PDF-ENG" target="_blank" rel="noopener noreferrer nofollow">https://www.hbsp.harvard.edu/product/IMD976-PDF-ENG</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School PublishingLego in the Age of Digitization (A)It describes the LEGO Group&#x27;s decision to close the LEGO Universe ga...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thecasecentre.org  
-   Link: [https://www.thecasecentre.org/products/view?id=161713](https://www.thecasecentre.org/products/view?id=161713)  
+   Link: <a href="https://www.thecasecentre.org/products/view?id=161713" target="_blank" rel="noopener noreferrer nofollow">https://www.thecasecentre.org/products/view?id=161713</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO in the Age of Digitization (B)It describes the LEGO Group&#x27;s decision to close the LEGO Universe game, its learnings on how to embark...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MMORPG/comments/dc5lzk/anyone_remember_lego_universe/](https://www.reddit.com/r/MMORPG/comments/dc5lzk/anyone_remember_lego_universe/)  
+   Link: <a href="https://www.reddit.com/r/MMORPG/comments/dc5lzk/anyone_remember_lego_universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MMORPG/comments/dc5lzk/anyone_remember_lego_universe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I don’t remember much since I was only 8 or 10 but I...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: gameinformer.com  
    Title: lego universe closing in 2012.aspx  
-   Link: [https://gameinformer.com/b/news/archive/2011/11/04/lego-universe-closing-in-2012.aspx](https://gameinformer.com/b/news/archive/2011/11/04/lego-universe-closing-in-2012.aspx)  
+   Link: <a href="https://gameinformer.com/b/news/archive/2011/11/04/lego-universe-closing-in-2012.aspx" target="_blank" rel="noopener noreferrer nofollow">https://gameinformer.com/b/news/archive/2011/11/04/lego-universe-closing-in-2012.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Game InformerLEGO Universe Closing In 20124 Nov 2011 — Unfortunately, we have not been able to build a satisfactory revenue model in our...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedrum.com  
    Title: lego victim its own digital success lego universe closure says expert  
-   Link: [https://www.thedrum.com/news/lego-victim-its-own-digital-success-lego-universe-closure-says-expert](https://www.thedrum.com/news/lego-victim-its-own-digital-success-lego-universe-closure-says-expert)  
+   Link: <a href="https://www.thedrum.com/news/lego-victim-its-own-digital-success-lego-universe-closure-says-expert" target="_blank" rel="noopener noreferrer nofollow">https://www.thedrum.com/news/lego-victim-its-own-digital-success-lego-universe-closure-says-expert</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As well as...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gamedeveloper.com  
    Title: Game Developer AGDC Interview: How Net Devil Got The LEGO Universe Deal  
-   Link: [https://www.gamedeveloper.com/game-platforms/agdc-interview-how-netdevil-got-the-i-lego-universe-i-deal](https://www.gamedeveloper.com/game-platforms/agdc-interview-how-netdevil-got-the-i-lego-universe-i-deal)  
+   Link: <a href="https://www.gamedeveloper.com/game-platforms/agdc-interview-how-netdevil-got-the-i-lego-universe-i-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.gamedeveloper.com/game-platforms/agdc-interview-how-netdevil-got-the-i-lego-universe-i-deal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Game DeveloperAGDC Interview: How NetDevil Got The LEGO Universe DealSeptember 18, 2008 — Amid a &quot;grim and despairing&quot; nine-month crunch...</p></details>
    Published: September 18, 2008  
 
 15. <a id="endnote-15"></a>
    Source: legogames.fandom.com  
    Title: LEGO Universe  
-   Link: [https://legogames.fandom.com/wiki/LEGO_Universe](https://legogames.fandom.com/wiki/LEGO_Universe)  
+   Link: <a href="https://legogames.fandom.com/wiki/LEGO_Universe" target="_blank" rel="noopener noreferrer nofollow">https://legogames.fandom.com/wiki/LEGO_Universe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children and some adults were brought in for testing and brainstorming. LEGO Universe was...Read more...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/subpixelfilms-com/the-story-of-lego-universe-c6377a8ca01b](https://medium.com/subpixelfilms-com/the-story-of-lego-universe-c6377a8ca01b)  
+   Link: <a href="https://medium.com/subpixelfilms-com/the-story-of-lego-universe-c6377a8ca01b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/subpixelfilms-com/the-story-of-lego-universe-c6377a8ca01b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of LEGO UniverseOf these potential partners was Auto Assault and Jumpgate Evolution developer NetDevil. Former NetDevil Creativ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case](https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case)  
+   Link: <a href="https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Transformation Strategy: The LEGO CaseThe purpose of this paper is to shed light on the digital transformation of LEGO and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: brickfanatics.com  
    Title: everything we learned from behind the scenes of lego universe  
-   Link: [https://www.brickfanatics.com/everything-we-learned-from-behind-the-scenes-of-lego-universe](https://www.brickfanatics.com/everything-we-learned-from-behind-the-scenes-of-lego-universe)  
+   Link: <a href="https://www.brickfanatics.com/everything-we-learned-from-behind-the-scenes-of-lego-universe" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/everything-we-learned-from-behind-the-scenes-of-lego-universe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything we learned from behind the scenes of LEGO...24 Feb 2021 — LEGO Universe was the LEGO Group&#x27;s first MMOG themed around the LEG...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: engadget.com  
    Title: 2011 11 04 lego universe shutting down january 2012  
-   Link: [https://www.engadget.com/2011-11-04-lego-universe-shutting-down-january-2012.html](https://www.engadget.com/2011-11-04-lego-universe-shutting-down-january-2012.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EngadgetLEGO Universe shutting down January 20124 Nov 2011 — The word&#x27;s come down from the LEGO Group that LEGO Universe is closing its d...</p></details>
+   Link: <a href="https://www.engadget.com/2011-11-04-lego-universe-shutting-down-january-2012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.engadget.com/2011-11-04-lego-universe-shutting-down-january-2012.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Universe shutting down January 20124 Nov 2011 — The word&#x27;s come down from the LEGO Group that LEGO Universe is closing its d...</p></details>
    Published: january 2012  
 
 20. <a id="endnote-20"></a>
    Source: legouniverse.fandom.com  
    Title: Why was LEGO Universe REALLY Shut Down???  
-   Link: [https://legouniverse.fandom.com/wiki/User_blog%3AZackaryX/Why_was_LEGO_Universe_REALLY_Shut_Down%3F%3F%3F](https://legouniverse.fandom.com/wiki/User_blog%3AZackaryX/Why_was_LEGO_Universe_REALLY_Shut_Down%3F%3F%3F)  
+   Link: <a href="https://legouniverse.fandom.com/wiki/User_blog%3AZackaryX/Why_was_LEGO_Universe_REALLY_Shut_Down%3F%3F%3F" target="_blank" rel="noopener noreferrer nofollow">https://legouniverse.fandom.com/wiki/User_blog%3AZackaryX/Why_was_LEGO_Universe_REALLY_Shut_Down%3F%3F%3F</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>was LEGO Universe REALLY Shut Down???LEGO Universe closing wasn&#x27;t due to money problems. It was just a bad move made by the higher ups in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Why LEGO Universe Failed (And Why We Still Love It)  
-   Link: [http://www.youtube.com/watch?v=yW3_p7hQ9H8](http://www.youtube.com/watch?v=yW3_p7hQ9H8)  
+   Link: <a href="http://www.youtube.com/watch?v=yW3_p7hQ9H8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yW3_p7hQ9H8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Universe failure analysis documentary The Story of LEGO Universe | LEGO Universe 10th Anniversary Retrospective Subpixel...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/lego-expands-its-universe-with-online-game-5516830.html](https://www.independent.co.uk/tech/lego-expands-its-universe-with-online-game-5516830.html)  
+   Link: <a href="https://www.independent.co.uk/tech/lego-expands-its-universe-with-online-game-5516830.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/lego-expands-its-universe-with-online-game-5516830.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego expands its universe with online game10 Jan 2010 — Like World of Warcraft or Disney&#x27;s Club Penguin, Lego Universe is what is known a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: atlantis-press.com  
-   Link: [https://www.atlantis-press.com/article/125964664.pdf](https://www.atlantis-press.com/article/125964664.pdf)  
+   Link: <a href="https://www.atlantis-press.com/article/125964664.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantis-press.com/article/125964664.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The article considers the concept and structural elements of a business model, defines the directions of transformation.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: LEGO Universe Official Trailer  
-   Link: [http://www.youtube.com/watch?v=EEORQGVFTnc](http://www.youtube.com/watch?v=EEORQGVFTnc)  
+   Link: <a href="http://www.youtube.com/watch?v=EEORQGVFTnc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EEORQGVFTnc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why LEGO Universe Failed (And Why We Still Love It)...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Story of LEGO Universe | LEGO Universe 10th Anniversary Retrospective  
-   Link: [http://www.youtube.com/watch?v=TbEh66LQW3o](http://www.youtube.com/watch?v=TbEh66LQW3o)  
+   Link: <a href="http://www.youtube.com/watch?v=TbEh66LQW3o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TbEh66LQW3o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why [LEGO Games](&amp;#123;&amp;#123; &#x27;lego-games/&#x27; | relative_url &amp;#125;&amp;#125;) Died...</p></details>

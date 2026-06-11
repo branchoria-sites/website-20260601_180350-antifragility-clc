@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /crisis-test/
 nav_short_title: Licensing Risk
 title: The Hidden Risk in LEGO Movie Tie Ins
-title_full: The Hidden Risk in LEGO Movie Tie Ins | Crisis Test
+title_full: The Hidden Risk in LEGO Movie Tie Ins
 display_title_short: Licensing Risk
 display_title: Licensing Risk
 heading_title: The Hidden Risk in LEGO Movie Tie Ins
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What LEGO's Crisis Revealed About Fragility | LEGO Antifragility
+parent_title: What LEGO's Crisis Revealed About Fragility
 parent_permalink: /crisis-test/
 parent_nav_short_title: Crisis Test
 parent_heading_title: What LEGO's Crisis Revealed About Fragility
@@ -265,7 +265,7 @@ next_link:
   permalink: /product-sprawl/
   short_title: Product Sprawl
   heading_title: When LEGO Innovation Became Too Much
-date: '2026-06-09 03:37:10 '
+date: '2026-06-11 21:39:31 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1.webp
@@ -274,22 +274,20 @@ image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego
 
 ## Introduction
 
-LEGOs partnerships with franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}) and Harry Potter are often remembered as rescue stories. They brought global attention, strong sales and a way to connect physical toys to worlds that children already loved. Yet the same partnerships also revealed a weakness that became painfully visible during LEGOs early-2000s crisis. When a large share of demand depended on film schedules, cinema success and cultural momentum controlled by other companies, LEGOs performance became more volatile. Strong movie years could make growth look sustainable. Weak movie years could expose how much of that growth rested on forces outside LEGOs control.
-
+LEGO’s partnerships with franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}) and Harry Potter are often remembered as rescue stories. They brought global attention, strong sales and a way to connect physical toys to worlds that children already loved. Yet the same partnerships also revealed a weakness that became painfully visible during LEGO’s early-2000s crisis. When a large share of demand depended on film schedules, cinema success and cultural momentum controlled by other companies, LEGO’s performance became more volatile. Strong movie years could make growth look sustainable. Weak movie years could expose how much of that growth rested on forces outside LEGO’s control.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1-dark.svg" | relative_url }}" alt="Licensing Risk illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This tension became one of the clearest examples of fragility in LEGOs pre-turnaround business model. The company did not abandon [licensing]({{ 'licensing/' | relative_url }}) after the crisis. Instead, it learned to manage licensed themes differently, turning them from a source of instability into part of a broader and more resilient portfolio.
+This tension became one of the clearest examples of fragility in LEGO’s pre-turnaround business model. The company did not abandon [licensing]({{ 'licensing/' | relative_url }}) after the crisis. Instead, it learned to manage licensed themes differently, turning them from a source of instability into part of a broader and more resilient portfolio.
 
 ## How Licensed Themes Shaped Sales Swings
 
-The Star Wars licence, launched in 1999 alongside *The Phantom Menace*, was an enormous commercial success. Demand exceeded expectations and demonstrated that LEGO could attract children through established fictional universes rather than relying entirely on original themes. Harry Potter followed in 2001 and became another major hit. Together, the two franchises helped LEGO grow during a period when traditional toy markets were becoming more competitive and digital entertainment was capturing more children's attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyforoperators.substack.com">[historyforoperators.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyforoperators.substack.com</span><span class="citation-popover-snippet">How LEGO Nearly Collapsed - History for OperatorsJune 22, 2025  LEGO Star Wars kits flew off the shelves, exceeding sales forecasts by 500%...</span><span class="citation-popover-meta">Published: June 22, 2025</span></span></span>
+The Star Wars licence, launched in 1999 alongside *The Phantom Menace*, was an enormous commercial success. Demand exceeded expectations and demonstrated that LEGO could attract children through established fictional universes rather than relying entirely on original themes. Harry Potter followed in 2001 and became another major hit. Together, the two franchises helped LEGO grow during a period when traditional toy markets were becoming more competitive and digital entertainment was capturing more children's attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyforoperators.substack.com">[historyforoperators.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyforoperators.substack.com</span><span class="citation-popover-snippet">How LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — LEGO Star Wars kits flew off the shelves, exceeding sales forecasts by 500%...</span><span class="citation-popover-meta">Published: June 22, 2025</span></span></span>
 
 The problem was not that the licences worked. The problem was how strongly sales became tied to the entertainment cycle.
 
 Unlike classic LEGO themes such as City, Castle or Technic, licensed sets depended on an external stream of films, marketing campaigns and public excitement. When a major film arrived, retailers wanted more stock, children wanted specific characters and sales could surge rapidly. When there was no new film, enthusiasm often cooled just as quickly.
 
-The dynamic created a different kind of business from LEGOs traditional model: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[markhub24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
-
+The dynamic created a different kind of business from LEGO’s traditional model: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[markhub24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through Licensing31 Jan 2026 — Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,23 +301,19 @@ The dynamic created a different kind of business from LEGOs traditional model: <
 
 In effect, licensed products introduced a layer of dependency between LEGO and entertainment companies such as Lucasfilm and Warner Bros. The company could design the sets and manage manufacturing, but it could not control whether the next film generated excitement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BgbG7e-s83s" title="LEGO&#x27;s Genius Business Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BgbG7e-s83s" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Genius Business Model</a></p><p class="youtube-embed-meta">Channel: Finance Bureau &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BgbG7e-s83s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BgbG7e-s83s">Open on YouTube</a></p></div></div></div>
-
 ## Why Weak Film Years Exposed Fragility
 
-The weakness of this model became visible during LEGOs financial deterioration in the early 2000s.
+The weakness of this model became visible during LEGO’s financial deterioration in the early 2000s.
 
-LEGOs 2003 annual report stated that weakness in Star Wars and Harry Potter products accounted for more than half of the companys overall sales decline that year. The same report recorded a severe downturn, with sales falling sharply across major regions and the company reporting major losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004  As early indications were that weak sales would continue throughout the year, LEGO Co...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
+LEGO’s 2003 annual report stated that weakness in Star Wars and Harry Potter products accounted for more than half of the company’s overall sales decline that year. The same report recorded a severe downturn, with sales falling sharply across major regions and the company reporting major losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">Annual Report 2003 LEGO CompanyMarch 10, 2004 — As early indications were that weak sales would continue throughout the year, LEGO Co...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
 
-That statistic is revealing because it shows how concentrated LEGOs growth drivers had become. A company known for a universal building system was increasingly vulnerable to fluctuations in a small number of licensed entertainment properties.
+That statistic is revealing because it shows how concentrated LEGO’s growth drivers had become. A company known for a universal building system was increasingly vulnerable to fluctuations in a small number of licensed entertainment properties.
 
-The Guardian later summarised the problem bluntly: Star Wars and Harry Potter sets sold strongly when there was a film in cinemas, but without a film release they often remained on shelves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">But only if there was a movie out that year.Read more</span><span class="citation-popover-snippet">The GuardianHow Lego clicked: the super brand that reinvented itselfJune 4, 2017  4 Jun 2017  Lego&#x27;s toys still sold, particularly tie...</span><span class="citation-popover-meta">Published: June 4, 2017</span></span></span>
+The Guardian later summarised the problem bluntly: Star Wars and Harry Potter sets sold strongly when there was a film in cinemas, but without a film release they often remained on shelves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">But only if there was a movie out that year.Read more</span><span class="citation-popover-snippet">The GuardianHow Lego clicked: the super brand that reinvented itselfJune 4, 2017 — 4 Jun 2017 — Lego&#x27;s toys still sold, particularly tie...</span><span class="citation-popover-meta">Published: June 4, 2017</span></span></span>
 
 This exposed a deeper structural issue. Licensing had initially looked like diversification. In reality, it shifted dependence from one place to another.
 
-Instead of relying solely on LEGOs own product development capabilities, the company became partially dependent on:
-
+Instead of relying solely on LEGO’s own product development capabilities, the company became partially dependent on:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,17 +325,16 @@ Instead of relying solely on LEGOs own product development capabilities, the com
 
 </div>
 
-From an antifragility perspective, this mattered because the company was absorbing volatility without necessarily gaining useful information from it. A strong movie year could temporarily hide operational weaknesses elsewhere in the business. Strong sales did not always mean LEGOs underlying system was healthy.
+From an antifragility perspective, this mattered because the company was absorbing volatility without necessarily gaining useful information from it. A strong movie year could temporarily hide operational weaknesses elsewhere in the business. Strong sales did not always mean LEGO’s underlying system was healthy.
 
 When demand later weakened, the company discovered that some apparent growth had been borrowed from external cultural events rather than generated by a durable competitive advantage.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-2-dark.svg" | relative_url }}" alt="Licensing Risk illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between a Good Product and a Safe Business Model
 
 One reason the licensing risk was easy to miss is that the products themselves were often excellent.
 
-Star Wars translated naturally into LEGOs building system. Spaceships, vehicles and iconic locations all fit the construction format. Harry Potter offered castles, trains, classrooms and detailed environments that builders recognised immediately. Children enjoyed them, and many adult collectors did too.
+Star Wars translated naturally into LEGO’s building system. Spaceships, vehicles and iconic locations all fit the construction format. Harry Potter offered castles, trains, classrooms and detailed environments that builders recognised immediately. Children enjoyed them, and many adult collectors did too.
 
 The fragility was therefore not located in the toys. It was located in the business mechanism surrounding them.
 
@@ -349,24 +342,23 @@ A company can sell a popular product while still becoming more vulnerable. Sever
 
 **Revenue concentration.** If too much growth came from a handful of licences, a downturn in those franchises could affect the entire company.
 
-**Royalty obligations.** Licensed products generally carry royalty payments and contractual commitments that do not exist with wholly owned intellectual property. This reduces flexibility when sales weaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
+**Royalty obligations.** Licensed products generally carry royalty payments and contractual commitments that do not exist with wholly owned intellectual property. This reduces flexibility when sales weaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through Licensing31 Jan 2026 — Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
 
 **Forecasting errors.** Film-related demand can be difficult to predict. Producing too much inventory can leave retailers and manufacturers with unsold stock.
 
-**Strategic distraction.** During LEGOs expansion phase, management attention was spread across many initiatives at once, including new product categories, media ventures and licensed themes. Strong licence sales sometimes masked the need to simplify operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
+**Strategic distraction.** During LEGO’s expansion phase, management attention was spread across many initiatives at once, including new product categories, media ventures and licensed themes. Strong licence sales sometimes masked the need to simplify operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
 
-In this sense, Star Wars and Harry Potter did not create LEGOs crisis. They revealed how vulnerable the wider system had become.
+In this sense, Star Wars and Harry Potter did not create LEGO’s crisis. They revealed how vulnerable the wider system had become.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a8SOHc02U6s" title="How LEGO Almost Went Bankrupt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a8SOHc02U6s" target="_blank" rel="noopener noreferrer">How LEGO Almost Went Bankrupt</a></p><p class="youtube-embed-meta">Channel: Eldine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a8SOHc02U6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a8SOHc02U6s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BgbG7e-s83s" title="LEGO&#x27;s Genius Business Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BgbG7e-s83s" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Genius Business Model</a></p><p class="youtube-embed-meta">Channel: Finance Bureau &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BgbG7e-s83s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BgbG7e-s83s">Open on YouTube</a></p></div></div></div>
 
 ## How Licensed Play Later Became More Disciplined
 
-One of the most important lessons from LEGOs turnaround is that the company did not conclude that licensing was a mistake.
+One of the most important lessons from LEGO’s turnaround is that the company did not conclude that licensing was a mistake.
 
 Instead, management changed how licensing fit within the overall business.
 
-Under Jrgen Vig Knudstorp, LEGO reduced [complexity]({{ 'complexity/' | relative_url }}), focused more heavily on the [brick system]({{ 'brick-system/' | relative_url }}) and became more selective about which partnerships mattered. Rather than treating licences as growth engines that could compensate for weak fundamentals, the company treated them as complements to its core strengths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiu.edu">[Atlantic International University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiu.edu</span><span class="citation-popover-title">from the brink of bankruptcy how lego rebuilt its future brick by brick</span><span class="citation-popover-snippet">Atlantic International UniversityFrom the Brink of Bankruptcy: How LEGO Rebuilt Its Future...Knudstorp&#x27;s turnaround strategy rested on o...</span></span></span>
+Under Jørgen Vig Knudstorp, LEGO reduced [complexity]({{ 'complexity/' | relative_url }}), focused more heavily on the [brick system]({{ 'brick-system/' | relative_url }}) and became more selective about which partnerships mattered. Rather than treating licences as growth engines that could compensate for weak fundamentals, the company treated them as complements to its core strengths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiu.edu">[Atlantic International University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiu.edu</span><span class="citation-popover-title">from the brink of bankruptcy how lego rebuilt its future brick by brick</span><span class="citation-popover-snippet">Atlantic International UniversityFrom the Brink of Bankruptcy: How LEGO Rebuilt Its Future...Knudstorp&#x27;s turnaround strategy rested on o...</span></span></span>
 
 Several changes made the model more resilient:
 
@@ -376,33 +368,28 @@ Instead of depending heavily on a small number of film releases, LEGO balanced l
 
 This reduced the danger that one weak entertainment cycle could disproportionately affect the company.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-3-dark.svg" | relative_url }}" alt="Licensing Risk illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Brick System Took Priority
 
-The key question shifted from Will this franchise sell? to Does this franchise work within the LEGO building experience?
+The key question shifted from “Will this franchise sell?” to “Does this franchise work within the LEGO building experience?”
 
-That distinction mattered because it put the construction system back at the centre of decision-making. A licence was valuable only if it strengthened the core play pattern rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
+That distinction mattered because it put the construction system back at the centre of decision-making. A licence was valuable only if it strengthened the core play pattern rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through Licensing31 Jan 2026 — Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
 
 ### Long-Term Franchises Replaced Short-Term Hype
 
-Star Wars eventually became one of LEGOs most durable partnerships precisely because it evolved beyond a single film release. The franchise developed multiple generations of fans, television series, games and collector markets.
+Star Wars eventually became one of LEGO’s most durable partnerships precisely because it evolved beyond a single film release. The franchise developed multiple generations of fans, television series, games and collector markets.
 
-That reduced reliance on one specific cinematic moment and created more stable demand than the boom-and-bust cycles visible during the early 2000s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
+That reduced reliance on one specific cinematic moment and created more stable demand than the boom-and-bust cycles visible during the early 2000s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">lego business model reinvention through licensing</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through Licensing31 Jan 2026 — Discover how Lego&#x27;s strategic licensing transformed it from near...</span></span></span>
 
 ## What the Episode Reveals About Antifragility
 
 The Star Wars and Harry Potter experience illustrates a broader lesson about antifragility. Growth generated by external excitement can look impressive while conditions are favourable. The real test comes when that excitement fades.
 
-LEGOs crisis revealed that licensed success and organisational resilience were not the same thing. The company had found products that consumers loved, but it had not yet built a system capable of handling the volatility attached to them. Weak film years exposed that mismatch.
+LEGO’s crisis revealed that licensed success and organisational resilience were not the same thing. The company had found products that consumers loved, but it had not yet built a system capable of handling the volatility attached to them. Weak film years exposed that mismatch.
 
 The turnaround did not eliminate licensing risk. Instead, LEGO learned how to absorb it. Licensed themes remained important, but they were integrated into a more disciplined structure with stronger operational controls, a clearer focus on the brick system and a broader mix of internally owned and externally licensed properties.
 
-That shift is central to LEGOs antifragility story. The shock of declining Star Wars and Harry Potter demand did not simply damage the company. It exposed a hidden dependency early enough for LEGO to redesign the way it used licences, turning a source of fragility into a more manageable source of growth.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgurf3bPT9w" title="The Lego Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgurf3bPT9w" target="_blank" rel="noopener noreferrer">The Lego Story</a></p><p class="youtube-embed-meta">Channel: Caffeinated Deep Dives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgurf3bPT9w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgurf3bPT9w">Open on YouTube</a></p></div></div></div>
-
+That shift is central to LEGO’s antifragility story. The shock of declining Star Wars and Harry Potter demand did not simply damage the company. It exposed a hidden dependency early enough for LEGO to redesign the way it used licences, turning a source of fragility into a more manageable source of growth.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -521,15 +508,15 @@ That shift is central to LEGOs antifragility story. The shock of declining Star 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 11005 Classic Building Set 900 Pieces"><img src="https://i.ebayimg.com/images/g/xIQAAeSw7pNqJ90g/s-l225.jpg" alt="Listing image for LEGO 11005 Classic Building Set 900 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars 75460 New Republic X-Wing Starfighter (Age 9+) NEW &amp; SEALED"><img src="https://i.ebayimg.com/images/g/htgAAeSwVRdp8Mji/s-l225.jpg" alt="Listing image for LEGO Star Wars 75460 New Republic X-Wing Starfighter (Age 9+) NEW &amp; SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 11005 Classic Building Set 900 Pieces</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars 75460 New Republic X-Wing Starfighter (Age 9+) NEW &amp; SEALED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +524,15 @@ That shift is central to LEGOs antifragility story. The shock of declining Star 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic 10696 Medium Creative Brick Box"><img src="https://i.ebayimg.com/images/g/rxYAAeSwYfVqJwYF/s-l225.jpg" alt="Listing image for LEGO Classic 10696 Medium Creative Brick Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars set 75440 AT-AT. Brand NEW in sealed box. Bargain !! FREEPOST"><img src="https://i.ebayimg.com/images/g/xFwAAeSwynFqJdZ~/s-l225.jpg" alt="Listing image for LEGO Star Wars set 75440 AT-AT. Brand NEW in sealed box. Bargain !! FREEPOST" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic 10696 Medium Creative Brick Box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars set 75440 AT-AT. Brand NEW in sealed box. Bargain !! FREEPOST</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +540,31 @@ That shift is central to LEGOs antifragility story. The shock of declining Star 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CLASSIC: Creative Building Box (10695)"><img src="https://i.ebayimg.com/images/g/zD0AAeSwLqJqJwn5/s-l225.jpg" alt="Listing image for LEGO CLASSIC: Creative Building Box (10695)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars: Princess Leia (Boushh) Helmet (75351) - Brand New &amp; Sealed Set"><img src="https://i.ebayimg.com/images/g/zXAAAeSw7UBqKwEK/s-l225.jpg" alt="Listing image for LEGO Star Wars: Princess Leia (Boushh) Helmet (75351) - Brand New &amp; Sealed Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CLASSIC: Creative Building Box (10695)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars: Princess Leia (Boushh) Helmet (75351) - Brand New &amp; Sealed Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars Buildable Figures Jango Fett (75107) 85-Piece Set With Box"><img src="https://i.ebayimg.com/images/g/--oAAeSwKNZqKxWK/s-l225.jpg" alt="Listing image for LEGO Star Wars Buildable Figures Jango Fett (75107) 85-Piece Set With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars Buildable Figures Jango Fett (75107) 85-Piece Set With Box</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +572,7 @@ That shift is central to LEGOs antifragility story. The shock of declining Star 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="the-hidden-risk-in-lego-movie-tie-ins-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -779,124 +782,125 @@ That shift is central to LEGOs antifragility story. The shock of declining Star 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: historyforoperators.substack.com  
-   Link: [https://historyforoperators.substack.com/p/the-lego-turnaround](https://historyforoperators.substack.com/p/the-lego-turnaround)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Nearly Collapsed - History for OperatorsJune 22, 2025  LEGO Star Wars kits flew off the shelves, exceeding sales forecasts by 500%...</p></details>
+   Link: <a href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://historyforoperators.substack.com/p/the-lego-turnaround</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — LEGO Star Wars kits flew off the shelves, exceeding sales forecasts by 500%...</p></details>
    Published: June 22, 2025  
 
 2. <a id="endnote-2"></a>
    Source: markhub24.com  
    Title: lego business model reinvention through licensing  
-   Link: [https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing](https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MarkHub24Lego: Business Model Reinvention Through Licensing31 Jan 2026  Discover how Lego&#x27;s strategic licensing transformed it from near...</p></details>
+   Link: <a href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: Business Model Reinvention Through Licensing31 Jan 2026 — Discover how Lego&#x27;s strategic licensing transformed it from near...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Title: Annual Report 2003 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2003 LEGO CompanyMarch 10, 2004  As early indications were that weak sales would continue throughout the year, LEGO Co...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2003 LEGO CompanyMarch 10, 2004 — As early indications were that weak sales would continue throughout the year, LEGO Co...</p></details>
    Published: March 10, 2004  
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us](https://www.lego.com/en-us)  
+   Link: <a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theguardian.com  
    Title: But only if there was a movie out that year.Read more  
-   Link: [https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHow Lego clicked: the super brand that reinvented itselfJune 4, 2017  4 Jun 2017  Lego&#x27;s toys still sold, particularly tie...</p></details>
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHow Lego clicked: the super brand that reinvented itselfJune 4, 2017 — 4 Jun 2017 — Lego&#x27;s toys still sold, particularly tie...</p></details>
    Published: June 4, 2017  
 
 6. <a id="endnote-6"></a>
    Source: aiu.edu  
    Title: from the brink of bankruptcy how lego rebuilt its future brick by brick  
-   Link: [https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/](https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/)  
+   Link: <a href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic International UniversityFrom the Brink of Bankruptcy: How LEGO Rebuilt Its Future...Knudstorp&#x27;s turnaround strategy rested on o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: central.co.th  
-   Title: LEG O | 5.5 |  50% +  22%Lego  
-   Link: [https://www.central.co.th/th/lego](https://www.central.co.th/th/lego)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>()   Lego   ...</p></details>
+   Title: LEG O | 5.5 | ลดราคาสูงสุด 50% + ลดเพิ่ม 22%Lego  
+   Link: <a href="https://www.central.co.th/th/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.central.co.th/th/lego</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(เลโก้) ของเล่นที่เป็นมากกว่าของเล่นเด็ก ตัวต่อ Lego เสริมจินตนาการไม่มีที่สิ้นสุด ไม่ว่าจะเป็นการออกแบบแนวสิ่งปลูกสร้าง หรือโมเดลตั้งโต๊...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: toysrus.co.th  
-   Link: [https://www.toysrus.co.th/th-th/lego/?srsltid=AfmBOorbxYIZaL4IVhvaAU3Lc7RI6PasMd8xPnX7VzfBmRj2dZldCBr7](https://www.toysrus.co.th/th-th/lego/?srsltid=AfmBOorbxYIZaL4IVhvaAU3Lc7RI6PasMd8xPnX7VzfBmRj2dZldCBr7)  
+   Link: <a href="https://www.toysrus.co.th/th-th/lego/?srsltid=AfmBOorbxYIZaL4IVhvaAU3Lc7RI6PasMd8xPnX7VzfBmRj2dZldCBr7" target="_blank" rel="noopener noreferrer nofollow">https://www.toysrus.co.th/th-th/lego/?srsltid=AfmBOorbxYIZaL4IVhvaAU3Lc7RI6PasMd8xPnX7VzfBmRj2dZldCBr7</a>  
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/990393074/Lego](https://www.scribd.com/document/990393074/Lego)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFIn 2014, LEGO reported record financial results, with revenues increasing by 10% to 25.4 billion DKK and profits before tax reaching...</p></details>
+   Link: <a href="https://www.scribd.com/document/990393074/Lego" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/990393074/Lego</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFIn 2014, LEGO® reported record financial results, with revenues increasing by 10% to 25.4 billion DKK and profits before tax reaching...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: lego sales fall growth job cuts  
-   Link: [https://www.theguardian.com/lifeandstyle/2018/mar/06/lego-sales-fall-growth-job-cuts](https://www.theguardian.com/lifeandstyle/2018/mar/06/lego-sales-fall-growth-job-cuts)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego reports first sales fall in 13 years, saying &#x27;there is no...6 Mar 2018  Profits dropped by 17% to DKr10.4bn compared with DKr12.4b...</p></details>
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2018/mar/06/lego-sales-fall-growth-job-cuts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2018/mar/06/lego-sales-fall-growth-job-cuts</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego reports first sales fall in 13 years, saying &#x27;there is no...6 Mar 2018 — Profits dropped by 17% to DKr10.4bn compared with DKr12.4b...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BricksThailand/](https://www.facebook.com/BricksThailand/)  
+   Link: <a href="https://www.facebook.com/BricksThailand/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BricksThailand/</a>  
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jochemvanderveer_in-2003-lego-was-collapsing-800-million-activity-7450493890371112960-9P8b](https://www.linkedin.com/posts/jochemvanderveer_in-2003-lego-was-collapsing-800-million-activity-7450493890371112960-9P8b)  
+   Link: <a href="https://www.linkedin.com/posts/jochemvanderveer_in-2003-lego-was-collapsing-800-million-activity-7450493890371112960-9P8b" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jochemvanderveer_in-2003-lego-was-collapsing-800-million-activity-7450493890371112960-9P8b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jochem van der Veer&#x27;s PostIn 2003, LEGO was collapsing: $800 million in debt, under heavy scrutiny, and not growing. Some of their core p...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: toys2thai.com  
-   Link: [https://www.toys2thai.com/](https://www.toys2thai.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toys2Thai:  LEGO  lego  ... LEGO  Playmobil   Sylvanian Families...</p></details>
+   Link: <a href="https://www.toys2thai.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.toys2thai.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>เลโก้แท้ LEGO ขาย lego ขายเลโก้ ตัวต่อเลโก้...ตัวแทนจำหน่ายเลโก้ LEGO เพลโมบิล Playmobil ซิลวาเนียน แฟมิลี่ Sylvanian Families...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/usmans_lego-2003-revenue-stalled-margins-negative-activity-7322197830406750208-4TYl](https://www.linkedin.com/posts/usmans_lego-2003-revenue-stalled-margins-negative-activity-7322197830406750208-4TYl)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO 2003: Revenue stalled, margins negative.When the new CEO came in he saw:  Majority of sales came from core sets  Everything else b...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/usmans_lego-2003-revenue-stalled-margins-negative-activity-7322197830406750208-4TYl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/usmans_lego-2003-revenue-stalled-margins-negative-activity-7322197830406750208-4TYl</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO 2003: Revenue stalled, margins negative.When the new CEO came in he saw: → Majority of sales came from core sets → Everything else b...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: [https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/](https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s... Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
+   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: threads.com  
    Title: by lego was million in debt sales had dropped in two years they had expanded  
-   Link: [https://www.threads.com/%40earlystartupdays/post/DY_4kHRiS-q/by-lego-was-million-in-debt-sales-had-dropped-in-two-years-they-had-expanded/](https://www.threads.com/%40earlystartupdays/post/DY_4kHRiS-q/by-lego-was-million-in-debt-sales-had-dropped-in-two-years-they-had-expanded/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sales had...23 hours ago  By 2003, Lego was $800 million in debt. Sales had dropped 30% in two years. They had expanded into everything...</p></details>
+   Link: <a href="https://www.threads.com/%40earlystartupdays/post/DY_4kHRiS-q/by-lego-was-million-in-debt-sales-had-dropped-in-two-years-they-had-expanded/" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40earlystartupdays/post/DY_4kHRiS-q/by-lego-was-million-in-debt-sales-had-dropped-in-two-years-they-had-expanded/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sales had...23 hours ago — By 2003, Lego was $800 million in debt. Sales had dropped 30% in two years. They had expanded into everything...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Title: Bricks Thailand (@lego_bricksthailand)  Bangkok MAY THE 4TH BE WITH YOU!  
-   Link: [https://www.instagram.com/lego_bricksthailand/](https://www.instagram.com/lego_bricksthailand/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p> LEGO Star Wars    1 !  LEGO Star Wars    1,800 ...</p></details>
+   Title: Bricks Thailand (@lego_bricksthailand) · Bangkok MAY THE 4TH BE WITH YOU!  
+   Link: <a href="https://www.instagram.com/lego_bricksthailand/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/lego_bricksthailand/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>แฟน LEGO Star Wars ห้ามพลาด งานใหญ่พร้อมโปรพิเศษเพียบที่ ชั้น 1 สยามพารากอน! ซื้อ LEGO Star Wars รับของแถม ▪️ ครบ 1,800 บาทขึ้นไปหลังหักส...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bricknerd.com  
    Title: legos financial history part 1 the ides of march 2000 to 2001 7 27 23  
-   Link: [https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23](https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Financial History, Part 1: The Ides of March, 2000...27 Jul 2023  But one of the most unexpected things I found is the lack of m...</p></details>
+   Link: <a href="https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23" target="_blank" rel="noopener noreferrer nofollow">https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Financial History, Part 1: The Ides of March, 2000...27 Jul 2023 — But one of the most unexpected things I found is the lack of m...</p></details>
    Published: march 2000  
 
 20. <a id="endnote-20"></a>
    Source: platform01consulting.com  
    Title: lego one of the greatest turnaround stories in corporate history  
-   Link: [https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history](https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: One of the Greatest Turnaround Stories In...13 Aug 2023  By the year 2003, Lego was encountering major difficulties.Sales had dec...</p></details>
+   Link: <a href="https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history" target="_blank" rel="noopener noreferrer nofollow">https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: One of the Greatest Turnaround Stories In...13 Aug 2023 — By the year 2003, Lego was encountering major difficulties.Sales had dec...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jesse.bounds.77/posts/lego-was-losing-1-million-a-day-warehouses-were-overflowingcosts-were-out-of-con/24747267254868630/](https://www.facebook.com/jesse.bounds.77/posts/lego-was-losing-1-million-a-day-warehouses-were-overflowingcosts-were-out-of-con/24747267254868630/)  
+   Link: <a href="https://www.facebook.com/jesse.bounds.77/posts/lego-was-losing-1-million-a-day-warehouses-were-overflowingcosts-were-out-of-con/24747267254868630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jesse.bounds.77/posts/lego-was-losing-1-million-a-day-warehouses-were-overflowingcosts-were-out-of-con/24747267254868630/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>billion-dollar movie tie-ins like Star Wars and Harry Potter...</p></details>

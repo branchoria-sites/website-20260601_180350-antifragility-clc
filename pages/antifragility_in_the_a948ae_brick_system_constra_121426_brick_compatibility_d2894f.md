@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /brick-system/
 nav_short_title: Compatibility
 title: Why Old LEGO Bricks Still Matter
-title_full: Why Old LEGO Bricks Still Matter | Brick System
+title_full: Why Old LEGO Bricks Still Matter
 display_title_short: Compatibility
 display_title: Compatibility
 heading_title: Why Old LEGO Bricks Still Matter
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Brick Became LEGO's Best Constraint | LEGO Antifragility
+parent_title: Why the Brick Became LEGO's Best Constraint
 parent_permalink: /brick-system/
 parent_nav_short_title: Brick System
 parent_heading_title: Why the Brick Became LEGO's Best Constraint
@@ -265,7 +265,7 @@ next_link:
   permalink: /lego-ideas-69c96a/
   short_title: LEGO Ideas
   heading_title: How Fans Build Inside LEGO's Rules
-date: '2026-06-09 03:40:09 '
+date: '2026-06-11 21:39:51 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-1.webp
@@ -274,13 +274,12 @@ image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_br
 
 ## Introduction
 
-LEGO’s compatibility policy became a moat because every brick the company has ever sold increases the value of future LEGO products. Unlike many toy systems that are replaced by new formats, LEGO built its business around a promise that bricks from different eras, themes and product lines will continue to work together. A child’s collection from the 1980s can be combined with a modern [Star Wars]({{ 'star-wars/' | relative_url }}) set, a Technic model or many contemporary building elements. This turns past purchases into assets rather than obsolete inventory. In antifragility terms, each additional set, theme and generation of users strengthens the system instead of fragmenting it. The more LEGO succeeds, the more valuable the accumulated brick ecosystem becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOThe stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
+LEGO’s compatibility policy became a moat because every brick the company has ever sold increases the value of future LEGO products. Unlike many toy systems that are replaced by new formats, LEGO built its business around a promise that bricks from different eras, themes and product lines will continue to work together. A child’s collection from the 1980s can be combined with a modern [Star Wars]({{ 'star-wars/' | relative_url }}) set, a Technic model or many contemporary building elements. This turns past purchases into assets rather than obsolete inventory. In antifragility terms, each additional set, theme and generation of users strengthens the system instead of fragmenting it. The more LEGO succeeds, the more valuable the accumulated brick ecosystem becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The stud and tube principle &#124; LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-1-dark.svg" | relative_url }}" alt="Compatibility illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the stud-and-tube connection created clutch power
 
-The foundation of LEGO’s compatibility moat is a deceptively simple engineering decision made in 1958. Earlier LEGO bricks were hollow and suffered from weak connections. Customer feedback repeatedly highlighted problems with stability and durability. In response, Godtfred Kirk Christiansen and his team developed the stud-and-tube design that remains the basis of the modern LEGO brick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOThe stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Lego</span><span class="citation-popover-snippet">History of Lego</span></span></span>
+The foundation of LEGO’s compatibility moat is a deceptively simple engineering decision made in 1958. Earlier LEGO bricks were hollow and suffered from weak connections. Customer feedback repeatedly highlighted problems with stability and durability. In response, Godtfred Kirk Christiansen and his team developed the stud-and-tube design that remains the basis of the modern LEGO brick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The stud and tube principle &#124; LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Lego</span><span class="citation-popover-snippet">History of Lego</span></span></span>
 
 The innovation was not merely that bricks connected. Many construction toys could do that. The breakthrough was achieving the right amount of “clutch power”: enough friction to hold complex structures together, but not so much that children could not separate the pieces. LEGO’s own historical account describes the stud-and-tube system as creating the stability and combinatorial freedom that made the System in Play possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
@@ -288,15 +287,11 @@ This engineering choice created a long-term strategic consequence. Once the dime
 
 The resulting network effect is unusual for a physical toy. Every compatible brick increases the usefulness of every other compatible brick. A larger collection does not merely mean more pieces; it means exponentially more possible combinations. LEGO itself highlights that six standard 2×4 bricks can be combined in 915,103,765 different ways, illustrating how a stable connection standard multiplies creative possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdPMGEQPgrI" title="Building with bricks, bits, and AI with LEGO® Space designer Bjarne Tveskov | Episode 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdPMGEQPgrI" target="_blank" rel="noopener noreferrer">Building with bricks, bits, and AI with LEGO® Space designer Bjarne Tveskov | Episode 11</a></p><p class="youtube-embed-meta">Channel: Roundabout</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdPMGEQPgrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdPMGEQPgrI">Open on YouTube</a></p></div></div></div>
-
 ## Why backwards compatibility stores customer value
 
 Many consumer products lose value when a company changes formats, accessories or standards. LEGO largely avoided this trap by preserving compatibility across generations.
 
 A LEGO set is not consumed when it is built. Its parts become inventory for future projects. Because new products remain compatible with old ones, customers can treat decades of purchases as a single evolving collection rather than a sequence of disconnected purchases. This gives LEGO a powerful advantage:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +309,6 @@ This accumulated value also lowers the attractiveness of competitors. Rival cons
 
 From an antifragility perspective, each generation of users leaves resources behind for the next. The system becomes stronger as more bricks enter circulation. Older products continue contributing value instead of becoming technological dead ends.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-2-dark.svg" | relative_url }}" alt="Compatibility illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How compatibility shapes new themes and materials
 
@@ -326,22 +320,15 @@ Compatibility also influences technical innovation. LEGO can introduce new speci
 
 Material changes face the same constraint. When LEGO develops alternative plastics or manufacturing processes, the company must preserve the physical dimensions and connection quality that customers expect. A [sustainable brick]({{ 'materials/' | relative_url }}) that fails to connect properly would undermine decades of accumulated value. Compatibility therefore acts as a discipline on innovation: improvements are welcome, but they must strengthen rather than fracture the system. This requirement helps explain why LEGO maintains extremely tight manufacturing tolerances and treats precise fit as a core capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Technic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Technic</span><span class="citation-popover-snippet">Lego Technic</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-d8sNML3WT8" title="Why Lego Is So Expensive | So Expensive | Business Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer">Why Lego Is So Expensive | So Expensive | Business Insider</a></p><p class="youtube-embed-meta">Channel: Business Insider</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-d8sNML3WT8">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJ0wT-Ic7PU" title="Lego Investing Is Booming. Here’s How It Works | Niche Markets | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJ0wT-Ic7PU" target="_blank" rel="noopener noreferrer">Lego Investing Is Booming. Here’s How It Works | Niche Markets | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJ0wT-Ic7PU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJ0wT-Ic7PU">Open on YouTube</a></p></div></div></div>
-
 ## Why the moat grows stronger with time
 
 Many competitive advantages erode as industries change. LEGO’s compatibility moat behaves differently because time itself strengthens it.
 
 Every year adds:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* More bricks in circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOThe stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span>
+* More bricks in circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The stud and tube principle &#124; LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span>
 * More building techniques discovered by users.
 * More instruction styles and design knowledge.
 * More emotional attachment to collections.
@@ -352,7 +339,6 @@ Every year adds:
 The accumulated ecosystem becomes increasingly difficult to replicate. A competitor could manufacture compatible pieces, but reproducing decades of shared habits, collections and design knowledge is far harder.
 
 This is what makes compatibility an antifragile mechanism rather than merely a product feature. Market success generates more bricks, more builders and more creative knowledge. Those additions increase the value of the system as a whole. Instead of creating [complexity]({{ 'complexity/' | relative_url }}) that weakens the company, growth enlarges the network of compatible assets supporting future products. The moat is therefore not just the brick itself. It is the ever-expanding stock of compatible value created by every LEGO purchase made over nearly seven decades. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbuildershandbook.com/introduction-to-the-lego-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbuildershandbook.com">[2Brick Builder\\\\\\\\\\\\\\\&#x27;s Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbuildershandbook.com</span><span class="citation-popover-snippet">Brick Builder\\\\\\\\\\\\\\\&#x27;s HandbookIntroduction to the LEGO SystemSeptember 1, 2022 — Godtfred Kirk Christiansen discovered that thes...</span><span class="citation-popover-meta">Published: September 1, 2022</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-3-dark.svg" | relative_url }}" alt="Compatibility illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -473,15 +459,15 @@ This is what makes compatibility an antifragile mechanism rather than merely a p
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Marvel Spider-Man Versus Venom Iron Venom Building Set (40454)"><img src="https://i.ebayimg.com/images/g/OFYAAeSwnIhqJ-UA/s-l225.jpg" alt="Listing image for LEGO Marvel Spider-Man Versus Venom Iron Venom Building Set (40454)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 2KG JOB LOT – Clean Mixed Bricks + Parts – Bulk Bundle – Fast Dispatch UK"><img src="https://i.ebayimg.com/images/g/7oYAAeSwAdRqIGjI/s-l225.jpg" alt="Listing image for LEGO 2KG JOB LOT – Clean Mixed Bricks + Parts – Bulk Bundle – Fast Dispatch UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Marvel Spider-Man Versus Venom Iron Venom Building Set (40454)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO 2KG JOB LOT – Clean Mixed Bricks + Parts – Bulk Bundle – Fast Dispatch UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +475,15 @@ This is what makes compatibility an antifragile mechanism rather than merely a p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanicals Petite Sunny Bouquet Flowers Building Set Nature Toy For 9+10347"><img src="https://i.ebayimg.com/images/g/43sAAeSwLFVp~63M/s-l225.jpg" alt="Listing image for LEGO Botanicals Petite Sunny Bouquet Flowers Building Set Nature Toy For 9+10347" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 1KG BUNDLE OF GENUINE LEGO PARTS UNSORTED JOB LOT BRICKS PLATES PIECES FAST"><img src="https://i.ebayimg.com/images/g/riYAAeSwHNFqEGu5/s-l225.jpg" alt="Listing image for LEGO 1KG BUNDLE OF GENUINE LEGO PARTS UNSORTED JOB LOT BRICKS PLATES PIECES FAST" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanicals Petite Sunny Bouquet Flowers Building Set Nature Toy For 9+10347</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO 1KG BUNDLE OF GENUINE LEGO PARTS UNSORTED JOB LOT BRICKS PLATES PIECES FAST</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +491,31 @@ This is what makes compatibility an antifragile mechanism rather than merely a p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 910036 Ocean House Bricklink Designer Program New in Sealed Box"><img src="https://i.ebayimg.com/images/g/LX0AAeSw7ghqIAe8/s-l225.jpg" alt="Listing image for LEGO 910036 Ocean House Bricklink Designer Program New in Sealed Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bricks, Parts &amp; Pieces Job Lot 20.6kg Star Wars, CITY, Harry Potter Bundle"><img src="https://i.ebayimg.com/images/g/CJUAAeSwLxhqICe-/s-l225.jpg" alt="Listing image for LEGO Bricks, Parts &amp; Pieces Job Lot 20.6kg Star Wars, CITY, Harry Potter Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 910036 Ocean House Bricklink Designer Program New in Sealed Box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO Bricks, Parts &amp; Pieces Job Lot 20.6kg Star Wars, CITY, Harry Potter Bundle</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic Bulk Mixed Lot Assorted Parts Wheels Tyres Gears Axles"><img src="https://i.ebayimg.com/images/g/r5cAAeSwe5RqKt2y/s-l225.jpg" alt="Listing image for LEGO Technic Bulk Mixed Lot Assorted Parts Wheels Tyres Gears Axles" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic Bulk Mixed Lot Assorted Parts Wheels Tyres Gears Axles</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +523,7 @@ This is what makes compatibility an antifragile mechanism rather than merely a p
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-old-lego-bricks-still-matter-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-lego-bricks-still-matter-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-old-lego-bricks-still-matter-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -731,35 +733,36 @@ This is what makes compatibility an antifragile mechanism rather than merely a p
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle](https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</p></details>
+   Link: <a href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: History of Lego  
-   Link: [https://en.wikipedia.org/wiki/History_of_Lego](https://en.wikipedia.org/wiki/History_of_Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Lego</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Godtfred Kirk Christiansen  
-   Link: [https://en.wikipedia.org/wiki/Godtfred_Kirk_Christiansen](https://en.wikipedia.org/wiki/Godtfred_Kirk_Christiansen)  
+   Link: <a href="https://en.wikipedia.org/wiki/Godtfred_Kirk_Christiansen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Godtfred_Kirk_Christiansen</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Lego Technic  
-   Link: [https://en.wikipedia.org/wiki/Lego_Technic](https://en.wikipedia.org/wiki/Lego_Technic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Technic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Technic</a>  
 
 6. <a id="endnote-6"></a>
    Source: brickbuildershandbook.com  
-   Link: [https://brickbuildershandbook.com/introduction-to-the-lego-system/](https://brickbuildershandbook.com/introduction-to-the-lego-system/)  
+   Link: <a href="https://brickbuildershandbook.com/introduction-to-the-lego-system/" target="_blank" rel="noopener noreferrer nofollow">https://brickbuildershandbook.com/introduction-to-the-lego-system/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick Builder\\\\\\\\\\\\\\\&#x27;s HandbookIntroduction to the LEGO SystemSeptember 1, 2022 — Godtfred Kirk Christiansen discovered that thes...</p></details>
    Published: September 1, 2022  
 
@@ -767,54 +770,54 @@ This is what makes compatibility an antifragile mechanism rather than merely a p
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7NEWSAdelaide/posts/exclusive-a-new-building-material-that-fits-together-like-lego-is-promising-to-d/581084524167918/](https://www.facebook.com/7NEWSAdelaide/posts/exclusive-a-new-building-material-that-fits-together-like-lego-is-promising-to-d/581084524167918/)  
+   Link: <a href="https://www.facebook.com/7NEWSAdelaide/posts/exclusive-a-new-building-material-that-fits-together-like-lego-is-promising-to-d/581084524167918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSAdelaide/posts/exclusive-a-new-building-material-that-fits-together-like-lego-is-promising-to-d/581084524167918/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new building material that fits together like Lego...EXCLUSIVE: A new building material that fits together like Lego is promising to d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DM7wbn8xmUn/](https://www.instagram.com/reel/DM7wbn8xmUn/)  
+   Link: <a href="https://www.instagram.com/reel/DM7wbn8xmUn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM7wbn8xmUn/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® bricks have always been built for tomorrow. They&#x27;re...LEGO® bricks have always been built for tomorrow. They&#x27;re designed to be str...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: lego bricks from 1958 are still fully compatible with ones made today because th  
-   Link: [https://www.facebook.com/grantbean.official/posts/lego-bricks-from-1958-are-still-fully-compatible-with-ones-made-today-because-th/122273986586157784/](https://www.facebook.com/grantbean.official/posts/lego-bricks-from-1958-are-still-fully-compatible-with-ones-made-today-because-th/122273986586157784/)  
+   Link: <a href="https://www.facebook.com/grantbean.official/posts/lego-bricks-from-1958-are-still-fully-compatible-with-ones-made-today-because-th/122273986586157784/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/grantbean.official/posts/lego-bricks-from-1958-are-still-fully-compatible-with-ones-made-today-because-th/122273986586157784/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO bricks from 1958 are still fully compatible with ones...7 Apr 2026 — LEGO bricks from 1958 are still fully compatible with ones mad...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ky3news/posts/the-lego-group-patented-its-design-of-interlocking-lego-bricks-on-jan-28-1958-wh/1408401644668844/](https://www.facebook.com/ky3news/posts/the-lego-group-patented-its-design-of-interlocking-lego-bricks-on-jan-28-1958-wh/1408401644668844/)  
+   Link: <a href="https://www.facebook.com/ky3news/posts/the-lego-group-patented-its-design-of-interlocking-lego-bricks-on-jan-28-1958-wh/1408401644668844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ky3news/posts/the-lego-group-patented-its-design-of-interlocking-lego-bricks-on-jan-28-1958-wh/1408401644668844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 1958. What was your favorite toy when you were a kid? We&#x27;ll talk about it on...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVdVEVNkYlU/](https://www.instagram.com/reel/DVdVEVNkYlU/)  
+   Link: <a href="https://www.instagram.com/reel/DVdVEVNkYlU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVdVEVNkYlU/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er. A brick from 1958 would still connect to anything made today...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/britishembassycopenhagen/posts/-today-lego-enthusiasts-around-the-world-are-celebrating-the-iconic-danish-toys-/1310963854399272/](https://www.facebook.com/britishembassycopenhagen/posts/-today-lego-enthusiasts-around-the-world-are-celebrating-the-iconic-danish-toys-/1310963854399272/)  
+   Link: <a href="https://www.facebook.com/britishembassycopenhagen/posts/-today-lego-enthusiasts-around-the-world-are-celebrating-the-iconic-danish-toys-/1310963854399272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/britishembassycopenhagen/posts/-today-lego-enthusiasts-around-the-world-are-celebrating-the-iconic-danish-toys-/1310963854399272/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ether.” Godtfred Kirk Christiansen #onesolutionsweb...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DHuK2r_Sezl/](https://www.instagram.com/reel/DHuK2r_Sezl/)  
+   Link: <a href="https://www.instagram.com/reel/DHuK2r_Sezl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHuK2r_Sezl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from the comics but some from the movies.. around 120 of those...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: historygonebananas.com  
    Title: 1958 lego patents the interlocking  
-   Link: [https://www.historygonebananas.com/p/1958-lego-patents-the-interlocking](https://www.historygonebananas.com/p/1958-lego-patents-the-interlocking)  
+   Link: <a href="https://www.historygonebananas.com/p/1958-lego-patents-the-interlocking" target="_blank" rel="noopener noreferrer nofollow">https://www.historygonebananas.com/p/1958-lego-patents-the-interlocking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Brick Patent (1958)28 Jan 2026 — Cool idea, but: weird fit. weak clutch power. easy to break apart. not compatible with future piece...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
    Title: This is so cool and opens  
-   Link: [https://www.instagram.com/reel/C5VYoLDSpEL/?hl=en](https://www.instagram.com/reel/C5VYoLDSpEL/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/C5VYoLDSpEL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C5VYoLDSpEL/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s old news that Duplo blocks fit on Lego blocks but it was...My kids worked out that Lego blocks perfectly fit on Duplo blocks if the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
    Title: What do you think?  
-   Link: [https://www.instagram.com/reel/DQXUwx8iGxP/](https://www.instagram.com/reel/DQXUwx8iGxP/)  
+   Link: <a href="https://www.instagram.com/reel/DQXUwx8iGxP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQXUwx8iGxP/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Follow @brick_agogo for more #lego #...Brick Bard here and today I am talking about LEGO City set number 6221 Diving Yacht. Now this set...</p></details>

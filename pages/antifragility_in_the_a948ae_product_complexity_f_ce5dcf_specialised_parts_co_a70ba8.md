@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /complexity/
 nav_short_title: Special Parts
 title: Why Some LEGO Failures Left More Waste
-title_full: Why Some LEGO Failures Left More Waste | Complexity
+title_full: Why Some LEGO Failures Left More Waste
 display_title_short: Special Parts
 display_title: Special Parts
 heading_title: Why Some LEGO Failures Left More Waste
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When More LEGO Products Made LEGO Weaker | LEGO Antifragility
+parent_title: When More LEGO Products Made LEGO Weaker
 parent_permalink: /complexity/
 parent_nav_short_title: Complexity
 parent_heading_title: When More LEGO Products Made LEGO Weaker
@@ -265,7 +265,7 @@ next_link:
   permalink: /the-short-lived-replacement-of-duplo/
   short_title: The Short Lived Replacement Of DUPLO With LEGO Explore...
   heading_title: Why Replacing DUPLO Made LEGO Less Clear
-date: '2026-06-09 03:47:48 '
+date: '2026-06-11 21:40:57 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_sp
 ## Introduction
 
 LEGO’s early-2000s crisis exposed a specific weakness that went beyond having too many products. The company had increasingly filled sets with specialised elements designed for narrow purposes, unique moulds, unusual shapes or pieces tied closely to a single theme. When those products failed, the losses did not stay contained within one disappointing launch. They spread into manufacturing, inventory, forecasting and tooling costs. What looked like creativity on the shelf often created fragility behind the scenes.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-1-dark.svg" | relative_url }}" alt="Special Parts illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mattered because LEGO’s traditional strength was not merely inventing new sets. Its strength was a reusable building system. Standard bricks could migrate across themes, years and markets. A failed castle, city or space set still left behind parts that could be used elsewhere. A failed product built around highly specialised components often left behind assets with little value outside that specific experiment. In antifragility terms, reusable bricks allowed LEGO to learn from mistakes cheaply; specialised pieces made mistakes more expensive. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span>
@@ -294,8 +293,7 @@ Several former analyses of the turnaround period describe a startling discovery 
 
 This changed the economics of experimentation. A failed set built mostly from common bricks could still contribute useful inventory to future products. A failed set dependent on unique moulded elements could leave behind stranded assets.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I1T2-W53CpE" title="Data Saved Lego From Bankruptcy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I1T2-W53CpE" target="_blank" rel="noopener noreferrer">Data Saved Lego From Bankruptcy</a></p><p class="youtube-embed-meta">Channel: Gin With Gwynne &middot; Views: 181 &middot; Uploaded: October 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I1T2-W53CpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I1T2-W53CpE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-d8sNML3WT8" title="Why Lego Is So Expensive | So Expensive | Business Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer">Why Lego Is So Expensive | So Expensive | Business Insider</a></p><p class="youtube-embed-meta">Channel: Business Insider &middot; Views: 9.5M &middot; Uploaded: August 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-d8sNML3WT8">Open on YouTube</a></p></div></div></div>
 
 ## Why Reusable Parts Protected Learning
 
@@ -311,13 +309,12 @@ That distinction is important. The issue was not that LEGO should never create n
 
 An antifragile product architecture benefits when failures generate knowledge without destroying resources. Reusable bricks helped achieve that. One-off components reduced the amount of value that could survive a failed experiment.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-2-dark.svg" | relative_url }}" alt="Special Parts illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Galidor as a Warning Sign
 
 One of the clearest examples was the Galidor line introduced in 2002.
 
-Galidor moved away from LEGO's traditional brick-based construction model. Rather than encouraging building through a broadly reusable system of interlocking elements, it relied heavily on large character-specific components and a different play concept. The line failed commercially and has often been cited as one of the company's major missteps during the crisis years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/content/pdf/10.1007/979-8-8688-0521-9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerUltimate LEGO Worldbuilding and Architecture - Springer NatureOh, there was also Spybiotics and then the big fail of Galidor, whi...</span></span></span>
+Galidor moved away from LEGO's traditional brick-based construction model. Rather than encouraging building through a broadly reusable system of interlocking elements, it relied heavily on large character-specific components and a different play concept. The line failed commercially and has often been cited as one of the company's major missteps during the crisis years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/content/pdf/10.1007/979-8-8688-0521-9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Ultimate LEGO Worldbuilding and Architecture - Springer NatureOh, there was also Spybiotics and then the big fail of Galidor, whi...</span></span></span>
 
 The significance of Galidor was not only poor sales. It represented a product architecture that sat outside LEGO's core strengths.
 
@@ -325,19 +322,17 @@ When a traditional LEGO theme struggles, the company can still preserve value th
 
 Galidor demonstrated how moving away from the common [brick system]({{ 'brick-system/' | relative_url }}) increased the consequences of getting a product bet wrong. The company was no longer simply testing a new story or theme. It was testing a different physical system with fewer recovery [options]({{ 'options/' | relative_url }}) if demand failed to appear.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jH-rYhO4uhQ" title="How Lego ALMOST Destroyed Itself🔥" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jH-rYhO4uhQ" target="_blank" rel="noopener noreferrer">How Lego ALMOST Destroyed Itself🔥</a></p><p class="youtube-embed-meta">Channel: Wealth Whispers &middot; Views: 158 &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jH-rYhO4uhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jH-rYhO4uhQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I1T2-W53CpE" title="Data Saved Lego From Bankruptcy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I1T2-W53CpE" target="_blank" rel="noopener noreferrer">Data Saved Lego From Bankruptcy</a></p><p class="youtube-embed-meta">Channel: Gin With Gwynne &middot; Views: 181 &middot; Uploaded: October 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I1T2-W53CpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I1T2-W53CpE">Open on YouTube</a></p></div></div></div>
 
 ## Why Complexity Spread Beyond the Brick
 
 Specialised elements also created secondary costs throughout the organisation.
 
-Each additional part number increased forecasting difficulty. Supply-chain teams had to estimate demand for more unique components. Manufacturing operations faced more moulds, more production planning and more inventory tracking. Retailers received more variations of products that might or might not sell. When forecasts were wrong, the consequences spread across warehouses and distribution networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-pretoria/business-management/lego-case-study/32108564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuLEGO Case Study: Navigating the Crisis and Strategic...Why had complexity and costs risen so dramatically and made so many produc...</span></span></span> The problem became visible during LEGO's broader crisis. By the early 2000s, the company was managing enormous numbers of product permutations while struggling with inventory imbalances and profitability questions. Executives later concluded that complexity itself had become a major source of cost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. Group is working to reduce its lead times and inventories. The produc...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+Each additional part number increased forecasting difficulty. Supply-chain teams had to estimate demand for more unique components. Manufacturing operations faced more moulds, more production planning and more inventory tracking. Retailers received more variations of products that might or might not sell. When forecasts were wrong, the consequences spread across warehouses and distribution networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-pretoria/business-management/lego-case-study/32108564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">LEGO Case Study: Navigating the Crisis and Strategic...Why had complexity and costs risen so dramatically and made so many produc...</span></span></span> The problem became visible during LEGO's broader crisis. By the early 2000s, the company was managing enormous numbers of product permutations while struggling with inventory imbalances and profitability questions. Executives later concluded that complexity itself had become a major source of cost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. Group is working to reduce its lead times and inventories. The produc...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 Specialised parts amplified this effect because they created complexity that could not easily be shared across the wider system. A standard brick supports many products at once. A niche component supports only a narrow slice of the catalogue while still demanding attention from factories, planners and logistics teams.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DxB3fOPpZmI" title="How LEGO Lost $800,000,000 (And Survived)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DxB3fOPpZmI" target="_blank" rel="noopener noreferrer">How LEGO Lost $800,000,000 (And Survived)</a></p><p class="youtube-embed-meta">Channel: Capital DNA &middot; Views: 11 &middot; Uploaded: February 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DxB3fOPpZmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DxB3fOPpZmI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jH-rYhO4uhQ" title="How Lego ALMOST Destroyed Itself🔥" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jH-rYhO4uhQ" target="_blank" rel="noopener noreferrer">How Lego ALMOST Destroyed Itself🔥</a></p><p class="youtube-embed-meta">Channel: Wealth Whispers &middot; Views: 158 &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jH-rYhO4uhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jH-rYhO4uhQ">Open on YouTube</a></p></div></div></div>
 
 ## What Standard Bricks Made Safer
 
@@ -346,7 +341,6 @@ The turnaround under Jørgen Vig Knudstorp involved reducing the number of activ
 The goal was not to eliminate creativity. It was to make creativity operate within stronger constraints.
 
 A standard brick delivers several advantages simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +355,6 @@ A standard brick delivers several advantages simultaneously:
 This helps explain why LEGO's recovery was not merely a financial restructuring story. It was also a redesign of the company's learning system. By relying more heavily on reusable elements, LEGO made experimentation safer. Successful ideas could scale through the system, while unsuccessful ideas produced smaller losses.
 
 From an antifragility perspective, that shift mattered because it changed the cost of failure itself. Standard bricks allowed mistakes to remain informative. Specialised parts increasingly made mistakes expensive. The more LEGO returned to a shared, reusable building language, the easier it became to absorb setbacks without threatening the wider organisation.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-3-dark.svg" | relative_url }}" alt="Special Parts illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -482,15 +475,15 @@ From an antifragility perspective, that shift mattered because it changed the co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Flower Trellis Display Set 40683"><img src="https://i.ebayimg.com/images/g/JOYAAeSwTrNqJDC6/s-l225.jpg" alt="Listing image for LEGO Flower Trellis Display Set 40683" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 1.8kg Mixed Job Lot Bundle Unsorted Bricks, Pieces, Parts Bulk"><img src="https://i.ebayimg.com/images/g/dnsAAeSwknNqIW-j/s-l225.jpg" alt="Listing image for Lego 1.8kg Mixed Job Lot Bundle Unsorted Bricks, Pieces, Parts Bulk" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Flower Trellis Display Set 40683</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">Lego 1.8kg Mixed Job Lot Bundle Unsorted Bricks, Pieces, Parts Bulk</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +491,15 @@ From an antifragility perspective, that shift mattered because it changed the co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 4.5 KG BUNDLE OF GENUINE LEGO PARTS UNSORTED JOB LOT BRICKS PLATES PIECES"><img src="https://i.ebayimg.com/images/g/fzkAAeSw5ptqEH2w/s-l225.jpg" alt="Listing image for LEGO 4.5 KG BUNDLE OF GENUINE LEGO PARTS UNSORTED JOB LOT BRICKS PLATES PIECES" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">LEGO 4.5 KG BUNDLE OF GENUINE LEGO PARTS UNSORTED JOB LOT BRICKS PLATES PIECES</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +507,31 @@ From an antifragility perspective, that shift mattered because it changed the co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed"><img src="https://i.ebayimg.com/images/g/lRoAAeSwz5hqD3tt/s-l225.jpg" alt="Listing image for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Lego Job Lot 1 KG Lots Parts Blocks Bricks Pieces 1000 Grams"><img src="https://i.ebayimg.com/images/g/cbUAAeSwtyNo1uHR/s-l225.jpg" alt="Listing image for Genuine Lego Job Lot 1 KG Lots Parts Blocks Bricks Pieces 1000 Grams" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">Genuine Lego Job Lot 1 KG Lots Parts Blocks Bricks Pieces 1000 Grams</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Job Lot Genuine LEGO Bulk Mixed Bricks Plates Wheels Parts Pieces 1.9kg Bag"><img src="https://i.ebayimg.com/images/g/zhcAAeSwh5Vp64Sl/s-l225.jpg" alt="Listing image for Job Lot Genuine LEGO Bulk Mixed Bricks Plates Wheels Parts Pieces 1.9kg Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">Job Lot Genuine LEGO Bulk Mixed Bricks Plates Wheels Parts Pieces 1.9kg Bag</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO parts lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO parts lot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +539,7 @@ From an antifragility perspective, that shift mattered because it changed the co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+parts+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-lego-failures-left-more-waste-lego-parts-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO parts lot" data-ebay-reference="why-some-lego-failures-left-more-waste-lego-parts-lot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,82 +749,83 @@ From an antifragility perspective, that shift mattered because it changed the co
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. Group is working to reduce its lead times and inventories. The produc...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. Group is working to reduce its lead times and inventories. The produc...</p></details>
    Published: April 26, 2005  
 
 2. <a id="endnote-2"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-za/document/university-of-pretoria/business-management/lego-case-study/32108564](https://www.studocu.com/en-za/document/university-of-pretoria/business-management/lego-case-study/32108564)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuLEGO Case Study: Navigating the Crisis and Strategic...Why had complexity and costs risen so dramatically and made so many produc...</p></details>
+   Link: <a href="https://www.studocu.com/en-za/document/university-of-pretoria/business-management/lego-case-study/32108564" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-za/document/university-of-pretoria/business-management/lego-case-study/32108564</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Case Study: Navigating the Crisis and Strategic...Why had complexity and costs risen so dramatically and made so many produc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: historyforoperators.substack.com  
    Title: How LEGO Nearly Collapsed  
-   Link: [https://historyforoperators.substack.com/p/the-lego-turnaround](https://historyforoperators.substack.com/p/the-lego-turnaround)  
+   Link: <a href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://historyforoperators.substack.com/p/the-lego-turnaround</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO needed to standardize and cut down its part library dramatically. Knudstorp set an initial target to halve the number of active piec...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: secondactsbiz.substack.com  
-   Link: [https://secondactsbiz.substack.com/p/lego-the-turnaround](https://secondactsbiz.substack.com/p/lego-the-turnaround)  
+   Link: <a href="https://secondactsbiz.substack.com/p/lego-the-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://secondactsbiz.substack.com/p/lego-the-turnaround</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround - Second ActsIn the early 2000s, Lego had over 12,000 different brick types, which resulted in inefficiencies in manufactu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: repositorio.ucp.pt  
    Title: 152118010 Adrian Geislinger DPDFA  
-   Link: [https://repositorio.ucp.pt/bitstream/10400.14/31148/1/152118010_Adrian%20Geislinger_DPDFA.pdf](https://repositorio.ucp.pt/bitstream/10400.14/31148/1/152118010_Adrian%20Geislinger_DPDFA.pdf)  
+   Link: <a href="https://repositorio.ucp.pt/bitstream/10400.14/31148/1/152118010_Adrian%20Geislinger_DPDFA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositorio.ucp.pt/bitstream/10400.14/31148/1/152118010_Adrian%20Geislinger_DPDFA.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repositório UCPHow Lego rebuilt and became the top toymaker in the world.23 Oct 2020 — He reduced the number of individual pieces produce...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/content/pdf/10.1007/979-8-8688-0521-9.pdf](https://link.springer.com/content/pdf/10.1007/979-8-8688-0521-9.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerUltimate LEGO Worldbuilding and Architecture - Springer NatureOh, there was also Spybiotics and then the big fail of Galidor, whi...</p></details>
+   Link: <a href="https://link.springer.com/content/pdf/10.1007/979-8-8688-0521-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/979-8-8688-0521-9.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate LEGO Worldbuilding and Architecture - Springer NatureOh, there was also Spybiotics and then the big fail of Galidor, whi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: strategy-business.com  
-   Link: [https://www.strategy-business.com/article/07306](https://www.strategy-business.com/article/07306)  
+   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy+businessRebuilding Lego, Brick by Brick29 Aug 2007 — The Lego Group had lost money four out of the seven years from 1998 through...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: how lego clicked the super brand that reinvented itself  
-   Link: [https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He slashed the inventory, halving the number of individual pieces Lego produces from 13,000 to 6,500.Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi](https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInLEGO&#x27;s $800M Debt Crisis: How Focusing on the Core...Supply chains froze. Inventory stacked sky-high. Revenue came in but cash d...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s $800M Debt Crisis: How Focusing on the Core...Supply chains froze. Inventory stacked sky-high. Revenue came in but cash d...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cfocentre.com  
    Title: true toy story legos incredible turnaround tale 2  
-   Link: [https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/](https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/)  
+   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe company had little idea which products were making money and which w...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-d8sNML3WT8](https://www.youtube.com/watch?v=-d8sNML3WT8)  
+   Link: <a href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-d8sNML3WT8</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DxB3fOPpZmI](https://www.youtube.com/watch?v=DxB3fOPpZmI)  
+   Link: <a href="https://www.youtube.com/watch?v=DxB3fOPpZmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxB3fOPpZmI</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=I1T2-W53CpE](https://www.youtube.com/watch?v=I1T2-W53CpE)  
+   Link: <a href="https://www.youtube.com/watch?v=I1T2-W53CpE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I1T2-W53CpE</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IjcSKukg9IE](https://www.youtube.com/watch?v=IjcSKukg9IE)  
+   Link: <a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IjcSKukg9IE</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jH-rYhO4uhQ](https://www.youtube.com/watch?v=jH-rYhO4uhQ)  
+   Link: <a href="https://www.youtube.com/watch?v=jH-rYhO4uhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jH-rYhO4uhQ</a>

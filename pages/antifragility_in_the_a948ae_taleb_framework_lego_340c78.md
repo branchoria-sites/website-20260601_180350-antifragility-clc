@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /antifragility-in-the-context-of-the/
 nav_short_title: Framework
 title: Is LEGO Really Antifragile or Just Resilient?
-title_full: Is LEGO Really Antifragile or Just Resilient? | LEGO Antifragility
+title_full: Is LEGO Really Antifragile or Just Resilient?
 display_title_short: Framework
 display_title: Framework
 heading_title: Is LEGO Really Antifragile or Just Resilient?
@@ -343,7 +343,7 @@ next_link:
   permalink: /governed-bets/
   short_title: Governed Bets
   heading_title: How LEGO Learned To Make Safer Bets
-date: '2026-06-09 03:35:03 '
+date: '2026-06-11 21:39:15 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-overview.webp
@@ -354,14 +354,12 @@ image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-ov
 
 Nassim Nicholas Taleb’s **antifragility framework** distinguishes three ways systems respond to stress: *fragile* systems are harmed by volatility, *resilient* systems resist it without changing much, and *antifragile* systems actually **gain and improve from shocks**. In business, this means moving beyond mere survival or robustness to structural learning and benefit from volatility.[Wikipedia]
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-overview.webp" | relative_url }}" alt="Overview image for Framework" loading="eager" decoding="sync" fetchpriority="high">
 In the context of the LEGO Group, claims that the company is genuinely “antifragile” must be narrow and evidence‑based. LEGO’s near‑collapse in the early 2000s reveals a case where volatility exposed fragilities and triggered structural learning, but the company’s subsequent evolution should be seen **not as absolute invincibility** but as a **shift toward stronger resilience and adaptive capability that incorporates selected antifragile elements**. The most useful framing is comparative: where LEGO fits on Taleb’s fragile–resilient–antifragile spectrum and what mechanisms of stress‑driven improvement matter most.
 
 ## Fragile, Resilient and Antifragile: Key Distinctions
 
 Taleb defines **antifragility** as *“beyond resilience or robustness: the resilient resists shocks and stays the same; the antifragile gets better.”* This is not mere survival but **positive gain from variability**. Resilience may buffer a shock with minimal loss; antifragility means stressors create learning, optionality, structural improvement, or competitive advantage.[Wikipedia]
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -372,7 +370,6 @@ Taleb defines **antifragility** as *“beyond resilience or robustness: the resi
 </div>
 
 Business systems rarely satisfy Taleb’s strict definition fully; most exhibit a mix of these properties depending on the type of shock and internal reaction.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-1-dark.svg" | relative_url }}" alt="Framework illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where LEGO Fits the Framework
@@ -385,7 +382,6 @@ Before its crisis, LEGO’s business exhibited patterns that Taleb would label *
 * Many innovations were not anchored in stable customer value; reliance on licensed themes delivered *boom‑and‑bust* sales tied to movie releases, amplifying revenue volatility rather than stabilising earnings.[Wikipedia]
 
 This pattern aligns with Taleb’s idea that fragile systems may appear successful during stable periods but *break disproportionately under disorder*.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jYJ4A6zoz_Q" title="From Near-Bankruptcy to Most Valuable Company: Inspiring Story of Lego - MBA Case study analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jYJ4A6zoz_Q" target="_blank" rel="noopener noreferrer">From Near-Bankruptcy to Most Valuable Company: Inspiring Story of Lego - MBA Case study analysis</a></p><p class="youtube-embed-meta">Channel: 5 Minutes Learning &middot; Views: 10.4K &middot; Uploaded: March 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jYJ4A6zoz_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jYJ4A6zoz_Q">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +398,6 @@ Knudstorp’s strategy included:
 
 This shift embodies a *stress‑driven structural learning process*: the crisis forced the company to recognise which parts of its model were fragile and to remove or transform them. That diagnostic feedback loop is precisely the kind of mechanism Taleb highlights as central to antifragility.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-2-dark.svg" | relative_url }}" alt="Framework illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Post‑Crisis: Resilience with Emerging Antifragile Traits
 
@@ -414,23 +409,18 @@ After refocusing, LEGO developed several capabilities that align with *positive 
 
 These patterns exhibit **resilience enhanced by feedback and adaptability** — which lies between robustness and the strict Talebian ideal of antifragility. LEGO does not just return to baseline after shocks; it has accumulated capabilities that reduce fragility and harness some forms of uncertainty for growth.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q6yPcEk93nk" title="Don&#x27;t chase happiness. Become antifragile | Tal Ben-Shahar: Full Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q6yPcEk93nk" target="_blank" rel="noopener noreferrer">Don&#x27;t chase happiness. Become antifragile | Tal Ben-Shahar: Full Interview</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q6yPcEk93nk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q6yPcEk93nk">Open on YouTube</a></p></div></div></div>
-
 ## Why the Caveats Matter
 
 ### Antifragility is Specific, Not Universal
 
 Taleb’s framework is **contextual and conditional**: a system can be antifragile relative to specific stressors but fragile with respect to others (e.g. macroeconomic downturns, raw material supply shocks, [licensing risks]({{ 'licensing-risk/' | relative_url }})). LEGO’s organisational design choices make it *less fragile to innovation and product volatility* but not inherently immunised to all shocks.
 
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-3-dark.svg" | relative_url }}" alt="Framework illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Learning vs. Gain
 
 LEGO’s turnaround is best characterised as a **learning transformation triggered by crisis** rather than a pure case of antifragility where volatility directly *increases* system capability without human intervention. Its improvements followed deliberate strategic choices and structural reforms — not spontaneous gains from disorder.
 
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-3-dark.svg" | relative_url }}" alt="Framework illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparative Positioning on the Spectrum
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -443,10 +433,6 @@ LEGO’s turnaround is best characterised as a **learning transformation trigger
 ## Summary
 
 Applying Taleb’s antifragility framework to LEGO highlights how **stress can catalyse structural improvement** when a company uses volatility as a feedback mechanism to strip away fragilities and build stronger routines. LEGO’s crisis revealed latent weaknesses; its disciplined refocusing and adaptive innovations reduced fragility and increased resilience. While LEGO exhibits select antifragile traits with respect to product‑system volatility and innovation feedback, it is not universally antifragile in Taleb’s strict sense. Its story is strongest as a **case of resilience enhanced by stress‑driven learning**, rather than an unqualified example of antifragility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrategyinstitute.org">[The Strategy Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrategyinstitute.org</span><span class="citation-popover-snippet">The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company simplified its product rang...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IjcSKukg9IE" title="LEGO’s Comeback: From Nearly Bankrupt To $6 Billion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer">LEGO’s Comeback: From Nearly Bankrupt To $6 Billion</a></p><p class="youtube-embed-meta">Channel: CNBC Make It</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IjcSKukg9IE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -581,11 +567,11 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241"><img src="https://i.ebayimg.com/images/g/U8EAAeSweJZqDz86/s-l225.jpg" alt="Listing image for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
         <div class="fr-book-actions">
@@ -597,11 +583,27 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
         <div class="fr-book-actions">
@@ -823,107 +825,108 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Antifragility](https://en.wikipedia.org/wiki/Antifragility)  
+   Link: <a href="https://en.wikipedia.org/wiki/Antifragility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antifragility</a>  
 
 2. <a id="endnote-2"></a>
    Source: imd.org  
-   Link: [https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/](https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/)  
+   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolThe LEGO group: Family business resilience (A)October 1, 2014 — The family-owned and family-run global toy firm LEGO h...</p></details>
    Published: October 1, 2014  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: History of Lego  
-   Link: [https://en.wikipedia.org/wiki/History_of_Lego](https://en.wikipedia.org/wiki/History_of_Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Lego</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Jørgen Vig Knudstorp  
-   Link: [https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp](https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp)  
+   Link: <a href="https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp</a>  
 
 5. <a id="endnote-5"></a>
    Source: imd.org  
    Title: The LEGO group: Family business resilience (B)  
-   Link: [https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/](https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/)  
+   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenyon-Rouvinez, Anne-Catrin Glemser and Philip Whiteley 2 pages October 2014 Order this case study Reference: IMD-7-1623...</p></details>
    Published: October 2014  
 
 6. <a id="endnote-6"></a>
    Source: imd.org  
    Title: New business in the LEGO group: LEGO mindstorms  
-   Link: [https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/](https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/)  
+   Link: <a href="https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD business school for management and leadership coursesSeptember 22, 2023 — Case Study NEW BUSINESS IN THE LEGO GROUP: LEGO MINDSTORMS...</p></details>
    Published: September 22, 2023  
 
 7. <a id="endnote-7"></a>
    Source: thestrategyinstitute.org  
-   Link: [https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation](https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation)  
+   Link: <a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company simplified its product rang...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: decision-intel.com  
-   Link: [https://www.decision-intel.com/case-studies/lego](https://www.decision-intel.com/case-studies/lego)  
+   Link: <a href="https://www.decision-intel.com/case-studies/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.decision-intel.com/case-studies/lego</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2004): LEGO Near-Bankruptcy Turnaround | Decision Intel Case StudyExceptional success Manufacturing 2004 LEGO LEGO Near-Bankruptcy Turna...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility](https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility)  
+   Link: <a href="https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2024 — Chapter PDF Available TOWARD ANTIFRAGILE MANUFACTURING: CONCEPTS FROM NATURE AND COMPLEX HUMAN-MADE SYSTEMS TO GAIN FRO...</p></details>
    Published: January 1, 2024  
 
 10. <a id="endnote-10"></a>
    Source: cfocentre.com  
-   Link: [https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/](https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/)  
+   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: forconstructionpros.com  
-   Link: [https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies](https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies)  
+   Link: <a href="https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies" target="_blank" rel="noopener noreferrer nofollow">https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 5, 2023 — ANTIFRAGILITY EXPLAINED: 5 WAYS TO BUILD AGILE CONSTRUCTION COMPANIES In this article, we break down antifragility theo...</p></details>
    Published: October 5, 2023  
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c](https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c)  
+   Link: <a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Clicked Back Into PlaceLEGO sold off its theme parks to focus on its core toy business. It also outsourced much of its manufactu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1756669X22000187](https://www.sciencedirect.com/science/article/pii/S1756669X22000187)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMay 4, 2022 — INTERNATIONAL JOURNAL OF QUALITY AND SERVICE SCIENCES Volume 14, Issue 3, 4 May 2022, Pages 465-485 Quality, r...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1756669X22000187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1756669X22000187</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2022 — INTERNATIONAL JOURNAL OF QUALITY AND SERVICE SCIENCES Volume 14, Issue 3, 4 May 2022, Pages 465-485 Quality, r...</p></details>
    Published: May 4, 2022  
 
 14. <a id="endnote-14"></a>
    Source: publica.fraunhofer.de  
-   Link: [https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452](https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452)  
+   Link: <a href="https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antifragile Manufacturing: Concepts from Nature and Complex Human-Made Systems to Gain from Stressors and VolatilityMay 14, 2024 — May 14...</p></details>
    Published: May 14, 2024  
 
 15. <a id="endnote-15"></a>
    Source: bain.com  
-   Link: [https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/](https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/)  
+   Link: <a href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/</a>  
 
 16. <a id="endnote-16"></a>
    Source: strategyzer.com  
-   Link: [https://www.strategyzer.com/library/legos-great-business-model-turnaround-story](https://www.strategyzer.com/library/legos-great-business-model-turnaround-story)  
+   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Title: Approaches for resilience and [antifragility in](&#123;&#123; 'antifragility-in-the-context-of-the/' | relative_url &#125;&#125;) collaborative business ecosystems  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494](https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 151, February 2020, 119846 APPROACHES FOR RESILIENCE AND ANTIFRAGILITY IN...</p></details>
+   Title: Approaches for resilience and antifragility in collaborative business ecosystems  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 151, February 2020, 119846 APPROACHES FOR RESILIENCE AND ANTIFRAGILITY IN...</p></details>
    Published: February 2020  
 
 18. <a id="endnote-18"></a>
    Source: gitcoin.co  
    Title: Antifragile by Design: Lessons from Decentralized Resilience Building | Gitcoin  
-   Link: [https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience](https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience)  
+   Link: <a href="https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience" target="_blank" rel="noopener noreferrer nofollow">https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 5, 2026 — HomeResearchReportAntifragile by Design: Lessons from Decentralized Resilience Building Mar 5, 2026 ANTIFRAGILE BY DESIGN...</p></details>
-   Published: March 5, 2026  
+   Published: March 5, 2026

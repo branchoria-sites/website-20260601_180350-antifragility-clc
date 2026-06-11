@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /digital-play/
 nav_short_title: Hidden Side
 title: Did Hidden Side keep the brick first?
-title_full: Did Hidden Side keep the brick first? | Digital Play
+title_full: Did Hidden Side keep the brick first?
 display_title_short: Hidden Side
 display_title: Hidden Side
 heading_title: Did Hidden Side keep the brick first?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can LEGO Adapt Without Losing the Brick? | LEGO Antifragility
+parent_title: Can LEGO Adapt Without Losing the Brick?
 parent_permalink: /digital-play/
 parent_nav_short_title: Digital Play
 parent_heading_title: Can LEGO Adapt Without Losing the Brick?
@@ -265,7 +265,7 @@ next_link:
   permalink: /spike-sunset/
   short_title: SPIKE sunset
   heading_title: Can a LEGO robot outlive its software?
-date: '2026-06-09 03:46:20 '
+date: '2026-06-11 21:40:45 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1.webp
@@ -274,31 +274,28 @@ image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hi
 
 ## Introduction
 
-LEGO Hidden Side was one of the company’s clearest tests of whether digital technology could strengthen brick play without replacing it. Launched in 2019, the theme combined haunted schools, buses, graveyards and houses with an augmented reality app that revealed ghosts, puzzles and hidden stories through a phone or tablet camera. LEGO’s challenge was not simply technical. It had to answer a strategic question: could screen-based play make physical LEGO models more interesting, or would the models become accessories for an app? Hidden Side became an important experiment in adaptation because it tried to keep the brick at the centre while still acknowledging that many children move naturally between physical and digital worlds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">group introduces lego hidden side</span><span class="citation-popover-snippet">LEGOThe LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</span></span></span>
-
+LEGO Hidden Side was one of the company’s clearest tests of whether digital technology could strengthen brick play without replacing it. Launched in 2019, the theme combined haunted schools, buses, graveyards and houses with an augmented reality app that revealed ghosts, puzzles and hidden stories through a phone or tablet camera. LEGO’s challenge was not simply technical. It had to answer a strategic question: could screen-based play make physical LEGO models more interesting, or would the models become accessories for an app? Hidden Side became an important experiment in adaptation because it tried to keep the brick at the centre while still acknowledging that many children move naturally between physical and digital worlds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">group introduces lego hidden side</span><span class="citation-popover-snippet">The LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Side illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within LEGO’s broader search for antifragility, Hidden Side mattered less as a commercial success than as a learning exercise. It exposed where physical-digital integration created new forms of play, and where dependence on software created new weaknesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-title">lego hidden side app gone 2023</span><span class="citation-popover-snippet">Brick FanaticsThe LEGO Hidden Side App is disappearing in 202320 Sept 2022 — The companion app to the LEGO Hidden Side range will be unav...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rvsEj45WaO4" title="Lego Hidden Side - Deep Dive Hands-On iOS/Android" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rvsEj45WaO4" target="_blank" rel="noopener noreferrer">Lego Hidden Side - Deep Dive Hands-On iOS/Android</a></p><p class="youtube-embed-meta">Channel: FamilyGamerTV &middot; Views: 8.0K &middot; Uploaded: February 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rvsEj45WaO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rvsEj45WaO4">Open on YouTube</a></p></div></div></div>
 
 ## What the physical haunted sets could do alone
 
-A notable design choice was that the sets were built to function as conventional LEGO playsets even without the app. LEGO repeatedly described the models as haunted building sets containing moving features, hidden details, role-play scenarios and physical functions that could be enjoyed independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">group introduces lego hidden side</span><span class="citation-popover-snippet">LEGOThe LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</span></span></span>
+A notable design choice was that the sets were built to function as conventional LEGO playsets even without the app. LEGO repeatedly described the models as haunted building sets containing moving features, hidden details, role-play scenarios and physical functions that could be enjoyed independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">group introduces lego hidden side</span><span class="citation-popover-snippet">The LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</span></span></span>
 
-This was important because Hidden Side was not sold as a phone game with a plastic accessory attached. The haunted school, shrimp boat, graveyard and train sets all contained transformations, trap-like mechanisms and story prompts embedded directly into the build. Children could stage ghost hunts, create their own narratives and use the minifigures without ever opening the digital layer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricksdirect.co.uk/lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricksdirect.co.uk">[BricksDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricksdirect.co.uk</span><span class="citation-popover-title">Bricks Direct LEGO Hidden Side</span><span class="citation-popover-snippet">BricksDirectLEGO Hidden Side - Largest LEGO assortment of Europe!LEGO Hidden Side invites kids to join a fearless team of ghost hunters...</span></span></span>
+This was important because Hidden Side was not sold as a phone game with a plastic accessory attached. The haunted school, shrimp boat, graveyard and train sets all contained transformations, trap-like mechanisms and story prompts embedded directly into the build. Children could stage ghost hunts, create their own narratives and use the minifigures without ever opening the digital layer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricksdirect.co.uk/lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricksdirect.co.uk">[BricksDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricksdirect.co.uk</span><span class="citation-popover-title">Bricks Direct LEGO Hidden Side</span><span class="citation-popover-snippet">LEGO Hidden Side - Largest LEGO assortment of Europe!LEGO Hidden Side invites kids to join a fearless team of ghost hunters...</span></span></span>
 
-The theme’s fiction also supported this approach. Instead of requiring a rigid storyline delivered through software, the physical sets established a setting called Newbury, a town filled with supernatural activity. The characters, locations and visual design gave children enough material to invent stories on their own. During demonstrations of the theme, LEGO described the app as experience-driven rather than heavily story-driven, leaving room for imagination around the models themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">uncovering the hidden side of legos new augmented reality set</span><span class="citation-popover-snippet">SYFYUncovering the hidden side of LEGO&#x27;s new augmented...Feb 20, 2019 — During a brief demonstration of how the augmented reality worked...</span></span></span>
+The theme’s fiction also supported this approach. Instead of requiring a rigid storyline delivered through software, the physical sets established a setting called Newbury, a town filled with supernatural activity. The characters, locations and visual design gave children enough material to invent stories on their own. During demonstrations of the theme, LEGO described the app as experience-driven rather than heavily story-driven, leaving room for imagination around the models themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">uncovering the hidden side of legos new augmented reality set</span><span class="citation-popover-snippet">Uncovering the hidden side of LEGO&#x27;s new augmented...Feb 20, 2019 — During a brief demonstration of how the augmented reality worked...</span></span></span>
 
 This reflected a longstanding LEGO principle: the set should still be a toy when batteries are dead, servers disappear or children choose not to use the digital feature. Hidden Side attempted to preserve that principle even while experimenting with augmented reality.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/faDSZBMVyiQ" title="Lego Graveyard Mystery - Hidden Side with Augmented Reality App Gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=faDSZBMVyiQ" target="_blank" rel="noopener noreferrer">Lego Graveyard Mystery - Hidden Side with Augmented Reality App Gameplay</a></p><p class="youtube-embed-meta">Channel: ellieV &middot; Views: 806.4K &middot; Uploaded: August 2019 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=faDSZBMVyiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=faDSZBMVyiQ">Open on YouTube</a></p></div></div></div>
 
 ## How the augmented reality layer changed play
 
-The digital layer worked by scanning the completed model through a mobile device. The camera recognised the physical set and overlaid animated ghosts, mysteries and interactive challenges onto the screen. A haunted building suddenly appeared populated by digital spirits that could be discovered, captured and defeated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricksfanz.com">[BricksFanz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricksfanz.com</span><span class="citation-popover-title">lego hidden side all you need to know</span><span class="citation-popover-snippet">BricksFanzLEGO Hidden Side All You Need To KnowAug 2, 2019 — LEGO® Hidden Side™ is an augmented reality-enhanced LEGO play theme where ki...</span></span></span>
+The digital layer worked by scanning the completed model through a mobile device. The camera recognised the physical set and overlaid animated ghosts, mysteries and interactive challenges onto the screen. A haunted building suddenly appeared populated by digital spirits that could be discovered, captured and defeated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricksfanz.com">[BricksFanz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricksfanz.com</span><span class="citation-popover-title">lego hidden side all you need to know</span><span class="citation-popover-snippet">LEGO Hidden Side All You Need To KnowAug 2, 2019 — LEGO® Hidden Side™ is an augmented reality-enhanced LEGO play theme where ki...</span></span></span>
 
 What made Hidden Side interesting was that the app did not merely display an animation. Players had to move around the physical model, change viewing angles and interact with different sections of the build to uncover secrets. The model became both a toy and a game board. The brick structure provided the spatial anchor for the digital experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/reviews/lego-hidden-side-augmented-reality-sets%2C6271.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-title">lego hidden side augmented reality sets,6271</span><span class="citation-popover-snippet">Tom&#x27;s HardwareLego Hidden Side Review: Ultimate AR Toy9 Aug 2019 — Lego&#x27;s Hidden Side sets pair an impressive augmented reality experienc...</span></span></span>
 
@@ -308,10 +305,9 @@ This created several forms of enrichment:
 * **The same build supported multiple layers of play.** A haunted school could be used for traditional role play, displayed as a model or explored through AR challenges.
 * **Digital content extended replay value.** Updates and additional challenges could refresh a set after construction was complete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hiddenside.fandom.com/wiki/Hidden_Side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiddenside.fandom.com">[hiddenside.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiddenside.fandom.com</span><span class="citation-popover-snippet">LEGO Hidden SideKids can build a multi-layered model, then use a free interactive Augmented Reality app to hunt and trap ghosts. With 8 d...</span></span></span>
 
-Reviewers often noted that the AR implementation felt more ambitious than earlier toy-linked digital experiences because the physical model remained visible and important throughout gameplay. The attraction came partly from seeing an ordinary LEGO build transformed into something apparently alive on screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/lukethompson/2019/08/15/review-lego-hidden-side-busts-some-app-activated-ghosts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">review lego hidden side busts some app activated ghosts</span><span class="citation-popover-snippet">ForbesReview: LEGO Hidden Side Busts Some App-Activated...Aug 15, 2019 — LEGO has just introduced a minifig, action-based line called Hi...</span></span></span>
+Reviewers often noted that the AR implementation felt more ambitious than earlier toy-linked digital experiences because the physical model remained visible and important throughout gameplay. The attraction came partly from seeing an ordinary LEGO build transformed into something apparently alive on screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/lukethompson/2019/08/15/review-lego-hidden-side-busts-some-app-activated-ghosts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">review lego hidden side busts some app activated ghosts</span><span class="citation-popover-snippet">Review: LEGO Hidden Side Busts Some App-Activated...Aug 15, 2019 — LEGO has just introduced a minifig, action-based line called Hi...</span></span></span>
 
 In strategic terms, Hidden Side represented LEGO’s attempt to use digital technology as a layer of interpretation rather than as a replacement environment. The company was exploring whether screens could deepen engagement with a model instead of pulling attention away from it.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Side illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where enrichment became dependence
@@ -330,7 +326,6 @@ Physical LEGO systemHidden Side digital layerBricks remain compatible for decade
 
 The contrast revealed why physical-digital adaptation is risky for LEGO. The company’s historic resilience comes from products that remain usable across generations. App-based systems operate on a much shorter technological cycle.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oamMy3Lpsh8" title="LEGO Hidden Side Sets Review + Game Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oamMy3Lpsh8" target="_blank" rel="noopener noreferrer">LEGO Hidden Side Sets Review + Game Tutorial</a></p><p class="youtube-embed-meta">Channel: Beyond the Brick &middot; Views: 19.6K &middot; Uploaded: October 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oamMy3Lpsh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oamMy3Lpsh8">Open on YouTube</a></p></div></div></div>
 
 ## What Hidden Side taught LEGO about “brick first” design
@@ -339,7 +334,7 @@ The most valuable lesson from Hidden Side was not that augmented reality failed 
 
 Several aspects of the experiment worked in LEGO’s favour:
 
-* The physical sets remained recognisably LEGO products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[syfy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">uncovering the hidden side of legos new augmented reality set</span><span class="citation-popover-snippet">SYFYUncovering the hidden side of LEGO&#x27;s new augmented...Feb 20, 2019 — During a brief demonstration of how the augmented reality worked...</span></span></span>
+* The physical sets remained recognisably LEGO products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[syfy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">uncovering the hidden side of legos new augmented reality set</span><span class="citation-popover-snippet">Uncovering the hidden side of LEGO&#x27;s new augmented...Feb 20, 2019 — During a brief demonstration of how the augmented reality worked...</span></span></span>
 * Building was still required before the AR experience became meaningful.
 * The haunted theme naturally benefited from hidden digital effects.
 * The app encouraged movement around a real object instead of replacing it with a purely virtual world. BricksFanz <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/reviews/lego-hidden-side-augmented-reality-sets%2C6271.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-title">lego hidden side augmented reality sets,6271</span><span class="citation-popover-snippet">Tom&#x27;s HardwareLego Hidden Side Review: Ultimate AR Toy9 Aug 2019 — Lego&#x27;s Hidden Side sets pair an impressive augmented reality experienc...</span></span></span>
@@ -349,12 +344,11 @@ At the same time, the theme exposed weaknesses that later LEGO initiatives would
 * Reliance on long-term software support created fragility.
 * Device requirements limited accessibility.
 * The most memorable digital features disappeared when support ended.
-* Consumers became more aware that app-driven LEGO experiences could have expiration dates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-title">lego hidden side app gone 2023</span><span class="citation-popover-snippet">Brick FanaticsThe LEGO Hidden Side App is disappearing in 202320 Sept 2022 — The companion app to the LEGO Hidden Side range will be unav...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricksfanz.com">[Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricksfanz.com</span><span class="citation-popover-title">lego hidden side all you need to know</span><span class="citation-popover-snippet">BricksFanzLEGO Hidden Side All You Need To KnowAug 2, 2019 — LEGO® Hidden Side™ is an augmented reality-enhanced LEGO play theme where ki...</span></span></span>
+* Consumers became more aware that app-driven LEGO experiences could have expiration dates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-title">lego hidden side app gone 2023</span><span class="citation-popover-snippet">Brick FanaticsThe LEGO Hidden Side App is disappearing in 202320 Sept 2022 — The companion app to the LEGO Hidden Side range will be unav...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricksfanz.com">[Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricksfanz.com</span><span class="citation-popover-title">lego hidden side all you need to know</span><span class="citation-popover-snippet">LEGO Hidden Side All You Need To KnowAug 2, 2019 — LEGO® Hidden Side™ is an augmented reality-enhanced LEGO play theme where ki...</span></span></span>
 
 The significance for LEGO’s antifragility is that Hidden Side generated information without threatening the core system. The company learned how children responded to mixed physical-[digital play]({{ 'digital-play/' | relative_url }}), discovered the maintenance burden of AR ecosystems and identified the danger of tying a timeless toy to a temporary software platform.
 
-The haunted sets therefore served as more than a product line. They were a controlled experiment in adaptation. Hidden Side showed that digital layers could make LEGO models feel richer and more mysterious, but it also demonstrated that the closer a play experience moves towards software dependence, the more it inherits the weaknesses of software. The brick survived that lesson intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">group introduces lego hidden side</span><span class="citation-popover-snippet">LEGOThe LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-title">lego hidden side app gone 2023</span><span class="citation-popover-snippet">Brick FanaticsThe LEGO Hidden Side App is disappearing in 202320 Sept 2022 — The companion app to the LEGO Hidden Side range will be unav...</span></span></span>
-
+The haunted sets therefore served as more than a product line. They were a controlled experiment in adaptation. Hidden Side showed that digital layers could make LEGO models feel richer and more mysterious, but it also demonstrated that the closer a play experience moves towards software dependence, the more it inherits the weaknesses of software. The brick survived that lesson intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">group introduces lego hidden side</span><span class="citation-popover-snippet">The LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-title">lego hidden side app gone 2023</span><span class="citation-popover-snippet">Brick FanaticsThe LEGO Hidden Side App is disappearing in 202320 Sept 2022 — The companion app to the LEGO Hidden Side range will be unav...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Side illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -475,15 +469,15 @@ The haunted sets therefore served as more than a product line. They were a contr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego SUPER MARIO Starter Course 71360 Adventures with Mario Set🔻NEW / SEALED🔻"><img src="https://i.ebayimg.com/images/g/xA8AAeSw7bVoml-e/s-l225.jpg" alt="Listing image for Lego SUPER MARIO Starter Course 71360 Adventures with Mario Set🔻NEW / SEALED🔻" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Hidden Side 70423 Paranormal Intercept Bus 3000 set - NEW NO BOX"><img src="https://i.ebayimg.com/images/g/4-wAAeSw5ZZqFzQi/s-l225.jpg" alt="Listing image for LEGO Hidden Side 70423 Paranormal Intercept Bus 3000 set - NEW NO BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">Lego SUPER MARIO Starter Course 71360 Adventures with Mario Set🔻NEW / SEALED🔻</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Hidden Side 70423 Paranormal Intercept Bus 3000 set - NEW NO BOX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Hidden Side set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Hidden Side set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +485,15 @@ The haunted sets therefore served as more than a product line. They were a contr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Super Mario Fire Flower Plant Building Block Set Game Model Brick Toys 349pcs"><img src="https://i.ebayimg.com/images/g/DsUAAeSwFG1p~Z28/s-l225.jpg" alt="Listing image for Super Mario Fire Flower Plant Building Block Set Game Model Brick Toys 349pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO HIDDEN SIDE: Shrimp Shack Attack (70422)"><img src="https://i.ebayimg.com/images/g/LHcAAeSwEHhqJVbq/s-l225.jpg" alt="Listing image for LEGO HIDDEN SIDE: Shrimp Shack Attack (70422)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">Super Mario Fire Flower Plant Building Block Set Game Model Brick Toys 349pcs</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer">LEGO HIDDEN SIDE: Shrimp Shack Attack (70422)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Hidden Side set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Hidden Side set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +501,31 @@ The haunted sets therefore served as more than a product line. They were a contr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)"><img src="https://i.ebayimg.com/images/g/ldgAAeSwgZNpxVA8/s-l225.jpg" alt="Listing image for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Sealed Lego Hidden Side 70433 Rare Retired Set J.B.&#x27;s Submarine"><img src="https://i.ebayimg.com/images/g/Xh4AAeSwntxp9O2D/s-l225.jpg" alt="Listing image for New Sealed Lego Hidden Side 70433 Rare Retired Set J.B.&#x27;s Submarine" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer">New Sealed Lego Hidden Side 70433 Rare Retired Set J.B.&#x27;s Submarine</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Hidden Side set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Hidden Side set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO HIDDEN SIDE: Newbury Haunted High School (70425) INCOMPLETE SET"><img src="https://i.ebayimg.com/images/g/PvAAAeSwkhNqKa7c/s-l225.jpg" alt="Listing image for LEGO HIDDEN SIDE: Newbury Haunted High School (70425) INCOMPLETE SET" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer">LEGO HIDDEN SIDE: Newbury Haunted High School (70425) INCOMPLETE SET</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Hidden Side set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Hidden Side set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,7 +533,7 @@ The haunted sets therefore served as more than a product line. They were a contr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Hidden+Side+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hidden-side-keep-the-brick-first-lego-hidden-side-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Hidden Side set" data-ebay-reference="did-hidden-side-keep-the-brick-first-lego-hidden-side-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -733,186 +743,187 @@ The haunted sets therefore served as more than a product line. They were a contr
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: group introduces lego hidden side  
-   Link: [https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side](https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</p></details>
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2019/february/lego-group-introduces-lego-hidden-side</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group introduces LEGO® HIDDEN SIDEFeb 14, 2019 — LEGO Hidden Side includes a series of eight “haunted” building sets full of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bricksfanz.com  
    Title: lego hidden side all you need to know  
-   Link: [https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/](https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BricksFanzLEGO Hidden Side All You Need To KnowAug 2, 2019 — LEGO® Hidden Side™ is an augmented reality-enhanced LEGO play theme where ki...</p></details>
+   Link: <a href="https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/lego-hidden-side-all-you-need-to-know/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hidden Side All You Need To KnowAug 2, 2019 — LEGO® Hidden Side™ is an augmented reality-enhanced LEGO play theme where ki...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: syfy.com  
    Title: uncovering the hidden side of legos new augmented reality set  
-   Link: [https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set](https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SYFYUncovering the hidden side of LEGO&#x27;s new augmented...Feb 20, 2019 — During a brief demonstration of how the augmented reality worked...</p></details>
+   Link: <a href="https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/uncovering-the-hidden-side-of-legos-new-augmented-reality-set</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncovering the hidden side of LEGO&#x27;s new augmented...Feb 20, 2019 — During a brief demonstration of how the augmented reality worked...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: hiddenside.fandom.com  
-   Link: [https://hiddenside.fandom.com/wiki/Hidden_Side](https://hiddenside.fandom.com/wiki/Hidden_Side)  
+   Link: <a href="https://hiddenside.fandom.com/wiki/Hidden_Side" target="_blank" rel="noopener noreferrer nofollow">https://hiddenside.fandom.com/wiki/Hidden_Side</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hidden SideKids can build a multi-layered model, then use a free interactive Augmented Reality app to hunt and trap ghosts. With 8 d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hiddenside.fandom.com  
    Title: LEGO® Hidden Side™  
-   Link: [https://hiddenside.fandom.com/wiki/LEGO%C2%AE_Hidden_Side%E2%84%A2](https://hiddenside.fandom.com/wiki/LEGO%C2%AE_Hidden_Side%E2%84%A2)  
+   Link: <a href="https://hiddenside.fandom.com/wiki/LEGO%C2%AE_Hidden_Side%E2%84%A2" target="_blank" rel="noopener noreferrer nofollow">https://hiddenside.fandom.com/wiki/LEGO%C2%AE_Hidden_Side%E2%84%A2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Hidden Side29 Jul 2019 — It was discontinued in January of 2023. Version History.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: forbes.com  
    Title: review lego hidden side busts some app activated ghosts  
-   Link: [https://www.forbes.com/sites/lukethompson/2019/08/15/review-lego-hidden-side-busts-some-app-activated-ghosts/](https://www.forbes.com/sites/lukethompson/2019/08/15/review-lego-hidden-side-busts-some-app-activated-ghosts/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesReview: LEGO Hidden Side Busts Some App-Activated...Aug 15, 2019 — LEGO has just introduced a minifig, action-based line called Hi...</p></details>
+   Link: <a href="https://www.forbes.com/sites/lukethompson/2019/08/15/review-lego-hidden-side-busts-some-app-activated-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/lukethompson/2019/08/15/review-lego-hidden-side-busts-some-app-activated-ghosts/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review: LEGO Hidden Side Busts Some App-Activated...Aug 15, 2019 — LEGO has just introduced a minifig, action-based line called Hi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/xikqey/hidden_side_app_will_be_discontinued_in_2023/](https://www.reddit.com/r/lego/comments/xikqey/hidden_side_app_will_be_discontinued_in_2023/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/xikqey/hidden_side_app_will_be_discontinued_in_2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/xikqey/hidden_side_app_will_be_discontinued_in_2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Side app will be discontinued in 2023Only 3 and a half years of service doesn&#x27;t seem great at all. Lego really needs to stop makin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: hidden side is retired response from lego service  
-   Link: [https://www.reddit.com/r/HiddenSide/comments/lrcus8/hidden_side_is_retired_response_from_lego_service/](https://www.reddit.com/r/HiddenSide/comments/lrcus8/hidden_side_is_retired_response_from_lego_service/)  
+   Link: <a href="https://www.reddit.com/r/HiddenSide/comments/lrcus8/hidden_side_is_retired_response_from_lego_service/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HiddenSide/comments/lrcus8/hidden_side_is_retired_response_from_lego_service/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Side is Retired | Response from LEGO ServiceAlso the LEGO Hidden Side app will remain available in 2021 but will no longer be upda...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/mz1ciz/why_was_hidden_side_discontinued/](https://www.reddit.com/r/lego/comments/mz1ciz/why_was_hidden_side_discontinued/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/mz1ciz/why_was_hidden_side_discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/mz1ciz/why_was_hidden_side_discontinued/</a>  
 
 10. <a id="endnote-10"></a>
    Source: bricksfanz.com  
-   Link: [https://bricksfanz.com/say-goodbye-to-the-lego-hidden-side-app/](https://bricksfanz.com/say-goodbye-to-the-lego-hidden-side-app/)  
+   Link: <a href="https://bricksfanz.com/say-goodbye-to-the-lego-hidden-side-app/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/say-goodbye-to-the-lego-hidden-side-app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Say Goodbye To The LEGO Hidden Side App19 Sept 2022 — In a move that will surprise no one, the LEGO® Hidden Side app will be discontinued...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Lego Graveyard Mystery  
-   Link: [http://www.youtube.com/watch?v=faDSZBMVyiQ](http://www.youtube.com/watch?v=faDSZBMVyiQ)  
+   Link: <a href="http://www.youtube.com/watch?v=faDSZBMVyiQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=faDSZBMVyiQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Hidden Side - Deep Dive Hands-On iOS/Android...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Lego Hidden Side  
-   Link: [http://www.youtube.com/watch?v=rvsEj45WaO4](http://www.youtube.com/watch?v=rvsEj45WaO4)  
+   Link: <a href="http://www.youtube.com/watch?v=rvsEj45WaO4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rvsEj45WaO4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sets Review + Game Tutorial...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: brickfanatics.com  
    Title: lego hidden side app gone 2023  
-   Link: [https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/](https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/)  
+   Link: <a href="https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-hidden-side-app-gone-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsThe LEGO Hidden Side App is disappearing in 202320 Sept 2022 — The companion app to the LEGO Hidden Side range will be unav...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bricksdirect.co.uk  
    Title: Bricks Direct LEGO Hidden Side  
-   Link: [https://bricksdirect.co.uk/lego-hidden-side](https://bricksdirect.co.uk/lego-hidden-side)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BricksDirectLEGO Hidden Side - Largest LEGO assortment of Europe!LEGO Hidden Side invites kids to join a fearless team of ghost hunters...</p></details>
+   Link: <a href="https://bricksdirect.co.uk/lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow">https://bricksdirect.co.uk/lego-hidden-side</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hidden Side - Largest LEGO assortment of Europe!LEGO Hidden Side invites kids to join a fearless team of ghost hunters...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tomshardware.com  
    Title: lego hidden side augmented reality sets,6271  
-   Link: [https://www.tomshardware.com/reviews/lego-hidden-side-augmented-reality-sets%2C6271.html](https://www.tomshardware.com/reviews/lego-hidden-side-augmented-reality-sets%2C6271.html)  
+   Link: <a href="https://www.tomshardware.com/reviews/lego-hidden-side-augmented-reality-sets%2C6271.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/reviews/lego-hidden-side-augmented-reality-sets%2C6271.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom&#x27;s HardwareLego Hidden Side Review: Ultimate AR Toy9 Aug 2019 — Lego&#x27;s Hidden Side sets pair an impressive augmented reality experienc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: brickfanatics.com  
    Title: lego hidden side officially discontinued  
-   Link: [https://www.brickfanatics.com/lego-hidden-side-officially-discontinued/](https://www.brickfanatics.com/lego-hidden-side-officially-discontinued/)  
+   Link: <a href="https://www.brickfanatics.com/lego-hidden-side-officially-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-hidden-side-officially-discontinued/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO Hidden Side&#x27;s app has been officially discontinued6 Jan 2023 — The LEGO Hidden Side app has been officially discontinu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thebrickfan.com  
    Title: lego hidden side app discontinuing in 2023  
-   Link: [https://www.thebrickfan.com/lego-hidden-side-app-discontinuing-in-2023/](https://www.thebrickfan.com/lego-hidden-side-app-discontinuing-in-2023/)  
+   Link: <a href="https://www.thebrickfan.com/lego-hidden-side-app-discontinuing-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-hidden-side-app-discontinuing-in-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The theme ended at the end of...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: myleniumsbrickcorner.wordpress.com  
    Title: the predictable failure of hidden side a post mortem analysis  
-   Link: [https://myleniumsbrickcorner.wordpress.com/2020/11/17/the-predictable-failure-of-hidden-side-a-post-mortem-analysis/](https://myleniumsbrickcorner.wordpress.com/2020/11/17/the-predictable-failure-of-hidden-side-a-post-mortem-analysis/)  
+   Link: <a href="https://myleniumsbrickcorner.wordpress.com/2020/11/17/the-predictable-failure-of-hidden-side-a-post-mortem-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://myleniumsbrickcorner.wordpress.com/2020/11/17/the-predictable-failure-of-hidden-side-a-post-mortem-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mylenium&#x27;s Brick CornerThe predictable Failure of Hidden Side – A Post Mortem...Nov 17, 2020 — Adding new sets and having to scan their...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: brickfanatics.com  
    Title: watch lego hidden side thanks to the app  
-   Link: [https://www.brickfanatics.com/watch-lego-hidden-side-thanks-to-the-app/](https://www.brickfanatics.com/watch-lego-hidden-side-thanks-to-the-app/)  
+   Link: <a href="https://www.brickfanatics.com/watch-lego-hidden-side-thanks-to-the-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/watch-lego-hidden-side-thanks-to-the-app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Side is dying because LEGO apps don&#x27;t...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: brickfanatics.com  
-   Link: [https://www.brickfanatics.com/lego-hidden-side-combining-physical-and-digital-play/](https://www.brickfanatics.com/lego-hidden-side-combining-physical-and-digital-play/)  
+   Link: <a href="https://www.brickfanatics.com/lego-hidden-side-combining-physical-and-digital-play/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-hidden-side-combining-physical-and-digital-play/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hidden Side: Combining physical and digital play2 Aug 2019 — As well as being tied to the app, the Hidden Side sets are also playabl...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gameofbricks.eu  
    Title: lego hidden side  
-   Link: [https://gameofbricks.eu/blogs/news/lego-hidden-side](https://gameofbricks.eu/blogs/news/lego-hidden-side)  
+   Link: <a href="https://gameofbricks.eu/blogs/news/lego-hidden-side" target="_blank" rel="noopener noreferrer nofollow">https://gameofbricks.eu/blogs/news/lego-hidden-side</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Hidden Side: Review14 Dec 2019 — This is a completely new series of LEGO sets designed from the scratch for AR gaming on both IOS a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Lego Hidden Side  
-   Link: [https://en.wikipedia.org/wiki/Lego_Hidden_Side](https://en.wikipedia.org/wiki/Lego_Hidden_Side)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Hidden_Side" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Hidden_Side</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Hidden SideThe Lego Hidden Side app was discontinued in 2023. Awards and... ^ &quot;LEGO Hidden Side App Now Available&quot;. thebrickfan...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: tomsguide.com  
-   Link: [https://www.tomsguide.com/entertainment/dont-believe-the-hate-legos-smart-brick-is-the-most-inventive-thing-the-company-has-done-in-years](https://www.tomsguide.com/entertainment/dont-believe-the-hate-legos-smart-brick-is-the-most-inventive-thing-the-company-has-done-in-years)  
+   Link: <a href="https://www.tomsguide.com/entertainment/dont-believe-the-hate-legos-smart-brick-is-the-most-inventive-thing-the-company-has-done-in-years" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/entertainment/dont-believe-the-hate-legos-smart-brick-is-the-most-inventive-thing-the-company-has-done-in-years</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the major downside is the high cost. The Smart Play sets are among Lego’s more expensive offerings, with prices starting at $70...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/5X9CCvNfnWI](https://www.youtube.com/shorts/5X9CCvNfnWI)  
+   Link: <a href="https://www.youtube.com/shorts/5X9CCvNfnWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/5X9CCvNfnWI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Side is dying because LEGO apps don&#x27;t lastLego&#x27;s long-term app support is often pretty abysmal while the physical toys never truly...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oamMy3Lpsh8](https://www.youtube.com/watch?v=oamMy3Lpsh8)  
+   Link: <a href="https://www.youtube.com/watch?v=oamMy3Lpsh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oamMy3Lpsh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hidden Side Sets Review + Game TutorialBeyond the Brick&#x27;s Matt (aka TheBrickWiz) reviews three LEGO Hidden Side sets and shows off t...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m-uu_d4gbOc](https://www.youtube.com/watch?v=m-uu_d4gbOc)  
+   Link: <a href="https://www.youtube.com/watch?v=m-uu_d4gbOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m-uu_d4gbOc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Hidden Side | ReviewWe check out these special haunted LEGO sets which combine real LEGO with an Augmented Reality game! -- MORE GG...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: gearbrain.com  
-   Link: [https://www.gearbrain.com/toys-lego-augmented-reality-2628961440.html](https://www.gearbrain.com/toys-lego-augmented-reality-2628961440.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GearbrainNew LEGO augmented reality game has kids hunting ghostsFeb 15, 2019 — New LEGO augmented reality game has kids hunting ghosts...</p></details>
+   Link: <a href="https://www.gearbrain.com/toys-lego-augmented-reality-2628961440.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gearbrain.com/toys-lego-augmented-reality-2628961440.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New LEGO augmented reality game has kids hunting ghostsFeb 15, 2019 — New LEGO augmented reality game has kids hunting ghosts...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/LEGO-Newbury-Construction-Interactive-Augmented/dp/B08K5PPV4B](https://www.amazon.co.uk/LEGO-Newbury-Construction-Interactive-Augmented/dp/B08K5PPV4B)  
+   Link: <a href="https://www.amazon.co.uk/LEGO-Newbury-Construction-Interactive-Augmented/dp/B08K5PPV4B" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/LEGO-Newbury-Construction-Interactive-Augmented/dp/B08K5PPV4B</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hidden Side 70425 Newbury Haunted High School...This school is full of secrets and surprises, and the free AR app reveals even more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thebrickblogger.com  
    Title: brick breakdown lego hidden side mystery castle  
-   Link: [https://thebrickblogger.com/2020/10/brick-breakdown-lego-hidden-side-mystery-castle/](https://thebrickblogger.com/2020/10/brick-breakdown-lego-hidden-side-mystery-castle/)  
+   Link: <a href="https://thebrickblogger.com/2020/10/brick-breakdown-lego-hidden-side-mystery-castle/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2020/10/brick-breakdown-lego-hidden-side-mystery-castle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick Breakdown: LEGO Hidden Side Mystery Castle26 Oct 2020 — The LEGO Hidden Side Mystery Castle comes with some interesting building te...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: gamebyte.com  
    Title: reviews lego hidden side arg sets  
-   Link: [https://www.gamebyte.com/reviews/gamebyte-reviews-lego-hidden-side-arg-sets/](https://www.gamebyte.com/reviews/gamebyte-reviews-lego-hidden-side-arg-sets/)  
+   Link: <a href="https://www.gamebyte.com/reviews/gamebyte-reviews-lego-hidden-side-arg-sets/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamebyte.com/reviews/gamebyte-reviews-lego-hidden-side-arg-sets/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GameByte Reviews: LEGO Hidden Side ARG Sets21 Mar 2020 — Hidden Side sets provide the hands-on fun of LEGO building with the added promis...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: brickset.com  
    Title: hidden side app to be discontinued in 2023  
-   Link: [https://brickset.com/article/82351/hidden-side-app-to-be-discontinued-in-2023](https://brickset.com/article/82351/hidden-side-app-to-be-discontinued-in-2023)  
+   Link: <a href="https://brickset.com/article/82351/hidden-side-app-to-be-discontinued-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/82351/hidden-side-app-to-be-discontinued-in-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Sept 2022 — LEGO has announced that the Hidden Side app will be discontinued at the beginning of 2023, as reported by The Brick Fan.Re...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
    Title: Did anyone ever have Lego Hidden Side sets  
-   Link: [https://www.facebook.com/groups/1532129557644306/posts/1801585617365364/](https://www.facebook.com/groups/1532129557644306/posts/1801585617365364/)  
+   Link: <a href="https://www.facebook.com/groups/1532129557644306/posts/1801585617365364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1532129557644306/posts/1801585617365364/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I bought one...The whole set can be scanned in the LEGO hidden side app and there is a simple game to play where you hunt ghosts. Would...</p></details>

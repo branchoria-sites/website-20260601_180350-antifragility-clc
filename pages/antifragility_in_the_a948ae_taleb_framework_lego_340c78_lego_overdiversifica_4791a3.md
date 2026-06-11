@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /framework/
 nav_short_title: Overexpansion
 title: Why LEGO's Expansion Made It Fragile
-title_full: Why LEGO's Expansion Made It Fragile | Framework
+title_full: Why LEGO's Expansion Made It Fragile
 display_title_short: Overexpansion
 display_title: Overexpansion
 heading_title: Why LEGO's Expansion Made It Fragile
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Is LEGO Really Antifragile or Just Resilient? | LEGO Antifragility
+parent_title: Is LEGO Really Antifragile or Just Resilient?
 parent_permalink: /framework/
 parent_nav_short_title: Framework
 parent_heading_title: Is LEGO Really Antifragile or Just Resilient?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /limits/
   short_title: Limits
   heading_title: Why LEGO Is Not Fully Antifragile
-date: '2026-06-09 03:50:23 '
+date: '2026-06-11 21:41:16 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_le
 ## Introduction
 
 LEGO’s crisis in the late 1990s and early 2000s is often described as a failure of strategy, but through Nassim Nicholas Taleb’s fragility lens it was more specifically a failure of [complexity]({{ 'complexity/' | relative_url }}). The company expanded far beyond its core [brick system]({{ 'brick-system/' | relative_url }}) into theme parks, clothing, media projects, video games, publishing, watches and experimental toy lines. Many of these ventures generated revenue, yet together they created a business that became harder to understand, more expensive to operate and increasingly vulnerable when consumer demand shifted. By 2003, LEGO was reporting historic losses and facing a severe cash crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolIn 2003, the LEGO Group had a number of positive attributes: it...</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-1-dark.svg" | relative_url }}" alt="Overexpansion illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Taleb argues that fragile systems often appear successful while conditions remain favourable, but hidden weaknesses accumulate beneath the surface. LEGO’s expansion illustrates this pattern. The problem was not merely that some new ventures failed. The deeper issue was that diversification multiplied operational complexity faster than the company’s ability to manage it.
@@ -293,7 +292,6 @@ Each business introduced different risks, cost structures and management demands
 
 Taleb’s [framework]({{ 'framework/' | relative_url }}) helps explain why this mattered. Fragile organisations often mistake expansion for strength. In reality, every new dependency creates another potential point of failure. The more unrelated systems become attached to the business, the more ways volatility can damage it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-CiwT2ZTKc" title="The Man Who Rescued Lego - Full Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-CiwT2ZTKc" target="_blank" rel="noopener noreferrer">The Man Who Rescued Lego - Full Version</a></p><p class="youtube-embed-meta">Channel: Meet the Boss &middot; Views: 75.9K &middot; Uploaded: May 2014 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-CiwT2ZTKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-CiwT2ZTKc">Open on YouTube</a></p></div></div></div>
 
 ## Why Complexity Amplified Financial Stress
@@ -316,7 +314,6 @@ In Taleb's terms, the business developed hidden fragilities. Small forecasting e
 
 A simple brick-based business can absorb some mistakes. A sprawling network of specialised products, licensing deals and non-core ventures becomes far less forgiving.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-2-dark.svg" | relative_url }}" alt="Overexpansion illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Demand Shifts Become Dangerous
 
@@ -329,7 +326,6 @@ Because LEGO had spread resources across many initiatives, it had fewer buffers 
 This helps explain why the downturn became so severe. By 2003, LEGO was losing large amounts of money and carrying substantial debt. What might have been a manageable market challenge became an existential threat because the company had reduced its ability to adapt quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrategyinstitute.org">[The Strategy Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrategyinstitute.org</span><span class="citation-popover-snippet">The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — In 2003, Lego was hemorrhaging money at...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolIn 2003, the LEGO Group had a number of positive attributes: it...</span></span></span>
 
 Taleb argues that fragile systems suffer from non-linear harm: losses accelerate faster than expected once stress exceeds a certain threshold. LEGO's experience fits this pattern. The company did not decline gradually. Instead, years of accumulated complexity suddenly translated into a crisis severe enough that analysts openly discussed bankruptcy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolIn 2003, the LEGO Group had a number of positive attributes: it...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWxK-LVSGHg" title="#37 Rebuilding the Brick: LEGO&#x27;s Journey From Crisis to SustAInnovation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWxK-LVSGHg" target="_blank" rel="noopener noreferrer">#37 Rebuilding the Brick: LEGO&#x27;s Journey From Crisis to SustAInnovation</a></p><p class="youtube-embed-meta">Channel: Digital Servitization: Rigorness meets relevance &middot; Views: 3 &middot; Uploaded: April 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWxK-LVSGHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWxK-LVSGHg">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +341,6 @@ Taleb's framework emphasises that robust systems benefit from strong organising 
 
 The more LEGO expanded into disconnected experiments, the less advantage it gained from the qualities that had originally made the business durable.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-3-dark.svg" | relative_url }}" alt="Overexpansion illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Taleb's Fragility Lens Explains About the Damage
 
@@ -354,7 +349,6 @@ Traditional business analysis often describes LEGO's crisis as overexpansion. Ta
 The company became vulnerable because it increased complexity faster than it increased knowledge.
 
 Several warning signs fit Taleb's conception of fragility:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -369,11 +363,9 @@ Several warning signs fit Taleb's conception of fragility:
 
 In a fragile system, volatility is an enemy because surprises reveal weaknesses that complexity has concealed. LEGO's losses in the early 2000s exposed exactly this dynamic. The company's famous brand created the appearance of strength, yet underneath it had become dependent on an increasingly unwieldy structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</span></span></span>
 
-The later turnaround was significant not because LEGO simply cut costs, but because it removed layers of fragility. Reducing [product complexity]({{ 'complexity/' | relative_url }}), exiting non-core businesses and refocusing on the brick system reduced the number of ways the company could fail. That shift moved LEGO away from a fragile structure and toward a model that could better absorb shocks without collapsing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianHow Lego clicked: the super brand that reinvented itself4 Jun 2017 — Vig Knudstorp rescued Lego by methodically rebuilding it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiu.edu">[Atlantic International University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiu.edu</span><span class="citation-popover-snippet">Knudstorp began pruning the company&#x27;s product lines, cutting nearly half of its elements...Read more...</span></span></span>
-
+The later turnaround was significant not because LEGO simply cut costs, but because it removed layers of fragility. Reducing product complexity, exiting non-core businesses and refocusing on the brick system reduced the number of ways the company could fail. That shift moved LEGO away from a fragile structure and toward a model that could better absorb shocks without collapsing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianHow Lego clicked: the super brand that reinvented itself4 Jun 2017 — Vig Knudstorp rescued Lego by methodically rebuilding it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiu.edu">[Atlantic International University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiu.edu</span><span class="citation-popover-snippet">Knudstorp began pruning the company&#x27;s product lines, cutting nearly half of its elements...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DdGC51pfT9g" title="How LEGO Went From Bankruptcy to Billion Dollar Empire!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DdGC51pfT9g" target="_blank" rel="noopener noreferrer">How LEGO Went From Bankruptcy to Billion Dollar Empire!</a></p><p class="youtube-embed-meta">Channel: Legonymous &middot; Views: 189 &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DdGC51pfT9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DdGC51pfT9g">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,7 +460,7 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -492,15 +484,15 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241"><img src="https://i.ebayimg.com/images/g/U8EAAeSweJZqDz86/s-l225.jpg" alt="Listing image for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space"><img src="https://i.ebayimg.com/images/g/~asAAOSwkshlW1tY/s-l225.jpg" alt="Listing image for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor action figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor action figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +500,15 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed"><img src="https://i.ebayimg.com/images/g/lRoAAeSwz5hqD3tt/s-l225.jpg" alt="Listing image for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space"><img src="https://i.ebayimg.com/images/g/VM8AAeSwo3FpEzC6/s-l225.jpg" alt="Listing image for LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO 8311 Galidor Defenders Gorm Action Figure BNIB Rare Discontinued Space</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor action figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor action figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +516,31 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece."><img src="https://i.ebayimg.com/images/g/8HEAAeSwDe5qEyfx/s-l225.jpg" alt="Listing image for LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension"><img src="https://i.ebayimg.com/images/g/i9IAAOSwGBNiwNFP/s-l225.jpg" alt="Listing image for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer">2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor action figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor action figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26"><img src="https://i.ebayimg.com/images/g/2cAAAOSwVB5mCsW9/s-l225.jpg" alt="Listing image for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor action figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor action figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +548,7 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-expansion-made-it-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+action+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-expansion-made-it-fragile-galidor-action-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor action figure" data-ebay-reference="why-lego-s-expansion-made-it-fragile-galidor-action-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -750,119 +758,120 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: imd.org  
-   Link: [https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/](https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/)  
+   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolIn 2003, the LEGO Group had a number of positive attributes: it...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: historyforoperators.substack.com  
    Title: the lego turnaround  
-   Link: [https://historyforoperators.substack.com/p/the-lego-turnaround](https://historyforoperators.substack.com/p/the-lego-turnaround)  
+   Link: <a href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://historyforoperators.substack.com/p/the-lego-turnaround</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — Astonishingly, in the early 2000s LEGO lacked basic product profitabilit...</p></details>
    Published: June 22, 2025  
 
 3. <a id="endnote-3"></a>
    Source: bcg.com  
    Title: people organization jorgen vig knudstorp lego growth culture not kid stuff  
-   Link: [https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff](https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff)  
+   Link: <a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Galidor](https://en.wikipedia.org/wiki/Galidor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galidor</a>  
 
 5. <a id="endnote-5"></a>
    Source: artofthebrand.substack.com  
    Title: the near bankruptcy to 9b how lego  
-   Link: [https://artofthebrand.substack.com/p/the-near-bankruptcy-to-9b-how-lego](https://artofthebrand.substack.com/p/the-near-bankruptcy-to-9b-how-lego)  
+   Link: <a href="https://artofthebrand.substack.com/p/the-near-bankruptcy-to-9b-how-lego" target="_blank" rel="noopener noreferrer nofollow">https://artofthebrand.substack.com/p/the-near-bankruptcy-to-9b-how-lego</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Near-Bankruptcy to $9B: How LEGO Saved Itself by...The clothing line, video games, and theme parks individually lost money while collect...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: imd.org  
-   Link: [https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/](https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/)  
+   Link: <a href="https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, former LEGO Group CEO Jørgen Vig Knudstorp offered valuable insights for executives...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: knowledge.wharton.upenn.edu  
    Title: Knowledge at Wharton Innovation Almost Bankrupted LEGO  
-   Link: [https://knowledge.wharton.upenn.edu/article/innovation-almost-bankrupted-lego-until-it-rebuilt-with-a-better-blueprint/](https://knowledge.wharton.upenn.edu/article/innovation-almost-bankrupted-lego-until-it-rebuilt-with-a-better-blueprint/)  
+   Link: <a href="https://knowledge.wharton.upenn.edu/article/innovation-almost-bankrupted-lego-until-it-rebuilt-with-a-better-blueprint/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.wharton.upenn.edu/article/innovation-almost-bankrupted-lego-until-it-rebuilt-with-a-better-blueprint/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge at WhartonInnovation Almost Bankrupted LEGO - Until It Rebuilt with a...18 Jul 2012 — After years of booming sales followed by...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHow Lego clicked: the super brand that reinvented itself4 Jun 2017 — Vig Knudstorp rescued Lego by methodically rebuilding it...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aiu.edu  
-   Link: [https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/](https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/)  
+   Link: <a href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knudstorp began pruning the company&#x27;s product lines, cutting nearly half of its elements...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: coursehero.com  
-   Link: [https://www.coursehero.com/tutors-problems/Supply-Chain-Management/44700701-LEGO-GROUP-AN-OUTSOURCING-JOURNEY-PROLOGUE-The-last-five-years/](https://www.coursehero.com/tutors-problems/Supply-Chain-Management/44700701-LEGO-GROUP-AN-OUTSOURCING-JOURNEY-PROLOGUE-The-last-five-years/)  
+   Link: <a href="https://www.coursehero.com/tutors-problems/Supply-Chain-Management/44700701-LEGO-GROUP-AN-OUTSOURCING-JOURNEY-PROLOGUE-The-last-five-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/tutors-problems/Supply-Chain-Management/44700701-LEGO-GROUP-AN-OUTSOURCING-JOURNEY-PROLOGUE-The-last-five-years/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Course Hero[Solved] LEGO GROUP: AN OUTSOURCING JOURNEY...Oct 4, 2022 — This act of diversification had resulted in vast complexity and i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thestrategyinstitute.org  
-   Link: [https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation](https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation)  
+   Link: <a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — In 2003, Lego was hemorrhaging money at...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/pedro-vega-434b9327_in-2003-lego-nearly-collapsed-300m-losses-activity-7378443489543516161-ghC-](https://www.linkedin.com/posts/pedro-vega-434b9327_in-2003-lego-nearly-collapsed-300m-losses-activity-7378443489543516161-ghC-)  
+   Link: <a href="https://www.linkedin.com/posts/pedro-vega-434b9327_in-2003-lego-nearly-collapsed-300m-losses-activity-7378443489543516161-ghC-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/pedro-vega-434b9327_in-2003-lego-nearly-collapsed-300m-losses-activity-7378443489543516161-ghC-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2003, LEGO nearly collapsed - $300M losses....In 2003, LEGO nearly collapsed - $300M losses. Bankruptcy imminent. Then they pulled of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hbr.org  
-   Link: [https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth](https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth)  
+   Link: <a href="https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth</a>  
 
 14. <a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/shelestak_in-2003-lego-was-losing-1-million-a-day-activity-7432788787757416448-yIBt](https://www.linkedin.com/posts/shelestak_in-2003-lego-was-losing-1-million-a-day-activity-7432788787757416448-yIBt)  
+   Link: <a href="https://www.linkedin.com/posts/shelestak_in-2003-lego-was-losing-1-million-a-day-activity-7432788787757416448-yIBt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shelestak_in-2003-lego-was-losing-1-million-a-day-activity-7432788787757416448-yIBt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego&#x27;s 2003 Crisis: Cutting Complexity to Save the BrandIn 2003, Lego was losing $1 million a day. The world&#x27;s most famous toy brand had...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: platform01consulting.com  
    Title: lego one of the greatest turnaround stories in corporate history  
-   Link: [https://platform01consulting.com/lego-one-of-the-greatest-turnaround-stories-in-corporate-history/](https://platform01consulting.com/lego-one-of-the-greatest-turnaround-stories-in-corporate-history/)  
+   Link: <a href="https://platform01consulting.com/lego-one-of-the-greatest-turnaround-stories-in-corporate-history/" target="_blank" rel="noopener noreferrer nofollow">https://platform01consulting.com/lego-one-of-the-greatest-turnaround-stories-in-corporate-history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: One of the Greatest Turnaround Stories In...13 Aug 2023 — By the year 2003, Lego was encountering major difficulties.Sales had dec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: newsletterbear.com  
-   Link: [https://newsletterbear.com/how-lego-turned-near-bankruptcy-into-a-5-4b-global-empire/](https://newsletterbear.com/how-lego-turned-near-bankruptcy-into-a-5-4b-global-empire/)  
+   Link: <a href="https://newsletterbear.com/how-lego-turned-near-bankruptcy-into-a-5-4b-global-empire/" target="_blank" rel="noopener noreferrer nofollow">https://newsletterbear.com/how-lego-turned-near-bankruptcy-into-a-5-4b-global-empire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn the strategic subtraction blueprint to eliminate complexity, increase profit...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: risingabovethenoise.com  
-   Link: [https://www.risingabovethenoise.com/the-lego-deletion-how-killing-50-of-their-business-led-to-a-7-6-billion-empire/](https://www.risingabovethenoise.com/the-lego-deletion-how-killing-50-of-their-business-led-to-a-7-6-billion-empire/)  
+   Link: <a href="https://www.risingabovethenoise.com/the-lego-deletion-how-killing-50-of-their-business-led-to-a-7-6-billion-empire/" target="_blank" rel="noopener noreferrer nofollow">https://www.risingabovethenoise.com/the-lego-deletion-how-killing-50-of-their-business-led-to-a-7-6-billion-empire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Deletion: How Killing 50% of Their Business...In 2003, LEGO was losing $1 million per day and was approximately 90 days from ba...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: markhub24.com  
    Title: lego strategic turnaround through innovation and focus  
-   Link: [https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus](https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus)  
+   Link: <a href="https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and FocusDec 15, 2025 — LEGO Group faced near-bankruptcy in 2003–2004 after years of uncont...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: helpmegrow.co.uk  
    Title: the lego turnaround a masterclass in business revival  
-   Link: [https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/](https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/)  
+   Link: <a href="https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/" target="_blank" rel="noopener noreferrer nofollow">https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help Me Grow Business CoachingThe LEGO Turnaround: A Masterclass in Business RevivalDec 11, 2024 — LEGO&#x27;s remarkable turnaround offers va...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
    Title: leadesrship jorgen knudstorp example ndudi nwabueze  
-   Link: [https://www.linkedin.com/pulse/leadesrship-jorgen-knudstorp-example-ndudi-nwabueze](https://www.linkedin.com/pulse/leadesrship-jorgen-knudstorp-example-ndudi-nwabueze)  
+   Link: <a href="https://www.linkedin.com/pulse/leadesrship-jorgen-knudstorp-example-ndudi-nwabueze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/leadesrship-jorgen-knudstorp-example-ndudi-nwabueze</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEADESRSHIP: JORGEN KNUDSTORP EXAMPLEHowever, the late 1990s saw Lego going into crisis as expansion and diversification strained the com...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Rebuilding the Brick: LEGO's Journey From Crisis to Sust AInnovation  
-   Link: [https://www.youtube.com/watch?v=jWxK-LVSGHg](https://www.youtube.com/watch?v=jWxK-LVSGHg)  
+   Link: <a href="https://www.youtube.com/watch?v=jWxK-LVSGHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jWxK-LVSGHg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Business Mistakes That Nearly Killed Lego provides an expert breakdown of how the company’s push into non-core ventures, such as them...</p></details>

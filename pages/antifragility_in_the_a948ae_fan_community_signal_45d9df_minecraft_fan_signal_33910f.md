@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /fan-signals/
 nav_short_title: Minecraft Signal
 title: Why LEGO Minecraft Became a Demand Clue
-title_full: Why LEGO Minecraft Became a Demand Clue | Fan Signals
+title_full: Why LEGO Minecraft Became a Demand Clue
 display_title_short: Minecraft Signal
 display_title: Minecraft Signal
 heading_title: Why LEGO Minecraft Became a Demand Clue
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How LEGO Fans Became a Market Sensor | LEGO Antifragility
+parent_title: How LEGO Fans Became a Market Sensor
 parent_permalink: /fan-signals/
 parent_nav_short_title: Fan Signals
 parent_heading_title: How LEGO Fans Became a Market Sensor
@@ -265,7 +265,7 @@ next_link:
   permalink: /vote-risk/
   short_title: Vote Risk
   heading_title: When Fan Excitement Can Mislead LEGO
-date: '2026-06-09 03:44:27 '
+date: '2026-06-11 21:40:29 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1.webp
@@ -274,62 +274,56 @@ image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_mi
 
 ## Introduction
 
-The LEGO Minecraft story is one of the clearest examples of fan communities functioning as an early demand sensor. Before Minecraft became one of LEGOs most successful long-running themes, the strength of interest was first revealed through LEGO CUUSOO, the crowdsourcing platform that later became LEGO Ideas. In late 2011, a Minecraft project reached the platforms support threshold with extraordinary speed, signalling that a large audience existed at the intersection of digital gaming and physical construction toys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011  It took the project only 48 hours to gather votes fro...</span></span></span>
-
+The LEGO Minecraft story is one of the clearest examples of fan communities functioning as an early demand sensor. Before Minecraft became one of LEGO’s most successful long-running themes, the strength of interest was first revealed through LEGO CUUSOO, the crowdsourcing platform that later became LEGO Ideas. In late 2011, a Minecraft project reached the platform’s support threshold with extraordinary speed, signalling that a large audience existed at the intersection of digital gaming and physical construction toys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011 — It took the project only 48 hours to gather votes fro...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1-dark.svg" | relative_url }}" alt="Minecraft Signal illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For LEGO, this mattered because conventional toy-market indicators would have struggled to detect the opportunity so early. Minecraft was still primarily known as a rapidly growing video game community, not an established toy licence. The CUUSOO vote transformed scattered online enthusiasm into a measurable signal that LEGO could observe, evaluate and test. In the context of antifragility, the episode shows how LEGO learned to use community-generated information to discover opportunities before traditional market data fully reflected them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20PjmjNWXnk" title="LEGO Cuusoo Minecraft Micro World set 21102 Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20PjmjNWXnk" target="_blank" rel="noopener noreferrer">LEGO Cuusoo Minecraft Micro World set 21102 Review</a></p><p class="youtube-embed-meta">Channel: BrickTsar &middot; Views: 3.4K &middot; Uploaded: January 2013 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20PjmjNWXnk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20PjmjNWXnk">Open on YouTube</a></p></div></div></div>
 
 ## How the CUUSOO Vote Exposed Crossover Demand
 
-The Minecraft proposal appeared on LEGO CUUSOO in December 2011. What made it remarkable was not merely that it reached the review threshold, but how quickly it did so. The project gathered 10,000 supporters in roughly 48 hours, an unprecedented pace for the platform at the time. LEGO representatives publicly acknowledged the scale of enthusiasm, while observers noted that the project became the first to reach the threshold on the newly expanded global version of CUUSOO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011  It took the project only 48 hours to gather votes fro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuusoo.fandom.com/wiki/LEGO_Minecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuusoo.fandom.com">[2cuusoo.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuusoo.fandom.com</span><span class="citation-popover-title">LEG O Minecraft</span><span class="citation-popover-snippet">With the start of Mojang&#x27;s Minecraft CUUSOO project it took just 48 hours to get 10,000...Read more...</span></span></span>
+The Minecraft proposal appeared on LEGO CUUSOO in December 2011. What made it remarkable was not merely that it reached the review threshold, but how quickly it did so. The project gathered 10,000 supporters in roughly 48 hours, an unprecedented pace for the platform at the time. LEGO representatives publicly acknowledged the scale of enthusiasm, while observers noted that the project became the first to reach the threshold on the newly expanded global version of CUUSOO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011 — It took the project only 48 hours to gather votes fro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuusoo.fandom.com/wiki/LEGO_Minecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuusoo.fandom.com">[2cuusoo.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuusoo.fandom.com</span><span class="citation-popover-title">LEG O Minecraft</span><span class="citation-popover-snippet">With the start of Mojang&#x27;s Minecraft CUUSOO project it took just 48 hours to get 10,000...Read more...</span></span></span>
 
-The speed itself carried information. A typical product concept might take months or years to accumulate support. Minecraft generated a surge so large that reports described server strain and unusually intense participation from fans worldwide. LEGOs own comments at the time highlighted that the company had not expected a project to hit the target so quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuusoo.fandom.com/wiki/LEGO_Minecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuusoo.fandom.com">[cuusoo.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuusoo.fandom.com</span><span class="citation-popover-title">LEG O Minecraft</span><span class="citation-popover-snippet">With the start of Mojang&#x27;s Minecraft CUUSOO project it took just 48 hours to get 10,000...Read more...</span></span></span>
+The speed itself carried information. A typical product concept might take months or years to accumulate support. Minecraft generated a surge so large that reports described server strain and unusually intense participation from fans worldwide. LEGO’s own comments at the time highlighted that the company had not expected a project to hit the target so quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuusoo.fandom.com/wiki/LEGO_Minecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuusoo.fandom.com">[cuusoo.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuusoo.fandom.com</span><span class="citation-popover-title">LEG O Minecraft</span><span class="citation-popover-snippet">With the start of Mojang&#x27;s Minecraft CUUSOO project it took just 48 hours to get 10,000...Read more...</span></span></span>
 
 What CUUSOO revealed was not simply interest in a specific set design. The voting behaviour indicated something broader:
 
 * Minecraft players already understood construction, modularity and creative world-building.
 * The visual language of Minecraft translated naturally into LEGO bricks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2011/11/a-good-idea-lego-minecraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Good Idea: Lego + Minecraft</span><span class="citation-popover-snippet">The Lego Cuusoo Beta is helping bring some great Lego ideas to light, but none more geeky, educational and clever...Read more...</span></span></span>
-* A large community existed outside LEGOs traditional toy-market channels.
-* Fans were motivated enough to organise, share links and actively campaign for a physical product. WIRED <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes In effect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWell That Was Obvious: Minecraft Working on a Lego SetDec 5, 2011  Minecraft&#x27;s Mojang has made a post on LEGO&#x27;s CUUSOO site where...</span></span></span>, the vote measured demand before substantial retail evidence existed.
-
+* A large community existed outside LEGO’s traditional toy-market channels.
+* Fans were motivated enough to organise, share links and actively campaign for a physical product. WIRED <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes In effect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Well That Was Obvious: Minecraft Working on a Lego SetDec 5, 2011 — Minecraft&#x27;s Mojang has made a post on LEGO&#x27;s CUUSOO site where...</span></span></span>, the vote measured demand before substantial retail evidence existed.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nzvmJaHcvZw" title="LEGO Minecraft Micro World 21102 Throwback Speed Build Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nzvmJaHcvZw" target="_blank" rel="noopener noreferrer">LEGO Minecraft Micro World 21102 Throwback Speed Build Review</a></p><p class="youtube-embed-meta">Channel: SquirrelStampede &middot; Views: 124.5K &middot; Uploaded: July 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nzvmJaHcvZw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nzvmJaHcvZw">Open on YouTube</a></p></div></div></div>
 
 ## Why Digital-Game Fandom Mattered to LEGO
 
-The Minecraft community represented a different kind of audience from many traditional toy licences. Minecraft was fundamentally a sandbox construction game built around creating structures from block-like elements. The conceptual overlap with LEGO was obvious to fans, but the commercial significance was less obvious to a large toy manufacturer looking at conventional categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWell That Was Obvious: Minecraft Working on a Lego SetDec 5, 2011  Minecraft&#x27;s Mojang has made a post on LEGO&#x27;s CUUSOO site where...</span></span></span>
+The Minecraft community represented a different kind of audience from many traditional toy licences. Minecraft was fundamentally a sandbox construction game built around creating structures from block-like elements. The conceptual overlap with LEGO was obvious to fans, but the commercial significance was less obvious to a large toy manufacturer looking at conventional categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Well That Was Obvious: Minecraft Working on a Lego SetDec 5, 2011 — Minecraft&#x27;s Mojang has made a post on LEGO&#x27;s CUUSOO site where...</span></span></span>
 
 CUUSOO made that overlap visible. Rather than relying on forecasts, focus groups or retailer requests, LEGO could watch thousands of people demonstrate interest voluntarily. Wired noted at the time that LEGO could see the potential represented by millions of Minecraft users who were deeply committed to the game despite not fitting the profile of traditional LEGO consumers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/11/a-good-idea-lego-minecraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Good Idea: Lego + Minecraft</span><span class="citation-popover-snippet">The Lego Cuusoo Beta is helping bring some great Lego ideas to light, but none more geeky, educational and clever...Read more...</span></span></span>
 
-This mattered because Minecraft signalled a cultural shift. The community was organised online, highly participatory and comfortable moving between digital and physical forms of creativity. Fans were not merely consuming content; they were building, modifying and sharing creations. Those behaviours closely matched the values LEGO wanted to encourage through its products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/12/lego-minecraft-possibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Lego Minecraft: A Real Possibility?</span><span class="citation-popover-snippet">WIREDLego Minecraft: A Real Possibility?December 7, 2011  7 Dec 2011  The Lego Cuuso Minecraft ideas have begun to go viral and obvious...</span><span class="citation-popover-meta">Published: December 7, 2011</span></span></span>
+This mattered because Minecraft signalled a cultural shift. The community was organised online, highly participatory and comfortable moving between digital and physical forms of creativity. Fans were not merely consuming content; they were building, modifying and sharing creations. Those behaviours closely matched the values LEGO wanted to encourage through its products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/12/lego-minecraft-possibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Lego Minecraft: A Real Possibility?</span><span class="citation-popover-snippet">Lego Minecraft: A Real Possibility?December 7, 2011 — 7 Dec 2011 — The Lego Cuuso Minecraft ideas have begun to go viral and obvious...</span><span class="citation-popover-meta">Published: December 7, 2011</span></span></span>
 
 From an antifragility perspective, fan communities reduced uncertainty. Instead of guessing whether a video-game audience might buy construction toys, LEGO received direct evidence that many of those fans actively wanted the combination.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-2-dark.svg" | relative_url }}" alt="Minecraft Signal illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Shows About Acting Before Scale
 
-A key lesson from the Minecraft episode is that [fan signals]({{ 'fan-signals/' | relative_url }}) can be valuable even before a market becomes fully established. When the project reached 10,000 supporters, LEGO still had to review it and decide whether it met company standards. The vote did not guarantee a product. However, it dramatically reduced uncertainty about consumer interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011  It took the project only 48 hours to gather votes fro...</span></span></span> WIRED The company ultimately released LEGO Minecraft Micro World <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/11/a-good-idea-lego-minecraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Good Idea: Lego + Minecraft</span><span class="citation-popover-snippet">The Lego Cuusoo Beta is helping bring some great Lego ideas to light, but none more geeky, educational and clever...Read more...</span></span></span>(21102) in 2012, making Minecraft one of the earliest and most significant successes associated with the CUUSOO programme. The set became the foundation for what would later grow into a major LEGO theme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
+A key lesson from the Minecraft episode is that [fan signals]({{ 'fan-signals/' | relative_url }}) can be valuable even before a market becomes fully established. When the project reached 10,000 supporters, LEGO still had to review it and decide whether it met company standards. The vote did not guarantee a product. However, it dramatically reduced uncertainty about consumer interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011 — It took the project only 48 hours to gather votes fro...</span></span></span> WIRED The company ultimately released LEGO Minecraft Micro World <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2011/11/a-good-idea-lego-minecraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Good Idea: Lego + Minecraft</span><span class="citation-popover-snippet">The Lego Cuusoo Beta is helping bring some great Lego ideas to light, but none more geeky, educational and clever...Read more...</span></span></span>(21102) in 2012, making Minecraft one of the earliest and most significant successes associated with the CUUSOO programme. The set became the foundation for what would later grow into a major LEGO theme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
 
 What makes the case historically important is the contrast between the signal and the eventual outcome:
 
 StageWhat LEGO could observeInitial fan proposalA niche-looking online ideaRapid CUUSOO votingStrong evidence of organised demandProduct releaseValidation that demand translated into purchasesLong-term theme expansionConfirmation that the audience was durable
 
-The sequence illustrates an antifragile capability. Rather than depending entirely on forecasts, LEGO used a community platform to identify an emerging opportunity, test it with limited commitment and learn from real-world fan behaviour. The organisation benefited from information generated outside its formal planning process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Organizational Learning with Crowdsourcing</span><span class="citation-popover-snippet">ResearchGate(PDF) Organizational Learning with CrowdsourcingNovember 1, 2014  29 Nov 2014  We studied the LEGO Cuusoo crowdsourcing pla...</span><span class="citation-popover-meta">Published: November 1, 2014</span></span></span>
-
+The sequence illustrates an antifragile capability. Rather than depending entirely on forecasts, LEGO used a community platform to identify an emerging opportunity, test it with limited commitment and learn from real-world fan behaviour. The organisation benefited from information generated outside its formal planning process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Organizational Learning with Crowdsourcing</span><span class="citation-popover-snippet">ResearchGate(PDF) Organizational Learning with CrowdsourcingNovember 1, 2014 — 29 Nov 2014 — We studied the LEGO Cuusoo crowdsourcing pla...</span><span class="citation-popover-meta">Published: November 1, 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aD3nyMt21FM" title="LEGO Minecraft 21102 Micro World LEGO Cuusoo Review - BrickQueen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aD3nyMt21FM" target="_blank" rel="noopener noreferrer">LEGO Minecraft 21102 Micro World LEGO Cuusoo Review - BrickQueen</a></p><p class="youtube-embed-meta">Channel: BrickQueen &middot; Views: 92.1K &middot; Uploaded: June 2012 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aD3nyMt21FM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aD3nyMt21FM">Open on YouTube</a></p></div></div></div>
 
 ## Why Minecraft Became a Demand Clue Rather Than Just a Successful Set
 
-Many fan-supported projects attract attention, but Minecraft stood out because it revealed a new category of customer. The extraordinary voting response suggested that LEGO was not merely evaluating another licence. It was observing the convergence of digital creativity, online communities and physical building play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011  It took the project only 48 hours to gather votes fro...</span></span></span>
+Many fan-supported projects attract attention, but Minecraft stood out because it revealed a new category of customer. The extraordinary voting response suggested that LEGO was not merely evaluating another licence. It was observing the convergence of digital creativity, online communities and physical building play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011 — It took the project only 48 hours to gather votes fro...</span></span></span>
 
-The episode therefore serves as more than a product-development story. It demonstrates how fan communities can expose opportunities before they become obvious through sales reports or retailer feedback. For LEGO, the Minecraft vote was an early warning system in reverse: not a signal of danger, but a signal that a significant new source of growth was emerging. By paying attention to that signal, LEGO converted uncertainty into learning and learning into a durable product linean antifragile response to changing consumer culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011  It took the project only 48 hours to gather votes fro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Organizational Learning with Crowdsourcing</span><span class="citation-popover-snippet">ResearchGate(PDF) Organizational Learning with CrowdsourcingNovember 1, 2014  29 Nov 2014  We studied the LEGO Cuusoo crowdsourcing pla...</span><span class="citation-popover-meta">Published: November 1, 2014</span></span></span>
-
+The episode therefore serves as more than a product-development story. It demonstrates how fan communities can expose opportunities before they become obvious through sales reports or retailer feedback. For LEGO, the Minecraft vote was an early warning system in reverse: not a signal of danger, but a signal that a significant new source of growth was emerging. By paying attention to that signal, LEGO converted uncertainty into learning and learning into a durable product line—an antifragile response to changing consumer culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011 — It took the project only 48 hours to gather votes fro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Organizational Learning with Crowdsourcing</span><span class="citation-popover-snippet">ResearchGate(PDF) Organizational Learning with CrowdsourcingNovember 1, 2014 — 29 Nov 2014 — We studied the LEGO Cuusoo crowdsourcing pla...</span><span class="citation-popover-meta">Published: November 1, 2014</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-3-dark.svg" | relative_url }}" alt="Minecraft Signal illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -450,15 +444,15 @@ The episode therefore serves as more than a product-development story. It demons
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions"><img src="https://i.ebayimg.com/images/g/~G4AAeSwgrxqI96C/s-l225.jpg" alt="Listing image for LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minecraft® Chicken Farm Set 21585"><img src="https://i.ebayimg.com/images/g/6uQAAeSw65JqIzcC/s-l225.jpg" alt="Listing image for LEGO Minecraft® Chicken Farm Set 21585" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Medieval Blacksmith 21325 Complete Disassembled Set with Instructions</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Minecraft® Chicken Farm Set 21585</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Minecraft set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Minecraft set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -466,15 +460,15 @@ The episode therefore serves as more than a product-development story. It demons
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Snoopys Doghouse Peanuts Set 21368 Collectable Model"><img src="https://i.ebayimg.com/images/g/TQAAAeSwgjxqJs5P/s-l225.jpg" alt="Listing image for LEGO Ideas Snoopys Doghouse Peanuts Set 21368 Collectable Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minecraft the Melon Farm 21138 Set with Minifigs and Instructions"><img src="https://i.ebayimg.com/images/g/InUAAeSwQIJqKHHV/s-l225.jpg" alt="Listing image for LEGO Minecraft the Melon Farm 21138 Set with Minifigs and Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Snoopys Doghouse Peanuts Set 21368 Collectable Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Minecraft the Melon Farm 21138 Set with Minifigs and Instructions</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Minecraft set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Minecraft set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +476,31 @@ The episode therefore serves as more than a product-development story. It demons
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO - LEGO Ideas - The Office - 21336"><img src="https://i.ebayimg.com/images/g/yGQAAeSwTNZqJ~wb/s-l225.jpg" alt="Listing image for LEGO - LEGO Ideas - The Office - 21336" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minecraft Mushroom House 21179-1 Complete Set"><img src="https://i.ebayimg.com/images/g/WkoAAeSwhvJqKxZQ/s-l225.jpg" alt="Listing image for LEGO Minecraft Mushroom House 21179-1 Complete Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO - LEGO Ideas - The Office - 21336</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Minecraft Mushroom House 21179-1 Complete Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Minecraft set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Minecraft set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minecraft The Creeper Ambush 21177 Building Toy Set"><img src="https://i.ebayimg.com/images/g/PWgAAeSw9XZqKn18/s-l225.jpg" alt="Listing image for LEGO Minecraft The Creeper Ambush 21177 Building Toy Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Minecraft The Creeper Ambush 21177 Building Toy Set</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Minecraft set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Minecraft set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,7 +508,7 @@ The episode therefore serves as more than a product-development story. It demons
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Minecraft+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-minecraft-became-a-demand-clue-lego-minecraft-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Minecraft set" data-ebay-reference="why-lego-minecraft-became-a-demand-clue-lego-minecraft-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -708,91 +718,92 @@ The episode therefore serves as more than a product-development story. It demons
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: brothers-brick.com  
-   Link: [https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/](https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011  It took the project only 48 hours to gather votes fro...</p></details>
+   Link: <a href="https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2011/12/07/lego-minecraft-project-reaches-10000-votes-on-cuusoo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickLego Minecraft Project Reaches 10000 Votes on Cuusoo07 Dec 2011 — It took the project only 48 hours to gather votes fro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cuusoo.fandom.com  
    Title: LEG O Minecraft  
-   Link: [https://cuusoo.fandom.com/wiki/LEGO_Minecraft](https://cuusoo.fandom.com/wiki/LEGO_Minecraft)  
+   Link: <a href="https://cuusoo.fandom.com/wiki/LEGO_Minecraft" target="_blank" rel="noopener noreferrer nofollow">https://cuusoo.fandom.com/wiki/LEGO_Minecraft</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With the start of Mojang&#x27;s Minecraft CUUSOO project it took just 48 hours to get 10,000...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: A Good Idea: Lego + Minecraft  
-   Link: [https://www.wired.com/2011/11/a-good-idea-lego-minecraft/](https://www.wired.com/2011/11/a-good-idea-lego-minecraft/)  
+   Link: <a href="https://www.wired.com/2011/11/a-good-idea-lego-minecraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/11/a-good-idea-lego-minecraft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego Cuusoo Beta is helping bring some great Lego ideas to light, but none more geeky, educational and clever...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/](https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesWell That Was Obvious: Minecraft Working on a Lego SetDec 5, 2011  Minecraft&#x27;s Mojang has made a post on LEGO&#x27;s CUUSOO site where...</p></details>
+   Link: <a href="https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/insertcoin/2011/12/05/well-that-was-obvious-minecraft-working-on-a-lego-set/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Well That Was Obvious: Minecraft Working on a Lego SetDec 5, 2011 — Minecraft&#x27;s Mojang has made a post on LEGO&#x27;s CUUSOO site where...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6088383.pdf](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6088383.pdf)  
+   Link: <a href="https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6088383.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6088383.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfMinecraft is a sandbox construction game, inspired by Infiniminer, Dwarf For- tress and Dungeon Keeper, created by. Markus Persson, th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: Lego Minecraft: A Real Possibility?  
-   Link: [https://www.wired.com/2011/12/lego-minecraft-possibility/](https://www.wired.com/2011/12/lego-minecraft-possibility/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDLego Minecraft: A Real Possibility?December 7, 2011  7 Dec 2011  The Lego Cuuso Minecraft ideas have begun to go viral and obvious...</p></details>
+   Link: <a href="https://www.wired.com/2011/12/lego-minecraft-possibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/12/lego-minecraft-possibility/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Minecraft: A Real Possibility?December 7, 2011 — 7 Dec 2011 — The Lego Cuuso Minecraft ideas have begun to go viral and obvious...</p></details>
    Published: December 7, 2011  
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
    Title: see your project become a lego kit  
-   Link: [https://www.wired.com/2011/12/see-your-project-become-a-lego-kit/](https://www.wired.com/2011/12/see-your-project-become-a-lego-kit/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Dec 2011  Builders share their ideas online and other Cuusoo users vote on it. When a project achieves 10,000 supporters, the folks a...</p></details>
+   Link: <a href="https://www.wired.com/2011/12/see-your-project-become-a-lego-kit/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/12/see-your-project-become-a-lego-kit/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Dec 2011 — Builders share their ideas online and other Cuusoo users vote on it. When a project achieves 10,000 supporters, the folks a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/history/articles/j-lego-ideas](https://www.lego.com/en-us/history/articles/j-lego-ideas)  
+   Link: <a href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/j-lego-ideas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an idea receives at least one thousand supporters, it will be...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Lego Ideas  
-   Link: [https://en.wikipedia.org/wiki/Lego_Ideas](https://en.wikipedia.org/wiki/Lego_Ideas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Ideas</a>  
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
    Title: Micro World  
-   Link: [https://www.lego.com/en-gb/service/buildinginstructions/21102](https://www.lego.com/en-gb/service/buildinginstructions/21102)  
+   Link: <a href="https://www.lego.com/en-gb/service/buildinginstructions/21102" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/service/buildinginstructions/21102</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The ForestMicro World - The Forest. 10+ | #21102 | 480 pieces. Year: 2012. Select the instructions you want. Micro World - The Forest (2/...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Organizational Learning with Crowdsourcing  
-   Link: [https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO](https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Organizational Learning with CrowdsourcingNovember 1, 2014  29 Nov 2014  We studied the LEGO Cuusoo crowdsourcing pla...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268819643_Organizational_Learning_with_Crowdsourcing_The_Revelatory_Case_of_LEGO</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Organizational Learning with CrowdsourcingNovember 1, 2014 — 29 Nov 2014 — We studied the LEGO Cuusoo crowdsourcing pla...</p></details>
    Published: November 1, 2014  
 
 12. <a id="endnote-12"></a>
    Source: brickipedia.fandom.com  
    Title: LEGO Ideas  
-   Link: [https://brickipedia.fandom.com/wiki/LEGO_Ideas](https://brickipedia.fandom.com/wiki/LEGO_Ideas)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/LEGO_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Ideas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas | Brickipedia - FandomCUUSOO and LEGO began working together in 2008 and the scheme was launched worldwide on April 23, 2011. Origi...</p></details>
    Published: April 23, 2011  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=20PjmjNWXnk](https://www.youtube.com/watch?v=20PjmjNWXnk)  
+   Link: <a href="https://www.youtube.com/watch?v=20PjmjNWXnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20PjmjNWXnk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Cuusoo Minecraft Micro World set 21102 ReviewMinecraft is explained to me. Lego Cuusoo set 21102 Mincraft Micro World and how it rel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aD3nyMt21FM](https://www.youtube.com/watch?v=aD3nyMt21FM)  
+   Link: <a href="https://www.youtube.com/watch?v=aD3nyMt21FM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aD3nyMt21FM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Minecraft 21102 Micro World LEGO Cuusoo Review...LEGO Minecraft 21102 Micro World LEGO Cuusoo Review - BrickQueen 92K views 13 year...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nzvmJaHcvZw](https://www.youtube.com/watch?v=nzvmJaHcvZw)  
+   Link: <a href="https://www.youtube.com/watch?v=nzvmJaHcvZw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nzvmJaHcvZw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Minecraft Micro World 21102 Throwback Speed Build...LEGO Minecraft Micro World 21102 Throwback Speed Build Review! Dan at Squirrel...</p></details>
 
 ### Additional References
@@ -800,57 +811,57 @@ The episode therefore serves as more than a product-development story. It demons
 16. <a id="endnote-16"></a>
    Source: d3.harvard.edu  
    Title: lego ideas a leading crowdsourcing platform in the toy industry  
-   Link: [https://d3.harvard.edu/platform-digit/submission/lego-ideas-a-leading-crowdsourcing-platform-in-the-toy-industry/](https://d3.harvard.edu/platform-digit/submission/lego-ideas-a-leading-crowdsourcing-platform-in-the-toy-industry/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteLego Ideas: a leading crowdsourcing platform in the Toy...1 Nov 2015  Lego Ideas is a crowdsourcing...</p></details>
+   Link: <a href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-a-leading-crowdsourcing-platform-in-the-toy-industry/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-digit/submission/lego-ideas-a-leading-crowdsourcing-platform-in-the-toy-industry/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteLego Ideas: a leading crowdsourcing platform in the Toy...1 Nov 2015 — Lego Ideas is a crowdsourcing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: crowdsourcingweek.com  
-   Link: [https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/](https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/)  
+   Link: <a href="https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow">https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas is among top crowdsourcing examples of co-...Most LEGO Ideas projects take months, if not years, to achieve 10,000 supporters...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
    Title: co creation strategy ideas lego com case study 676a61ad54c  
-   Link: [https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c](https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-creation strategy  Ideas.Lego.com Case StudyIn 2008, LEGO partnered with CUUSOO Systems and launched a co-creation platform as Lego C...</p></details>
+   Link: <a href="https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-creation strategy — Ideas.Lego.com Case StudyIn 2008, LEGO partnered with CUUSOO Systems and launched a co-creation platform as Lego C...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: what are your guyss thoughts on this set i  
-   Link: [https://www.reddit.com/r/lego/comments/1ffnj44/what_are_your_guyss_thoughts_on_this_set_i/](https://www.reddit.com/r/lego/comments/1ffnj44/what_are_your_guyss_thoughts_on_this_set_i/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/1ffnj44/what_are_your_guyss_thoughts_on_this_set_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ffnj44/what_are_your_guyss_thoughts_on_this_set_i/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are your guys&#x27;s thoughts on this set? I noticed...It&#x27;s in the spirit of the original Lego Cuusoo Minecraft sets (like 21102-1). In...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/lego-cuusoo-project/28756317](https://www.slideshare.net/slideshow/lego-cuusoo-project/28756317)  
+   Link: <a href="https://www.slideshare.net/slideshow/lego-cuusoo-project/28756317" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/lego-cuusoo-project/28756317</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>roducts. If an idea receives 10,000 votes...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: amazon.co.uk  
    Title: Available; Payment. Secure transaction; Warning.Read more  
-   Link: [https://www.amazon.co.uk/Cuusoo-Minecraft-21102-Sealed-Exclusive-LEGO/dp/B00TS34V3W](https://www.amazon.co.uk/Cuusoo-Minecraft-21102-Sealed-Exclusive-LEGO/dp/B00TS34V3W)  
+   Link: <a href="https://www.amazon.co.uk/Cuusoo-Minecraft-21102-Sealed-Exclusive-LEGO/dp/B00TS34V3W" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Cuusoo-Minecraft-21102-Sealed-Exclusive-LEGO/dp/B00TS34V3W</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego New Cuusoo Minecraft Micro World 21102 Sealed...Lego New Cuusoo Minecraft Micro World 21102 Sealed NIB Nisb Rare Exclusive Mobs by...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: rebrickable.com  
    Title: review 21178 1 the fox lodge  
-   Link: [https://rebrickable.com/blog/487/review-21178-1-the-fox-lodge/](https://rebrickable.com/blog/487/review-21178-1-the-fox-lodge/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review: 21178-1 - The Fox Lodge16 May 2022  From getting uploaded on December 5th 2011 it took just 2 days to get 10,000 supporters. On...</p></details>
+   Link: <a href="https://rebrickable.com/blog/487/review-21178-1-the-fox-lodge/" target="_blank" rel="noopener noreferrer nofollow">https://rebrickable.com/blog/487/review-21178-1-the-fox-lodge/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review: 21178-1 - The Fox Lodge16 May 2022 — From getting uploaded on December 5th 2011 it took just 2 days to get 10,000 supporters. On...</p></details>
    Published: May 2022  
 
 23. <a id="endnote-23"></a>
    Source: twomorrows.com  
    Title: Brick Journal19Preview  
-   Link: [https://www.twomorrows.com/media/BrickJournal19Preview.pdf](https://www.twomorrows.com/media/BrickJournal19Preview.pdf)  
+   Link: <a href="https://www.twomorrows.com/media/BrickJournal19Preview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.twomorrows.com/media/BrickJournal19Preview.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Event Roundup 2011With the expansion of LEGO CUUSOO to international size, the number of supporters needed for consideration by the LEGO...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bricks.stackexchange.com  
    Title: what is lego cuusoo  
-   Link: [https://bricks.stackexchange.com/questions/1090/what-is-lego-cuusoo](https://bricks.stackexchange.com/questions/1090/what-is-lego-cuusoo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is LEGO Cuusoo?05 Feb 2012  When the site moved into the global beta the threshold was raised to 10,000 votes. The Minecraft project too...</p></details>
+   Link: <a href="https://bricks.stackexchange.com/questions/1090/what-is-lego-cuusoo" target="_blank" rel="noopener noreferrer nofollow">https://bricks.stackexchange.com/questions/1090/what-is-lego-cuusoo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>is LEGO Cuusoo?05 Feb 2012 — When the site moved into the global beta the threshold was raised to 10,000 votes. The Minecraft project too...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: schedule.sxsw.com  
-   Link: [https://schedule.sxsw.com/2013/?category=solo+%2F+dual+%2F+panel&day=ALL&event_type=sessions&lsort=theme](https://schedule.sxsw.com/2013/?category=solo+%2F+dual+%2F+panel&day=ALL&event_type=sessions&lsort=theme)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| sxsw.comIn 2011, LEGO opened its factory doors with LEGO CUUSOO, allowing fans to propose design... To find success with your fans an...</p></details>
+   Link: <a href="https://schedule.sxsw.com/2013/?category=solo+%2F+dual+%2F+panel&amp;day=ALL&amp;event_type=sessions&amp;lsort=theme" target="_blank" rel="noopener noreferrer nofollow">https://schedule.sxsw.com/2013/?category=solo+%2F+dual+%2F+panel&amp;day=ALL&amp;event_type=sessions&amp;lsort=theme</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2011, LEGO opened its factory doors with LEGO CUUSOO, allowing fans to propose design…... To find success with your fans an...</p></details>

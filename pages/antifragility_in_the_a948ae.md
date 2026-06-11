@@ -280,7 +280,7 @@ child_links:
   permalink: /sustainability/
   short_title: Sustainability
   heading_title: Where LEGO's Antifragility Hits Hard Limits
-date: '2026-06-09 03:31:50 '
+date: '2026-06-11 21:38:55 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae-overview.webp
@@ -289,11 +289,10 @@ image: /assets/images/antifragility_in_the_a948ae-overview-social.jpg
 
 ## Why LEGO’s crisis became a learning engine
 
-LEGO’s near-collapse in the early 2000s is often described as a classic turnaround, but in antifragility terms the key point is not simply that the company recovered. It is that the shock revealed which parts of the business were fragile. LEGO had expanded into too many adjacent activities, added [complexity]({{ 'complexity/' | relative_url }}) to its product system, and pursued innovation that was not always anchored in what customers valued most: the brick, the building experience and imaginative recombination. Harvard Business Review’s account of the turnaround notes that several innovation efforts, including theme parks, Clikits and Galidor, were unprofitable or failed outright before LEGO redesigned how it [governed innovation]({{ 'governed-bets/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">innovating a turnaround at lego</span></span></span>
-
+LEGO’s near-collapse in the early 2000s is often described as a classic turnaround, but in antifragility terms the key point is not simply that the company recovered. It is that the shock revealed which parts of the business were fragile. LEGO had expanded into too many adjacent activities, added [complexity]({{ 'complexity/' | relative_url }}) to its product system, and pursued innovation that was not always anchored in what customers valued most: the brick, the building experience and imaginative recombination. Harvard Business Review’s account of the turnaround notes that several innovation efforts, including theme parks, Clikits and Galidor, were unprofitable or failed outright before LEGO redesigned how it governed innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">innovating a turnaround at lego</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae-overview.webp" | relative_url }}" alt="Overview image for antifragility in the context of the Lego company" loading="eager" decoding="sync" fetchpriority="high">
-The company’s own 2004 annual report shows the severity of the reset. LEGO reported a 2004 profit before special items, financial income, expenses and tax of DKK 103 million, compared with a DKK 1,061 million loss in 2003, helped by reducing activities and cutting costs by DKK 1,523 million, or 20 per cent. The same report also described a difficult toy market shaped by fads, shortened product life cycles and heavy [seasonality]({{ 'seasonality/' | relative_url }}), with as much as half of toy sales occurring in the final three months of the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupRevenue and profit. The LEGO Group&#x27;s profit/loss before special items, financial income and expenses and...</span></span></span>
+The company’s own 2004 annual report shows the severity of the reset. LEGO reported a 2004 profit before special items, financial income, expenses and tax of DKK 103 million, compared with a DKK 1,061 million loss in 2003, helped by reducing activities and cutting costs by DKK 1,523 million, or 20 per cent. The same report also described a difficult toy market shaped by fads, shortened product life cycles and heavy [seasonality]({{ 'seasonality/' | relative_url }}), with as much as half of toy sales occurring in the final three months of the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupRevenue and profit. The LEGO Group&#x27;s profit/loss before special items, financial income and expenses and...</span></span></span>
 
 That matters because antifragility depends on feedback. Before the crisis, LEGO’s weaknesses were partly hidden by brand strength and past success. The crisis made the damage visible. The company then used the pressure to remove non-core complexity, sell or reduce distracting activities, and rebuild around a clearer question: what kinds of innovation make the LEGO system stronger rather than merely bigger?
 
@@ -301,10 +300,9 @@ That matters because antifragility depends on feedback. Before the crisis, LEGO�
 
 A common misunderstanding is that antifragility means constant expansion and experimentation in every direction. LEGO’s story suggests the opposite. After the crisis, the company became stronger by accepting a productive constraint: the [brick system]({{ 'brick-system/' | relative_url }}) had to remain the centre of gravity. That constraint did not stop innovation; it gave innovation a test.
 
-The logic is simple. A LEGO set can be a licensed model, a robotics kit, a botanical display piece, a city scene, a game tie-in or a fan-designed concept, but it still participates in the same underlying system of studs, clutch power, instructions, parts, rebuilding and compatibility. The more successful products that enter that system, the more valuable the system becomes. A failed product can be discontinued, but the learning, parts knowledge, design discipline and fan response can still feed the next experiment.
+The logic is simple. A LEGO set can be a licensed model, a robotics kit, a botanical display piece, a city scene, a game tie-in or a fan-designed concept, but it still participates in the same underlying system of studs, clutch power, instructions, parts, rebuilding and [compatibility]({{ 'compatibility/' | relative_url }}). The more successful products that enter that system, the more valuable the system becomes. A failed product can be discontinued, but the learning, parts knowledge, design discipline and fan response can still feed the next experiment.
 
 This is where LEGO differs from a fragile innovator. A fragile company may treat each new trend as a reason to abandon its core. LEGO’s stronger post-crisis pattern has been to absorb trends into the brick system: film franchises become sets, adult hobbies become display models, games become physical-digital play experiences, and fan creations become candidates for production. Harvard Business School’s work on LEGO’s crisis frames the successful turnaround around learning why one rescue attempt failed while a later one succeeded, including the need to innovate while staying true to the core product and mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-rctom/submission/letting-go-at-lego-how-open-innovation-reinforces-product-creativity-and-design/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">letting go at lego how open innovation reinforces product creativity and design</span><span class="citation-popover-snippet">letting go at lego how open innovation reinforces product creativity and design</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-1-dark.svg" | relative_url }}" alt="antifragility in the context of the Lego company illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fan communities increased LEGO’s optionality
@@ -321,10 +319,9 @@ The risk is that fan communities can also create tension: not every popular fan 
 
 LEGO’s pre-crisis experimentation was not a failure because it was creative. It failed because creativity was insufficiently disciplined. Antifragility requires many experiments, but it also requires a way to keep losses survivable and channel learning back into the system.
 
-Harvard Business Review’s turnaround account points to LEGO’s creation of a more structured approach to innovation, including a cross-functional [Executive Innovation]({{ 'innovation-board/' | relative_url }}) Governance Group. The lesson was not “innovate less”, but “innovate with clearer categories, better coordination and stronger links to the business model”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">Innovating a Turnaround at LEGOby D Robertson · Cited by 31 — Clikits craft sets (marketed to girls), an action figure called Galidor sup...</span></span></span>
+Harvard Business Review’s turnaround account points to LEGO’s creation of a more structured approach to innovation, including a cross-functional Executive Innovation Governance Group. The lesson was not “innovate less”, but “innovate with clearer categories, better coordination and stronger links to the business model”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">Innovating a Turnaround at LEGOby D Robertson · Cited by 31 — Clikits craft sets (marketed to girls), an action figure called Galidor sup...</span></span></span>
 
-That distinction is central. Random experimentation can make a firm fragile if each bet adds complexity, inventory, marketing cost and organisational distraction. Governed experimentation can make a firm more antifragile if failed bets are contained and successful ones strengthen the core. LEGO’s post-crisis model increasingly looks like the second pattern:
-
+That distinction is central. Random experimentation can make a firm fragile if each bet adds complexity, inventory, marketing cost and organisational distraction. Governed experimentation can make a firm more antifragile if [failed bets]({{ 'failed-bets/' | relative_url }}) are contained and successful ones strengthen the core. LEGO’s post-crisis model increasingly looks like the second pattern:
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -336,7 +333,6 @@ That distinction is central. Random experimentation can make a firm fragile if e
 </div>
 
 The result is not a company that avoids mistakes. It is a company better designed to learn from mistakes without letting each one threaten the whole enterprise.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BaU7Sxk6Yk4" title="Antifragile: Things that Gain from Disorder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BaU7Sxk6Yk4" target="_blank" rel="noopener noreferrer">Antifragile: Things that Gain from Disorder</a></p><p class="youtube-embed-meta">Channel: Microsoft Research &middot; Views: 136.6K &middot; Uploaded: September 2016 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BaU7Sxk6Yk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BaU7Sxk6Yk4">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +354,6 @@ This could be read as a setback, but it is also an antifragile test of strategy.
 
 By 2024, LEGO said half of the materials it purchased were produced with sustainable sources through mass-balance purchases, and its financial highlights showed continued high profitability alongside increased strategic spending. That is a form of organisational optionality: rather than betting everything on one replacement material, LEGO is spreading effort across procurement, material science, packaging, energy and factory design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group FY 2024 Financial Highlights</span><span class="citation-popover-snippet">The LEGO Group FY 2024 Financial Highlights</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-2-dark.svg" | relative_url }}" alt="antifragility in the context of the Lego company illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Supply chains built to bend, not snap
 
@@ -367,7 +362,6 @@ LEGO’s product looks simple, but the operating model behind it is demanding. B
 The company’s current supply-chain strategy appears designed around regional flexibility. Reuters reported in 2025 that LEGO opened a $1 billion factory in Vietnam to bring production closer to key Asia-Pacific markets, control costs and reduce supply-chain disruption. The same report said LEGO had six factories globally, in Denmark, Hungary, the Czech Republic, Mexico, China and Vietnam, with a seventh under construction in Virginia in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Toymaker Lego opens Vietnam factory, taking production closer to key markets</span><span class="citation-popover-snippet">Toymaker Lego opens Vietnam factory, taking production closer to key markets</span></span></span>
 
 This is not pure antifragility in the strictest sense; extra factories and regional distribution capacity cost money and can reduce short-term efficiency. But they reduce dependence on any single geography and give LEGO more options when tariffs, transport disruption, demand spikes or regional shocks occur. A lean but brittle supply chain may look efficient in calm conditions. A more distributed supply chain can look expensive until volatility arrives.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-3-dark.svg" | relative_url }}" alt="antifragility in the context of the Lego company illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The antifragile pattern in LEGO’s business model
@@ -384,7 +378,6 @@ LEGO’s strongest antifragile features are not mystical. They are practical bus
 
 **The operating model now treats shocks as design inputs.** Sustainability setbacks, digital disruption, consumer shifts and supply-chain risk are not simply external threats. They are pressures that shape [investment]({{ 'investment/' | relative_url }}) in materials, factories, digital play, retail and community.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GMJCKI9ibrA" title="LEGO&#x27;s Great Business Model Turnaround Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Great Business Model Turnaround Story</a></p><p class="youtube-embed-meta">Channel: Strategyzer &middot; Views: 83.2K &middot; Uploaded: April 2015 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GMJCKI9ibrA">Open on YouTube</a></p></div></div></div>
 
 ## What other companies can learn from LEGO
@@ -395,9 +388,7 @@ A company becomes more antifragile when it can make many small or medium experim
 
 The case also warns against romanticising antifragility. LEGO’s crisis was painful, not automatically beneficial. The company benefited because leaders acted on the lessons: cutting complexity, restoring financial discipline, re-centring the brick, opening parts of innovation to users, and investing through later uncertainty. Stress alone does not create antifragility. Stress plus feedback, discipline, optionality and a strong core can.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CR1LppcGgYI" title="Inside the AFOL (Adult Fan of LEGO) Community | History of LEGO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CR1LppcGgYI" target="_blank" rel="noopener noreferrer">Inside the AFOL (Adult Fan of LEGO) Community | History of LEGO</a></p><p class="youtube-embed-meta">Channel: Nerd Nite &middot; Views: 1.9K &middot; Uploaded: October 2020 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CR1LppcGgYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CR1LppcGgYI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -553,6 +544,22 @@ The case also warns against romanticising antifragility. LEGO’s crisis was pai
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-lego-become-stronger-after-crisis-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-did-lego-become-stronger-after-crisis-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-lego-become-stronger-after-crisis-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-did-lego-become-stronger-after-crisis-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-lego-become-stronger-after-crisis-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-did-lego-become-stronger-after-crisis-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-lego-become-stronger-after-crisis-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-did-lego-become-stronger-after-crisis-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008"><img src="https://i.ebayimg.com/images/g/hcAAAeSwRndoboJ2/s-l225.jpg" alt="Listing image for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-lego-become-stronger-after-crisis-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-did-lego-become-stronger-after-crisis-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-lego-become-stronger-after-crisis-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-did-lego-become-stronger-after-crisis-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
         <div class="fr-book-actions">
@@ -774,230 +781,231 @@ The case also warns against romanticising antifragility. LEGO’s crisis was pai
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AmazonAntifragile: Things That Gain from Disorder (Incerto)The antifragile is beyond the resilient or robust. The resilient resists shock...</p></details>
+   Link: <a href="https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antifragile: Things That Gain from Disorder (Incerto)The antifragile is beyond the resilient or robust. The resilient resists shock...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2004 LEGO GroupRevenue and profit. The LEGO Group&#x27;s profit/loss before special items, financial income and expenses and...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupRevenue and profit. The LEGO Group&#x27;s profit/loss before special items, financial income and expenses and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: designblog.uniandes.edu.co  
-   Link: [https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf](https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf)  
+   Link: <a href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Innovating a Turnaround at LEGOby D Robertson · Cited by 31 — Clikits craft sets (marketed to girls), an action figure called Galidor sup...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
    Title: Lego Ideas unleashes user-designed playsets  
-   Link: [https://www.wired.com/story/lego-cuusoo-rebuilds-as-lego-ideas](https://www.wired.com/story/lego-cuusoo-rebuilds-as-lego-ideas)  
+   Link: <a href="https://www.wired.com/story/lego-cuusoo-rebuilds-as-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-cuusoo-rebuilds-as-lego-ideas</a>  
 
 5. <a id="endnote-5"></a>
    Source: ink.library.smu.edu.sg  
-   Link: [https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&context=etd_coll](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&context=etd_coll)  
+   Link: <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll</a>  
 
 6. <a id="endnote-6"></a>
    Source: d3.harvard.edu  
    Title: letting go at lego how open innovation reinforces product creativity and design  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/letting-go-at-lego-how-open-innovation-reinforces-product-creativity-and-design/](https://d3.harvard.edu/platform-rctom/submission/letting-go-at-lego-how-open-innovation-reinforces-product-creativity-and-design/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/letting-go-at-lego-how-open-innovation-reinforces-product-creativity-and-design/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/letting-go-at-lego-how-open-innovation-reinforces-product-creativity-and-design/</a>  
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
    Title: lego delivered topline growth and outpaced market in 2023  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023](https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
 
 9. <a id="endnote-9"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Financial Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: lego abandons effort make oil free bricks ft 2023 09 24  
-   Link: [https://www.reuters.com/sustainability/lego-abandons-effort-make-oil-free-bricks-ft-2023-09-24/](https://www.reuters.com/sustainability/lego-abandons-effort-make-oil-free-bricks-ft-2023-09-24/)  
+   Link: <a href="https://www.reuters.com/sustainability/lego-abandons-effort-make-oil-free-bricks-ft-2023-09-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/lego-abandons-effort-make-oil-free-bricks-ft-2023-09-24/</a>  
 
 11. <a id="endnote-11"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: Toymaker Lego opens Vietnam factory, taking production closer to key markets  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/](https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/</a>  
 
 13. <a id="endnote-13"></a>
    Source: d3.harvard.edu  
    Title: bricks code open innovation at lego group  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/bricks-code-open-innovation-at-lego-group/](https://d3.harvard.edu/platform-rctom/submission/bricks-code-open-innovation-at-lego-group/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/bricks-code-open-innovation-at-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/bricks-code-open-innovation-at-lego-group/</a>  
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: Using LEGO® Serious Play® in UX Research  
-   Link: [https://medium.com/%40ksoucy/using-lego-serious-play-in-ux-research-287296d86204](https://medium.com/%40ksoucy/using-lego-serious-play-in-ux-research-287296d86204)  
+   Link: <a href="https://medium.com/%40ksoucy/using-lego-serious-play-in-ux-research-287296d86204" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ksoucy/using-lego-serious-play-in-ux-research-287296d86204</a>  
 
 15. <a id="endnote-15"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
 17. <a id="endnote-17"></a>
    Source: lego.com  
    Title: The LEGO Group  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt7f153c705df8d024/Annual_Report_2015_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt7f153c705df8d024/Annual_Report_2015_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7f153c705df8d024/Annual_Report_2015_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7f153c705df8d024/Annual_Report_2015_ENG.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: lego.com  
    Title: The LEGO Group delivers double digit growth in H1 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024](https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024</a>  
 
 19. <a id="endnote-19"></a>
    Source: lego.com  
    Title: The LEGO Group 2025 Annual Report  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb](https://www.lego.com/en-gb)  
+   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
 
 21. <a id="endnote-21"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/aboutus](https://www.lego.com/en-gb/aboutus)  
+   Link: <a href="https://www.lego.com/en-gb/aboutus" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/aboutus</a>  
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4](https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4)  
+   Link: <a href="https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4</a>  
 
 23. <a id="endnote-23"></a>
    Source: binodpanda66.medium.com  
    Title: crowdsourced creativity lego ideas case 703701e27b49  
-   Link: [https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49](https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49)  
+   Link: <a href="https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49" target="_blank" rel="noopener noreferrer nofollow">https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49</a>  
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Gbgrow/antifragility-dca48c71ba6b](https://medium.com/%40Gbgrow/antifragility-dca48c71ba6b)  
+   Link: <a href="https://medium.com/%40Gbgrow/antifragility-dca48c71ba6b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Gbgrow/antifragility-dca48c71ba6b</a>  
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40amirghobadi/book-summary-antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb-799e06076ff2](https://medium.com/%40amirghobadi/book-summary-antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb-799e06076ff2)  
+   Link: <a href="https://medium.com/%40amirghobadi/book-summary-antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb-799e06076ff2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40amirghobadi/book-summary-antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb-799e06076ff2</a>  
 
 26. <a id="endnote-26"></a>
    Source: community.inc  
-   Link: [https://community.inc/deep-dives/community-growth-lego](https://community.inc/deep-dives/community-growth-lego)  
+   Link: <a href="https://community.inc/deep-dives/community-growth-lego" target="_blank" rel="noopener noreferrer nofollow">https://community.inc/deep-dives/community-growth-lego</a>  
 
 27. <a id="endnote-27"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/](https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
 
 28. <a id="endnote-28"></a>
    Source: d3.harvard.edu  
    Title: lego from bricks to clicks what you missed since you last played  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/lego-from-bricks-to-clicks-what-you-missed-since-you-last-played/](https://d3.harvard.edu/platform-rctom/submission/lego-from-bricks-to-clicks-what-you-missed-since-you-last-played/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/lego-from-bricks-to-clicks-what-you-missed-since-you-last-played/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/lego-from-bricks-to-clicks-what-you-missed-since-you-last-played/</a>  
 
 29. <a id="endnote-29"></a>
    Source: hbr.org  
    Title: innovating a turnaround at lego  
-   Link: [https://hbr.org/2009/09/innovating-a-turnaround-at-lego](https://hbr.org/2009/09/innovating-a-turnaround-at-lego)  
+   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
 30. <a id="endnote-30"></a>
    Source: library.hbs.edu  
    Title: Harvard Business School Library HBS Cases: LEGO | Working Knowledge  
-   Link: [https://www.library.hbs.edu/working-knowledge/hbs-cases-lego](https://www.library.hbs.edu/working-knowledge/hbs-cases-lego)  
+   Link: <a href="https://www.library.hbs.edu/working-knowledge/hbs-cases-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.library.hbs.edu/working-knowledge/hbs-cases-lego</a>  
 
 31. <a id="endnote-31"></a>
    Source: hbr.org  
    Title: innovation under constraint constructing a turnaround at lego  
-   Link: [https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego](https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego)  
+   Link: <a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
 
 32. <a id="endnote-32"></a>
    Source: hbr.org  
    Title: turn your customers into your community  
-   Link: [https://hbr.org/2020/01/turn-your-customers-into-your-community](https://hbr.org/2020/01/turn-your-customers-into-your-community)  
+   Link: <a href="https://hbr.org/2020/01/turn-your-customers-into-your-community" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2020/01/turn-your-customers-into-your-community</a>  
 
 33. <a id="endnote-33"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6](https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6)  
+   Link: <a href="https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6</a>  
 
 34. <a id="endnote-34"></a>
    Source: learnbiomimicry.com  
-   Link: [https://www.learnbiomimicry.com/blog/antifragile?srsltid=AfmBOorpBhRnsTL4jFKw-bJoWPQC2bgsKxf8KrFGnO8umq5GVJ5mFf_d](https://www.learnbiomimicry.com/blog/antifragile?srsltid=AfmBOorpBhRnsTL4jFKw-bJoWPQC2bgsKxf8KrFGnO8umq5GVJ5mFf_d)  
+   Link: <a href="https://www.learnbiomimicry.com/blog/antifragile?srsltid=AfmBOorpBhRnsTL4jFKw-bJoWPQC2bgsKxf8KrFGnO8umq5GVJ5mFf_d" target="_blank" rel="noopener noreferrer nofollow">https://www.learnbiomimicry.com/blog/antifragile?srsltid=AfmBOorpBhRnsTL4jFKw-bJoWPQC2bgsKxf8KrFGnO8umq5GVJ5mFf_d</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/1rpu8ih/the_lego_group_reports_record_results_growth_in/](https://www.reddit.com/r/lego/comments/1rpu8ih/the_lego_group_reports_record_results_growth_in/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/1rpu8ih/the_lego_group_reports_record_results_growth_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1rpu8ih/the_lego_group_reports_record_results_growth_in/</a>  
 
 37. <a id="endnote-37"></a>
    Source: nateliason.com  
-   Link: [https://www.nateliason.com/notes/antifragile](https://www.nateliason.com/notes/antifragile)  
+   Link: <a href="https://www.nateliason.com/notes/antifragile" target="_blank" rel="noopener noreferrer nofollow">https://www.nateliason.com/notes/antifragile</a>  
 
 38. <a id="endnote-38"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Antifragile.html?id=5fqbz_qGi0AC](https://books.google.com/books/about/Antifragile.html?id=5fqbz_qGi0AC)  
+   Link: <a href="https://books.google.com/books/about/Antifragile.html?id=5fqbz_qGi0AC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Antifragile.html?id=5fqbz_qGi0AC</a>  
 
 39. <a id="endnote-39"></a>
    Source: amazon.co.uk  
    Title: LEGOLEGO Creator 3 in 1 Iconic Pirate Ship Toy  
-   Link: [https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D](https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D)  
+   Link: <a href="https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: How LEGO Made a Comeback from the Brink of Bankruptcy  
-   Link: [https://www.youtube.com/watch?v=Nd_c2J49280](https://www.youtube.com/watch?v=Nd_c2J49280)  
+   Link: <a href="https://www.youtube.com/watch?v=Nd_c2J49280" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nd_c2J49280</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Turnaround: How They Saved the Company...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/347785577_Co-Creative_Learning_in_Innovation_Laboratories_Using_Lego_Serious_Play_Workshops](https://www.researchgate.net/publication/347785577_Co-Creative_Learning_in_Innovation_Laboratories_Using_Lego_Serious_Play_Workshops)  
+   Link: <a href="https://www.researchgate.net/publication/347785577_Co-Creative_Learning_in_Innovation_Laboratories_Using_Lego_Serious_Play_Workshops" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347785577_Co-Creative_Learning_in_Innovation_Laboratories_Using_Lego_Serious_Play_Workshops</a>  
 
 42. <a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case](https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case)  
+   Link: <a href="https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357075652_Digital_Transformation_Strategy_The_LEGO_Case</a>  
 
 43. <a id="endnote-43"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/antifragile-a-definition/](https://fs.blog/antifragile-a-definition/)  
+   Link: <a href="https://fs.blog/antifragile-a-definition/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/antifragile-a-definition/</a>  
 
 44. <a id="endnote-44"></a>
    Source: toybarnhaus.co.uk  
-   Link: [https://www.toybarnhaus.co.uk/collections/lego](https://www.toybarnhaus.co.uk/collections/lego)  
+   Link: <a href="https://www.toybarnhaus.co.uk/collections/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.toybarnhaus.co.uk/collections/lego</a>  
 
 45. <a id="endnote-45"></a>
    Source: forward-partners.com  
-   Link: [https://www.forward-partners.com/perspectives/lego-turnaround/](https://www.forward-partners.com/perspectives/lego-turnaround/)  
+   Link: <a href="https://www.forward-partners.com/perspectives/lego-turnaround/" target="_blank" rel="noopener noreferrer nofollow">https://www.forward-partners.com/perspectives/lego-turnaround/</a>  
 
 46. <a id="endnote-46"></a>
    Source: mentorist.app  
-   Link: [https://www.mentorist.app/books/antifragile-things-that-gain-from-disorder/](https://www.mentorist.app/books/antifragile-things-that-gain-from-disorder/)  
+   Link: <a href="https://www.mentorist.app/books/antifragile-things-that-gain-from-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://www.mentorist.app/books/antifragile-things-that-gain-from-disorder/</a>  
 
 47. <a id="endnote-47"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/13530973-antifragile](https://www.goodreads.com/en/book/show/13530973-antifragile)  
+   Link: <a href="https://www.goodreads.com/en/book/show/13530973-antifragile" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/13530973-antifragile</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/360983207905683/posts/963513830985948/](https://www.facebook.com/groups/360983207905683/posts/963513830985948/)  
+   Link: <a href="https://www.facebook.com/groups/360983207905683/posts/963513830985948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/360983207905683/posts/963513830985948/</a>  
 
 49. <a id="endnote-49"></a>
    Source: ijmar.org  
-   Link: [https://www.ijmar.org/v5n4/18-019.html](https://www.ijmar.org/v5n4/18-019.html)  
+   Link: <a href="https://www.ijmar.org/v5n4/18-019.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ijmar.org/v5n4/18-019.html</a>

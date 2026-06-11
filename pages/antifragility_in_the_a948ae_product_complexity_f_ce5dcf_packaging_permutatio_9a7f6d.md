@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /complexity/
 nav_short_title: Packaging Drag
 title: The Hidden Cost of Too Many Boxes
-title_full: The Hidden Cost of Too Many Boxes | Complexity
+title_full: The Hidden Cost of Too Many Boxes
 display_title_short: Packaging Drag
 display_title: Packaging Drag
 heading_title: The Hidden Cost of Too Many Boxes
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When More LEGO Products Made LEGO Weaker | LEGO Antifragility
+parent_title: When More LEGO Products Made LEGO Weaker
 parent_permalink: /complexity/
 parent_nav_short_title: Complexity
 parent_heading_title: When More LEGO Products Made LEGO Weaker
@@ -265,7 +265,7 @@ next_link:
   permalink: /partner-shift/
   short_title: Partner Shift
   heading_title: Why LEGO Did Not Need to Do Everything
-date: '2026-06-09 03:47:35 '
+date: '2026-06-11 21:40:54 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_pa
 ## Introduction
 
 Before LEGO’s turnaround, one of the least visible sources of weakness was not the brick itself but the box around it. As LEGO expanded into more themes, age groups, retailers and regional markets, the company accumulated thousands of product variations and hundreds of [packaging]({{ 'packaging/' | relative_url }}) configurations. What looked like customer choice on the shelf translated into forecasting difficulty, manufacturing interruptions, inventory risk and unreliable retail service behind the scenes. By 2004, LEGO was producing more than 10,000 product permutations through a supply chain that still reflected an earlier era of toy retailing. The result was a system that struggled to keep the right products available in the right places at the right time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1-dark.svg" | relative_url }}" alt="Packaging Drag illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of antifragility, the episode is revealing because it showed how variety can become a hidden liability. LEGO’s business was built on modularity and combinability, yet the growing number of packaged products reduced the operational flexibility that those same bricks were supposed to create.
@@ -303,16 +302,13 @@ Those packaging permutations multiplied [complexity]({{ 'complexity/' | relative
 
 The key point is that complexity did not grow linearly. A new theme might require new packaging artwork, different language versions, retailer-specific presentations and distinct replenishment plans. Every additional variation increased the number of interactions that planners had to manage.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GMJCKI9ibrA" title="LEGO&#x27;s Great Business Model Turnaround Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Great Business Model Turnaround Story</a></p><p class="youtube-embed-meta">Channel: Strategyzer &middot; Views: 83.2K &middot; Uploaded: April 2015 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GMJCKI9ibrA">Open on YouTube</a></p></div></div></div>
-
 ### Packaging as an operational multiplier
 
 A common misunderstanding is that packaging complexity is mainly a marketing problem. For LEGO, it became a supply-chain problem.
 
 A standardised product system benefits from scale. When demand concentrates around a limited number of items, factories can run longer production cycles, warehouses can hold more predictable inventories and retailers can replenish shelves efficiently. Packaging permutations weaken those advantages because demand becomes fragmented across many near-identical products.
 
-The effect was particularly severe because LEGO's broader expansion strategy was already creating strain. The company had introduced new themes and experiments while investing heavily in portfolio growth. Its 2003 annual report later acknowledged that the resulting cost increases failed to deliver expected returns and that some new products even cannibalised core sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2003 LEGO CompanyCorporate strategy. The year&#x27;s result may be seen as the result of an unsuccessful growth strategy, wh...</span></span></span>
+The effect was particularly severe because LEGO's broader expansion strategy was already creating strain. The company had introduced new themes and experiments while investing heavily in portfolio growth. Its 2003 annual report later acknowledged that the resulting cost increases failed to deliver expected returns and that some new products even cannibalised core sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">Annual Report 2003 LEGO CompanyCorporate strategy. The year&#x27;s result may be seen as the result of an unsuccessful growth strategy, wh...</span></span></span>
 
 Packaging complexity turned that strategic problem into an implementation problem. Every forecasting mistake had to be absorbed somewhere in the chain, either as excess inventory, missing stock or rushed replenishment.
 
@@ -325,7 +321,6 @@ LEGO's growing assortment collided with those expectations.
 According to Strategy+Business, the company's supply chain was still organised around older distribution assumptions even as powerful mass retailers reshaped the market. The mismatch became increasingly costly because large retailers penalised poor availability and rewarded suppliers that could deliver predictable replenishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span>
 
 This created a vicious cycle:
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-2-dark.svg" | relative_url }}" alt="Packaging Drag illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -349,8 +344,7 @@ As LEGO expanded its assortment, retailers faced a growing number of decisions a
 
 The result was that product proliferation sometimes reduced visibility instead of increasing it. More boxes did not automatically create more sales opportunities. In some cases, they created confusion about which products deserved priority.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IjcSKukg9IE" title="LEGO’s Comeback: From Nearly Bankrupt To $6 Billion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer">LEGO’s Comeback: From Nearly Bankrupt To $6 Billion</a></p><p class="youtube-embed-meta">Channel: CNBC Make It</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IjcSKukg9IE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GMJCKI9ibrA" title="LEGO&#x27;s Great Business Model Turnaround Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Great Business Model Turnaround Story</a></p><p class="youtube-embed-meta">Channel: Strategyzer &middot; Views: 83.2K &middot; Uploaded: April 2015 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GMJCKI9ibrA">Open on YouTube</a></p></div></div></div>
 
 ## When Availability Exposed Fragility
 
@@ -358,10 +352,9 @@ The strongest evidence of packaging-driven strain appeared through service perfo
 
 During LEGO's crisis years, availability became inconsistent. Strategy+Business described the company as suffering from poor customer service and unreliable product availability while managing its huge portfolio of permutations and packaging configurations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span>
 
-At the same time, inventories were building in some channels. Accounts of the 2003 crisis describe substantial stock accumulation in major retail networks after sales failed to meet expectations. Large retailers in the United States were left carrying significant volumes of unsold LEGO products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-title">the lego case study the great turnaround 2003 2013</span><span class="citation-popover-snippet">Lego case study, the great turnaround 2003 - 2013 | PDFThe negative development reﬂects an unsuccessful growth strategy with a consequent...</span></span></span>
+At the same time, inventories were building in some channels. Accounts of the 2003 crisis describe substantial stock accumulation in major retail networks after sales failed to meet expectations. Large retailers in the United States were left carrying significant volumes of unsold LEGO products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-title">the lego case study the great turnaround 2003 2013</span><span class="citation-popover-snippet">Lego case study, the great turnaround 2003 - 2013 &#124; PDFThe negative development reﬂects an unsuccessful growth strategy with a consequent...</span></span></span>
 
 That combination is a classic signal of operational fragility:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,7 +367,6 @@ That combination is a classic signal of operational fragility:
 
 A resilient system can absorb forecasting mistakes. A fragile system amplifies them. LEGO's packaging and product permutations helped create that amplification because demand had been fragmented across so many separate commercial units.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-3-dark.svg" | relative_url }}" alt="Packaging Drag illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Variety to Focus
 
@@ -385,10 +377,6 @@ Management reduced complexity, narrowed the portfolio and focused more heavily o
 The lesson for antifragility is subtle. LEGO became stronger not by eliminating [options]({{ 'options/' | relative_url }}) but by removing options that generated more operational burden than strategic value. Packaging permutations had revealed that apparent diversity can conceal systemic weakness. Once the company reduced that hidden complexity, the underlying flexibility of the LEGO system became an advantage again rather than a source of strain.
 
 In other words, the problem was never that LEGO offered many ways to build. The problem was that the company had created too many ways to package, forecast and distribute those possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0pkpp4X78aY" title="DESTROYING the world&#x27;s BIGGEST LEGO SETS..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0pkpp4X78aY" target="_blank" rel="noopener noreferrer">DESTROYING the world&#x27;s BIGGEST LEGO SETS...</a></p><p class="youtube-embed-meta">Channel: TD BRICKS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0pkpp4X78aY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0pkpp4X78aY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -507,15 +495,15 @@ In other words, the problem was never that LEGO offered many ways to build. The 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO FRIENDS: 10 Years of Friendship (4002022) Employee Gift Set NEW and SEALED"><img src="https://i.ebayimg.com/images/g/6H4AAeSwA8BqKsKR/s-l225.jpg" alt="Listing image for LEGO FRIENDS: 10 Years of Friendship (4002022) Employee Gift Set NEW and SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">LEGO FRIENDS: 10 Years of Friendship (4002022) Employee Gift Set NEW and SEALED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +511,15 @@ In other words, the problem was never that LEGO offered many ways to build. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces"><img src="https://i.ebayimg.com/images/g/3UcAAOSwpnpnlVuB/s-l225.jpg" alt="Listing image for Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +527,31 @@ In other words, the problem was never that LEGO offered many ways to build. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 40253 Christmas Build Up 24-in-1 Gift Set complete"><img src="https://i.ebayimg.com/images/g/G-sAAeSw8oNp-x8S/s-l225.jpg" alt="Listing image for LEGO 40253 Christmas Build Up 24-in-1 Gift Set complete" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 40253 Christmas Build Up 24-in-1 Gift Set complete</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 40292 Christmas Gift Box - Ltd Edition - New Box Damaged"><img src="https://i.ebayimg.com/images/g/4hQAAeSwXslqJqnY/s-l225.jpg" alt="Listing image for LEGO 40292 Christmas Gift Box - Ltd Edition - New Box Damaged" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 40292 Christmas Gift Box - Ltd Edition - New Box Damaged</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +559,7 @@ In other words, the problem was never that LEGO offered many ways to build. The 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-cost-of-too-many-boxes-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="the-hidden-cost-of-too-many-boxes-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,136 +769,137 @@ In other words, the problem was never that LEGO offered many ways to build. The 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2003 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2003 LEGO CompanyCorporate strategy. The year&#x27;s result may be seen as the result of an unsuccessful growth strategy, wh...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2003 LEGO CompanyCorporate strategy. The year&#x27;s result may be seen as the result of an unsuccessful growth strategy, wh...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: slideshare.net  
    Title: the lego case study the great turnaround 2003 2013  
-   Link: [https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623](https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623)  
+   Link: <a href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego case study, the great turnaround 2003 - 2013 | PDFThe negative development reﬂects an unsuccessful growth strategy with a consequent...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: studocu.com  
    Title: annual report 2004 lego  
-   Link: [https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675](https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675)  
+   Link: <a href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This means sharpened focus on such clas- sic product lines as LEGO DUPLO, LEGO Make...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: marketing-mix.net  
-   Link: [https://marketing-mix.net/en/legos-innovative-distribution-strategies-how-the-iconic-toy-company-optimizes-its-supply-chain/](https://marketing-mix.net/en/legos-innovative-distribution-strategies-how-the-iconic-toy-company-optimizes-its-supply-chain/)  
+   Link: <a href="https://marketing-mix.net/en/legos-innovative-distribution-strategies-how-the-iconic-toy-company-optimizes-its-supply-chain/" target="_blank" rel="noopener noreferrer nofollow">https://marketing-mix.net/en/legos-innovative-distribution-strategies-how-the-iconic-toy-company-optimizes-its-supply-chain/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing Mix in ActionLEGO Distribution Strategy: How the Iconic Toy Brand Masters...3 Oct 2024 — Discover how LEGO consolidated its di...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us](https://www.lego.com/en-us)  
+   Link: <a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/ko-kr](https://www.lego.com/ko-kr)  
+   Link: <a href="https://www.lego.com/ko-kr" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/ko-kr</a>  
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
    Title: new sets and products  
-   Link: [https://www.lego.com/ko-kr/categories/new-sets-and-products](https://www.lego.com/ko-kr/categories/new-sets-and-products)  
+   Link: <a href="https://www.lego.com/ko-kr/categories/new-sets-and-products" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/ko-kr/categories/new-sets-and-products</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>레고® 신제품 | 최근 2개월 내 출시된 다양한 신상품 소개2026 신상품 레고® 시티 세트를 만나보세요. 컬렉션에 새롭게 추가된 멋진 차량과 건물, 놀라운 플레이 세트와 함께 상상하고, 조립하고, 즐거운 놀이를 시작해 보세요.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: studocu.com  
    Title: annual report 2003 lego company insights and developments  
-   Link: [https://www.studocu.com/bo/document/universidad-privada-franz-tamayo/proyecto-integrador-intermedio/annual-report-2003-lego-company-insights-and-developments/154762580](https://www.studocu.com/bo/document/universidad-privada-franz-tamayo/proyecto-integrador-intermedio/annual-report-2003-lego-company-insights-and-developments/154762580)  
+   Link: <a href="https://www.studocu.com/bo/document/universidad-privada-franz-tamayo/proyecto-integrador-intermedio/annual-report-2003-lego-company-insights-and-developments/154762580" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/bo/document/universidad-privada-franz-tamayo/proyecto-integrador-intermedio/annual-report-2003-lego-company-insights-and-developments/154762580</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate strategy. The year&#x27;s result may be seen as the result of. an unsuccessful growth strategy, which. brought about a decision late...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: slideshare.net  
    Title: lego financial slide pack pdf  
-   Link: [https://www.slideshare.net/slideshow/lego-financial-slide-pack-pdf/33496735](https://www.slideshare.net/slideshow/lego-financial-slide-pack-pdf/33496735)  
+   Link: <a href="https://www.slideshare.net/slideshow/lego-financial-slide-pack-pdf/33496735" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/lego-financial-slide-pack-pdf/33496735</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>By 2003, LEGO reported a loss of $1.4 billion and faced a serious crisis, leading management to implement major changes to refocus on the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: strategy-business.com  
    Title: Strategy+business Rebuilding Lego, Brick by Brick  
-   Link: [https://www.strategy-business.com/article/07306](https://www.strategy-business.com/article/07306)  
+   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: strategyzer.com  
-   Link: [https://www.strategyzer.com/library/legos-great-business-model-turnaround-story](https://www.strategyzer.com/library/legos-great-business-model-turnaround-story)  
+   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryWatch the video below to learn how LEGO pulled off a spectacular business turnaround, quadrup...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: secondactsbiz.substack.com  
    Title: lego the turnaround  
-   Link: [https://secondactsbiz.substack.com/p/lego-the-turnaround](https://secondactsbiz.substack.com/p/lego-the-turnaround)  
+   Link: <a href="https://secondactsbiz.substack.com/p/lego-the-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://secondactsbiz.substack.com/p/lego-the-turnaround</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround - Second ActsA bit of an understatement. The negative development reflects an unsuccessful growth strategy with a conseque...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: strategosinstitute.com  
    Title: LEG O®  
-   Link: [https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf](https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf)  
+   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the key strategic elements for the turnaround was to refocus on their core business (bricks), launched in 1958.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego (/ˈlɛɡoʊ/, LEG-oh; Danish: [ˈle̝ːko]; stylised as LEGO) is a brand of plastic construction toys manufactured by the Lego Gr...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4](https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4)  
+   Link: <a href="https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thedecisionmakersguide/blog-15-chapter-3-corporate-gems-how-lego-nearly-went-bankrupt-and-then-built-itself-back-57713f08fae4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate Gems: How LEGO Nearly Went Bankrupt — and...LEGO&#x27;s fall and rise prove that even the brink of failure can be the launchpad for...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi](https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi)  
+   Link: <a href="https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s $800M Debt Crisis: How Focusing on the Core...Supply chains froze. Inventory stacked sky-high. Revenue came in but cash didn&#x27;t. L...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: navneetsmaini.medium.com  
-   Link: [https://navneetsmaini.medium.com/legos-near-death-lesson-how-a-toy-company-broke-itself-then-learned-to-build-again-25adea8c2d37](https://navneetsmaini.medium.com/legos-near-death-lesson-how-a-toy-company-broke-itself-then-learned-to-build-again-25adea8c2d37)  
+   Link: <a href="https://navneetsmaini.medium.com/legos-near-death-lesson-how-a-toy-company-broke-itself-then-learned-to-build-again-25adea8c2d37" target="_blank" rel="noopener noreferrer nofollow">https://navneetsmaini.medium.com/legos-near-death-lesson-how-a-toy-company-broke-itself-then-learned-to-build-again-25adea8c2d37</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comLEGO&#x27;s Near-Death Lesson: How a Toy Company Broke ItselfName the failure precisely. You can&#x27;t shrink vague problems. LEGO put n...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: balkanecommerce.com  
-   Link: [https://balkanecommerce.com/the-lego-leader-behind-the-global-packaging-transformation-is-coming-to-sofia-take-his-3-lessons-that-could-redefine-your-entire-ecommerce-strategy-in-2026/](https://balkanecommerce.com/the-lego-leader-behind-the-global-packaging-transformation-is-coming-to-sofia-take-his-3-lessons-that-could-redefine-your-entire-ecommerce-strategy-in-2026/)  
+   Link: <a href="https://balkanecommerce.com/the-lego-leader-behind-the-global-packaging-transformation-is-coming-to-sofia-take-his-3-lessons-that-could-redefine-your-entire-ecommerce-strategy-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://balkanecommerce.com/the-lego-leader-behind-the-global-packaging-transformation-is-coming-to-sofia-take-his-3-lessons-that-could-redefine-your-entire-ecommerce-strategy-in-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Leader Behind the Global Packaging...12 Nov 2025 — The LEGO Leader Behind the Global Packaging Transformation Is Coming to Sofi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mckinsey.com  
    Title: the winning formula what it takes to build leading omnichannel operations 2022  
-   Link: [https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/the%20winning%20formula%20what%20it%20takes%20to%20build%20leading%20omnichannel%20operations/the-winning-formula-what-it-takes-to-build-leading-omnichannel-operations-2022.pdf](https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/the%20winning%20formula%20what%20it%20takes%20to%20build%20leading%20omnichannel%20operations/the-winning-formula-what-it-takes-to-build-leading-omnichannel-operations-2022.pdf)  
+   Link: <a href="https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/the%20winning%20formula%20what%20it%20takes%20to%20build%20leading%20omnichannel%20operations/the-winning-formula-what-it-takes-to-build-leading-omnichannel-operations-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/the%20winning%20formula%20what%20it%20takes%20to%20build%20leading%20omnichannel%20operations/the-winning-formula-what-it-takes-to-build-leading-omnichannel-operations-2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What it takes to build leading omnichannel operations1 Dec 2021 — From our experience working with executives across consumer sectors, we...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GMJCKI9ibrA](https://www.youtube.com/watch?v=GMJCKI9ibrA)  
+   Link: <a href="https://www.youtube.com/watch?v=GMJCKI9ibrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GMJCKI9ibrA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryWe tell the story of Lego&#x27;s spectacular business turnaround. Find more of our topical, innova...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/user/LEGO](https://www.youtube.com/user/LEGO)  
+   Link: <a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: platform01consulting.com  
    Title: lego one of the greatest turnaround stories in corporate history  
-   Link: [https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history](https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history)  
+   Link: <a href="https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history" target="_blank" rel="noopener noreferrer nofollow">https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: One of the Greatest Turnaround Stories In...13 Aug 2023 — The company also failed to accurately predict the demand for its product...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/273610154_A_Strategy_for_Managing_Complexity_of_the_Global_Market_and_Prototype_Real-Time_Scheduler_for_LEGO_Supply_Chain](https://www.researchgate.net/publication/273610154_A_Strategy_for_Managing_Complexity_of_the_Global_Market_and_Prototype_Real-Time_Scheduler_for_LEGO_Supply_Chain)  
+   Link: <a href="https://www.researchgate.net/publication/273610154_A_Strategy_for_Managing_Complexity_of_the_Global_Market_and_Prototype_Real-Time_Scheduler_for_LEGO_Supply_Chain" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273610154_A_Strategy_for_Managing_Complexity_of_the_Global_Market_and_Prototype_Real-Time_Scheduler_for_LEGO_Supply_Chain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>global market and real-time scheduling multi-agent system designed for the LEGO...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pressbooks.library.vcu.edu  
-   Link: [https://pressbooks.library.vcu.edu/businessfoundations201/chapter/14-8/](https://pressbooks.library.vcu.edu/businessfoundations201/chapter/14-8/)  
+   Link: <a href="https://pressbooks.library.vcu.edu/businessfoundations201/chapter/14-8/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.library.vcu.edu/businessfoundations201/chapter/14-8/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sales of LEGO Company&#x27;s core products and thus eroded earnings” (LEGO Group...Read more...</p></details>

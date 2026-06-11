@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /seasonality/
 nav_short_title: Portfolio Mix
 title: Can More LEGO Sets Mean Less Seasonal Risk?
-title_full: Can More LEGO Sets Mean Less Seasonal Risk? | Seasonality
+title_full: Can More LEGO Sets Mean Less Seasonal Risk?
 display_title_short: Portfolio Mix
 display_title: Portfolio Mix
 heading_title: Can More LEGO Sets Mean Less Seasonal Risk?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Toy Seasonality Tests LEGO's Strength | LEGO Antifragility
+parent_title: Why Toy Seasonality Tests LEGO's Strength
 parent_permalink: /seasonality/
 parent_nav_short_title: Seasonality
 parent_heading_title: Why Toy Seasonality Tests LEGO's Strength
@@ -265,7 +265,7 @@ next_link:
   permalink: /regional-supply/
   short_title: Regional Supply
   heading_title: Why Nearby Factories Matter Before Christmas
-date: '2026-06-09 03:50:53 '
+date: '2026-06-11 21:41:20 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_po
 
 ## Introduction
 
-LEGO’s answer to toy-market [seasonality]({{ 'seasonality/' | relative_url }}) is not simply to predict the next Christmas bestseller more accurately. It is to reduce how much the company depends on any single winner in the first place. A broad portfolio of themes, age groups, price points and consumer motivations spreads risk across different buying patterns. If one licensed film underperforms, another theme may compensate. If a children’s line weakens in a particular market, adult collectors, educational buyers or evergreen play themes may provide stability. This portfolio diversity helps explain why LEGO has often outperformed the wider toy market even during periods of industry weakness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">FINAL Annual Report 2023</span><span class="citation-popover-snippet">LEGOAnnual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining toy i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">LEGOLEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit, outpa...</span></span></span>
-
+LEGO’s answer to toy-market [seasonality]({{ 'seasonality/' | relative_url }}) is not simply to predict the next Christmas bestseller more accurately. It is to reduce how much the company depends on any single winner in the first place. A broad portfolio of themes, age groups, price points and consumer motivations spreads risk across different buying patterns. If one licensed film underperforms, another theme may compensate. If a children’s line weakens in a particular market, adult collectors, educational buyers or evergreen play themes may provide stability. This portfolio diversity helps explain why LEGO has often outperformed the wider toy market even during periods of industry weakness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">FINAL Annual Report 2023</span><span class="citation-popover-snippet">Annual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining toy i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">LEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit, outpa...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1-dark.svg" | relative_url }}" alt="Portfolio Mix illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In antifragility terms, portfolio breadth does more than absorb shocks. It allows LEGO to learn from changing tastes without making the entire business dependent on one seasonal bet. The company still faces holiday volatility, but volatility is distributed across many demand streams rather than concentrated in a narrow set of products.
+In antifragility terms, [portfolio breadth]({{ 'portfolio/' | relative_url }}) does more than absorb shocks. It allows LEGO to learn from changing tastes without making the entire business dependent on one seasonal bet. The company still faces holiday volatility, but volatility is distributed across many demand streams rather than concentrated in a narrow set of products.
 
 ## Why breadth reduces dependence on one hit
 
@@ -287,7 +286,6 @@ The classic toy-industry risk is overreliance on a blockbuster product. A manufa
 LEGO's structure reduces this exposure. Rather than depending on a handful of flagship products, it launches hundreds of products across numerous themes. The company described its 2023 portfolio as its largest ever, with around 780 products aimed at different ages and interests. Roughly half were new products while the remainder continued existing lines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toysnbricks.com/lego-group-2023-annual-report-financial-stats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toysnbricks.com">[Toys N Bricks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toysnbricks.com</span><span class="citation-popover-title">lego group 2023 annual report financial stats</span><span class="citation-popover-snippet">As in previous years, new products accounted for...Read more...</span></span></span>
 
 That scale creates several layers of diversification:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,9 +304,6 @@ This diversification became particularly valuable as the adult market expanded. 
 ## How evergreen themes and licensed themes play different roles
 
 One of LEGO's most important balancing mechanisms is the combination of evergreen internal themes and externally licensed properties.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yF55tgP6zbc" title="LEGO Is NOT Supposed to Be Used Like This…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer">LEGO Is NOT Supposed to Be Used Like This…</a></p><p class="youtube-embed-meta">Channel: Brickcrafts &middot; Views: 763.7K &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yF55tgP6zbc">Open on YouTube</a></p></div></div></div>
 
 ### Evergreen themes provide continuity
 
@@ -340,14 +335,12 @@ LEGO's expansion into adult-oriented categories such as Icons, Botanicals, Archi
 
 The practical effect is that LEGO is exposed to several consumer cycles simultaneously rather than one single toy cycle.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-2-dark.svg" | relative_url }}" alt="Portfolio Mix illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How adult fans change the seasonal equation
 
 Adult customers are important because they alter the timing of demand.
 
 Traditional toy businesses often rely heavily on parents making purchases for children during holiday periods. [Adult fans]({{ 'adult-fans/' | relative_url }}) of LEGO purchase for different reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,17 +359,15 @@ Adult-oriented products also tend to have longer shelf lives. A large display mo
 
 From an antifragility perspective, adult demand creates an additional layer of resilience because it is influenced by different emotional triggers than children's toy demand. Instead of relying on one annual gift cycle, LEGO participates in hobby, collecting and lifestyle markets that operate year-round.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yF55tgP6zbc" title="LEGO Is NOT Supposed to Be Used Like This…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer">LEGO Is NOT Supposed to Be Used Like This…</a></p><p class="youtube-embed-meta">Channel: Brickcrafts &middot; Views: 763.7K &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yF55tgP6zbc">Open on YouTube</a></p></div></div></div>
 
 ## Where portfolio variety becomes costly complexity
 
 Portfolio breadth is not a free advantage. The same diversity that spreads risk can create operational strain.
 
-LEGO's history shows that excessive [complexity]({{ 'complexity/' | relative_url }}) can become dangerous. During its crisis period in the early 2000s, the company expanded aggressively across products, themes and business initiatives, creating cost structures that became difficult to manage. The problem was not diversification itself but diversification without sufficient operational discipline.
+LEGO's history shows that excessive complexity can become dangerous. During its crisis period in the early 2000s, the company expanded aggressively across products, themes and business initiatives, creating cost structures that became difficult to manage. The problem was not diversification itself but diversification without sufficient operational discipline.
 
 A large portfolio introduces several challenges:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -395,7 +386,6 @@ Licensed themes add another layer of complexity. They bring external approval pr
 
 This creates a central tension in LEGO's antifragility story. Portfolio breadth helps absorb shocks, but only if the organisation can manage the complexity that breadth creates.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-3-dark.svg" | relative_url }}" alt="Portfolio Mix illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why portfolio mix supports antifragility rather than simple stability
 
@@ -406,10 +396,6 @@ When a new fandom becomes unexpectedly popular, LEGO can participate through lic
 Recent company statements repeatedly attribute growth to demand across a "large and diverse portfolio" rather than a single breakout product. Even in years when the broader toy market declined, LEGO continued gaining [market share]({{ 'market-share/' | relative_url }}) through a combination of children's themes, licensed franchises and adult-oriented ranges. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[Toy World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-title">the lego group delivers record top and bottom line results in 2024</span><span class="citation-popover-snippet">The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</span></span></span>
 
 That does not eliminate seasonal risk. Christmas remains critical, and forecasting errors still matter. But the portfolio mix changes the nature of the challenge. Instead of needing one perfect holiday winner, LEGO can succeed through many smaller successes across different themes, audiences and price points. In a seasonal industry where single-product dependence can be dangerous, that diversity becomes one of the company's most important antifragile characteristics.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -528,15 +514,15 @@ That does not eliminate seasonal risk. Christmas remains critical, and forecasti
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅"><img src="https://i.ebayimg.com/images/g/G4MAAeSwAqxqHcoJ/s-l225.jpg" alt="Listing image for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City 60223 Harvester Transport Retired Set NEW &amp; SEALED Farm Tractor"><img src="https://i.ebayimg.com/images/g/f6cAAeSwL-BqJtPX/s-l225.jpg" alt="Listing image for LEGO City 60223 Harvester Transport Retired Set NEW &amp; SEALED Farm Tractor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City 60223 Harvester Transport Retired Set NEW &amp; SEALED Farm Tractor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +530,15 @@ That does not eliminate seasonal risk. Christmas remains critical, and forecasti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Taxi Car From The Lego City Donut Shop Opening Set (60233)"><img src="https://i.ebayimg.com/images/g/S7QAAeSwBVZqKbBc/s-l225.jpg" alt="Listing image for LEGO City Taxi Car From The Lego City Donut Shop Opening Set (60233)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City Taxi Car From The Lego City Donut Shop Opening Set (60233)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +546,31 @@ That does not eliminate seasonal risk. Christmas remains critical, and forecasti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008"><img src="https://i.ebayimg.com/images/g/hcAAAeSwRndoboJ2/s-l225.jpg" alt="Listing image for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City: Police Highway Arrest (60242) - Complete Build"><img src="https://i.ebayimg.com/images/g/EHoAAeSwpsNqKnly/s-l225.jpg" alt="Listing image for LEGO City: Police Highway Arrest (60242) - Complete Build" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City: Police Highway Arrest (60242) - Complete Build</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City 60181 Forest Tractor ** 100% Complete**"><img src="https://i.ebayimg.com/images/g/P7YAAeSwQ4NqJwAS/s-l225.jpg" alt="Listing image for LEGO City 60181 Forest Tractor ** 100% Complete**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City 60181 Forest Tractor ** 100% Complete**</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,7 +578,7 @@ That does not eliminate seasonal risk. Christmas remains critical, and forecasti
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-more-lego-sets-mean-less-seasonal-risk-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="can-more-lego-sets-mean-less-seasonal-risk-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -786,198 +788,199 @@ That does not eliminate seasonal risk. Christmas remains critical, and forecasti
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining toy i...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining toy i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit, outpa...</p></details>
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit, outpa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: finance.yahoo.com  
-   Link: [https://finance.yahoo.com/news/lego-bricks-won-over-adults-060000215.html](https://finance.yahoo.com/news/lego-bricks-won-over-adults-060000215.html)  
+   Link: <a href="https://finance.yahoo.com/news/lego-bricks-won-over-adults-060000215.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/lego-bricks-won-over-adults-060000215.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLego bricks have won over adults, growing its $10 billion...18 Dec 2024 — The Denmark-based Lego&#x27;s adult collectors seem to...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9mRzJaVjkzQ](https://www.youtube.com/watch?v=9mRzJaVjkzQ)  
+   Link: <a href="https://www.youtube.com/watch?v=9mRzJaVjkzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9mRzJaVjkzQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s financial report is good news for adultsThe LEGO Group has published their financial results for the year 2024 and it is exactly t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb](https://www.lego.com/en-gb)  
+   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comOur Responsibility Report accounts for the LEGO Group&#x27;s development and activities and serves as our annual Communicat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio](https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gained market share, growing more than twice as fast as the toy...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WRMWPoqRIpM](https://www.youtube.com/watch?v=WRMWPoqRIpM)  
+   Link: <a href="https://www.youtube.com/watch?v=WRMWPoqRIpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WRMWPoqRIpM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BILLIONS in Profits, Popular Themes, and What it Means...Lego released its 2025 annual report and that means we get information on their...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yF55tgP6zbc](https://www.youtube.com/watch?v=yF55tgP6zbc)  
+   Link: <a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yF55tgP6zbc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Is NOT Supposed to Be Used Like This…Time to continue with our LEGO Rome Project! In case you&#x27;re visiting Austria/southern Germany a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: How LEGO Became the Apple of Toys  
-   Link: [https://www.youtube.com/watch?v=R42h44kY2qI](https://www.youtube.com/watch?v=R42h44kY2qI)  
+   Link: <a href="https://www.youtube.com/watch?v=R42h44kY2qI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R42h44kY2qI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Incredible Logistics of LEGO...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Incredible Logistics of LEGO  
-   Link: [https://www.youtube.com/watch?v=0k5fXlTjD3k](https://www.youtube.com/watch?v=0k5fXlTjD3k)  
+   Link: <a href="https://www.youtube.com/watch?v=0k5fXlTjD3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5fXlTjD3k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO survived bankruptcy...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: How LEGO survived bankruptcy  
-   Link: [https://www.youtube.com/watch?v=eB6X1u276k8](https://www.youtube.com/watch?v=eB6X1u276k8)  
+   Link: <a href="https://www.youtube.com/watch?v=eB6X1u276k8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eB6X1u276k8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Uses Licensing to Stay Relevant...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How LEGO Uses Licensing to Stay Relevant  
-   Link: [https://www.youtube.com/watch?v=kYJ_L_vD0qU](https://www.youtube.com/watch?v=kYJ_L_vD0qU)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ_L_vD0qU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ_L_vD0qU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supply Chain Strategy: The LEGO Case Study...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Supply Chain Strategy: The LEGO Case Study  
-   Link: [https://www.youtube.com/watch?v=l_a6a099L2o](https://www.youtube.com/watch?v=l_a6a099L2o)  
+   Link: <a href="https://www.youtube.com/watch?v=l_a6a099L2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_a6a099L2o</a>  
 
 16. <a id="endnote-16"></a>
    Source: toysnbricks.com  
    Title: lego group 2023 annual report financial stats  
-   Link: [https://www.toysnbricks.com/lego-group-2023-annual-report-financial-stats/](https://www.toysnbricks.com/lego-group-2023-annual-report-financial-stats/)  
+   Link: <a href="https://www.toysnbricks.com/lego-group-2023-annual-report-financial-stats/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-group-2023-annual-report-financial-stats/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As in previous years, new products accounted for...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: annualreports.com  
    Title: Annual Reports LEGOTheir most well-known product to do so is the LEGO® brick  
-   Link: [https://www.annualreports.com/Company/lego](https://www.annualreports.com/Company/lego)  
+   Link: <a href="https://www.annualreports.com/Company/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreports.com/Company/lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOTheir most well-known product to do so is the LEGO® brick - an amazing play system for both kids and adults. The LEGO bricks are all...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jaysbrickblog.com  
-   Link: [https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/](https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/)  
+   Link: <a href="https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jay&#x27;s Brick BlogLEGO&#x27;s first half of 2023 financial performance slows down...30 Aug 2023 — LEGO&#x27;s first half of 2023 financial results h...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jaysbrickblog.com  
    Title: the lego groups 2025 financial results deliver its most profitable year ever  
-   Link: [https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/](https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/)  
+   Link: <a href="https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group&#x27;s 2025 financial results deliver its most...10 Mar 2026 — The results are absolutely phenomenal, with consumer sales grow...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: which.co.uk  
    Title: the most popular lego sets and themes a EPDT0y2RU6T  
-   Link: [https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T](https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T)  
+   Link: <a href="https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Botanicals · 2. Icons · 3. Technic · 4. Star Wars · 5. City · 6. Speed Champions · 7. Creator 3in1 · 8. Harry...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: toyworldmag.co.uk  
    Title: the lego group delivers record top and bottom line results in 2024  
-   Link: [https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/](https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/)  
+   Link: <a href="https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: toysnbricks.com  
    Title: lego 2024 annual report performance financials press release  
-   Link: [https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/](https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/)  
+   Link: <a href="https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Operating profit grew by 10% and net profit grew by 5%. There was a lot of toy market share gain...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: toysnbricks.com  
-   Link: [https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/](https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/)  
+   Link: <a href="https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group 2025 Annual Results Report: Revenue Sales...Revenue for 2025: Approximately $13 billion (DKK 83.5 billion), and shows an incr...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: matrixbcg.com  
-   Link: [https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOoo3SEhSB2bAOr3fkRhA1h9CXGmtmr4bWHlRtEJykflLSxhegpjs](https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOoo3SEhSB2bAOr3fkRhA1h9CXGmtmr4bWHlRtEJykflLSxhegpjs)  
+   Link: <a href="https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOoo3SEhSB2bAOr3fkRhA1h9CXGmtmr4bWHlRtEJykflLSxhegpjs" target="_blank" rel="noopener noreferrer nofollow">https://matrixbcg.com/blogs/competitors/lego?srsltid=AfmBOoo3SEhSB2bAOr3fkRhA1h9CXGmtmr4bWHlRtEJykflLSxhegpjs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic core themes plus licensed lines (Star Wars, Marvel, Harry Potter) account for about 42 percent of annual...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: game.co.uk  
-   Link: [https://www.game.co.uk/lego](https://www.game.co.uk/lego)  
+   Link: <a href="https://www.game.co.uk/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.game.co.uk/lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOWith an extensive range of different LEGO sets and toys for you to choose from, including beautifully unique flower displays to popul...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: learningthroughplay.com  
-   Link: [https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-[sustainability](https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-[sustainability)  
+   Link: <a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-[sustainability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportsIn the LEGO Foundation annual reports you can find our management reviews and financial statements. Part of this is our sus...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: gamma.app  
-   Link: [https://gamma.app/docs/LEGOs-Adult-Market-Challenges-and-Opportunities-pz1w2oq9fxaggx1](https://gamma.app/docs/LEGOs-Adult-Market-Challenges-and-Opportunities-pz1w2oq9fxaggx1)  
+   Link: <a href="https://gamma.app/docs/LEGOs-Adult-Market-Challenges-and-Opportunities-pz1w2oq9fxaggx1" target="_blank" rel="noopener noreferrer nofollow">https://gamma.app/docs/LEGOs-Adult-Market-Challenges-and-Opportunities-pz1w2oq9fxaggx1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Adult Market: Challenges and OpportunitiesTraditionally focused on ages 5-18, LEGO can now aim to capture the adult market with so...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ](https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ)  
+   Link: <a href="https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Annual Results Announcement | Andreas Friis&quot;Revenue increased 12% to DKK 83.5 billion, driven by strong brand equity and demand for...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: the lego group has released their earnings report from 2023 and revenue was up d  
-   Link: [https://www.facebook.com/TheBrickFan/posts/the-lego-group-has-released-their-earnings-report-from-2023-and-revenue-was-up-d/1126314435308713/](https://www.facebook.com/TheBrickFan/posts/the-lego-group-has-released-their-earnings-report-from-2023-and-revenue-was-up-d/1126314435308713/)  
+   Link: <a href="https://www.facebook.com/TheBrickFan/posts/the-lego-group-has-released-their-earnings-report-from-2023-and-revenue-was-up-d/1126314435308713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBrickFan/posts/the-lego-group-has-released-their-earnings-report-from-2023-and-revenue-was-up-d/1126314435308713/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group has released their earnings report from...The LEGO Group has announced their earnings from the first half of 2025 and the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: investabrick.com  
    Title: The Future of LEGO Investing: Strategy, Trends & How to Win2) Theme magnetism  
-   Link: [https://investabrick.com/articles/the-future-of-lego-investing](https://investabrick.com/articles/the-future-of-lego-investing)  
+   Link: <a href="https://investabrick.com/articles/the-future-of-lego-investing" target="_blank" rel="noopener noreferrer nofollow">https://investabrick.com/articles/the-future-of-lego-investing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evergreens (Star Wars, Harry Potter, Technic, Modulars, Botanicals) have ready buyers. 3) Minifigure economics. Exclusive characters, arm...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: regnskaber.cvrapi.dk  
-   Link: [https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzL2M4LzViL2ZmLzM5L2VlY2MtNDIyMC05MDRlLTJhYTFlZTIzNjJmMA.pdf](https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzL2M4LzViL2ZmLzM5L2VlY2MtNDIyMC05MDRlLTJhYTFlZTIzNjJmMA.pdf)  
+   Link: <a href="https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzL2M4LzViL2ZmLzM5L2VlY2MtNDIyMC05MDRlLTJhYTFlZTIzNjJmMA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzL2M4LzViL2ZmLzM5L2VlY2MtNDIyMC05MDRlLTJhYTFlZTIzNjJmMA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ReportThe LEGO Group operates in the global toy market, which declined seven percent in 2023* in a challenging economic environment. Desp...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: amazon.co.uk  
    Title: LEGOLEGO Creator 3 in 1 Iconic Pirate Ship Toy  
-   Link: [https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D](https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D)  
+   Link: <a href="https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Kit Transforms into a Castle or 2 Twin Boats - Kids&#x27; Room Decor Idea - Birthday Gi...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: licenseglobal.com  
    Title: license globals top 150 leading licensors 2016  
-   Link: [https://www.licenseglobal.com/rankings-lists/license-globals-top-150-leading-licensors-2016](https://www.licenseglobal.com/rankings-lists/license-globals-top-150-leading-licensors-2016)  
+   Link: <a href="https://www.licenseglobal.com/rankings-lists/license-globals-top-150-leading-licensors-2016" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/rankings-lists/license-globals-top-150-leading-licensors-2016</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>License Global&#x27;s Top 150 Leading Licensors of 2016 2The Top 150 Global Licensors reported a total of $262.9 billion in retail sales of li...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: studocu.vn  
    Title: the lego group annual report 2024 financial highlights strategic overview  
-   Link: [https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972](https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972)  
+   Link: <a href="https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/banking-university-of-ho-chi-minh-city/supply-chain-management/the-lego-group-annual-report-2024-financial-highlights-strategic-overview/129031972</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group Annual Report 2024: Financial Highlights...Tax and effective tax rate Income tax expenses amounted to DKK 4 3 billion com...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: brickfanatics.com  
    Title: lego top selling themes first half of 2025  
-   Link: [https://www.brickfanatics.com/lego-top-selling-themes-first-half-of-2025](https://www.brickfanatics.com/lego-top-selling-themes-first-half-of-2025)  
+   Link: <a href="https://www.brickfanatics.com/lego-top-selling-themes-first-half-of-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-top-selling-themes-first-half-of-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO reveals top-selling themes in first half of 202527 Aug 2025 — The LEGO Group has revealed its top-selling themes as part of its fina...</p></details>

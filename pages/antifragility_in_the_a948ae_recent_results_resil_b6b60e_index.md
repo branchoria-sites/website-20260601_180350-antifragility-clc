@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-recent/
 description: Focused pages that expand on Recent Results.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: antifragility_in_the_a948ae_recent_results_resil_b6b60e
-parent_title: Recent Results | antifragility in the context of the Lego company
+parent_title: Recent Results
 parent_nav_short_title: Recent Results
 parent_permalink: /recent-results/
 ---

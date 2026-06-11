@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /seasonality/
 nav_short_title: Holiday Risk
 title: Why Christmas Makes Toy Forecasts So Fragile
-title_full: Why Christmas Makes Toy Forecasts So Fragile | Seasonality
+title_full: Why Christmas Makes Toy Forecasts So Fragile
 display_title_short: Holiday Risk
 display_title: Holiday Risk
 heading_title: Why Christmas Makes Toy Forecasts So Fragile
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Toy Seasonality Tests LEGO's Strength | LEGO Antifragility
+parent_title: Why Toy Seasonality Tests LEGO's Strength
 parent_permalink: /seasonality/
 parent_nav_short_title: Seasonality
 parent_heading_title: Why Toy Seasonality Tests LEGO's Strength
@@ -265,7 +265,7 @@ next_link:
   permalink: /portfolio-mix/
   short_title: Portfolio Mix
   heading_title: Can More LEGO Sets Mean Less Seasonal Risk?
-date: '2026-06-09 03:41:49 '
+date: '2026-06-11 21:40:06 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_ch
 
 Christmas is not simply a busy sales period for toy companies. It is a deadline-driven market event that compresses an enormous share of annual demand into a few weeks and punishes forecasting mistakes with unusual severity. Parents, relatives and gift buyers can postpone many purchases, but they cannot move Christmas itself. If a toy is unavailable in December, much of its value disappears with the gifting occasion. If too much inventory remains after the holiday, retailers often clear it through discounts that erode margins and tie up cash.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1-dark.svg" | relative_url }}" alt="Holiday Risk illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For LEGO, this creates a recurring volatility challenge. The company must decide months in advance which sets to produce, how much inventory to build and where to place stock, even though consumer tastes can shift rapidly. In an antifragility context, Christmas acts as a stress test: it exposes weaknesses in forecasting and supply chains, but it can also force LEGO to build systems that become more resilient under seasonal pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+For LEGO, this creates a recurring volatility challenge. The company must decide months in advance which sets to produce, how much inventory to build and where to place stock, even though consumer tastes can shift rapidly. In an antifragility context, Christmas acts as a stress test: it exposes weaknesses in forecasting and supply chains, but it can also force LEGO to build systems that become more resilient under seasonal pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 ## Why Toy Demand Has Hard Calendar Deadlines
 
@@ -293,9 +292,6 @@ For LEGO, the challenge is especially significant because many sets are launched
 ## How Stockouts and Markdowns Damage Results
 
 Christmas creates a brutal two-sided inventory risk. Both shortages and excess stock can be costly.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EYbJvXpHGD0" title="Toymakers struggle to deal with global supply chain issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EYbJvXpHGD0" target="_blank" rel="noopener noreferrer">Toymakers struggle to deal with global supply chain issues</a></p><p class="youtube-embed-meta">Channel: CNBC Television</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EYbJvXpHGD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EYbJvXpHGD0">Open on YouTube</a></p></div></div></div>
 
 ### When LEGO Runs Out of Popular Sets
 
@@ -319,7 +315,6 @@ The European Commission's study of the toy industry identified highly seasonal C
 
 Unlike durable evergreen products, many toy lines cannot simply sit in storage indefinitely. [Packaging]({{ 'packaging/' | relative_url }}) changes, retailer shelf resets, new entertainment releases and shifting consumer interests all reduce the value of unsold stock.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-2-dark.svg" | relative_url }}" alt="Holiday Risk illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Seasonal Forecasting Is Harder Than It Looks
 
@@ -327,20 +322,17 @@ The Christmas problem would be manageable if demand patterns repeated predictabl
 
 LEGO knows Christmas will arrive. It does not know exactly which sets children will request.
 
-The company's own 2004 annual report described consumer demand as increasingly difficult to predict and increasingly influenced by changing fashion. It warned that some products were experiencing shorter life cycles while sales remained heavily concentrated between September and December. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+The company's own 2004 annual report described consumer demand as increasingly difficult to predict and increasingly influenced by changing fashion. It warned that some products were experiencing shorter life cycles while sales remained heavily concentrated between September and December. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 This creates a forecasting paradox. Production commitments must be made before demand is visible, yet consumer preferences can change late in the year. A successful film, viral trend, gaming franchise or licensed character can suddenly redirect spending toward one category and away from another.
 
 The toy-industry supply-chain literature identifies precisely this combination of risks: seasonality, fad volatility and new-product uncertainty operating simultaneously. Each risk is challenging on its own. Together they make inventory planning unusually fragile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mba.tuck.dartmouth.edu">[Tuck School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mba.tuck.dartmouth.edu</span><span class="citation-popover-snippet">Learning From Toys: Lessons in Managing Supply Chain Risk from the Toy Industry. CALIFORNIA MANAGEMENT REVIEW VOL. 43, NO. 3 SPRING 2001...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yoIIcCCPMM8" title="Trade Nat Gas Swings with Henry Hub Seasonality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yoIIcCCPMM8" target="_blank" rel="noopener noreferrer">Trade Nat Gas Swings with Henry Hub Seasonality</a></p><p class="youtube-embed-meta">Channel: FXNX</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yoIIcCCPMM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yoIIcCCPMM8">Open on YouTube</a></p></div></div></div>
-
 ## What LEGO's Seasonal Sales Pattern Reveals
 
 LEGO's historical disclosures show how exposed the company has been to year-end demand.
 
-In its 2004 annual report, LEGO stated that more than half of annual sales occurred between September and December. The company explicitly linked this seasonality to heavy demands on product development and adaptation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+In its 2004 annual report, LEGO stated that more than half of annual sales occurred between September and December. The company explicitly linked this seasonality to heavy demands on product development and adaptation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 That statement is revealing because it connects two separate issues that are often analysed independently:
 
@@ -353,7 +345,6 @@ The same period was particularly important in LEGO's corporate history. Around t
 
 The lesson is that holiday volatility exposes organisational quality. Strong planning systems can turn seasonal surges into profitable growth. Weak systems transform the same surge into inventory write-downs, stock shortages and financial stress.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-3-dark.svg" | relative_url }}" alt="Holiday Risk illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Christmas as an Antifragility Test
 
@@ -365,11 +356,7 @@ A more antifragile company tries to reduce dependence on single forecasts. It de
 
 The toy industry offers a harsh environment for testing these capabilities because the Christmas deadline cannot be negotiated. Every year, manufacturers must place their bets before demand is fully known. The companies that learn from repeated seasonal shocks become stronger. The companies that rely on precise prediction remain vulnerable to the next holiday season.
 
-For LEGO, that recurring Christmas deadline remains one of the clearest demonstrations of how volatility can either expose fragility or encourage adaptation. The same seasonal pressure that threatens profits also provides the information needed to improve forecasting, inventory management and operational resilience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mba.tuck.dartmouth.edu">[Tuck School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mba.tuck.dartmouth.edu</span><span class="citation-popover-snippet">Learning From Toys: Lessons in Managing Supply Chain Risk from the Toy Industry. CALIFORNIA MANAGEMENT REVIEW VOL. 43, NO. 3 SPRING 2001...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9voyL6TsQcI" title="Seasonality at Retail &amp; Ecommerce Businesses | Retail Dogma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9voyL6TsQcI" target="_blank" rel="noopener noreferrer">Seasonality at Retail &amp; Ecommerce Businesses | Retail Dogma</a></p><p class="youtube-embed-meta">Channel: Retail Dogma</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9voyL6TsQcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9voyL6TsQcI">Open on YouTube</a></p></div></div></div>
-
+For LEGO, that recurring Christmas deadline remains one of the clearest demonstrations of how volatility can either expose fragility or encourage adaptation. The same seasonal pressure that threatens profits also provides the information needed to improve forecasting, inventory management and operational resilience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mba.tuck.dartmouth.edu">[Tuck School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mba.tuck.dartmouth.edu</span><span class="citation-popover-snippet">Learning From Toys: Lessons in Managing Supply Chain Risk from the Toy Industry. CALIFORNIA MANAGEMENT REVIEW VOL. 43, NO. 3 SPRING 2001...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -488,15 +475,15 @@ For LEGO, that recurring Christmas deadline remains one of the clearest demonstr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Flower Trellis Display Set 40683"><img src="https://i.ebayimg.com/images/g/JOYAAeSwTrNqJDC6/s-l225.jpg" alt="Listing image for LEGO Flower Trellis Display Set 40683" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Holiday Main Street 10308 Christmas Building Set Unopened"><img src="https://i.ebayimg.com/images/g/ZL4AAeSwzmBp92hn/s-l225.jpg" alt="Listing image for LEGO Holiday Main Street 10308 Christmas Building Set Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Flower Trellis Display Set 40683</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Holiday Main Street 10308 Christmas Building Set Unopened</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for holiday LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: holiday LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +491,15 @@ For LEGO, that recurring Christmas deadline remains one of the clearest demonstr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed"><img src="https://i.ebayimg.com/images/g/lRoAAeSwz5hqD3tt/s-l225.jpg" alt="Listing image for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Friends 42673 Family Holiday Beach Resort 1140pcs Box Damage Complete Set"><img src="https://i.ebayimg.com/images/g/0C0AAeSw8n5qKtWm/s-l225.jpg" alt="Listing image for LEGO Friends 42673 Family Holiday Beach Resort 1140pcs Box Damage Complete Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Friends 42673 Family Holiday Beach Resort 1140pcs Box Damage Complete Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for holiday LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: holiday LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +507,31 @@ For LEGO, that recurring Christmas deadline remains one of the clearest demonstr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece."><img src="https://i.ebayimg.com/images/g/8HEAAeSwDe5qEyfx/s-l225.jpg" alt="Listing image for LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego - Christmas 2013 Holiday Set Christmas Tree Truck (40083)"><img src="https://i.ebayimg.com/images/g/y70AAeSw8PRpam0s/s-l225.jpg" alt="Listing image for Lego - Christmas 2013 Holiday Set Christmas Tree Truck (40083)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer">Lego - Christmas 2013 Holiday Set Christmas Tree Truck (40083)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for holiday LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: holiday LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons Christmas Holiday Village Set Alpine Lodge (10325) No box"><img src="https://i.ebayimg.com/images/g/l9wAAeSwEdBpmI6-/s-l225.jpg" alt="Listing image for LEGO Icons Christmas Holiday Village Set Alpine Lodge (10325) No box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons Christmas Holiday Village Set Alpine Lodge (10325) No box</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for holiday LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: holiday LEGO set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,7 +539,7 @@ For LEGO, that recurring Christmas deadline remains one of the clearest demonstr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=holiday+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="holiday LEGO set" data-ebay-reference="why-christmas-makes-toy-forecasts-so-fragile-holiday-lego-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,31 +749,32 @@ For LEGO, that recurring Christmas deadline remains one of the clearest demonstr
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — In addition, the. LEGO Group&#x27;s sales are highly seasonal. More than half of the annual...</p></details>
    Published: April 26, 2005  
 
 2. <a id="endnote-2"></a>
    Source: mba.tuck.dartmouth.edu  
-   Link: [https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf](https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf)  
+   Link: <a href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning From Toys: Lessons in Managing Supply Chain Risk from the Toy Industry. CALIFORNIA MANAGEMENT REVIEW VOL. 43, NO. 3 SPRING 2001...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: hbr.org  
    Title: Harvard Business Review Making Supply Meet Demand in an Uncertain World  
-   Link: [https://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world](https://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world)  
+   Link: <a href="https://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewMaking Supply Meet Demand in an Uncertain WorldMay 1, 1994 — Manufacturers and retailers alike are ending up with...</p></details>
    Published: May 1, 1994  
 
 4. <a id="endnote-4"></a>
    Source: ec.europa.eu  
    Title: European Commission Study on the competitiveness of the toy industry  
-   Link: [https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native](https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native)  
+   Link: <a href="https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionStudy on the competitiveness of the toy industryOctober 7, 2013 — Growth levels for traditional toys and games sales a...</p></details>
    Published: October 7, 2013  
 
@@ -779,57 +783,57 @@ For LEGO, that recurring Christmas deadline remains one of the clearest demonstr
 5. <a id="endnote-5"></a>
    Source: cms.law  
    Title: ecodesign a new standard for sustainable products with a focus on toy safety  
-   Link: [https://cms.law/en/gbr/legal-updates/ecodesign-a-new-standard-for-sustainable-products-with-a-focus-on-toy-safety](https://cms.law/en/gbr/legal-updates/ecodesign-a-new-standard-for-sustainable-products-with-a-focus-on-toy-safety)  
+   Link: <a href="https://cms.law/en/gbr/legal-updates/ecodesign-a-new-standard-for-sustainable-products-with-a-focus-on-toy-safety" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/ecodesign-a-new-standard-for-sustainable-products-with-a-focus-on-toy-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecodesign: A new standard for sustainable products, with a...8 Jul 2025 — The new Toy Safety Regulation and the Ecodesign Regulation are...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: linkedin.com  
    Title: adelajasamuel1 𝗜𝗻 𝟮𝟬𝟬𝟯 𝗟𝗘𝗚𝗢 𝘄𝗮𝘀 𝗹𝗼𝘀𝗶𝗻 activity 7458063673081794560 D4b  
-   Link: [https://www.linkedin.com/posts/adelajasamuel1_%F0%9D%97%9C%F0%9D%97%BB-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AC%F0%9D%9F%AF-%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%A2-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB-activity-7458063673081794560-_D4b](https://www.linkedin.com/posts/adelajasamuel1_%F0%9D%97%9C%F0%9D%97%BB-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AC%F0%9D%9F%AF-%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%A2-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB-activity-7458063673081794560-_D4b)  
+   Link: <a href="https://www.linkedin.com/posts/adelajasamuel1_%F0%9D%97%9C%F0%9D%97%BB-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AC%F0%9D%9F%AF-%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%A2-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB-activity-7458063673081794560-_D4b" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/adelajasamuel1_%F0%9D%97%9C%F0%9D%97%BB-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AC%F0%9D%9F%AF-%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%A2-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB-activity-7458063673081794560-_D4b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s 2004 Turnaround: Cutting Back to the BrickIn 2003, LEGO was losing 300,000 euros every single day. This wasn&#x27;t a small company mak...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cmr.berkeley.edu  
-   Link: [https://cmr.berkeley.edu/search/articleDetail.aspx?article=5253](https://cmr.berkeley.edu/search/articleDetail.aspx?article=5253)  
+   Link: <a href="https://cmr.berkeley.edu/search/articleDetail.aspx?article=5253" target="_blank" rel="noopener noreferrer nofollow">https://cmr.berkeley.edu/search/articleDetail.aspx?article=5253</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>California Management ReviewSearch | California Management ReviewLike the high-technology industry, toys also suffer from many supply cha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: crowe.com  
-   Link: [https://www.crowe.com/uk/insights/crowe-customs-hub](https://www.crowe.com/uk/insights/crowe-customs-hub)  
+   Link: <a href="https://www.crowe.com/uk/insights/crowe-customs-hub" target="_blank" rel="noopener noreferrer nofollow">https://www.crowe.com/uk/insights/crowe-customs-hub</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowe Customs hub | Crowe UKCrowe Customs hub. All the latest updates and developments on cross-border trade and Customs compliance.Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry](https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry)  
+   Link: <a href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>including short product life, rapid product turnover, and seasonal demand.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scmr.com  
    Title: toys for the holidays are a bellwether  
-   Link: [https://www.scmr.com/article/toys-for-the-holidays-are-a-bellwether](https://www.scmr.com/article/toys-for-the-holidays-are-a-bellwether)  
+   Link: <a href="https://www.scmr.com/article/toys-for-the-holidays-are-a-bellwether" target="_blank" rel="noopener noreferrer nofollow">https://www.scmr.com/article/toys-for-the-holidays-are-a-bellwether</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Dec 2025 — Unlike prior years, toy importers did not front-load inventory ahead of peak season, with October imports down 15%—a sign o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: baldwinglobal.com  
    Title: 1041 en~v~The LEGO Group Case Study  
-   Link: [https://www.baldwinglobal.com/DATA/NOUVELLE/1041_en~v~The_LEGO_Group_Case_Study.pdf](https://www.baldwinglobal.com/DATA/NOUVELLE/1041_en~v~The_LEGO_Group_Case_Study.pdf)  
+   Link: <a href="https://www.baldwinglobal.com/DATA/NOUVELLE/1041_en~v~The_LEGO_Group_Case_Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.baldwinglobal.com/DATA/NOUVELLE/1041_en~v~The_LEGO_Group_Case_Study.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baldwin Lego iBook 2012 Final-PDF VERSIONGiven that the toy market is a fashion industry and that more than 60% of our annual sales come...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: clarksons.com  
    Title: clarkson plc annual report 2024  
-   Link: [https://www.clarksons.com/media/iabfo121/clarkson_plc_annual_report_2024.pdf](https://www.clarksons.com/media/iabfo121/clarkson_plc_annual_report_2024.pdf)  
+   Link: <a href="https://www.clarksons.com/media/iabfo121/clarkson_plc_annual_report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clarksons.com/media/iabfo121/clarkson_plc_annual_report_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CLARKSON PLC — 2024 Annual Report7 Mar 2025 — Through our market-leading position and breadth of services, we work in partnership with ou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hacerlobien.net  
    Title: Grupol 017 Valuation of Lego  
-   Link: [https://www.hacerlobien.net/lego/Grupol-017-Valuation-of-Lego.pdf](https://www.hacerlobien.net/lego/Grupol-017-Valuation-of-Lego.pdf)  
+   Link: <a href="https://www.hacerlobien.net/lego/Grupol-017-Valuation-of-Lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hacerlobien.net/lego/Grupol-017-Valuation-of-Lego.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Valuation of Lego6 May 2016 — Thirty financial statements from 2006 to 2015 are reformulated and analyzed – ten statements from Lego and...</p></details>
    Published: May 2016  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: Lego revenue in recent years has been through the roof  
-   Link: [https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/](https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/)  
+   Link: <a href="https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The turnaround story of Lego is probably part of all European Economics 101 classes these days...</p></details>

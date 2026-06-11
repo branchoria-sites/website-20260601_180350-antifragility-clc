@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /crisis-test/
 nav_short_title: Faster Cycles
 title: How LEGO Learned to Move Faster
-title_full: How LEGO Learned to Move Faster | Crisis Test
+title_full: How LEGO Learned to Move Faster
 display_title_short: Faster Cycles
 display_title: Faster Cycles
 heading_title: How LEGO Learned to Move Faster
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What LEGO's Crisis Revealed About Fragility | LEGO Antifragility
+parent_title: What LEGO's Crisis Revealed About Fragility
 parent_permalink: /crisis-test/
 parent_nav_short_title: Crisis Test
 parent_heading_title: What LEGO's Crisis Revealed About Fragility
@@ -265,7 +265,7 @@ next_link:
   permalink: /legoland-sale/
   short_title: LEGOLAND Sale
   heading_title: Why LEGO Let Go of LEGOLAND Parks
-date: '2026-06-09 03:39:14 '
+date: '2026-06-11 21:39:46 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego
 
 One of the less visible but most important parts of LEGO’s recovery after its early-2000s crisis was learning to move faster. Before the turnaround, the company often worked with long product-development cycles that delayed learning. By the time a product reached retailers, market conditions, consumer preferences, or inventory assumptions could already have changed. After the crisis, LEGO increasingly treated speed not as a threat to quality but as a way to reduce uncertainty. Shorter development cycles allowed the company to test ideas earlier, receive feedback sooner, and correct mistakes before they became expensive. This shift helped transform volatility from a source of damage into a source of learning—a central antifragile characteristic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Today, as the overall toy market declines, LEGO&#x27;s revenues and...</span><span class="citation-popover-meta">Published: September 1, 2009</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-1-dark.svg" | relative_url }}" alt="Faster Cycles illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why 24-Month Development Cycles Were Too Slow
 
@@ -285,7 +284,6 @@ During the years leading up to the crisis, LEGO's growing [complexity]({{ 'compl
 The problem was not merely operational inefficiency. Long cycles created a weak feedback system. Antifragile organisations learn from small errors quickly; fragile organisations discover errors only after they have accumulated. LEGO's crisis revealed that many of its innovation efforts had been launched without enough rapid validation from customers and retailers. Several high-profile initiatives consumed resources before the company understood whether they generated sustainable demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Today, as the overall toy market declines, LEGO&#x27;s revenues and...</span><span class="citation-popover-meta">Published: September 1, 2009</span></span></span>
 
 As part of the turnaround, management began questioning whether every product really required such lengthy development. The goal was not simply to launch more products. The goal was to shorten the distance between an idea and real-world feedback.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fR9flYlQ-1A" title="LEGO DUPLO 100th Anniversary Disney Castle | Demo and Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fR9flYlQ-1A" target="_blank" rel="noopener noreferrer">LEGO DUPLO 100th Anniversary Disney Castle | Demo and Review</a></p><p class="youtube-embed-meta">Channel: TheRoneReview &middot; Views: 1.1K &middot; Uploaded: July 2024 &middot; Length: 4 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fR9flYlQ-1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fR9flYlQ-1A">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +296,6 @@ The faster process forced teams to make decisions earlier, eliminate unnecessary
 This represented a broader cultural shift. Under the old system, certainty was often sought before launch. Under the new system, learning became part of the development process itself. Shorter cycles allowed LEGO to gather evidence from the market rather than relying exclusively on internal forecasts. That distinction was crucial because forecasts become less reliable the further they extend into the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</span></span></span>
 
 From an antifragility perspective, the DUPLO Castle example shows how reducing the size and duration of bets can make a company more resilient. A nine-month experiment creates far less exposure than a two-year commitment based on assumptions that may prove wrong.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-2-dark.svg" | relative_url }}" alt="Faster Cycles illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Speed Improved Feedback and Inventory Control
@@ -317,12 +314,7 @@ Faster product cycles strengthened this effort in several ways:
 
 The result was a tighter connection between market signals and company decisions. Rather than treating planning as a one-time exercise, LEGO increasingly treated it as an ongoing feedback loop.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IjcSKukg9IE" title="LEGO’s Comeback: From Nearly Bankrupt To $6 Billion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer">LEGO’s Comeback: From Nearly Bankrupt To $6 Billion</a></p><p class="youtube-embed-meta">Channel: CNBC Make It</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IjcSKukg9IE">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdGfLg9zs0Y" title="How LEGO&#x27;s Darkest Moment Became Its Greatest Reinvention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdGfLg9zs0Y" target="_blank" rel="noopener noreferrer">How LEGO&#x27;s Darkest Moment Became Its Greatest Reinvention</a></p><p class="youtube-embed-meta">Channel: Erik Kruger &middot; Views: 107 &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdGfLg9zs0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdGfLg9zs0Y">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-3-dark.svg" | relative_url }}" alt="Faster Cycles illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Faster Cycles as an Antifragile Mechanism
 
 The deeper significance of LEGO's move toward faster product development lies in how it changed the company's relationship with uncertainty. The turnaround was not based on predicting consumer behaviour perfectly. Instead, it created systems that could learn from imperfect predictions more quickly.
@@ -331,8 +323,7 @@ In an antifragile [framework]({{ 'framework/' | relative_url }}), mistakes are m
 
 LEGO's recovery therefore involved more than cost reductions or product simplification. It also involved redesigning the speed of learning. By shortening the time between decision and feedback, the company became better able to adapt to changing consumer tastes, retailer requirements, and inventory realities. The organisation emerged from the crisis not because it eliminated uncertainty, but because it learned to respond to uncertainty faster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — How a supply chain transformation helped put the beloved...</span><span class="citation-popover-meta">Published: August 29, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — How a supply chain transformation helped put the beloved...</span><span class="citation-popover-meta">Published: August 29, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</span></span></span>
 
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-3-dark.svg" | relative_url }}" alt="Faster Cycles illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdGfLg9zs0Y" title="How LEGO&#x27;s Darkest Moment Became Its Greatest Reinvention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdGfLg9zs0Y" target="_blank" rel="noopener noreferrer">How LEGO&#x27;s Darkest Moment Became Its Greatest Reinvention</a></p><p class="youtube-embed-meta">Channel: Erik Kruger &middot; Views: 107 &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdGfLg9zs0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdGfLg9zs0Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -451,15 +442,15 @@ LEGO's recovery therefore involved more than cost reductions or product simplifi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION"><img src="https://i.ebayimg.com/images/g/BtAAAeSwultprwjy/s-l225.jpg" alt="Listing image for 1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Hogwarts Castle 71043 Building Kit"><img src="https://i.ebayimg.com/images/g/UssAAeSwrmVqKxTu/s-l225.jpg" alt="Listing image for LEGO Hogwarts Castle 71043 Building Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Hogwarts Castle 71043 Building Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO castle set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO castle set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,15 +458,15 @@ LEGO's recovery therefore involved more than cost reductions or product simplifi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CLASSIC Creative Brick Box Set (10696) Complete Set Boxed with Manual"><img src="https://i.ebayimg.com/images/g/rC4AAeSwarlqGI6R/s-l225.jpg" alt="Listing image for LEGO CLASSIC Creative Brick Box Set (10696) Complete Set Boxed with Manual" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CASTLE SET 40567, FOREST HIDEOUT, USED, COMPLETE"><img src="https://i.ebayimg.com/images/g/DYEAAeSwgpxqKBu2/s-l225.jpg" alt="Listing image for LEGO CASTLE SET 40567, FOREST HIDEOUT, USED, COMPLETE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CLASSIC Creative Brick Box Set (10696) Complete Set Boxed with Manual</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CASTLE SET 40567, FOREST HIDEOUT, USED, COMPLETE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO castle set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO castle set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +474,31 @@ LEGO's recovery therefore involved more than cost reductions or product simplifi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic 10692 Set With 221 pcs With Manual Boxed Retired"><img src="https://i.ebayimg.com/images/g/JasAAeSwGjRqBeNz/s-l225.jpg" alt="Listing image for LEGO Classic 10692 Set With 221 pcs With Manual Boxed Retired" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Castle: Mill Village Raid (7189)"><img src="https://i.ebayimg.com/images/g/i0kAAeSwldpp6iNt/s-l225.jpg" alt="Listing image for LEGO Castle: Mill Village Raid (7189)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic 10692 Set With 221 pcs With Manual Boxed Retired</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Castle: Mill Village Raid (7189)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO castle set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO castle set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons: Lion Knights&#x27; Castle (10305)"><img src="https://i.ebayimg.com/images/g/0woAAeSw5wRqKuKA/s-l225.jpg" alt="Listing image for LEGO Icons: Lion Knights&#x27; Castle (10305)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons: Lion Knights&#x27; Castle (10305)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO castle set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO castle set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,7 +506,7 @@ LEGO's recovery therefore involved more than cost reductions or product simplifi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-learned-to-move-faster-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+castle+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-learned-to-move-faster-lego-castle-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO castle set" data-ebay-reference="how-lego-learned-to-move-faster-lego-castle-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -709,107 +716,108 @@ LEGO's recovery therefore involved more than cost reductions or product simplifi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: bcg.com  
    Title: people organization jorgen vig knudstorp lego growth culture not kid stuff  
-   Link: [https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff](https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff)  
+   Link: <a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: platform01consulting.com  
    Title: lego one of the greatest turnaround stories in corporate history  
-   Link: [https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history](https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history)  
+   Link: <a href="https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history" target="_blank" rel="noopener noreferrer nofollow">https://platform01consulting.com/insights/lego-one-of-the-greatest-turnaround-stories-in-corporate-history</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company also failed to accurately predict the demand for its products, which...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Brick by Brick: How Lego Rewrote the Rules of Innovation  
-   Link: [https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation](https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
 
 5. <a id="endnote-5"></a>
    Source: hbr.org  
    Title: innovating a turnaround at lego  
-   Link: [https://hbr.org/2009/09/innovating-a-turnaround-at-lego](https://hbr.org/2009/09/innovating-a-turnaround-at-lego)  
+   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Today, as the overall toy market declines, LEGO&#x27;s revenues and...</p></details>
    Published: September 1, 2009  
 
 6. <a id="endnote-6"></a>
    Source: strategy-business.com  
    Title: Strategy+business Rebuilding Lego, Brick by Brick  
-   Link: [https://www.strategy-business.com/article/07306](https://www.strategy-business.com/article/07306)  
+   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — How a supply chain transformation helped put the beloved...</p></details>
    Published: August 29, 2007  
 
 7. <a id="endnote-7"></a>
    Source: strategyzer.com  
-   Link: [https://www.strategyzer.com/library/legos-great-business-model-turnaround-story](https://www.strategyzer.com/library/legos-great-business-model-turnaround-story)  
+   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: [https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/](https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/)  
+   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/690259062576157/posts/1282213740047350/](https://www.facebook.com/groups/690259062576157/posts/1282213740047350/)  
+   Link: <a href="https://www.facebook.com/groups/690259062576157/posts/1282213740047350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/690259062576157/posts/1282213740047350/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billund trip review and tips for familiesWhen you say you were on the roof of Lego House before it opened, do you have full access to the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/33209522](https://www.cliffsnotes.com/study-notes/33209522)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/33209522" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33209522</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Expansion and Turnaround: Lessons in Strategy...LEGO rebranded many of their product lines such as LEGO DUPLO which failed to res...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fR9flYlQ-1A](https://www.youtube.com/watch?v=fR9flYlQ-1A)  
+   Link: <a href="https://www.youtube.com/watch?v=fR9flYlQ-1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fR9flYlQ-1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO DUPLO 100th Anniversary Disney Castle | Demo and...Buy on Amazon: [https://geni.us/UmSxpN](https://geni.us/UmSxpN) This Lego Duplo 3-in-1 Disney Castle featu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: amazon.co.uk  
    Title: Lego Duplo Castle DUPLO Hopsy's Castle Game  
-   Link: [https://www.amazon.co.uk/lego-duplo-castle/s?k=lego+duplo+castle](https://www.amazon.co.uk/lego-duplo-castle/s?k=lego+duplo+castle)  
+   Link: <a href="https://www.amazon.co.uk/lego-duplo-castle/s?k=lego+duplo+castle" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/lego-duplo-castle/s?k=lego+duplo+castle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Duplo CastleDUPLO Hopsy&#x27;s Castle Game - Educational Motor Skills Toy for Toddlers - incl. 3 Animal Figures, a Toy Castle &amp; a Board G...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: how lego clicked the super brand that reinvented itself  
-   Link: [https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego clicked: the super brand that reinvented itself4 Jun 2017 — The revival of Lego has been hailed as the greatest turnaround in co...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/KAMNext/posts/2583204418400948/](https://www.facebook.com/groups/KAMNext/posts/2583204418400948/)  
+   Link: <a href="https://www.facebook.com/groups/KAMNext/posts/2583204418400948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/KAMNext/posts/2583204418400948/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jørgen Vig Knudstorp, who sold off non-essential parts of the business...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: helpmegrow.co.uk  
    Title: the lego turnaround a masterclass in business revival  
-   Link: [https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/](https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/)  
+   Link: <a href="https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/" target="_blank" rel="noopener noreferrer nofollow">https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Turnaround: A Masterclass in Business Revival11 Dec 2024 — LEGO&#x27;s remarkable turnaround offers valuable insights into how strate...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: northco.co.uk  
    Title: Lego simplified its product range, cutting unique bricks by 30%.Read more  
-   Link: [https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/](https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/)  
+   Link: <a href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow">https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How an Iconic Brand Rebuilt Itself—And How You Can Too2 Feb 2025 — The Lego Turnaround: How an Iconic Brand Rebuilt Itself—And How You Ca...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV31wOdDKcC/](https://www.instagram.com/reel/DV31wOdDKcC/)  
+   Link: <a href="https://www.instagram.com/reel/DV31wOdDKcC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV31wOdDKcC/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ning [market share](&amp;#123;&amp;#123; &#x27;market-share/&#x27; | relative_url &amp;#125;&amp;#125;) and more room on retail shelves. The secret: a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 329464422 Innovating a Turnaround at LEGO  
-   Link: [https://www.researchgate.net/publication/329464422_Innovating_a_Turnaround_at_LEGO](https://www.researchgate.net/publication/329464422_Innovating_a_Turnaround_at_LEGO)  
+   Link: <a href="https://www.researchgate.net/publication/329464422_Innovating_a_Turnaround_at_LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329464422_Innovating_a_Turnaround_at_LEGO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Innovating a Turnaround at LEGO7 Dec 2018 — The world famous toymaker, The LEGO Group (LEGO), assembles an internal management team...</p></details>

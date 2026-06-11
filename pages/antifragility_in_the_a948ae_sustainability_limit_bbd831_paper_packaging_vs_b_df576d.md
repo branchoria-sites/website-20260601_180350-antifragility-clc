@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sustainability/
 nav_short_title: Packaging
 title: Why LEGO Bags Can Change Before Bricks
-title_full: Why LEGO Bags Can Change Before Bricks | Sustainability
+title_full: Why LEGO Bags Can Change Before Bricks
 display_title_short: Packaging
 display_title: Packaging
 heading_title: Why LEGO Bags Can Change Before Bricks
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where LEGO's Antifragility Hits Hard Limits | LEGO Antifragility
+parent_title: Where LEGO's Antifragility Hits Hard Limits
 parent_permalink: /sustainability/
 parent_nav_short_title: Sustainability
 parent_heading_title: Where LEGO's Antifragility Hits Hard Limits
@@ -265,7 +265,7 @@ next_link:
   permalink: /pet-failure/
   short_title: PET Failure
   heading_title: Why Recycled Bottles Did Not Become Bricks
-date: '2026-06-09 03:49:18 '
+date: '2026-06-11 21:41:07 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_pa
 
 ## Introduction
 
-LEGO has found that changing packaging is difficult, but changing bricks is vastly harder. The company can redesign a paper bag, test it, adjust it and roll it out without altering the fundamental LEGO building experience. A brick material change is different. The plastic is not simply a container for the product; it is the product. Every change affects clutch power, durability, colour consistency, safety standards, factory equipment and [compatibility]({{ 'compatibility/' | relative_url }}) with bricks made decades ago. That contrast helps explain why LEGO has made visible progress on paper-based packaging while still struggling to replace the oil-derived plastics used in most bricks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-boxes-in-europe-and-asia-to-contain-paper-based-bags" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® boxes in Europe and Asia to contain paper-based</span><span class="citation-popover-snippet">LEGOLEGO® boxes in Europe and Asia to contain paper-based...February 19, 2025 — 21 Nov 2023 — The rollout of the new paper-based bags, w...</span><span class="citation-popover-meta">Published: February 19, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/business/2020/sep/15/lego--paper-bags-packaging-sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">lego paper bags packaging sustainability</span><span class="citation-popover-snippet">Lego to switch to eco-friendly paper bags in its packaging15 Sept 2020 — The Danish toymaker, which aims to make all its packaging sustai...</span></span></span>
-
+LEGO has found that changing packaging is difficult, but changing bricks is vastly harder. The company can redesign a paper bag, test it, adjust it and roll it out without altering the fundamental LEGO building experience. A brick material change is different. The plastic is not simply a container for the product; it is the product. Every change affects clutch power, durability, colour consistency, safety standards, factory equipment and [compatibility]({{ 'compatibility/' | relative_url }}) with bricks made decades ago. That contrast helps explain why LEGO has made visible progress on paper-based packaging while still struggling to replace the oil-derived plastics used in most bricks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-boxes-in-europe-and-asia-to-contain-paper-based-bags" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® boxes in Europe and Asia to contain paper-based</span><span class="citation-popover-snippet">LEGO® boxes in Europe and Asia to contain paper-based...February 19, 2025 — 21 Nov 2023 — The rollout of the new paper-based bags, w...</span><span class="citation-popover-meta">Published: February 19, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/business/2020/sep/15/lego--paper-bags-packaging-sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">lego paper bags packaging sustainability</span><span class="citation-popover-snippet">Lego to switch to eco-friendly paper bags in its packaging15 Sept 2020 — The Danish toymaker, which aims to make all its packaging sustai...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1-dark.svg" | relative_url }}" alt="Packaging illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The difference also reveals an important limit in LEGO’s antifragility. The company can adapt quickly when [sustainability]({{ 'sustainability/' | relative_url }}) challenges sit around the edge of its system. It moves much more slowly when those challenges reach into the engineering foundations that make the LEGO system work.
@@ -288,10 +287,9 @@ This gives LEGO room to experiment. If a paper bag tears too easily, creates sor
 
 That flexibility is visible in LEGO’s packaging transition. The company began testing paper-based internal bags several years ago, gathering feedback from families and refining [materials]({{ 'materials/' | relative_url }}) before wider deployment. The rollout has proceeded factory by factory rather than requiring an immediate transformation of the entire production system. LEGO reported that the transition started in 2022 and has gradually expanded across multiple manufacturing sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: packagingeurope.com">[Packaging Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">packagingeurope.com</span><span class="citation-popover-snippet">lego2-01.07.jpg. Like you...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/november/over-half-of-lego-group-packing-lines-switch-from-plastic-bags-to-paper-based-alternatives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Over half of LEGO packing lines switch from plastic bags26 Nov 2025 — The transition from single-use plastic to paper-based bags that hou...</span></span></span>
 
-The economics are also easier to manage. Packaging represents only part of a set’s material footprint. Improving it can reduce single-use plastics and create visible sustainability gains without forcing a complete rebuild of moulding operations, quality systems or brick chemistry. LEGO has stated that most of its packaging by weight is already paper-based and has continued increasing the share of paper bags inside sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.productsofchange.com/incredible-achievement-lego-reveals-the-challenges-overcome-in-sustainable-packaging-transition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productsofchange.com">[Products of Change]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productsofchange.com</span><span class="citation-popover-title">Currently, 93% of packaging by weight is made from paper,</span><span class="citation-popover-snippet">Products of Change&#x27;Incredible achievement&#x27; | LEGO reveals the challenges...January 8, 2024 — 8 Jan 2024 — LEGO aims to make all its pack...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: packagingeurope.com">[Packaging Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">packagingeurope.com</span><span class="citation-popover-snippet">lego2-01.07.jpg. Like you...Read more...</span></span></span>
+The economics are also easier to manage. Packaging represents only part of a set’s material footprint. Improving it can reduce single-use plastics and create visible sustainability gains without forcing a complete rebuild of moulding operations, quality systems or brick chemistry. LEGO has stated that most of its packaging by weight is already paper-based and has continued increasing the share of paper bags inside sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.productsofchange.com/incredible-achievement-lego-reveals-the-challenges-overcome-in-sustainable-packaging-transition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productsofchange.com">[Products of Change]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productsofchange.com</span><span class="citation-popover-title">Currently, 93% of packaging by weight is made from paper,</span><span class="citation-popover-snippet">Products of Change&#x27;Incredible achievement&#x27; &#124; LEGO reveals the challenges...January 8, 2024 — 8 Jan 2024 — LEGO aims to make all its pack...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: packagingeurope.com">[Packaging Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">packagingeurope.com</span><span class="citation-popover-snippet">lego2-01.07.jpg. Like you...Read more...</span></span></span>
 
 In practical terms, packaging sustainability is a peripheral engineering problem. It is challenging, but it does not threaten the core mechanics that define the product.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Lr3ZQvfrWw" title="The Journey to Paper-based Bags" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Lr3ZQvfrWw" target="_blank" rel="noopener noreferrer">The Journey to Paper-based Bags</a></p><p class="youtube-embed-meta">Channel: The LEGO Group &middot; Views: 58.1K &middot; Uploaded: November 2024 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Lr3ZQvfrWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Lr3ZQvfrWw">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +297,7 @@ In practical terms, packaging sustainability is a peripheral engineering problem
 
 A LEGO brick carries far more technical responsibilities than a paper bag.
 
-The familiar click between bricks depends on extremely precise material behaviour. The plastic must be rigid enough to hold connections, flexible enough not to crack, stable enough to maintain exact tolerances and durable enough to survive years of use. Small deviations can affect how pieces connect and separate. This is why replacing acrylonitrile butadiene styrene (ABS), the plastic used in most LEGO bricks, has proven so difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iom3.org">[IOM3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iom3.org</span><span class="citation-popover-title">lego drops recycled plastic prototype</span><span class="citation-popover-snippet">IOM3LEGO drops recycled plastic prototype3 Oct 2023 — The material rPET is being dropped after two years of testing, as despite having sh...</span></span></span>
+The familiar click between bricks depends on extremely precise material behaviour. The plastic must be rigid enough to hold connections, flexible enough not to crack, stable enough to maintain exact tolerances and durable enough to survive years of use. Small deviations can affect how pieces connect and separate. This is why replacing acrylonitrile butadiene styrene (ABS), the plastic used in most LEGO bricks, has proven so difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iom3.org">[IOM3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iom3.org</span><span class="citation-popover-title">lego drops recycled plastic prototype</span><span class="citation-popover-snippet">LEGO drops recycled plastic prototype3 Oct 2023 — The material rPET is being dropped after two years of testing, as despite having sh...</span></span></span>
 
 The failed recycled PET project illustrates the problem. At first glance, using recycled drinks bottles appeared straightforward: convert waste plastic into bricks and reduce dependence on fossil-based materials. After years of testing, however, LEGO concluded that the approach would not deliver the environmental benefits it wanted. The material required additional processing and factory adjustments, while the overall carbon footprint ended up higher than expected. Reports also noted performance challenges linked to the material's suitability for LEGO’s demanding specifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/09/25/lego-oil-free-bricks-recycled-bottles-plan-ditched" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The company revealed that using recycled PET would have resulted in higher carbon emissions due to the significant manufacturing changes...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">lego abandons effort to make bricks from recycled plastic bottles</span><span class="citation-popover-snippet">The GuardianLego abandons effort to make bricks from recycled plastic...24 Sept 2023 — Lego has stopped a project to make bricks from re...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plasticsengineering.org/2023/09/lego_drops_plan_to_make_its_bricks_from_recycled_pet_bottles-002028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plasticsengineering.org">[Plastics Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plasticsengineering.org</span><span class="citation-popover-title">lego drops plan to make its bricks from recycled pet bottles 002028</span><span class="citation-popover-snippet">Lego Drops Plan to Make Its Bricks From Recycled PET...25 Sept 2023 — Danish toymaker Lego tried to replace ABS resin with PET from recy...</span></span></span>
 
@@ -307,8 +305,7 @@ Unlike packaging, brick materials cannot fail locally.
 
 If a paper bag underperforms, LEGO can replace or improve it without affecting every set in circulation. If a new brick material creates durability problems, colour instability or compatibility issues, the consequences spread across the entire ecosystem. A successful replacement must work with billions of existing elements, thousands of moulds and decades of accumulated consumer expectations.
 
-That requirement turns sustainability into a systems challenge. The company has tested hundreds of alternative materials, yet finding one that satisfies environmental goals while preserving the LEGO experience has proven far more difficult than finding a recyclable packaging solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego to replace oil in its bricks with pricier renewable plastic</span><span class="citation-popover-snippet">The company has tested over 600 materials to find a suitable alternative but has seen limited success. Lego aims to reduce its oil-based...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iom3.org">[2IOM3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iom3.org</span><span class="citation-popover-title">lego drops recycled plastic prototype</span><span class="citation-popover-snippet">IOM3LEGO drops recycled plastic prototype3 Oct 2023 — The material rPET is being dropped after two years of testing, as despite having sh...</span></span></span>
-
+That requirement turns sustainability into a systems challenge. The company has tested hundreds of alternative materials, yet finding one that satisfies environmental goals while preserving the LEGO experience has proven far more difficult than finding a recyclable packaging solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego to replace oil in its bricks with pricier renewable plastic</span><span class="citation-popover-snippet">The company has tested over 600 materials to find a suitable alternative but has seen limited success. Lego aims to reduce its oil-based...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iom3.org">[2IOM3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iom3.org</span><span class="citation-popover-title">lego drops recycled plastic prototype</span><span class="citation-popover-snippet">LEGO drops recycled plastic prototype3 Oct 2023 — The material rPET is being dropped after two years of testing, as despite having sh...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-2-dark.svg" | relative_url }}" alt="Packaging illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Packaging Can Change Without Rewriting History
@@ -320,9 +317,6 @@ A paper bag does not need to connect to a paper bag made in 1985. A cardboard bo
 Bricks are permanent by design. A child can combine a newly purchased brick with one inherited from a parent and expect them to fit together perfectly. That promise is one of LEGO’s strongest advantages, but it makes material transitions much harder.
 
 Every new resin must preserve backwards compatibility across generations. A sustainability improvement that weakens that promise risks damaging one of the company’s core strengths. Packaging improvements face no equivalent burden.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c5JltNaf7w0" title="Why is LEGO Abandoning the Recycled Plastic Project?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c5JltNaf7w0" target="_blank" rel="noopener noreferrer">Why is LEGO Abandoning the Recycled Plastic Project?</a></p><p class="youtube-embed-meta">Channel: Engineering TV &middot; Views: 941 &middot; Uploaded: October 2023 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c5JltNaf7w0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c5JltNaf7w0">Open on YouTube</a></p></div></div></div>
 
 ## Why Consumers Notice Packaging Progress More Easily
 
@@ -337,7 +331,6 @@ This creates a communication asymmetry.
 Paper packaging generates visible sustainability signals even when its environmental impact is relatively limited compared with the total product system. Greener brick materials may eventually deliver larger emissions reductions, but they are often invisible to the customer. The easier project becomes more noticeable, while the harder project remains largely hidden.
 
 That difference helps explain why packaging transitions frequently appear faster and more successful in public sustainability narratives.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-3-dark.svg" | relative_url }}" alt="Packaging illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Contrast Reveals About Antifragility
@@ -354,9 +347,7 @@ The contrast between paper bags and plastic bricks therefore reveals something i
 
 Paper packaging shows where LEGO’s antifragility works. Greener bricks show where it encounters hard limits.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/14XDPNo3DiM" title="Supermarkets under pressure to reduce plastic wrapping on fresh produce | ABC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=14XDPNo3DiM" target="_blank" rel="noopener noreferrer">Supermarkets under pressure to reduce plastic wrapping on fresh produce | ABC News</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=14XDPNo3DiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=14XDPNo3DiM">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c5JltNaf7w0" title="Why is LEGO Abandoning the Recycled Plastic Project?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c5JltNaf7w0" target="_blank" rel="noopener noreferrer">Why is LEGO Abandoning the Recycled Plastic Project?</a></p><p class="youtube-embed-meta">Channel: Engineering TV &middot; Views: 941 &middot; Uploaded: October 2023 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c5JltNaf7w0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c5JltNaf7w0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -475,15 +466,15 @@ Paper packaging shows where LEGO’s antifragility works. Greener bricks show wh
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed"><img src="https://i.ebayimg.com/images/g/lRoAAeSwz5hqD3tt/s-l225.jpg" alt="Listing image for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 40517 - Vespa- Red Scooter Building Set Brand &amp; New Sealed"><img src="https://i.ebayimg.com/images/g/VfwAAeSwfT1qKFGu/s-l225.jpg" alt="Listing image for LEGO Creator 40517 - Vespa- Red Scooter Building Set Brand &amp; New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 40517 - Vespa- Red Scooter Building Set Brand &amp; New Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO sealed set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO sealed set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +482,15 @@ Paper packaging shows where LEGO’s antifragility works. Greener bricks show wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece."><img src="https://i.ebayimg.com/images/g/8HEAAeSwDe5qEyfx/s-l225.jpg" alt="Listing image for LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Jurassic World 76970 Baby Dinosaur Dolores: Aquilops – New Sealed Set"><img src="https://i.ebayimg.com/images/g/rVcAAeSwUatpzUNB/s-l225.jpg" alt="Listing image for LEGO Jurassic World 76970 Baby Dinosaur Dolores: Aquilops – New Sealed Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Editions Football Set 43019 Collectable Display Model 1498 Piece.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Jurassic World 76970 Baby Dinosaur Dolores: Aquilops – New Sealed Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO sealed set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO sealed set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +498,31 @@ Paper packaging shows where LEGO’s antifragility works. Greener bricks show wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons Kingfisher Bird 10331 Set - New, Sealed, Slight Dent On Box Edge"><img src="https://i.ebayimg.com/images/g/BzsAAeSw4VlqKsPV/s-l225.jpg" alt="Listing image for LEGO Icons Kingfisher Bird 10331 Set - New, Sealed, Slight Dent On Box Edge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons Kingfisher Bird 10331 Set - New, Sealed, Slight Dent On Box Edge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO sealed set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO sealed set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Jaws Set with Model Shark &amp; Boat 21350 Brand New Sealed Retired"><img src="https://i.ebayimg.com/images/g/u0UAAeSwqyxqFZ9C/s-l225.jpg" alt="Listing image for LEGO Ideas Jaws Set with Model Shark &amp; Boat 21350 Brand New Sealed Retired" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Jaws Set with Model Shark &amp; Boat 21350 Brand New Sealed Retired</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO sealed set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO sealed set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,7 +530,7 @@ Paper packaging shows where LEGO’s antifragility works. Greener bricks show wh
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+sealed+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-bags-can-change-before-bricks-lego-sealed-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO sealed set" data-ebay-reference="why-lego-bags-can-change-before-bricks-lego-sealed-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -733,156 +740,157 @@ Paper packaging shows where LEGO’s antifragility works. Greener bricks show wh
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: ® boxes in Europe and Asia to contain paper-based  
-   Link: [https://www.lego.com/en-us/aboutus/news/2023/november/lego-boxes-in-europe-and-asia-to-contain-paper-based-bags](https://www.lego.com/en-us/aboutus/news/2023/november/lego-boxes-in-europe-and-asia-to-contain-paper-based-bags)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® boxes in Europe and Asia to contain paper-based...February 19, 2025 — 21 Nov 2023 — The rollout of the new paper-based bags, w...</p></details>
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-boxes-in-europe-and-asia-to-contain-paper-based-bags" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/november/lego-boxes-in-europe-and-asia-to-contain-paper-based-bags</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® boxes in Europe and Asia to contain paper-based...February 19, 2025 — 21 Nov 2023 — The rollout of the new paper-based bags, w...</p></details>
    Published: February 19, 2025  
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/november/over-half-of-lego-group-packing-lines-switch-from-plastic-bags-to-paper-based-alternatives](https://www.lego.com/en-us/aboutus/news/2025/november/over-half-of-lego-group-packing-lines-switch-from-plastic-bags-to-paper-based-alternatives)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/november/over-half-of-lego-group-packing-lines-switch-from-plastic-bags-to-paper-based-alternatives" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/november/over-half-of-lego-group-packing-lines-switch-from-plastic-bags-to-paper-based-alternatives</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over half of LEGO packing lines switch from plastic bags26 Nov 2025 — The transition from single-use plastic to paper-based bags that hou...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: iom3.org  
    Title: lego drops recycled plastic prototype  
-   Link: [https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html](https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IOM3LEGO drops recycled plastic prototype3 Oct 2023 — The material rPET is being dropped after two years of testing, as despite having sh...</p></details>
+   Link: <a href="https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iom3.org/resource/lego-drops-recycled-plastic-prototype.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO drops recycled plastic prototype3 Oct 2023 — The material rPET is being dropped after two years of testing, as despite having sh...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/09/25/lego-oil-free-bricks-recycled-bottles-plan-ditched](https://www.axios.com/2023/09/25/lego-oil-free-bricks-recycled-bottles-plan-ditched)  
+   Link: <a href="https://www.axios.com/2023/09/25/lego-oil-free-bricks-recycled-bottles-plan-ditched" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/25/lego-oil-free-bricks-recycled-bottles-plan-ditched</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company revealed that using recycled PET would have resulted in higher carbon emissions due to the significant manufacturing changes...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: Lego to replace oil in its bricks with pricier renewable plastic  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company has tested over 600 materials to find a suitable alternative but has seen limited success. Lego aims to reduce its oil-based...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
    Title: Making LEGO® Bricks More Sustainable  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/march/making-lego-bricks-more-sustainable-](https://www.lego.com/en-us/aboutus/news/2024/march/making-lego-bricks-more-sustainable-)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/making-lego-bricks-more-sustainable-" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/making-lego-bricks-more-sustainable-</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us6 Mar 2024 — By 2032, our ambition is to make LEGO products from materials that are renewable and recycled. This ambition require...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/sustainability/recycle](https://www.lego.com/en-gb/sustainability/recycle)  
+   Link: <a href="https://www.lego.com/en-gb/sustainability/recycle" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/recycle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainability - LEGO.comWe&#x27;re in the process of switching from single-use plastic to paper-based bags.... Since 2022, we have been usin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: lego paper bags packaging sustainability  
-   Link: [https://www.theguardian.com/business/2020/sep/15/lego--paper-bags-packaging-sustainability](https://www.theguardian.com/business/2020/sep/15/lego--paper-bags-packaging-sustainability)  
+   Link: <a href="https://www.theguardian.com/business/2020/sep/15/lego--paper-bags-packaging-sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2020/sep/15/lego--paper-bags-packaging-sustainability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego to switch to eco-friendly paper bags in its packaging15 Sept 2020 — The Danish toymaker, which aims to make all its packaging sustai...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: lego abandons effort to make bricks from recycled plastic bottles  
-   Link: [https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianLego abandons effort to make bricks from recycled plastic...24 Sept 2023 — Lego has stopped a project to make bricks from re...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: packagingeurope.com  
-   Link: [https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article](https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article)  
+   Link: <a href="https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article" target="_blank" rel="noopener noreferrer nofollow">https://packagingeurope.com/the-lego-approach-to-packaging-sustainability/2841.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lego2-01.07.jpg. Like you...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: productsofchange.com  
    Title: Currently, 93% of packaging by weight is made from paper,  
-   Link: [https://www.productsofchange.com/incredible-achievement-lego-reveals-the-challenges-overcome-in-sustainable-packaging-transition/](https://www.productsofchange.com/incredible-achievement-lego-reveals-the-challenges-overcome-in-sustainable-packaging-transition/)  
+   Link: <a href="https://www.productsofchange.com/incredible-achievement-lego-reveals-the-challenges-overcome-in-sustainable-packaging-transition/" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/incredible-achievement-lego-reveals-the-challenges-overcome-in-sustainable-packaging-transition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Products of Change&#x27;Incredible achievement&#x27; | LEGO reveals the challenges...January 8, 2024 — 8 Jan 2024 — LEGO aims to make all its pack...</p></details>
    Published: January 8, 2024  
 
 12. <a id="endnote-12"></a>
    Source: packagingeurope.com  
-   Link: [https://packagingeurope.com/news/over-95-of-lego-packaging-was-paper-based-in-2025-annual-report-suggests/14016.article](https://packagingeurope.com/news/over-95-of-lego-packaging-was-paper-based-in-2025-annual-report-suggests/14016.article)  
+   Link: <a href="https://packagingeurope.com/news/over-95-of-lego-packaging-was-paper-based-in-2025-annual-report-suggests/14016.article" target="_blank" rel="noopener noreferrer nofollow">https://packagingeurope.com/news/over-95-of-lego-packaging-was-paper-based-in-2025-annual-report-suggests/14016.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Over 95% of Lego packaging was paper-based in 2025...11 Mar 2026 — Made from at least 95% paper with a thin plastic coating for sealing...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plasticsengineering.org  
    Title: lego drops plan to make its bricks from recycled pet bottles 002028  
-   Link: [https://www.plasticsengineering.org/2023/09/lego_drops_plan_to_make_its_bricks_from_recycled_pet_bottles-002028/](https://www.plasticsengineering.org/2023/09/lego_drops_plan_to_make_its_bricks_from_recycled_pet_bottles-002028/)  
+   Link: <a href="https://www.plasticsengineering.org/2023/09/lego_drops_plan_to_make_its_bricks_from_recycled_pet_bottles-002028/" target="_blank" rel="noopener noreferrer nofollow">https://www.plasticsengineering.org/2023/09/lego_drops_plan_to_make_its_bricks_from_recycled_pet_bottles-002028/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Drops Plan to Make Its Bricks From Recycled PET...25 Sept 2023 — Danish toymaker Lego tried to replace ABS resin with PET from recy...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: lego plans to make half the plastic in bricks from renewable materials by 2026  
-   Link: [https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026](https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Currently, 22% of the materials in Lego bricks are derived from non-fossil sources. The company is testing over 600 alternative materials...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: luxresearchinc.com  
    Title: what can we learn from legos recycling failure  
-   Link: [https://luxresearchinc.com/blog/what-can-we-learn-from-legos-recycling-failure/](https://luxresearchinc.com/blog/what-can-we-learn-from-legos-recycling-failure/)  
+   Link: <a href="https://luxresearchinc.com/blog/what-can-we-learn-from-legos-recycling-failure/" target="_blank" rel="noopener noreferrer nofollow">https://luxresearchinc.com/blog/what-can-we-learn-from-legos-recycling-failure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from LEGO&#x27;s Recycling Failure15 Nov 2023 — Lego recently announced that it was winding down a program to recycle polyethylene ter...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: packagingeurope.com  
-   Link: [https://packagingeurope.com/news/lego-backs-down-on-recycling-plastic-bottles-into-bricks-citing-increased-emissions/10373.article](https://packagingeurope.com/news/lego-backs-down-on-recycling-plastic-bottles-into-bricks-citing-increased-emissions/10373.article)  
+   Link: <a href="https://packagingeurope.com/news/lego-backs-down-on-recycling-plastic-bottles-into-bricks-citing-increased-emissions/10373.article" target="_blank" rel="noopener noreferrer nofollow">https://packagingeurope.com/news/lego-backs-down-on-recycling-plastic-bottles-into-bricks-citing-increased-emissions/10373.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego backs down on recycling plastic bottles into bricks...26 Sept 2023 — According to Financial Times, Lego has reversed its decision...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/967478717319949/posts/2184871775580631/](https://www.facebook.com/groups/967478717319949/posts/2184871775580631/)  
+   Link: <a href="https://www.facebook.com/groups/967478717319949/posts/2184871775580631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/967478717319949/posts/2184871775580631/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges with all paper bags in Lego setsEncountered my first &quot;all paper bags&quot; set. I&#x27;m a fan of saving the environment. But I&#x27;m not us...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: esgtoday.com  
    Title: lego passes halfway point in transition to paper based packaging for bricks  
-   Link: [https://www.esgtoday.com/lego-passes-halfway-point-in-transition-to-paper-based-packaging-for-bricks/](https://www.esgtoday.com/lego-passes-halfway-point-in-transition-to-paper-based-packaging-for-bricks/)  
+   Link: <a href="https://www.esgtoday.com/lego-passes-halfway-point-in-transition-to-paper-based-packaging-for-bricks/" target="_blank" rel="noopener noreferrer nofollow">https://www.esgtoday.com/lego-passes-halfway-point-in-transition-to-paper-based-packaging-for-bricks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Passes Halfway Point in Transition to Paper-based...26 Nov 2025 — The LEGO Group announced an update in its progress on its initiat...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6Lr3ZQvfrWw](https://www.youtube.com/watch?v=6Lr3ZQvfrWw)  
+   Link: <a href="https://www.youtube.com/watch?v=6Lr3ZQvfrWw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6Lr3ZQvfrWw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journey to Paper-based BagsThe journey to build the right bag for our Lego bricks has been a big challenge but over 350 clever and cr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cbsnews.com  
    Title: lego recycled plastic prototype blocks pet didnt reduce carbon emissions  
-   Link: [https://www.cbsnews.com/news/lego-recycled-plastic-prototype-blocks-pet-didnt-reduce-carbon-emissions/](https://www.cbsnews.com/news/lego-recycled-plastic-prototype-blocks-pet-didnt-reduce-carbon-emissions/)  
+   Link: <a href="https://www.cbsnews.com/news/lego-recycled-plastic-prototype-blocks-pet-didnt-reduce-carbon-emissions/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lego-recycled-plastic-prototype-blocks-pet-didnt-reduce-carbon-emissions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego drops prototype blocks made of recycled plastic...25 Sept 2023 — Danish toy giant Lego said 2 years of experimentation with blocks...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: supplychainbrain.com  
    Title: 38161 lego abandons effort to make bricks from recycled plastic bottles  
-   Link: [https://www.supplychainbrain.com/articles/38161-lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles](https://www.supplychainbrain.com/articles/38161-lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)  
+   Link: <a href="https://www.supplychainbrain.com/articles/38161-lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow">https://www.supplychainbrain.com/articles/38161-lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Abandons Effort to Make Bricks From Recycled...Sep 25, 2023 — Lego has stopped a project to make bricks from recycled drinks bottle...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: designboom.com  
    Title: lego bricks recycled plastic bottles pet carbon emissions 09 26 2023  
-   Link: [https://www.designboom.com/technology/lego-bricks-recycled-plastic-bottles-pet-carbon-emissions-09-26-2023/](https://www.designboom.com/technology/lego-bricks-recycled-plastic-bottles-pet-carbon-emissions-09-26-2023/)  
+   Link: <a href="https://www.designboom.com/technology/lego-bricks-recycled-plastic-bottles-pet-carbon-emissions-09-26-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.designboom.com/technology/lego-bricks-recycled-plastic-bottles-pet-carbon-emissions-09-26-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO discontinues bricks made of recycled plastic bottles...26 Sept 2023 — LEGO will no longer make bricks made of recycled plastic bott...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: brickfanatics.com  
    Title: paper bags in lego boxes sometimes the simplest answer is the best  
-   Link: [https://www.brickfanatics.com/paper-bags-in-lego-boxes-sometimes-the-simplest-answer-is-the-best](https://www.brickfanatics.com/paper-bags-in-lego-boxes-sometimes-the-simplest-answer-is-the-best)  
+   Link: <a href="https://www.brickfanatics.com/paper-bags-in-lego-boxes-sometimes-the-simplest-answer-is-the-best" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/paper-bags-in-lego-boxes-sometimes-the-simplest-answer-is-the-best</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paper bags in LEGO boxes: “Sometimes the simplest...1 Oct 2020 — For us, the point there is that the bags were not reusable and were not...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: energymonitor.ai  
    Title: signal oil free lego bricks scrapped amid sustainability concerns  
-   Link: [https://www.energymonitor.ai/news/signal-oil-free-lego-bricks-scrapped-amid-sustainability-concerns/](https://www.energymonitor.ai/news/signal-oil-free-lego-bricks-scrapped-amid-sustainability-concerns/)  
+   Link: <a href="https://www.energymonitor.ai/news/signal-oil-free-lego-bricks-scrapped-amid-sustainability-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.energymonitor.ai/news/signal-oil-free-lego-bricks-scrapped-amid-sustainability-concerns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oil-free Lego bricks scrapped amid sustainability concerns25 Sept 2023 — Intended to improve sustainability, Lego&#x27;s oil-free prototype wo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: traveltomorrow.com  
    Title: lego abandons plan to make bricks from recycled plastic bottles  
-   Link: [https://traveltomorrow.com/lego-abandons-plan-to-make-bricks-from-recycled-plastic-bottles/](https://traveltomorrow.com/lego-abandons-plan-to-make-bricks-from-recycled-plastic-bottles/)  
+   Link: <a href="https://traveltomorrow.com/lego-abandons-plan-to-make-bricks-from-recycled-plastic-bottles/" target="_blank" rel="noopener noreferrer nofollow">https://traveltomorrow.com/lego-abandons-plan-to-make-bricks-from-recycled-plastic-bottles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego abandons plan to make bricks from recycled plastic...28 Sept 2023 — Lego has announced that, after intensive testing and high optim...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: euronews.com  
    Title: Lego's quest to make recycled plastic bricks has failed  
-   Link: [https://www.euronews.com/2023/09/25/legos-quest-to-make-recycled-plastic-bricks-has-failed-now-the-toymaker-is-turning-to-e-me](https://www.euronews.com/2023/09/25/legos-quest-to-make-recycled-plastic-bricks-has-failed-now-the-toymaker-is-turning-to-e-me)  
+   Link: <a href="https://www.euronews.com/2023/09/25/legos-quest-to-make-recycled-plastic-bricks-has-failed-now-the-toymaker-is-turning-to-e-me" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2023/09/25/legos-quest-to-make-recycled-plastic-bricks-has-failed-now-the-toymaker-is-turning-to-e-me</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Sept 2023 — Toymaker Lego has abandoned plans to make recycled plastic bricks after finding the materials would lead to higher carbon...</p></details>

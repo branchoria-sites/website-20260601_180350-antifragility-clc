@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /seasonality/
 nav_short_title: Regional Supply
 title: Why Nearby Factories Matter Before Christmas
-title_full: Why Nearby Factories Matter Before Christmas | Seasonality
+title_full: Why Nearby Factories Matter Before Christmas
 display_title_short: Regional Supply
 display_title: Regional Supply
 heading_title: Why Nearby Factories Matter Before Christmas
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Toy Seasonality Tests LEGO's Strength | LEGO Antifragility
+parent_title: Why Toy Seasonality Tests LEGO's Strength
 parent_permalink: /seasonality/
 parent_nav_short_title: Seasonality
 parent_heading_title: Why Toy Seasonality Tests LEGO's Strength
@@ -265,7 +265,7 @@ next_link:
   permalink: /toy-fads/
   short_title: Toy Fads
   heading_title: When Fads Move Faster Than Factory Plans
-date: '2026-06-09 03:51:12 '
+date: '2026-06-11 21:41:21 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_re
 
 ## Introduction
 
-For companies with highly seasonal demand, like LEGO, getting products into customers’ hands on time is as much a manufacturing strategy as it is a marketing challenge. Holiday demand peaks — and the organisational penalties for missing them — turn long lead times into a core vulnerability. One of the strongest ways LEGO manages this volatility is by locating factories and distribution hubs close to its major markets. This regional supply‑chain approach shortens lead times, increases response [options]({{ 'options/' | relative_url }}) late in the year, and turns a fragile global system into one that can flex and adapt when seasonal demand spikes suddenly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/aboutus/news/2025/april/from-production-to-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">From Production to Play</span><span class="citation-popover-snippet">LEGOFrom Production to Play - About Us - LEGO.comApril 9, 2025...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
-
+For companies with highly seasonal demand, like LEGO, getting products into customers’ hands on time is as much a manufacturing strategy as it is a marketing challenge. Holiday demand peaks — and the organisational penalties for missing them — turn long lead times into a core vulnerability. One of the strongest ways LEGO manages this volatility is by locating factories and distribution hubs close to its major markets. This regional supply‑chain approach shortens lead times, increases response [options]({{ 'options/' | relative_url }}) late in the year, and turns a fragile global system into one that can flex and adapt when seasonal demand spikes suddenly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/aboutus/news/2025/april/from-production-to-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">From Production to Play</span><span class="citation-popover-snippet">From Production to Play - About Us - LEGO.comApril 9, 2025...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1-dark.svg" | relative_url }}" alt="Regional Supply illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Long Supply Lines Magnify Seasonal Mistakes
@@ -284,29 +283,22 @@ Long, centralised supply chains amplify the problem of seasonal forecasting erro
 
 Manufacturers in other sectors have documented the same dynamic: when a product must travel thousands of miles and pass through multiple borders, even minor disruption can cascade into major schedule slips, turning what should be a manageable seasonal spike into a stockout crisis. Regional manufacturing reduces these dependencies, lowering the risk that transport friction at the worst possible moment will derail holiday fulfilment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seasongroup.com/insights/what-happens-to-your-production-schedule-when-a-single-region-manufacturing-strategy-meets-a-customs-disruption/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seasongroup.com">[Season Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seasongroup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MzA_3t0G4Xo" title="Understanding Supply Chains 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MzA_3t0G4Xo" target="_blank" rel="noopener noreferrer">Understanding Supply Chains 2023</a></p><p class="youtube-embed-meta">Channel: National Press Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MzA_3t0G4Xo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MzA_3t0G4Xo">Open on YouTube</a></p></div></div></div>
-
 ## Why Regional Capacity Gives LEGO More Options
 
 ### Shorter Lead Times and Faster Response
 
 By placing production facilities and distribution centres near large consumer bases, LEGO reduces the lag between production and point‑of‑sale. Shorter lead times mean LEGO can adapt more quickly to late‑breaking shifts in demand that emerge during holiday shopping. Instead of committing to large sea‑freight shipments months in advance, regional factories make it easier to channel capacity toward unexpected winners or adjust production mixes late in the supply cycle. That flexibility is valuable in a system where half of annual sales occur in just a few final months and trends can shift quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-sg/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the lego group to open regional distribution center in virginia u s in 2027</span><span class="citation-popover-snippet">in 2027 - About Us - LEGO.comMay 8, 2025 — May 8, 2025 THE LEGO GROUP TO OPEN REGIONAL DISTRIBUTION CENTER IN VIRGINIA, U.S. IN 2027 * *...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
 
-This proximity also enhances visibility and control: forecasts, production plans and inventory can be synchronised more tightly with real‑time sales data. Instead of buffering stock at distant central hubs and hoping it arrives in time, regional capacity lets LEGO operate on more demand‑driven signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fabrikn.com/blog/regional-vs-multi-region-factories-priorities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fabrikn.com">[Fabrikn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fabrikn.com</span><span class="citation-popover-title">Regional vs Multi-Region Factories: Key Considerations | Fabrikn</span><span class="citation-popover-snippet">FabriknRegional vs Multi-Region Factories: Key Considerations | FabriknApril 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
-
+This proximity also enhances visibility and control: forecasts, production plans and inventory can be synchronised more tightly with real‑time sales data. Instead of buffering stock at distant central hubs and hoping it arrives in time, regional capacity lets LEGO operate on more demand‑driven signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fabrikn.com/blog/regional-vs-multi-region-factories-priorities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fabrikn.com">[Fabrikn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fabrikn.com</span><span class="citation-popover-title">Regional vs Multi-Region Factories: Key Considerations &#124; Fabrikn</span><span class="citation-popover-snippet">Regional vs Multi-Region Factories: Key Considerations &#124; FabriknApril 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-2-dark.svg" | relative_url }}" alt="Regional Supply illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Capacity Buffer and Redundancy
 
-Regional factories and distribution centres provide operational redundancy. If one site encounters a disruption — whether weather, customs delays or labour shortages — others can absorb some of the demand or reroute production. This buffering effect is a classic antifragile mechanism: stress in one part of the system does not translate into a system‑wide failure. Instead, the distributed footprint gives LEGO multiple options for allocating production and shipment flows within a season. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.tradlinx.com">[Tradlinx Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.tradlinx.com</span><span class="citation-popover-snippet">Tradlinx BlogsLEGO’s Resilient Supply Chain Operating Model: Multi-Region Manufacturing, Capacity Strategy, and Service Stability | Tradl...</span></span></span>
+Regional factories and distribution centres provide operational redundancy. If one site encounters a disruption — whether weather, customs delays or labour shortages — others can absorb some of the demand or reroute production. This buffering effect is a classic antifragile mechanism: stress in one part of the system does not translate into a system‑wide failure. Instead, the distributed footprint gives LEGO multiple options for allocating production and shipment flows within a season. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.tradlinx.com">[Tradlinx Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.tradlinx.com</span><span class="citation-popover-snippet">Tradlinx BlogsLEGO’s Resilient Supply Chain Operating Model: Multi-Region Manufacturing, Capacity Strategy, and Service Stability &#124; Tradl...</span></span></span>
 
 ### Cost and Environmental Stakes
 
 While the primary driver is responsiveness, regional production also reduces distribution costs and environmental impact from long‑haul freight. Regional facilities cut down on ocean container shipments and lower greenhouse gas emissions, aligning operational gains with broader [sustainability]({{ 'sustainability/' | relative_url }}) goals. Cost savings from reduced air‑freight or expedited shipping — often invoked in frantic seasonal fulfilment — also flow directly to SKU profitability late in the year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://manufacturingdigital.com/news/lego-distribution-centre-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manufacturingdigital.com">[Manufacturing Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manufacturingdigital.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LzuZhojyTmw" title="Supply Chain Diversification: How Companies are Moving Production." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LzuZhojyTmw" target="_blank" rel="noopener noreferrer">Supply Chain Diversification: How Companies are Moving Production.</a></p><p class="youtube-embed-meta">Channel: TheAutistic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LzuZhojyTmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LzuZhojyTmw">Open on YouTube</a></p></div></div></div>
 
 ## What Vietnam and Virginia Signal About Resilience
 
@@ -315,19 +307,14 @@ LEGO’s footprint expansion provides tangible examples of how regional manufact
 * **Vietnam Factory:** In 2025, LEGO opened a new factory in Binh Duong, Vietnam, adding capacity and bringing production closer to rapidly growing Asia‑Pacific markets. This factory supports both manufacturing and distribution functions, allowing quicker responses to demand shifts in that region without relying on shipments from Europe or North America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investing.com/news/stock-market-news/lego-opens-new-factory-in-vietnam-to-increase-local-production-3975789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investing.com">[Investing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investing.com</span><span class="citation-popover-snippet">April 9, 2025...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
 * **Virginia Factory and Distribution Centre:** LEGO is building both a manufacturing facility and a large regional distribution centre in Virginia, due to open in 2027. These sites are planned close to major US demand centres, reducing lead times and giving LEGO greater flexibility to serve North American holiday markets without deep reliance on cross‑ocean freight. Proximity between factory and RDC creates an internal ecosystem where finished products can flow rapidly into retailer networks, smoothing seasonal peaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://manufacturingdigital.com/news/lego-distribution-centre-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manufacturingdigital.com">[Manufacturing Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manufacturingdigital.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-These investments reflect a deliberate strategy: rather than running a few global production hubs that ship everywhere, LEGO is deliberately regionalising its supply chain architecture. The immediate effect is shorter supply lines; the strategic effect is more optionality when demand surprises occur late in the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/aboutus/news/2025/april/from-production-to-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">From Production to Play</span><span class="citation-popover-snippet">LEGOFrom Production to Play - About Us - LEGO.comApril 9, 2025...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
-
+These investments reflect a deliberate strategy: rather than running a few global production hubs that ship everywhere, LEGO is deliberately regionalising its supply chain architecture. The immediate effect is shorter supply lines; the strategic effect is more optionality when demand surprises occur late in the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/aboutus/news/2025/april/from-production-to-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">From Production to Play</span><span class="citation-popover-snippet">From Production to Play - About Us - LEGO.comApril 9, 2025...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-3-dark.svg" | relative_url }}" alt="Regional Supply illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for Seasonal Antifragility
 
-Regional factories are a structural response to the volatility inherent in holiday demand. They do not eliminate forecasting risk, but they transform that risk into opportunities for tactical adjustment. In an antifragility frame, proximity does more than reduce loss; it expands the company’s ability to rebound from mis‑estimated demand and exploit late shifts, turning what would have been a fragile supply plan into a more robust, adaptive one that gains from variability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.tradlinx.com">[Tradlinx Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.tradlinx.com</span><span class="citation-popover-snippet">Tradlinx BlogsLEGO’s Resilient Supply Chain Operating Model: Multi-Region Manufacturing, Capacity Strategy, and Service Stability | Tradl...</span></span></span>
+Regional factories are a structural response to the volatility inherent in holiday demand. They do not eliminate forecasting risk, but they transform that risk into opportunities for tactical adjustment. In an antifragility frame, proximity does more than reduce loss; it expands the company’s ability to rebound from mis‑estimated demand and exploit late shifts, turning what would have been a fragile supply plan into a more robust, adaptive one that gains from variability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.tradlinx.com">[Tradlinx Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.tradlinx.com</span><span class="citation-popover-snippet">Tradlinx BlogsLEGO’s Resilient Supply Chain Operating Model: Multi-Region Manufacturing, Capacity Strategy, and Service Stability &#124; Tradl...</span></span></span>
 
 Regional supply capacity makes it easier to handle “holiday surprises” by shortening the physical and organisational distance between production decisions and retail outcomes, giving LEGO more ways to respond when the holiday season doesn’t go exactly as forecast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-sg/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the lego group to open regional distribution center in virginia u s in 2027</span><span class="citation-popover-snippet">in 2027 - About Us - LEGO.comMay 8, 2025 — May 8, 2025 THE LEGO GROUP TO OPEN REGIONAL DISTRIBUTION CENTER IN VIRGINIA, U.S. IN 2027 * *...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2bgURYcLq_w" title="Middle East Conflict: Are Supply Chains Under Pressure Again? | Upside #77" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2bgURYcLq_w" target="_blank" rel="noopener noreferrer">Middle East Conflict: Are Supply Chains Under Pressure Again? | Upside #77</a></p><p class="youtube-embed-meta">Channel: This Way Up</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2bgURYcLq_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2bgURYcLq_w">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -422,7 +409,7 @@ Regional supply capacity makes it easier to handle “holiday surprises” by sh
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -446,15 +433,15 @@ Regional supply capacity makes it easier to handle “holiday surprises” by sh
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 6351965 Rickshaw &amp; Chinese Archway – Exclusive Set | Brand New &amp; Sealed！"><img src="https://i.ebayimg.com/images/g/tyAAAeSwUg1qBiQg/s-l225.jpg" alt="Listing image for LEGO 6351965 Rickshaw &amp; Chinese Archway – Exclusive Set | Brand New &amp; Sealed！" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 6351965 Rickshaw &amp; Chinese Archway – Exclusive Set | Brand New &amp; Sealed！</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO exclusive set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO exclusive set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -462,15 +449,15 @@ Regional supply capacity makes it easier to handle “holiday surprises” by sh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 40563 Tribute to LEGO House Home of the Brick Building Set EXCLUSIVE new"><img src="https://i.ebayimg.com/images/g/E~kAAeSwOl9qKXAX/s-l225.jpg" alt="Listing image for LEGO 40563 Tribute to LEGO House Home of the Brick Building Set EXCLUSIVE new" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 40563 Tribute to LEGO House Home of the Brick Building Set EXCLUSIVE new</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO exclusive set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO exclusive set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +465,31 @@ Regional supply capacity makes it easier to handle “holiday surprises” by sh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 40714 Carousel Ride 2024 - LEGO Exclusive Set - New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/E2AAAeSwwThpwW~y/s-l225.jpg" alt="Listing image for LEGO 40714 Carousel Ride 2024 - LEGO Exclusive Set - New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 40714 Carousel Ride 2024 - LEGO Exclusive Set - New &amp; Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO exclusive set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO exclusive set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New LEGO 40530 Dr Jane Goodall Tribute Exclusive Set - BNIB, Sealed."><img src="https://i.ebayimg.com/images/g/r7gAAeSwS9pqKv1B/s-l225.jpg" alt="Listing image for New LEGO 40530 Dr Jane Goodall Tribute Exclusive Set - BNIB, Sealed." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer">New LEGO 40530 Dr Jane Goodall Tribute Exclusive Set - BNIB, Sealed.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO exclusive set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO exclusive set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,7 +497,7 @@ Regional supply capacity makes it easier to handle “holiday surprises” by sh
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+exclusive+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-factories-matter-before-christmas-lego-exclusive-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO exclusive set" data-ebay-reference="why-nearby-factories-matter-before-christmas-lego-exclusive-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -704,122 +707,123 @@ Regional supply capacity makes it easier to handle “holiday surprises” by sh
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: From Production to Play  
-   Link: [https://www.lego.com/aboutus/news/2025/april/from-production-to-play](https://www.lego.com/aboutus/news/2025/april/from-production-to-play)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOFrom Production to Play - About Us - LEGO.comApril 9, 2025...</p></details>
+   Link: <a href="https://www.lego.com/aboutus/news/2025/april/from-production-to-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/aboutus/news/2025/april/from-production-to-play</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Production to Play - About Us - LEGO.comApril 9, 2025...</p></details>
    Published: April 9, 2025  
 
 2. <a id="endnote-2"></a>
    Source: servintecusa.com  
    Title: Servintec USAReducing Lead Times in OEM Manufacturing with Regional Suppliers  
-   Link: [https://servintecusa.com/reducing-lead-times-oem-manufacturing/](https://servintecusa.com/reducing-lead-times-oem-manufacturing/)  
+   Link: <a href="https://servintecusa.com/reducing-lead-times-oem-manufacturing/" target="_blank" rel="noopener noreferrer nofollow">https://servintecusa.com/reducing-lead-times-oem-manufacturing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Servintec USA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fabrikn.com  
    Title: Regional vs Multi-Region Factories: Key Considerations | Fabrikn  
-   Link: [https://www.fabrikn.com/blog/regional-vs-multi-region-factories-priorities/](https://www.fabrikn.com/blog/regional-vs-multi-region-factories-priorities/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FabriknRegional vs Multi-Region Factories: Key Considerations | FabriknApril 5, 2026...</p></details>
+   Link: <a href="https://www.fabrikn.com/blog/regional-vs-multi-region-factories-priorities/" target="_blank" rel="noopener noreferrer nofollow">https://www.fabrikn.com/blog/regional-vs-multi-region-factories-priorities/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regional vs Multi-Region Factories: Key Considerations | FabriknApril 5, 2026...</p></details>
    Published: April 5, 2026  
 
 4. <a id="endnote-4"></a>
    Source: blogs.tradlinx.com  
-   Link: [https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/](https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/)  
+   Link: <a href="https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.tradlinx.com/legos-resilient-supply-chain-operating-model-multi-region-manufacturing-capacity-strategy-and-service-stability/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tradlinx BlogsLEGO’s Resilient Supply Chain Operating Model: Multi-Region Manufacturing, Capacity Strategy, and Service Stability | Tradl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: investing.com  
-   Link: [https://www.investing.com/news/stock-market-news/lego-opens-new-factory-in-vietnam-to-increase-local-production-3975789](https://www.investing.com/news/stock-market-news/lego-opens-new-factory-in-vietnam-to-increase-local-production-3975789)  
+   Link: <a href="https://www.investing.com/news/stock-market-news/lego-opens-new-factory-in-vietnam-to-increase-local-production-3975789" target="_blank" rel="noopener noreferrer nofollow">https://www.investing.com/news/stock-market-news/lego-opens-new-factory-in-vietnam-to-increase-local-production-3975789</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 9, 2025...</p></details>
    Published: April 9, 2025  
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
    Title: the lego group to open regional distribution center in virginia u s in 2027  
-   Link: [https://www.lego.com/en-sg/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027](https://www.lego.com/en-sg/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027)  
+   Link: <a href="https://www.lego.com/en-sg/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-sg/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 2027 - About Us - LEGO.comMay 8, 2025 — May 8, 2025 THE LEGO GROUP TO OPEN REGIONAL DISTRIBUTION CENTER IN VIRGINIA, U.S. IN 2027 * *...</p></details>
    Published: May 8, 2025  
 
 7. <a id="endnote-7"></a>
    Source: manufacturingdigital.com  
-   Link: [https://manufacturingdigital.com/news/lego-distribution-centre-virginia](https://manufacturingdigital.com/news/lego-distribution-centre-virginia)  
+   Link: <a href="https://manufacturingdigital.com/news/lego-distribution-centre-virginia" target="_blank" rel="noopener noreferrer nofollow">https://manufacturingdigital.com/news/lego-distribution-centre-virginia</a>  
 
 8. <a id="endnote-8"></a>
    Source: seasongroup.com  
-   Link: [https://www.seasongroup.com/insights/what-happens-to-your-production-schedule-when-a-single-region-manufacturing-strategy-meets-a-customs-disruption/](https://www.seasongroup.com/insights/what-happens-to-your-production-schedule-when-a-single-region-manufacturing-strategy-meets-a-customs-disruption/)  
+   Link: <a href="https://www.seasongroup.com/insights/what-happens-to-your-production-schedule-when-a-single-region-manufacturing-strategy-meets-a-customs-disruption/" target="_blank" rel="noopener noreferrer nofollow">https://www.seasongroup.com/insights/what-happens-to-your-production-schedule-when-a-single-region-manufacturing-strategy-meets-a-customs-disruption/</a>  
 
 9. <a id="endnote-9"></a>
    Source: seasongroup.com  
-   Link: [https://www.seasongroup.com/insights/how-electronics-oems-are-splitting-volume-across-regions-without-fragmenting-process-consistency/](https://www.seasongroup.com/insights/how-electronics-oems-are-splitting-volume-across-regions-without-fragmenting-process-consistency/)  
+   Link: <a href="https://www.seasongroup.com/insights/how-electronics-oems-are-splitting-volume-across-regions-without-fragmenting-process-consistency/" target="_blank" rel="noopener noreferrer nofollow">https://www.seasongroup.com/insights/how-electronics-oems-are-splitting-volume-across-regions-without-fragmenting-process-consistency/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Electronics OEMs Are Splitting Volume Across Regions Without Fragmenting Process Consistency | Season GroupHOW ELECTRONICS OEMS ARE S...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: www2.deloitte.com  
    Title: It also means making critical decisions about facility investments, strat  
-   Link: [https://www2.deloitte.com/us/en/insights/topics/operations/reshoring-supply-chain.html](https://www2.deloitte.com/us/en/insights/topics/operations/reshoring-supply-chain.html)  
+   Link: <a href="https://www2.deloitte.com/us/en/insights/topics/operations/reshoring-supply-chain.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.deloitte.com/us/en/insights/topics/operations/reshoring-supply-chain.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>supply chain | Deloitte InsightsManufacturers are moving facilities closer to home, which presents an opportunity to upgrade to smart fac...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/952755057/Lego-1](https://www.scribd.com/document/952755057/Lego-1)  
+   Link: <a href="https://www.scribd.com/document/952755057/Lego-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/952755057/Lego-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Global Supply Chain Strategy | PDF | Lego | Supply ChainLEGO&#x27;s Global Supply Chain Strategy The document outlines LEGO&#x27;s evolution...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: supplychaindigital.com  
-   Link: [https://supplychaindigital.com/sustainability/lego-new-vietnam-plant-boost-green-supply-chains](https://supplychaindigital.com/sustainability/lego-new-vietnam-plant-boost-green-supply-chains)  
+   Link: <a href="https://supplychaindigital.com/sustainability/lego-new-vietnam-plant-boost-green-supply-chains" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/sustainability/lego-new-vietnam-plant-boost-green-supply-chains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO’s New Vietnam Plant will Boost Green Supply Chains | Supply Chain MagazineApril 9, 2025 — * Article Sustainability HOW LEGO’S NE...</p></details>
    Published: April 9, 2025  
 
 13. <a id="endnote-13"></a>
    Source: toyindustryjournal.com  
-   Link: [https://www.toyindustryjournal.com/post/why-rapid-advancements-in-ai-robotics-will-lead-to-homeshoring-in-toy-manufacturing-quicker-than-w](https://www.toyindustryjournal.com/post/why-rapid-advancements-in-ai-robotics-will-lead-to-homeshoring-in-toy-manufacturing-quicker-than-w)  
+   Link: <a href="https://www.toyindustryjournal.com/post/why-rapid-advancements-in-ai-robotics-will-lead-to-homeshoring-in-toy-manufacturing-quicker-than-w" target="_blank" rel="noopener noreferrer nofollow">https://www.toyindustryjournal.com/post/why-rapid-advancements-in-ai-robotics-will-lead-to-homeshoring-in-toy-manufacturing-quicker-than-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Once robots can handle variation — not just endless repetition — they become genuinely viable for the kind of dynamic production toy lin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: devlin.co.uk  
-   Link: [https://www.devlin.co.uk/news/why-does-local-uk-manufacturing-matter-in-global-supply-chains](https://www.devlin.co.uk/news/why-does-local-uk-manufacturing-matter-in-global-supply-chains)  
+   Link: <a href="https://www.devlin.co.uk/news/why-does-local-uk-manufacturing-matter-in-global-supply-chains" target="_blank" rel="noopener noreferrer nofollow">https://www.devlin.co.uk/news/why-does-local-uk-manufacturing-matter-in-global-supply-chains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global supply chains have traditionally been optimised for scale and cost efficiency. For many organisations, offshore manufacturing h...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: costar.com  
-   Link: [https://www.costar.com/article/611900737/legos-360-million-virginia-distribution-center-complements-its-nearby-factory](https://www.costar.com/article/611900737/legos-360-million-virginia-distribution-center-complements-its-nearby-factory)  
+   Link: <a href="https://www.costar.com/article/611900737/legos-360-million-virginia-distribution-center-complements-its-nearby-factory" target="_blank" rel="noopener noreferrer nofollow">https://www.costar.com/article/611900737/legos-360-million-virginia-distribution-center-complements-its-nearby-factory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2026 — LEGO’S $360 MILLION VIRGINIA DISTRIBUTION CENTER COMPLEMENTS ITS NEARBY FACTORY Lease of the Year for Richmond, Virginia...</p></details>
    Published: March 25, 2026  
 
 16. <a id="endnote-16"></a>
    Source: sustainabilitymag.com  
-   Link: [https://sustainabilitymag.com/news/lego-buliding-supply-chain-sustainability-in-the-americas](https://sustainabilitymag.com/news/lego-buliding-supply-chain-sustainability-in-the-americas)  
+   Link: <a href="https://sustainabilitymag.com/news/lego-buliding-supply-chain-sustainability-in-the-americas" target="_blank" rel="noopener noreferrer nofollow">https://sustainabilitymag.com/news/lego-buliding-supply-chain-sustainability-in-the-americas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Building Supply Chain Sustainability in the Americas | Sustainability MagazineNovember 25, 2025 — * Article Supply Chain Sustainabi...</p></details>
    Published: November 25, 2025  
 
 17. <a id="endnote-17"></a>
    Source: ynypm.com  
    Title: Global Manufacturing orders are shifting toward regional sourcing  
-   Link: [https://www.ynypm.com/news/Global-Trade/supply-chain/Global-Manufacturing-orders-are-shifting-toward-regional-sourcing.html](https://www.ynypm.com/news/Global-Trade/supply-chain/Global-Manufacturing-orders-are-shifting-toward-regional-sourcing.html)  
+   Link: <a href="https://www.ynypm.com/news/Global-Trade/supply-chain/Global-Manufacturing-orders-are-shifting-toward-regional-sourcing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ynypm.com/news/Global-Trade/supply-chain/Global-Manufacturing-orders-are-shifting-toward-regional-sourcing.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Manufacturing &amp; industrial CNCApril 21, 2026 — Home &gt; Tech &gt; Global Supply Chain &gt; Global Manufacturing orders are shifting toward...</p></details>
    Published: April 21, 2026  
 
 18. <a id="endnote-18"></a>
    Source: strategyforindustry.com  
-   Link: [https://strategyforindustry.com/industry/manufacture-of-games-and-toys/operational-efficiency/](https://strategyforindustry.com/industry/manufacture-of-games-and-toys/operational-efficiency/)  
+   Link: <a href="https://strategyforindustry.com/industry/manufacture-of-games-and-toys/operational-efficiency/" target="_blank" rel="noopener noreferrer nofollow">https://strategyforindustry.com/industry/manufacture-of-games-and-toys/operational-efficiency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Operational Efficiency for Manufacture of games and toysSTRATEGIC OVERVIEW In the highly competitive and often seasonal &#x27;Manufacture of g...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thebrickfan.com  
    Title: LEG O Breaks Ground on Virginia Regional Distribution Center  
-   Link: [https://www.thebrickfan.com/lego-breaks-ground-on-virginia-regional-distribution-center/](https://www.thebrickfan.com/lego-breaks-ground-on-virginia-regional-distribution-center/)  
+   Link: <a href="https://www.thebrickfan.com/lego-breaks-ground-on-virginia-regional-distribution-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-breaks-ground-on-virginia-regional-distribution-center/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Breaks Ground on Virginia Regional Distribution Center - The Brick FanNovember 14, 2025 — LEGO BREAKS GROUND ON VIRGINIA REGIONAL DI...</p></details>
    Published: November 14, 2025  
 
 20. <a id="endnote-20"></a>
    Source: ame-3d.co.uk  
    Title: Why Local Manufacturing Matters During Global Shutdowns  
-   Link: [https://ame-3d.co.uk/news/why-local-manufacturing-matters-during-global-shutdowns](https://ame-3d.co.uk/news/why-local-manufacturing-matters-during-global-shutdowns)  
+   Link: <a href="https://ame-3d.co.uk/news/why-local-manufacturing-matters-during-global-shutdowns" target="_blank" rel="noopener noreferrer nofollow">https://ame-3d.co.uk/news/why-local-manufacturing-matters-during-global-shutdowns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2026 — Image: Local Manufacturing UK FEB 11, 2026 10:00:00 AM | 3D PRINTING/ADDITIVE MANUFACTURING WHY LOCAL MANUFACTURING M...</p></details>
-   Published: February 11, 2026  
+   Published: February 11, 2026

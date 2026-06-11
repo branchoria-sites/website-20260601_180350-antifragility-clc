@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /brick-system/
 nav_short_title: 2004 Refocus
 title: When LEGO Learned What Not to Build
-title_full: When LEGO Learned What Not to Build | Brick System
+title_full: When LEGO Learned What Not to Build
 display_title_short: 2004 Refocus
 display_title: 2004 Refocus
 heading_title: When LEGO Learned What Not to Build
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Brick Became LEGO's Best Constraint | LEGO Antifragility
+parent_title: Why the Brick Became LEGO's Best Constraint
 parent_permalink: /brick-system/
 parent_nav_short_title: Brick System
 parent_heading_title: Why the Brick Became LEGO's Best Constraint
@@ -259,7 +259,7 @@ next_link:
   permalink: /compatibility/
   short_title: Compatibility
   heading_title: Why Old LEGO Bricks Still Matter
-date: '2026-06-09 03:42:29 '
+date: '2026-06-11 21:40:09 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1.webp
@@ -268,57 +268,46 @@ image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_le
 
 ## Introduction
 
-LEGOs 2004 refocus tested a hard lesson: innovation was only useful if it made the [brick system]({{ 'brick-system/' | relative_url }}) stronger. After net sales fell 26% in 2003 and play-material sales fell 29%, LEGOs crisis revealed that creativity without constraint had become fragile [complexity]({{ 'complexity/' | relative_url }}) rather than growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">The result was a pre-tax loss on earnings of. DKK 1.4 billion, i.e. a drop of DKK 2 billion as.Read more...</span></span></span>
-
+LEGO’s 2004 refocus tested a hard lesson: innovation was only useful if it made the [brick system]({{ 'brick-system/' | relative_url }}) stronger. After net sales fell 26% in 2003 and play-material sales fell 29%, LEGO’s crisis revealed that creativity without constraint had become fragile [complexity]({{ 'complexity/' | relative_url }}) rather than growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">The result was a pre-tax loss on earnings of. DKK 1.4 billion, i.e. a drop of DKK 2 billion as.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1-dark.svg" | relative_url }}" alt="2004 Refocus illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The 2004 [Action Plan]({{ 'action-plan/' | relative_url }}) changed the test. LEGO would concentrate on basic, classic and universal products: LEGO bricks, the values around the brand, and product lines close to the core system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005  The plan lays down a major switch in direction, requiring the LEGO Group to concentrate...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> That did not mean becoming nostalgic or anti-innovation. It meant asking whether a new idea reinforced the reusable building platform, improved retailer and customer value, and reduced avoidable operational drag. In antifragility terms, the shock taught LEGO what not to build.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FuKD5U6eJZo" title="LEGO: When growth pulled the company away from its core" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FuKD5U6eJZo" target="_blank" rel="noopener noreferrer">LEGO: When growth pulled the company away from its core</a></p><p class="youtube-embed-meta">Channel: Strategic Concepts Lab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FuKD5U6eJZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FuKD5U6eJZo">Open on YouTube</a></p></div></div></div>
+The 2004 [Action Plan]({{ 'action-plan/' | relative_url }}) changed the test. LEGO would concentrate on “basic, classic and universal” products: LEGO bricks, the values around the brand, and product lines close to the core system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — The plan lays down a major switch in direction, requiring the LEGO Group to concentrate...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> That did not mean becoming nostalgic or anti-innovation. It meant asking whether a new idea reinforced the reusable building platform, improved retailer and customer value, and reduced avoidable operational drag. In antifragility terms, the shock taught LEGO what not to build.
 
 ## What Product Sprawl Revealed About Fragile Complexity
 
-Before the refocus, LEGOs problem was not a lack of imagination. It was too much expansion that did not reliably strengthen the system. Harvard Business Review later identified failed or unprofitable efforts including theme parks, Clikits craft sets and Galidor, an action-figure line supported by television. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">Many of its innovation effortstheme parks, Clikits craft sets (marketed to girls), an action figure...Read more...</span></span></span>
+Before the refocus, LEGO’s problem was not a lack of imagination. It was too much expansion that did not reliably strengthen the system. Harvard Business Review later identified failed or unprofitable efforts including theme parks, Clikits craft sets and Galidor, an action-figure line supported by television. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">Many of its innovation efforts—theme parks, Clikits craft sets (marketed to girls), an action figure...Read more...</span></span></span>
 
 These ventures mattered because they tested the [limits]({{ 'limits/' | relative_url }}) of the LEGO brand. A successful LEGO theme normally adds value back into the brick ecosystem: new parts, new building techniques, new stories and new reasons to keep old bricks. A weak extension can do the opposite. It consumes capital, management attention, tooling, marketing and supply-chain capacity without making the underlying system more valuable.
 
-Strategy+business described the crisis starkly: LEGO had lost money in four of the seven years from 1998 through 2004, sales dropped sharply in 2003 and again in 2004, and executives estimated the company was destroying value every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> The fragile point was not simply too many products. It was that the company had blurred the difference between product variety that compounds and product variety that fragments.
-
+Strategy+business described the crisis starkly: LEGO had lost money in four of the seven years from 1998 through 2004, sales dropped sharply in 2003 and again in 2004, and executives estimated the company was destroying value every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> The fragile point was not simply “too many products”. It was that the company had blurred the difference between product variety that compounds and product variety that fragments.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n2mlewMn53E" title="The rise and fall of LEGO: From near bankruptcy to the world&#x27;s largest toy company" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n2mlewMn53E" target="_blank" rel="noopener noreferrer">The rise and fall of LEGO: From near bankruptcy to the world&#x27;s largest toy company</a></p><p class="youtube-embed-meta">Channel: Michael Girdley &middot; Views: 62.3K &middot; Uploaded: January 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n2mlewMn53E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n2mlewMn53E">Open on YouTube</a></p></div></div></div>
 
 ## How the 2004 Action Plan Restored Core Focus
 
-The 2004 Action Plan forced LEGO to separate brand-strengthening experiments from distractions. LEGOs annual report said the plan required a major switch in direction towards the classic, universal product idea of LEGO bricks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 ENG</span></span></span> It also said development projects not directly linked to the core business, such as electronic games, were transferred to licensed partners rather than kept as in-house distractions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">annual report 2004 lego</span><span class="citation-popover-snippet">annual report 2004 lego</span></span></span>
+The 2004 Action Plan forced LEGO to separate brand-strengthening experiments from distractions. LEGO’s annual report said the plan required a “major switch in direction” towards the classic, universal product idea of LEGO bricks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 ENG</span></span></span> It also said development projects not directly linked to the core business, such as electronic games, were transferred to licensed partners rather than kept as in-house distractions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">annual report 2004 lego</span><span class="citation-popover-snippet">annual report 2004 lego</span></span></span>
 
 That distinction is important. LEGO did not abandon games, stories or licensed worlds. It changed the operating logic around them. If an adjacent activity could support the LEGO system without forcing the company to carry all the risk itself, partnership made more sense than internal sprawl. If an activity pulled attention away from the core, it had to justify itself against stricter commercial and strategic tests.
 
 The same discipline appeared in assets and costs. The 2004 report said LEGO would sell the LEGOLAND Parks to improve liquidity and strengthen the financial base, while treating the parks as discontinuing activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2006 ENG</span><span class="citation-popover-snippet">Annual Report 2006 ENG</span></span></span> Cost reductions, efficiency measures and workforce cuts followed, creating the room to rebuild around the play-[materials]({{ 'materials/' | relative_url }}) business rather than preserve every expansion route. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/global-business-environment/1022005-1-gbe-a2-pass/113723474" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-title">1022005 1 gbe a2 pass</span><span class="citation-popover-snippet">1022005 1 gbe a2 pass</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-2-dark.svg" | relative_url }}" alt="2004 Refocus illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Constraint Became an Innovation Test
 
 The 2004 refocus made the brick system a practical test for innovation. A new product now had to answer a sharper question: does this add useful variety inside the LEGO system, or does it create expensive difference outside it?
 
-That test favoured lines such as LEGO City, DUPLO, Technic and other classic building themes because they worked with the existing grammar of bricks, instructions, [compatibility]({{ 'compatibility/' | relative_url }}) and rebuilding. LEGOs 2005 annual report said the renewed focus on core products had a positive effect, with strong sellers including LEGO City, LEGO Vikings, a Technic Mobile Crane and Ferrari models from LEGO Racers. It also noted the reintroduction and growth of DUPLO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2007 ENG</span><span class="citation-popover-snippet">Annual Report 2007 ENG</span></span></span>
+That test favoured lines such as LEGO City, DUPLO, Technic and other classic building themes because they worked with the existing grammar of bricks, instructions, [compatibility]({{ 'compatibility/' | relative_url }}) and rebuilding. LEGO’s 2005 annual report said the renewed focus on core products had a positive effect, with strong sellers including LEGO City, LEGO Vikings, a Technic Mobile Crane and Ferrari models from LEGO Racers. It also noted the reintroduction and growth of DUPLO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2007 ENG</span><span class="citation-popover-snippet">Annual Report 2007 ENG</span></span></span>
 
 The same report showed the other side of the test: Clikits declined despite years of effort, and LEGO said it would not launch new Clikits products after 2006. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> That is productive constraint in action. The company was not asking whether an idea was creative in isolation. It was asking whether it strengthened the system enough to deserve scarce resources.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IjcSKukg9IE" title="LEGOs Comeback: From Nearly Bankrupt To $6 Billion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer">LEGOs Comeback: From Nearly Bankrupt To $6 Billion</a></p><p class="youtube-embed-meta">Channel: CNBC Make It</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IjcSKukg9IE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-3-dark.svg" | relative_url }}" alt="2004 Refocus illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Antifragile Lesson of the 2004 Refocus
 
-LEGOs 2004 refocus matters because the crisis did not merely shrink the company. It improved its ability to learn. The company used failure to clarify which innovations belonged inside the brick system, which belonged with partners, and which should stop.
+LEGO’s 2004 refocus matters because the crisis did not merely shrink the company. It improved its ability to learn. The company used failure to clarify which innovations belonged inside the brick system, which belonged with partners, and which should stop.
 
 The results did not arrive instantly, but the direction became visible quickly. In 2005, LEGO reported that core-product focus had helped results, and in 2006 it reported profit for the year of DKK 1,430 million, compared with DKK 505 million in 2005. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">The result was a pre-tax loss on earnings of. DKK 1.4 billion, i.e. a drop of DKK 2 billion as.Read more...</span></span></span>
 
 The deeper lesson is not that LEGO became stronger by becoming smaller. It became stronger by making constraint productive. The brick system gave LEGO a way to say no without becoming timid: no to unfocused complexity, yes to ideas that made the platform richer, more reusable and easier to scale.
-
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-3-dark.svg" | relative_url }}" alt="2004 Refocus illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -437,15 +426,15 @@ The deeper lesson is not that LEGO became stronger by becoming smaller. It becam
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator Expert 10270 Bookshop Building Set"><img src="https://i.ebayimg.com/images/g/VLIAAeSwJspqJ~Cg/s-l225.jpg" alt="Listing image for LEGO Creator Expert 10270 Bookshop Building Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 11021 Classic Building Set 90th Anniversary Edition"><img src="https://i.ebayimg.com/images/g/HysAAeSweGlqI~AA/s-l225.jpg" alt="Listing image for LEGO 11021 Classic Building Set 90th Anniversary Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator Expert 10270 Bookshop Building Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 11021 Classic Building Set 90th Anniversary Edition</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +442,15 @@ The deeper lesson is not that LEGO became stronger by becoming smaller. It becam
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CREATOR: London Bus (40220) brand new sealed in box  fast shipping "><img src="https://i.ebayimg.com/images/g/UCYAAeSw7pNqJ-vD/s-l225.jpg" alt="Listing image for LEGO CREATOR: London Bus (40220) brand new sealed in box  fast shipping " loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 11005 Classic Building Set 900 Pieces"><img src="https://i.ebayimg.com/images/g/xIQAAeSw7pNqJ90g/s-l225.jpg" alt="Listing image for LEGO 11005 Classic Building Set 900 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CREATOR: London Bus (40220) brand new sealed in box  fast shipping </a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 11005 Classic Building Set 900 Pieces</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +458,31 @@ The deeper lesson is not that LEGO became stronger by becoming smaller. It becam
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 31097 Townhouse Pet Shop and Cafe Building Set 100% complete no box"><img src="https://i.ebayimg.com/images/g/tVEAAeSwjOFqJazG/s-l225.jpg" alt="Listing image for LEGO Creator 31097 Townhouse Pet Shop and Cafe Building Set 100% complete no box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic 10692 Set With 221 pcs With Manual Boxed Retired"><img src="https://i.ebayimg.com/images/g/JasAAeSwGjRqBeNz/s-l225.jpg" alt="Listing image for LEGO Classic 10692 Set With 221 pcs With Manual Boxed Retired" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 31097 Townhouse Pet Shop and Cafe Building Set 100% complete no box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic 10692 Set With 221 pcs With Manual Boxed Retired</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic Bring Along Bricks | Set 10713 | Carry Case | Building Bricks"><img src="https://i.ebayimg.com/images/g/Q70AAeSwaERqB4WH/s-l225.jpg" alt="Listing image for LEGO Classic Bring Along Bricks | Set 10713 | Carry Case | Building Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic Bring Along Bricks | Set 10713 | Carry Case | Building Bricks</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,7 +490,7 @@ The deeper lesson is not that LEGO became stronger by becoming smaller. It becam
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="when-lego-learned-what-not-to-build-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lego-learned-what-not-to-build-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-lego-learned-what-not-to-build-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -695,133 +700,134 @@ The deeper lesson is not that LEGO became stronger by becoming smaller. It becam
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2003 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The result was a pre-tax loss on earnings of. DKK 1.4 billion, i.e. a drop of DKK 2 billion as.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2004 LEGO GroupApril 26, 2005  The plan lays down a major switch in direction, requiring the LEGO Group to concentrate...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — The plan lays down a major switch in direction, requiring the LEGO Group to concentrate...</p></details>
    Published: April 26, 2005  
 
 3. <a id="endnote-3"></a>
    Source: studocu.com  
    Title: annual report 2004 lego  
-   Link: [https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675](https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675)  
+   Link: <a href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675</a>  
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
    Title: Annual Report 2006 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
    Title: Annual Report 2007 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/](https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
 
 9. <a id="endnote-9"></a>
    Source: d3.harvard.edu  
    Title: lego the missing bricks in their global supply chain  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/](https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/</a>  
 
 10. <a id="endnote-10"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/](https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
 
 11. <a id="endnote-11"></a>
    Source: hbsp.harvard.edu  
    Title: F0901F PDF ENG  
-   Link: [https://hbsp.harvard.edu/product/F0901F-PDF-ENG](https://hbsp.harvard.edu/product/F0901F-PDF-ENG)  
+   Link: <a href="https://hbsp.harvard.edu/product/F0901F-PDF-ENG" target="_blank" rel="noopener noreferrer nofollow">https://hbsp.harvard.edu/product/F0901F-PDF-ENG</a>  
 
 12. <a id="endnote-12"></a>
    Source: studocu.vn  
    Title: 1022005 1 gbe a2 pass  
-   Link: [https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/global-business-environment/1022005-1-gbe-a2-pass/113723474](https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/global-business-environment/1022005-1-gbe-a2-pass/113723474)  
+   Link: <a href="https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/global-business-environment/1022005-1-gbe-a2-pass/113723474" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/global-business-environment/1022005-1-gbe-a2-pass/113723474</a>  
 
 13. <a id="endnote-13"></a>
    Source: hbr.org  
    Title: innovating a turnaround at lego  
-   Link: [https://hbr.org/2009/09/innovating-a-turnaround-at-lego](https://hbr.org/2009/09/innovating-a-turnaround-at-lego)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many of its innovation effortstheme parks, Clikits craft sets (marketed to girls), an action figure...Read more...</p></details>
+   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many of its innovation efforts—theme parks, Clikits craft sets (marketed to girls), an action figure...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: strategy-business.com  
    Title: Strategy+business Rebuilding Lego, Brick by Brick  
-   Link: [https://www.strategy-business.com/article/07306](https://www.strategy-business.com/article/07306)  
+   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
 
 15. <a id="endnote-15"></a>
    Source: strategyzer.com  
-   Link: [https://www.strategyzer.com/library/legos-great-business-model-turnaround-story](https://www.strategyzer.com/library/legos-great-business-model-turnaround-story)  
+   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
 
 16. <a id="endnote-16"></a>
    Source: strategosinstitute.com  
-   Title: LEG O  
-   Link: [https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf](https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf)  
+   Title: LEG O®  
+   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: [https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/](https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/)  
+   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/9889207/The_LEGO_Group](https://www.academia.edu/9889207/The_LEGO_Group)  
+   Link: <a href="https://www.academia.edu/9889207/The_LEGO_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/9889207/The_LEGO_Group</a>  
 
 19. <a id="endnote-19"></a>
    Source: capgemini.com  
-   Link: [https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf](https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf)  
+   Link: <a href="https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Brick-Rewrote-Innovation-Conquered-Industry/dp/1847941176](https://www.amazon.co.uk/Brick-Rewrote-Innovation-Conquered-Industry/dp/1847941176)  
+   Link: <a href="https://www.amazon.co.uk/Brick-Rewrote-Innovation-Conquered-Industry/dp/1847941176" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Brick-Rewrote-Innovation-Conquered-Industry/dp/1847941176</a>  
 
 21. <a id="endnote-21"></a>
    Source: hacerlobien.net  
-   Link: [https://www.hacerlobien.net/lego/Corp-007-Lego-Presentation.pdf](https://www.hacerlobien.net/lego/Corp-007-Lego-Presentation.pdf)  
+   Link: <a href="https://www.hacerlobien.net/lego/Corp-007-Lego-Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hacerlobien.net/lego/Corp-007-Lego-Presentation.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years_2000-2019](https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years_2000-2019)  
+   Link: <a href="https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years_2000-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years_2000-2019</a>  
 
 23. <a id="endnote-23"></a>
    Source: aiu.edu  
-   Link: [https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/](https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/)  
+   Link: <a href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/</a>  
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c](https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c)  
+   Link: <a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
 
 25. <a id="endnote-25"></a>
    Source: fasterthannormal.co  
-   Link: [https://fasterthannormal.co/businesses/lego](https://fasterthannormal.co/businesses/lego)  
+   Link: <a href="https://fasterthannormal.co/businesses/lego" target="_blank" rel="noopener noreferrer nofollow">https://fasterthannormal.co/businesses/lego</a>  
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/892601975/12-LEGO](https://www.scribd.com/document/892601975/12-LEGO)  
+   Link: <a href="https://www.scribd.com/document/892601975/12-LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/892601975/12-LEGO</a>  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/510824951/LEGO-Turnaround-Brick-by-Brick](https://www.scribd.com/document/510824951/LEGO-Turnaround-Brick-by-Brick)  
+   Link: <a href="https://www.scribd.com/document/510824951/LEGO-Turnaround-Brick-by-Brick" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/510824951/LEGO-Turnaround-Brick-by-Brick</a>

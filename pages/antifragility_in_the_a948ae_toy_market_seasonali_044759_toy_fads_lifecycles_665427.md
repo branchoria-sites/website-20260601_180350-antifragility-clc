@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /seasonality/
 nav_short_title: Toy Fads
 title: When Fads Move Faster Than Factory Plans
-title_full: When Fads Move Faster Than Factory Plans | Seasonality
+title_full: When Fads Move Faster Than Factory Plans
 display_title_short: Toy Fads
 display_title: Toy Fads
 heading_title: When Fads Move Faster Than Factory Plans
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Toy Seasonality Tests LEGO's Strength | LEGO Antifragility
+parent_title: Why Toy Seasonality Tests LEGO's Strength
 parent_permalink: /seasonality/
 parent_nav_short_title: Seasonality
 parent_heading_title: Why Toy Seasonality Tests LEGO's Strength
@@ -259,7 +259,7 @@ prev_link:
   permalink: /regional-supply/
   short_title: Regional Supply
   heading_title: Why Nearby Factories Matter Before Christmas
-date: '2026-06-09 03:42:14 '
+date: '2026-06-11 21:40:08 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_to
 
 Toy fads shorten LEGO product lifecycles because children’s attention often moves faster than industrial planning. A successful theme can surge on the back of a film release, game franchise, collectible craze or character trend, then cool before the next retail cycle is complete. For LEGO, this creates a structural tension: its core [brick system]({{ 'brick-system/' | relative_url }}) is designed for long-term [compatibility]({{ 'compatibility/' | relative_url }}), but many of the themes that drive excitement are temporary. The result is a business that must repeatedly refresh products, retire underperforming lines and absorb demand swings without undermining the enduring value of the LEGO system itself.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-1-dark.svg" | relative_url }}" alt="Toy Fads illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This pressure sits at the centre of LEGO’s broader volatility challenge. The company has to make decisions about design, manufacturing and retail distribution months before it knows whether a licensed property or cultural trend will still matter when sets reach shelves. Rather than eliminating that uncertainty, LEGO has increasingly treated it as a source of learning, using short-lived themes to test demand while keeping the underlying brick platform stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+This pressure sits at the centre of LEGO’s broader volatility challenge. The company has to make decisions about design, manufacturing and retail distribution months before it knows whether a licensed property or cultural trend will still matter when sets reach shelves. Rather than eliminating that uncertainty, LEGO has increasingly treated it as a source of learning, using short-lived themes to test demand while keeping the underlying brick platform stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 ## When Fads Move Faster Than Factory Plans
 
@@ -288,7 +287,6 @@ Unlike evergreen categories such as basic construction bricks or traditional boa
 
 The shortening effect comes from several overlapping mechanisms:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Media-linked excitement decays quickly.** A film tie-in often peaks around release dates and promotional campaigns.
@@ -298,10 +296,7 @@ The shortening effect comes from several overlapping mechanisms:
 
 </div>
 
-Industry research has repeatedly identified short product lives, rapid turnover and unpredictable demand as defining characteristics of the toy sector. These dynamics resemble fashion retail more than traditional manufacturing, because consumer interest itself becomes a moving target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateLessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q7HwfEJb_4s" title="How Lego Almost Collapsed In 2004" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q7HwfEJb_4s" target="_blank" rel="noopener noreferrer">How Lego Almost Collapsed In 2004</a></p><p class="youtube-embed-meta">Channel: arcane global &middot; Views: 1.1K &middot; Uploaded: May 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q7HwfEJb_4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q7HwfEJb_4s">Open on YouTube</a></p></div></div></div>
+Industry research has repeatedly identified short product lives, rapid turnover and unpredictable demand as defining characteristics of the toy sector. These dynamics resemble fashion retail more than traditional manufacturing, because consumer interest itself becomes a moving target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Lessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</span></span></span>
 
 ## Why Retailers Push Fad Risk Upstream
 
@@ -312,7 +307,6 @@ LEGO's 2004 discussion of market risks linked fad-driven demand directly to reta
 The practical effect is that risk migrates upstream.
 
 If a retailer is uncertain about a theme's long-term appeal, it can order conservatively and reorder only if sales prove strong. The manufacturer then bears more of the forecasting burden. LEGO must decide:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -327,13 +321,12 @@ This is especially difficult for licensed themes connected to films, television 
 
 The result is a compressed commercial lifecycle. A theme may have only a brief period in which it receives premium shelf space, active marketing support and full-price demand before retailers begin allocating space to the next trend.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-2-dark.svg" | relative_url }}" alt="Toy Fads illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Licensed Themes Age Faster Than the Brick System
 
 One of LEGO’s most important adaptations has been separating the lifespan of a theme from the lifespan of the building system underneath it.
 
-Licensed themes based on major entertainment properties can generate enormous sales. Over the years, LEGO has built ranges around franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}), Harry Potter, Marvel and many others. These partnerships allow LEGO to attach its products to existing fan communities and cultural events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[Brickipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brickipedia Licensed themes | Brickipedia</span><span class="citation-popover-snippet">BrickipediaLicensed themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</span></span></span>
+Licensed themes based on major entertainment properties can generate enormous sales. Over the years, LEGO has built ranges around franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}), Harry Potter, Marvel and many others. These partnerships allow LEGO to attach its products to existing fan communities and cultural events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[Brickipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brickipedia Licensed themes &#124; Brickipedia</span><span class="citation-popover-snippet">Licensed themes &#124; Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</span></span></span>
 
 Yet the popularity curve of a licensed theme is rarely as durable as the brick platform itself.
 
@@ -345,8 +338,7 @@ LevelTypical lifespanIndividual setOften one to three yearsTheme popularity peak
 
 This distinction is crucial for understanding LEGO’s resilience. The company can retire a theme without abandoning the manufacturing, engineering and design capabilities behind it. A mould created for one product may support future products. Building techniques developed for a licensed set can reappear elsewhere. Minifigure design expertise accumulates even when specific characters disappear.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTK3b4cuf0w" title="النقل المباشر من غرفة التداول Fxmaroc | يونيو 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTK3b4cuf0w" target="_blank" rel="noopener noreferrer">النقل المباشر من غرفة التداول Fxmaroc | يونيو 08</a></p><p class="youtube-embed-meta">Channel: FXMAROC</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTK3b4cuf0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTK3b4cuf0w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q7HwfEJb_4s" title="How Lego Almost Collapsed In 2004" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q7HwfEJb_4s" target="_blank" rel="noopener noreferrer">How Lego Almost Collapsed In 2004</a></p><p class="youtube-embed-meta">Channel: arcane global &middot; Views: 1.1K &middot; Uploaded: May 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q7HwfEJb_4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q7HwfEJb_4s">Open on YouTube</a></p></div></div></div>
 
 ## How LEGO Turns Short-Lived Themes Into Reusable Learning
 
@@ -360,7 +352,6 @@ Several forms of learning emerge:
 
 Fast-rising themes provide immediate feedback about what consumers currently value. Successful launches reveal preferences in:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * Character design.
@@ -372,7 +363,6 @@ Fast-rising themes provide immediate feedback about what consumers currently val
 </div>
 
 Because fad-driven products move quickly, they generate data quickly.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-3-dark.svg" | relative_url }}" alt="Toy Fads illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Design techniques survive after themes disappear
@@ -391,9 +381,6 @@ One lesson from the company's difficult period in the early 2000s was that diver
 
 A fad may disappear, but LEGO City, Creator, Technic and other long-running lines remain. Strong evergreen themes act as stabilisers that reduce dependence on any single trend. Analysts reviewing LEGO's performance have repeatedly noted the importance of balancing licensed successes with durable in-house product families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ramblingbrick.com/2021/03/14/what-are-the-most-popular-lego-themes-annual-report-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ramblingbrick.com">[The Rambling Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ramblingbrick.com</span><span class="citation-popover-title">The Rambling Brick What Are The Most Popular LEGO® Themes?</span><span class="citation-popover-snippet">14, 2021 — 14 Mar 2021 — Among the top selling lines in 2015 were core themes like LEGO City, LEGO Star Wars™, LEGO NINJA...</span><span class="citation-popover-meta">Published: March 14, 2021</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nd5KWzHMA5k" title="Product Life Cycle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nd5KWzHMA5k" target="_blank" rel="noopener noreferrer">Product Life Cycle</a></p><p class="youtube-embed-meta">Channel: Bizconsesh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nd5KWzHMA5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nd5KWzHMA5k">Open on YouTube</a></p></div></div></div>
-
 ## The Antifragile Value of Short Product Lifecycles
 
 At first glance, short product lifecycles appear to be purely a risk. They increase forecasting errors, create inventory exposure and make demand less predictable. Yet for LEGO, they also provide continuous pressure to adapt.
@@ -402,7 +389,7 @@ A company selling only permanent, unchanging products could become complacent. F
 
 That distinction helps explain why LEGO has remained more durable than many toy fads themselves. Cultural trends rise and fall, retailers rotate shelf space and entertainment franchises cycle through periods of popularity. The individual product lifecycle becomes shorter, but the brick platform accumulates experience from each cycle.
 
-In that sense, toy fads do more than shorten LEGO product lifecycles. They repeatedly stress-test the company’s ability to convert temporary excitement into long-term capability. The faster trends move, the more valuable it becomes to separate what changes quickly from what remains reusable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateLessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</span></span></span>
+In that sense, toy fads do more than shorten LEGO product lifecycles. They repeatedly stress-test the company’s ability to convert temporary excitement into long-term capability. The faster trends move, the more valuable it becomes to separate what changes quickly from what remains reusable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Lessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -497,7 +484,7 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -521,15 +508,15 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display"><img src="https://i.ebayimg.com/images/g/75EAAeSwulZqJ6U4/s-l225.jpg" alt="Listing image for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀"><img src="https://i.ebayimg.com/images/g/umgAAeSwzGVp9hgh/s-l225.jpg" alt="Listing image for LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +524,15 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/3fwAAeSwgWRpX4iP/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship"><img src="https://i.ebayimg.com/images/g/HTAAAeSw8uFqIWoG/s-l225.jpg" alt="Listing image for LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +540,31 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241"><img src="https://i.ebayimg.com/images/g/U8EAAeSweJZqDz86/s-l225.jpg" alt="Listing image for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED"><img src="https://i.ebayimg.com/images/g/X5EAAeSwzMVpyRjZ/s-l225.jpg" alt="Listing image for LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO® Set 952403-1 - Builder with Cement Mixer paper bag"><img src="https://i.ebayimg.com/images/g/T1cAAOSwyyRm9lmA/s-l225.jpg" alt="Listing image for LEGO® Set 952403-1 - Builder with Cement Mixer paper bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® Set 952403-1 - Builder with Cement Mixer paper bag</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +572,7 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-fads-move-faster-than-factory-plans-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fads-move-faster-than-factory-plans-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="when-fads-move-faster-than-factory-plans-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -779,51 +782,52 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOAnnual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</p></details>
    Published: April 26, 2005  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry](https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateLessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/themes](https://www.lego.com/en-us/themes)  
+   Link: <a href="https://www.lego.com/en-us/themes" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>these are impressive builds for display. Shop Products...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A short presentationLEGO® play experiences enable learning through play by encouraging children to reason systematically and think creati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement](https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement)  
+   Link: <a href="https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357612063_Research_on_Lego_Multi-channel_Development_Success_and_Improvement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Lego, including [Lego games](&amp;#123;&amp;#123; &#x27;lego-games/&#x27; | relative_url &amp;#125;&amp;#125;), Lego movies, and Legoland...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: brickipedia.fandom.com  
    Title: Brickipedia Licensed themes | Brickipedia  
-   Link: [https://brickipedia.fandom.com/wiki/Licensed_themes](https://brickipedia.fandom.com/wiki/Licensed_themes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickipediaLicensed themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</p></details>
+   Link: <a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensed themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: strategy-business.com  
-   Link: [https://www.strategy-business.com/article/07306](https://www.strategy-business.com/article/07306)  
+   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — From the mid-1990s through 2004, the Lego Group moved int...</p></details>
    Published: August 29, 2007  
 
 8. <a id="endnote-8"></a>
    Source: ramblingbrick.com  
    Title: The Rambling Brick What Are The Most Popular LEGO® Themes?  
-   Link: [https://ramblingbrick.com/2021/03/14/what-are-the-most-popular-lego-themes-annual-report-review/](https://ramblingbrick.com/2021/03/14/what-are-the-most-popular-lego-themes-annual-report-review/)  
+   Link: <a href="https://ramblingbrick.com/2021/03/14/what-are-the-most-popular-lego-themes-annual-report-review/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2021/03/14/what-are-the-most-popular-lego-themes-annual-report-review/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, 2021 — 14 Mar 2021 — Among the top selling lines in 2015 were core themes like LEGO City, LEGO Star Wars™, LEGO NINJA...</p></details>
    Published: March 14, 2021  
 
@@ -831,54 +835,54 @@ In that sense, toy fads do more than shorten LEGO product lifecycles. They repea
 
 9. <a id="endnote-9"></a>
    Source: cfocentre.com  
-   Link: [https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/](https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/)  
+   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: templeofbricks.com  
-   Link: [https://www.templeofbricks.com/en/lego-themes/](https://www.templeofbricks.com/en/lego-themes/)  
+   Link: <a href="https://www.templeofbricks.com/en/lego-themes/" target="_blank" rel="noopener noreferrer nofollow">https://www.templeofbricks.com/en/lego-themes/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Think.Marketing.Magazine/posts/as-part-of-how-brands-are-adapting-with-technological-advancements-lego-is-joini/1336896601796149/](https://www.facebook.com/Think.Marketing.Magazine/posts/as-part-of-how-brands-are-adapting-with-technological-advancements-lego-is-joini/1336896601796149/)  
+   Link: <a href="https://www.facebook.com/Think.Marketing.Magazine/posts/as-part-of-how-brands-are-adapting-with-technological-advancements-lego-is-joini/1336896601796149/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Think.Marketing.Magazine/posts/as-part-of-how-brands-are-adapting-with-technological-advancements-lego-is-joini/1336896601796149/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As part of how brands are adapting with technological...LEGO is blending tech into their famous brick experience through interactive sys...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ramlijohn_how-lego-went-from-near-bankruptcy-to-77-activity-7039602385001873408-pkCU](https://www.linkedin.com/posts/ramlijohn_how-lego-went-from-near-bankruptcy-to-77-activity-7039602385001873408-pkCU)  
+   Link: <a href="https://www.linkedin.com/posts/ramlijohn_how-lego-went-from-near-bankruptcy-to-77-activity-7039602385001873408-pkCU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ramlijohn_how-lego-went-from-near-bankruptcy-to-77-activity-7039602385001873408-pkCU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego went from near bankruptcy to $7.7 billion salesHow Lego came back from near bankruptcy to $7.7 billion in annual sales (with 5 m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: toyindustries.eu  
-   Link: [https://www.toyindustries.eu/resources/studies-reports/](https://www.toyindustries.eu/resources/studies-reports/)  
+   Link: <a href="https://www.toyindustries.eu/resources/studies-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.toyindustries.eu/resources/studies-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies &amp; reportsTIE&#x27;s EU Toy Safety report: The problem of unreputable sellers on online marketplaces. June 17, 2020 | Studies and repor...</p></details>
    Published: June 17, 2020  
 
 14. <a id="endnote-14"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/business/retail/lego-sales-hit-record-as-mix-of-homegrown-licensed-sets-drive-growth-08ac5aa1](https://www.wsj.com/business/retail/lego-sales-hit-record-as-mix-of-homegrown-licensed-sets-drive-growth-08ac5aa1)  
+   Link: <a href="https://www.wsj.com/business/retail/lego-sales-hit-record-as-mix-of-homegrown-licensed-sets-drive-growth-08ac5aa1" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/retail/lego-sales-hit-record-as-mix-of-homegrown-licensed-sets-drive-growth-08ac5aa1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company&#x27;s strong performance was driven by rising demand for both original and licensed sets such as Lego City, Technic, Botanicals...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: noerr.com  
-   Link: [https://www.noerr.com/en/insights/new-european-toy-safety-regulation-2025-2509-comes-into-force-key-points-at-a-glance](https://www.noerr.com/en/insights/new-european-toy-safety-regulation-2025-2509-comes-into-force-key-points-at-a-glance)  
+   Link: <a href="https://www.noerr.com/en/insights/new-european-toy-safety-regulation-2025-2509-comes-into-force-key-points-at-a-glance" target="_blank" rel="noopener noreferrer nofollow">https://www.noerr.com/en/insights/new-european-toy-safety-regulation-2025-2509-comes-into-force-key-points-at-a-glance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New European Toy Safety Regulation 2025/2509 comes...4 Feb 2026 — The new European Toy Safety Regulation 2025/2509 has been in force sin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bricknerd.com  
    Title: legos financial history part 1 the ides of march 2000 to 2001 7 27 23  
-   Link: [https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23](https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickNerdLEGO&#x27;s Financial History, Part 1: The Ides of March, 2000...27 Jul 2023 — The LEGO Group&#x27;s loss booked in the 2004 Annual Repor...</p></details>
+   Link: <a href="https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23" target="_blank" rel="noopener noreferrer nofollow">https://bricknerd.com/home/legos-financial-history-part-1-the-ides-of-march-2000-to-2001-7-27-23</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Financial History, Part 1: The Ides of March, 2000...27 Jul 2023 — The LEGO Group&#x27;s loss booked in the 2004 Annual Repor...</p></details>
    Published: march 2000  
 
 17. <a id="endnote-17"></a>
    Source: eversheds-sutherland.com  
    Title: eu toy safety regulation redefines product safety standards  
-   Link: [https://www.eversheds-sutherland.com/en/slovakia/insights/eu-toy-safety-regulation-redefines-product-safety-standards](https://www.eversheds-sutherland.com/en/slovakia/insights/eu-toy-safety-regulation-redefines-product-safety-standards)  
+   Link: <a href="https://www.eversheds-sutherland.com/en/slovakia/insights/eu-toy-safety-regulation-redefines-product-safety-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.eversheds-sutherland.com/en/slovakia/insights/eu-toy-safety-regulation-redefines-product-safety-standards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU: Toy Safety Regulation redefines product safety standards2 Jul 2025 — The Toy Safety Regulation (TSR) is expected to become law in Jul...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: europarl.europa.eu  
    Title: toy safety how the revised eu rules protect children  
-   Link: [https://www.europarl.europa.eu/topics/en/article/20211202STO18649/toy-safety-how-the-revised-eu-rules-protect-children](https://www.europarl.europa.eu/topics/en/article/20211202STO18649/toy-safety-how-the-revised-eu-rules-protect-children)  
+   Link: <a href="https://www.europarl.europa.eu/topics/en/article/20211202STO18649/toy-safety-how-the-revised-eu-rules-protect-children" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/topics/en/article/20211202STO18649/toy-safety-how-the-revised-eu-rules-protect-children</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>safety: how the revised EU rules protect children | Topics25 Nov 2025 — The EU wants to make sure that toys sold on the EU market do not...</p></details>

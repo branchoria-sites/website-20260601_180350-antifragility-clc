@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /portfolio/
 nav_short_title: Evergreen Themes
 title: The Quiet Power of LEGO's Evergreen Themes
-title_full: The Quiet Power of LEGO's Evergreen Themes | Portfolio
+title_full: The Quiet Power of LEGO's Evergreen Themes
 display_title_short: Evergreen Themes
 display_title: Evergreen Themes
 heading_title: The Quiet Power of LEGO's Evergreen Themes
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How LEGO Built More Ways To Grow | LEGO Antifragility
+parent_title: How LEGO Built More Ways To Grow
 parent_permalink: /portfolio/
 parent_nav_short_title: Portfolio
 parent_heading_title: How LEGO Built More Ways To Grow
@@ -265,7 +265,7 @@ next_link:
   permalink: /how-lego-s/
   short_title: How LEGO s
   heading_title: Why LEGO Needs More Than Toy Shelves
-date: '2026-06-09 03:38:10 '
+date: '2026-06-11 21:39:40 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1.webp
@@ -274,31 +274,28 @@ image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_everg
 
 ## Introduction
 
-LEGO’s portfolio breadth helps the company absorb shocks, but not all parts of that portfolio contribute in the same way. One of the most important stabilising forces comes from its evergreen themes: product lines such as City and Technic that are built around durable play interests rather than the popularity of a film, television series, game or celebrity franchise. These themes reduce franchise dependence because their appeal is tied to activities that persist year after year—building vehicles, running a city, operating construction equipment, exploring engineering concepts and creating stories from imagination rather than licensed narratives.
-
+LEGO’s [portfolio breadth]({{ 'portfolio/' | relative_url }}) helps the company absorb shocks, but not all parts of that portfolio contribute in the same way. One of the most important stabilising forces comes from its evergreen themes: product lines such as City and Technic that are built around durable play interests rather than the popularity of a film, television series, game or celebrity franchise. These themes reduce franchise dependence because their appeal is tied to activities that persist year after year—building vehicles, running a city, operating construction equipment, exploring engineering concepts and creating stories from imagination rather than licensed narratives.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1-dark.svg" | relative_url }}" alt="Evergreen Themes illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 From an antifragility perspective, evergreen themes matter because they give LEGO a source of demand that is largely under its own control. When an entertainment property loses momentum, enters a gap between releases or becomes less culturally relevant, LEGO still has product lines capable of attracting buyers without relying on outside intellectual property. Recent LEGO financial results repeatedly show City and Technic among the company’s strongest-performing themes alongside major licences, illustrating how homegrown ranges act as a counterweight rather than a replacement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group delivers double digit growth in H1 2024</span><span class="citation-popover-snippet">LEGO StoreThe LEGO Group delivers double-digit growth in H1 202428 Aug 2024 — Some of the top performing themes were a mix of homegrown a...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9aA0GPj7W4Y" title="First 2025 LEGO Ideas Review Results Reactions Special Feature: The Brick Hour Podcast Episode 66" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9aA0GPj7W4Y" target="_blank" rel="noopener noreferrer">First 2025 LEGO Ideas Review Results Reactions Special Feature: The Brick Hour Podcast Episode 66</a></p><p class="youtube-embed-meta">Channel: The Brick Hour Podcast &middot; Views: 275 &middot; Uploaded: October 2025 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9aA0GPj7W4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9aA0GPj7W4Y">Open on YouTube</a></p></div></div></div>
 
 ## Why City and Technic Behave Differently from Licensed Waves
 
-Licensed themes are often tied to external release schedules. A new film, streaming series or game can create a surge of attention, followed by quieter periods when consumer interest naturally fades. LEGO has benefited enormously from licences such as [Star Wars]({{ 'star-wars/' | relative_url }}) and Harry Potter, but those themes operate within cultural cycles that LEGO does not fully control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[Brickipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brickipedia Licensed themes | Brickipedia</span><span class="citation-popover-snippet">BrickipediaLicensed themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</span></span></span>
+Licensed themes are often tied to external release schedules. A new film, streaming series or game can create a surge of attention, followed by quieter periods when consumer interest naturally fades. LEGO has benefited enormously from licences such as [Star Wars]({{ 'star-wars/' | relative_url }}) and Harry Potter, but those themes operate within cultural cycles that LEGO does not fully control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickipedia.fandom.com">[Brickipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickipedia.fandom.com</span><span class="citation-popover-title">Brickipedia Licensed themes &#124; Brickipedia</span><span class="citation-popover-snippet">Licensed themes &#124; Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</span></span></span>
 
 City and Technic work differently because they are anchored to enduring interests rather than media events.
 
 LEGO City revolves around recognisable aspects of everyday life: police stations, fire brigades, trains, airports, construction sites and emergency services. Children do not need prior knowledge of a fictional universe to understand the play pattern. A fire engine remains understandable regardless of what is happening in cinemas or on streaming platforms.
 
-Technic follows a similarly durable logic. Instead of relying on characters or stories, it appeals to fascination with machines, engineering and mechanical functions. The core attraction is watching gears, suspensions, steering systems and moving mechanisms operate. While individual models change over time, the underlying interest in how machines work remains relatively stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accio.com/business/trending-legos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accio.com">[Accio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accio.com</span><span class="citation-popover-snippet">AccioTrending Legos 2025: Top City, Star Wars &amp; Technic SetsLego Technic sets are trending due to their intricate designs and advanced bu...</span></span></span>
+Technic follows a similarly durable logic. Instead of relying on characters or stories, it appeals to fascination with machines, engineering and mechanical functions. The core attraction is watching gears, suspensions, steering systems and moving mechanisms operate. While individual models change over time, the underlying interest in how machines work remains relatively stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accio.com/business/trending-legos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accio.com">[Accio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accio.com</span><span class="citation-popover-snippet">Trending Legos 2025: Top City, Star Wars &amp; Technic SetsLego Technic sets are trending due to their intricate designs and advanced bu...</span></span></span>
 
 This difference produces a useful business effect. If a licensed property enters a weak period between releases, LEGO does not have to wait for the next film or marketing campaign to generate demand. City and Technic can continue launching new products because their source material is effectively the real world.
 
 The durability of that demand appears repeatedly in LEGO's sales data. In first-half 2024 results, LEGO highlighted City and Technic among its top-performing themes alongside major licensed ranges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group delivers double digit growth in H1 2024</span><span class="citation-popover-snippet">LEGO StoreThe LEGO Group delivers double-digit growth in H1 202428 Aug 2024 — Some of the top performing themes were a mix of homegrown a...</span></span></span> In full-year 2024 results, City and Technic again appeared among the company’s best-selling themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[Toy World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-title">the lego group delivers record top and bottom line results in 2024</span><span class="citation-popover-snippet">Toy WorldThe Lego Group delivers record top- and bottom-line...12 Mar 2025 — Best-selling themes combined homegrown and entertainment IP...</span></span></span> The pattern continued in 2025, with LEGO identifying City and Technic among its most popular themes globally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group delivers double digit growth in H1 2024</span><span class="citation-popover-snippet">LEGO StoreThe LEGO Group delivers double-digit growth in H1 202428 Aug 2024 — Some of the top performing themes were a mix of homegrown a...</span></span></span>
 
 The significance is not merely that these themes sell well. It is that they sell well across multiple years despite lacking the constant promotional support that accompanies major entertainment releases.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pMpY1SuX9IE" title="Why Did LEGO Release These Themes?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pMpY1SuX9IE" target="_blank" rel="noopener noreferrer">Why Did LEGO Release These Themes?</a></p><p class="youtube-embed-meta">Channel: OurToyWorld &middot; Views: 5.5K &middot; Uploaded: February 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pMpY1SuX9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pMpY1SuX9IE">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +306,6 @@ Evergreen themes strengthen LEGO's antifragility because they provide continuity
 A useful way to think about the portfolio is that licences can create spikes, while evergreen themes create a baseline. When a blockbuster franchise performs exceptionally well, LEGO benefits. When that franchise cools, City, Technic and other homegrown themes help prevent the entire portfolio from becoming dependent on a single cultural trend.
 
 Several mechanisms contribute to this stability:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +322,6 @@ The financial evidence suggests that this continuity still matters. Across multi
 
 This balance is particularly valuable in an antifragility [framework]({{ 'framework/' | relative_url }}). A company becomes more fragile when a large share of its success depends on factors outside its control. Evergreen themes reduce that exposure by ensuring that some of LEGO’s most important products are governed primarily by internal design decisions rather than external media cycles.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-2-dark.svg" | relative_url }}" alt="Evergreen Themes illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evergreen Themes Cannot Protect Against
 
@@ -340,7 +335,6 @@ Third, long-running themes face their own challenge: staying fresh without aband
 
 There is also a strategic trade-off. Licensed themes often bring new audiences into the LEGO ecosystem, while evergreen themes help retain them. A portfolio consisting only of evergreen ranges might be stable but less capable of capturing sudden waves of consumer enthusiasm. Antifragility comes from combining both approaches rather than choosing one exclusively.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OmjBhAnC-Ic" title="Are There Too Many Licensed Lego Themes? An Exploration..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OmjBhAnC-Ic" target="_blank" rel="noopener noreferrer">Are There Too Many Licensed Lego Themes? An Exploration...</a></p><p class="youtube-embed-meta">Channel: Building Together &middot; Views: 1.7K &middot; Uploaded: October 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OmjBhAnC-Ic" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OmjBhAnC-Ic">Open on YouTube</a></p></div></div></div>
 
 ## Why Evergreen Themes Matter for LEGO's Antifragility
@@ -352,7 +346,6 @@ Recent LEGO results show a recurring pattern: some of the company's strongest th
 That mix is strategically significant. If one entertainment property weakens, LEGO still has major themes supported by enduring interests rather than external media schedules. The company can therefore benefit when franchises succeed without becoming wholly dependent on them.
 
 In antifragility terms, evergreen themes act as anchors. They do not eliminate shocks, but they help ensure that a slowdown in one franchise remains a portfolio problem rather than a company-wide problem. City and Technic give LEGO a source of demand rooted in persistent human interests—building, vehicles, engineering and imaginative play—which makes the business less vulnerable to the rise and fall of any particular entertainment phenomenon.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-3-dark.svg" | relative_url }}" alt="Evergreen Themes illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -449,7 +442,7 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -473,15 +466,15 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Town truck Without Box"><img src="https://i.ebayimg.com/images/g/0SUAAeSw289qKwOf/s-l225.jpg" alt="Listing image for LEGO City Town truck Without Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City Town truck Without Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +482,15 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Police Pursuit 60128 Complete Set 184 Pieces Ages 5-12"><img src="https://i.ebayimg.com/images/g/KHwAAeSwv8pqKu2T/s-l225.jpg" alt="Listing image for LEGO City Police Pursuit 60128 Complete Set 184 Pieces Ages 5-12" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City Police Pursuit 60128 Complete Set 184 Pieces Ages 5-12</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +498,31 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/3fwAAeSwgWRpX4iP/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Hospital 60204 - Complete with Box &amp; Instructions Excellent Condition"><img src="https://i.ebayimg.com/images/g/IFUAAeSwsqFqJHEs/s-l225.jpg" alt="Listing image for LEGO City Hospital 60204 - Complete with Box &amp; Instructions Excellent Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City Hospital 60204 - Complete with Box &amp; Instructions Excellent Condition</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City 60223 Harvester Transport Retired Set NEW &amp; SEALED Farm Tractor"><img src="https://i.ebayimg.com/images/g/f6cAAeSwL-BqJtPX/s-l225.jpg" alt="Listing image for LEGO City 60223 Harvester Transport Retired Set NEW &amp; SEALED Farm Tractor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City 60223 Harvester Transport Retired Set NEW &amp; SEALED Farm Tractor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +530,7 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-quiet-power-of-lego-s-evergreen-themes-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-quiet-power-of-lego-s-evergreen-themes-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -731,65 +740,66 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: The LEGO Group delivers double digit growth in H1 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024](https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreThe LEGO Group delivers double-digit growth in H1 202428 Aug 2024 — Some of the top performing themes were a mix of homegrown a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: accio.com  
-   Link: [https://www.accio.com/business/trending-legos](https://www.accio.com/business/trending-legos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AccioTrending Legos 2025: Top City, Star Wars &amp; Technic SetsLego Technic sets are trending due to their intricate designs and advanced bu...</p></details>
+   Link: <a href="https://www.accio.com/business/trending-legos" target="_blank" rel="noopener noreferrer nofollow">https://www.accio.com/business/trending-legos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trending Legos 2025: Top City, Star Wars &amp; Technic SetsLego Technic sets are trending due to their intricate designs and advanced bu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio](https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreThe LEGO Group 2025 Full Year Results - About UsMay 1, 2026 — 10 Mar 2026 — Demand for LEGO® products was high in all market gr...</p></details>
    Published: May 1, 2026  
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report10 Mar 2025 — Half of the [materials](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) purchased in 2024 were produced with sustainable sources: we more than doubled...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Performance Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We achieved record top- and bottom-line results while accelerating spending on strategic initiatives, such as...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: accio.com  
    Title: top selling lego themes  
-   Link: [https://www.accio.com/business/top-selling-lego-themes](https://www.accio.com/business/top-selling-lego-themes)  
+   Link: <a href="https://www.accio.com/business/top-selling-lego-themes" target="_blank" rel="noopener noreferrer nofollow">https://www.accio.com/business/top-selling-lego-themes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>202519 Apr 2026 — Discover the top-selling LEGO themes of 2025, including Star Wars, City, Harry Potter, and Icons. Explore why these set...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: toyworldmag.co.uk  
    Title: the lego group delivers record top and bottom line results in 2024  
-   Link: [https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/](https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/)  
+   Link: <a href="https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy WorldThe Lego Group delivers record top- and bottom-line...12 Mar 2025 — Best-selling themes combined homegrown and entertainment IP...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: brickipedia.fandom.com  
    Title: Brickipedia Licensed themes | Brickipedia  
-   Link: [https://brickipedia.fandom.com/wiki/Licensed_themes](https://brickipedia.fandom.com/wiki/Licensed_themes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickipediaLicensed themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</p></details>
+   Link: <a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensed themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: toyworldmag.co.uk  
    Title: lego reveals 2025 full year results  
-   Link: [https://toyworldmag.co.uk/lego-reveals-2025-full-year-results/](https://toyworldmag.co.uk/lego-reveals-2025-full-year-results/)  
+   Link: <a href="https://toyworldmag.co.uk/lego-reveals-2025-full-year-results/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/lego-reveals-2025-full-year-results/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy WorldLego reveals 2025 full-year results11 Mar 2026 — Demand for Lego products was high in all market groups and among both children...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ramblingbrick.com  
    Title: The Rambling Brick Whatever Happened To Classic LEGO® Themes?  
-   Link: [https://ramblingbrick.com/2021/08/16/whatever-happened-to-classic-lego-themes-part-i-prelude/](https://ramblingbrick.com/2021/08/16/whatever-happened-to-classic-lego-themes-part-i-prelude/)  
+   Link: <a href="https://ramblingbrick.com/2021/08/16/whatever-happened-to-classic-lego-themes-part-i-prelude/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2021/08/16/whatever-happened-to-classic-lego-themes-part-i-prelude/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part IAugust 16, 2021 — 16 Aug 2021 — I&#x27;m going to explore the history of the play themes, look at how they have evolved over the years a...</p></details>
    Published: August 16, 2021  
 
@@ -797,55 +807,55 @@ In antifragility terms, evergreen themes act as anchors. They do not eliminate s
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/bricksnbrackets/lego-hints-at-big-changes-for-everyone-8ad1452f20cd](https://medium.com/bricksnbrackets/lego-hints-at-big-changes-for-everyone-8ad1452f20cd)  
+   Link: <a href="https://medium.com/bricksnbrackets/lego-hints-at-big-changes-for-everyone-8ad1452f20cd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/bricksnbrackets/lego-hints-at-big-changes-for-everyone-8ad1452f20cd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Hints At Big Changes For Everyone | by Attila Vágó... LEGO consider dropping the Star Wars theme in say 10 or 20 years. Technic as a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA](https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA)  
+   Link: <a href="https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Shay&#x27;s Post11 Mar 2025 — Bestselling themes combined homegrown and entertainment IP themes, including LEGO® City, LEGO® Star Wars™...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: jaysbrickblog.com  
-   Link: [https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/](https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/)  
+   Link: <a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group posts stellar 2024 financial results with...11 Mar 2025 — The best-selling themes were a combination of homegrown and ent...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: 2025 was a great year for lego the company reported record earnings thanks in pa  
-   Link: [https://www.facebook.com/TheBrickxClub/posts/2025-was-a-great-year-for-lego-the-company-reported-record-earnings-thanks-in-pa/1229380886075352/](https://www.facebook.com/TheBrickxClub/posts/2025-was-a-great-year-for-lego-the-company-reported-record-earnings-thanks-in-pa/1229380886075352/)  
+   Link: <a href="https://www.facebook.com/TheBrickxClub/posts/2025-was-a-great-year-for-lego-the-company-reported-record-earnings-thanks-in-pa/1229380886075352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBrickxClub/posts/2025-was-a-great-year-for-lego-the-company-reported-record-earnings-thanks-in-pa/1229380886075352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company reported...21 Jan 2026 — These builds have attracted more [adult fans](&amp;#123;&amp;#123; &#x27;adult-fans/&#x27; | relative_url &amp;#125;&amp;#125;) who enjoy creative, relaxing designs. LEGO has also ben...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jaysbrickblog.com  
    Title: what are legos best selling themes and how have they changed since 2012  
-   Link: [https://jaysbrickblog.com/news/what-are-legos-best-selling-themes-and-how-have-they-changed-since-2012/](https://jaysbrickblog.com/news/what-are-legos-best-selling-themes-and-how-have-they-changed-since-2012/)  
+   Link: <a href="https://jaysbrickblog.com/news/what-are-legos-best-selling-themes-and-how-have-they-changed-since-2012/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/what-are-legos-best-selling-themes-and-how-have-they-changed-since-2012/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are LEGO&#x27;s best selling themes, and how have they...9 Mar 2022 — A detailed look at LEGO&#x27;s best selling themes from 2012 to the pre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: Has LEGO decreased Original Theme Quantity and Quality?Hello everyone  
-   Link: [https://www.reddit.com/r/lego/comments/13yzy56/has_lego_decreased_original_theme_quantity_and/](https://www.reddit.com/r/lego/comments/13yzy56/has_lego_decreased_original_theme_quantity_and/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/13yzy56/has_lego_decreased_original_theme_quantity_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/13yzy56/has_lego_decreased_original_theme_quantity_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I’m curious as to what you think, and what you think is the reason behind this. So, I found a LEGO catalog of 2008, there are the pictures...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_Lego_themes](https://en.wikipedia.org/wiki/List_of_Lego_themes)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_Lego_themes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Lego_themes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Lego themesA Lego theme is a product line of Lego construction toys produced by The Lego Group based on a central concept.Read...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: toysnbricks.com  
    Title: lego 2024 annual report performance financials press release  
-   Link: [https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/](https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/)  
+   Link: <a href="https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-2024-annual-report-performance-financials-press-release/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO 2024 Annual Report Performance &amp; Financials...Bestselling themes combined homegrown and entertainment IP themes, including LEGO® Ci...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kidscreen.com  
    Title: lego achieves double digit revenue growth in 2024  
-   Link: [https://kidscreen.com/2025/03/12/lego-achieves-double-digit-revenue-growth-in-2024/](https://kidscreen.com/2025/03/12/lego-achieves-double-digit-revenue-growth-in-2024/)  
+   Link: <a href="https://kidscreen.com/2025/03/12/lego-achieves-double-digit-revenue-growth-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://kidscreen.com/2025/03/12/lego-achieves-double-digit-revenue-growth-in-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO achieves double-digit revenue growth in 202412 Mar 2025 — The Danish brickmaker&#x27;s earnings jumped by 13% to US$10.85 billion last ye...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: blocksmag.com  
-   Link: [https://blocksmag.com/sales-of-lego-sets-almost-doubles-over-five-years/](https://blocksmag.com/sales-of-lego-sets-almost-doubles-over-five-years/)  
+   Link: <a href="https://blocksmag.com/sales-of-lego-sets-almost-doubles-over-five-years/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/sales-of-lego-sets-almost-doubles-over-five-years/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sales of LEGO sets almost double over five years11 Mar 2025 — Best-selling themes in 2024 were Icons, City, Technic, Star Wars and Harry...</p></details>

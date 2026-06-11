@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /recent-results/
 nav_short_title: China risk
 title: The regional weakness LEGO could not ignore
-title_full: The regional weakness LEGO could not ignore | Recent Results
+title_full: The regional weakness LEGO could not ignore
 display_title_short: China risk
 display_title: China risk
 heading_title: The regional weakness LEGO could not ignore
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Recent LEGO Results Really Prove | LEGO Antifragility
+parent_title: What Recent LEGO Results Really Prove
 parent_permalink: /recent-results/
 parent_nav_short_title: Recent Results
 parent_heading_title: What Recent LEGO Results Really Prove
@@ -259,7 +259,7 @@ next_link:
   permalink: /investment/
   short_title: Investment
   heading_title: Why LEGO kept spending during pressure
-date: '2026-06-09 03:41:21 '
+date: '2026-06-11 21:40:03 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1.webp
@@ -268,16 +268,14 @@ image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_le
 
 ## Introduction
 
-LEGO’s strong global results in 2023 and 2024 are often presented as evidence of resilience: the company gained [market share]({{ 'market-share/' | relative_url }}) while much of the toy industry struggled. However, China complicates that narrative. While LEGO grew globally, China became a notable weak spot, with management repeatedly acknowledging softer demand and difficult economic conditions. This matters because China had been one of LEGO’s most important long-term growth bets for more than a decade. When a company performs well almost everywhere except in a market where it has invested heavily, the story shifts from simple resilience to a more nuanced test of adaptability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego outplays wobbly game market</span><span class="citation-popover-snippet">ReutersLego outplays wobbly game marketMarch 12, 2024 — 12 Mar 2024 — Lego&#x27;s consumer sales grew 4% in 2023 vs market decline of 7% · Exp...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
-
+LEGO’s strong global results in 2023 and 2024 are often presented as evidence of resilience: the company gained [market share]({{ 'market-share/' | relative_url }}) while much of the toy industry struggled. However, China complicates that narrative. While LEGO grew globally, China became a notable weak spot, with management repeatedly acknowledging softer demand and difficult economic conditions. This matters because China had been one of LEGO’s most important long-term growth bets for more than a decade. When a company performs well almost everywhere except in a market where it has invested heavily, the story shifts from simple resilience to a more nuanced test of adaptability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego outplays wobbly game market</span><span class="citation-popover-snippet">Lego outplays wobbly game marketMarch 12, 2024 — 12 Mar 2024 — Lego&#x27;s consumer sales grew 4% in 2023 vs market decline of 7% · Exp...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1-dark.svg" | relative_url }}" alt="China risk illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The regional weakness LEGO could not ignore
 
 China was not a marginal market for LEGO. Before the recent slowdown, the company had invested aggressively in expanding its retail footprint, building local brand awareness and positioning itself for decades of growth. New stores were opened at a rapid pace, with China receiving a large share of that [investment]({{ 'investment/' | relative_url }}). In 2023, LEGO planned another 145 store openings globally, most of them in China, reflecting how central the country was to its growth strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taipeitimes.com/News/biz/archives/2023/03/08/2003795687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-snippet">Taipei TimesLego plans additional China stores to build on 2022 sales...8 Mar 2023 — Lego plans to open another 145 stores this year, mo...</span></span></span>
 
-Against that backdrop, declining Chinese sales in 2023 carried greater significance than a normal regional setback. LEGO reported growth in consumer sales globally despite a severe downturn in the toy market, but management specifically identified China as an area of decline. Chief executive Niels Christiansen attributed the weakness largely to macroeconomic conditions rather than a loss of brand relevance. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://scandasia.com/lego-outperforms-struggling-toy-market-despite-china-buying-less/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scandasia.com">[scandasia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scandasia.com</span><span class="citation-popover-title">lego outperforms struggling toy market despite china buying less</span><span class="citation-popover-snippet">Lego outperforms struggling toy market despite China...14 Mar 2024 — Lego increased sales last year, even though China has bought less f...</span></span></span> The result was a mixed picture. Strong performance in the United States, Europe and other regions more than offset the weakness, allowing LEGO to post revenue growth and gain market share. Yet the China slowdown demonstrated that even a company with exceptional brand strength remains exposed to local economic realities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego grabs bigger share declining toy market 2023 08 30</span><span class="citation-popover-snippet">Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/lego-sales-jump-27-2021-boosted-by-new-china-stores-2022-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego sales jump 27 2021 boosted by new china stores 2022 03 08</span><span class="citation-popover-snippet">ReutersLego sales jump 27% in 2021, boosted by new China stores8 Mar 2022 — Lego&#x27;s sales jumped 27% last year driven by new store opening...</span></span></span>
-
+Against that backdrop, declining Chinese sales in 2023 carried greater significance than a normal regional setback. LEGO reported growth in consumer sales globally despite a severe downturn in the toy market, but management specifically identified China as an area of decline. Chief executive Niels Christiansen attributed the weakness largely to macroeconomic conditions rather than a loss of brand relevance. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://scandasia.com/lego-outperforms-struggling-toy-market-despite-china-buying-less/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scandasia.com">[scandasia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scandasia.com</span><span class="citation-popover-title">lego outperforms struggling toy market despite china buying less</span><span class="citation-popover-snippet">Lego outperforms struggling toy market despite China...14 Mar 2024 — Lego increased sales last year, even though China has bought less f...</span></span></span> The result was a mixed picture. Strong performance in the United States, Europe and other regions more than offset the weakness, allowing LEGO to post revenue growth and gain market share. Yet the China slowdown demonstrated that even a company with exceptional brand strength remains exposed to local economic realities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego grabs bigger share declining toy market 2023 08 30</span><span class="citation-popover-snippet">Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/lego-sales-jump-27-2021-boosted-by-new-china-stores-2022-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego sales jump 27 2021 boosted by new china stores 2022 03 08</span><span class="citation-popover-snippet">Lego sales jump 27% in 2021, boosted by new China stores8 Mar 2022 — Lego&#x27;s sales jumped 27% last year driven by new store opening...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lSMGIp2yXnk" title="Lego CEO talks market share gains, AI, China expansion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lSMGIp2yXnk" target="_blank" rel="noopener noreferrer">Lego CEO talks market share gains, AI, China expansion</a></p><p class="youtube-embed-meta">Channel: Yahoo Finance &middot; Views: 2.0K &middot; Uploaded: August 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lSMGIp2yXnk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lSMGIp2yXnk">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +289,6 @@ In 2023, consumer sales grew 4% despite a global toy market decline of roughly 7
 
 From an antifragility perspective, that distinction is important. A truly robust global organisation can absorb weakness in one geography because other parts of the system compensate. LEGO demonstrated that capability. Yet the fact that compensation was necessary shows that not every element of the business became stronger under pressure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O15EgTv0RvI" title="China&#x27;s economy stalls in November as calls grow for reform | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O15EgTv0RvI" target="_blank" rel="noopener noreferrer">China&#x27;s economy stalls in November as calls grow for reform | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 5.7K &middot; Uploaded: December 2025 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O15EgTv0RvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O15EgTv0RvI">Open on YouTube</a></p></div></div></div>
 
 ### China reflected broader consumer weakness
@@ -299,7 +296,6 @@ From an antifragility perspective, that distinction is important. A truly robust
 The challenge was also linked to wider economic conditions rather than a LEGO-specific problem. Throughout 2024, many multinational consumer brands reported softer Chinese demand as households became more cautious about spending. Analysts and companies across sectors pointed to weak consumer confidence, property-market pressures and subdued retail activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego outperforms toy market with robust sales europe north america 2024 08 28</span><span class="citation-popover-snippet">Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — Lego sales rose 13% in first half of 2024 · The company grabbed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/chinas-stuttering-recovery-darkens-global-corporate-growth-outlook-2024-08-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">China&#x27;s stuttering recovery darkens global corporate growth outlook</span><span class="citation-popover-snippet">Key factors include a downturn in the property market and significant job insecurity, leading to cautious consumer behavior. Despite stim...</span></span></span>
 
 This context helps explain why LEGO's difficulties in China are analytically valuable. They were not merely the result of poor execution. Instead, they tested whether the company could continue growing when a major growth market became less supportive.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-2-dark.svg" | relative_url }}" alt="China risk illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why store expansion slowed in China
@@ -309,7 +305,6 @@ For years, store expansion had been one of LEGO's clearest ways to deepen its pr
 The problem was that slower demand reduced the immediate payoff from that expansion strategy. By 2024, management was still investing in China, but the market was no longer delivering the straightforward growth assumptions that had justified earlier expansion. Reuters reported that LEGO continued investing despite declining Chinese demand and an uncertain market outlook. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/chinas-stubborn-savers-ignore-inducements-spend-growth-slows-2024-07-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">chinas stubborn savers ignore inducements spend growth slows 2024 07 18</span><span class="citation-popover-snippet">China&#x27;s stubborn savers ignore inducements to spend as...18 Jul 2024 — Chinese consumer spending has failed to respond to government mea...</span></span></span>
 
 This does not mean LEGO abandoned China. On the contrary, the company maintained a long-term commitment to the market. The complication is that heavy investment combined with weaker demand creates a longer and less predictable path to returns. A growth engine that once looked almost automatic became a strategic challenge requiring patience and adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/chinas-economy-likely-have-slowed-q3-beijings-2024-target-risk-2024-10-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">chinas economy likely have slowed q3 beijings 2024 target risk 2024 10 17</span><span class="citation-popover-snippet">China&#x27;s Q3 GDP hits weakest pace since early 2023, backs...18 Oct 2024 — China&#x27;s economy grew at the slowest pace since early 2023 in th...</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-3-dark.svg" | relative_url }}" alt="China risk illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How regional weakness limits antifragility claims
@@ -326,9 +321,7 @@ Three constraints become visible:
 
 The most defensible conclusion is therefore not that LEGO is immune to shocks, but that it has developed a business structure capable of absorbing regional setbacks without derailing global performance. China is the clearest example from the 2023–2024 period. The market exposed a genuine weakness, yet the wider organisation remained strong enough to offset it. That is compelling evidence of resilience, but it is also a reminder that antifragility claims should be made with caution. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">LEGO StoreLEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLcPjdVRYFI" title="Lego sales rise as bricks click with more shoppers | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLcPjdVRYFI" target="_blank" rel="noopener noreferrer">Lego sales rise as bricks click with more shoppers | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 828 &middot; Uploaded: March 2025 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLcPjdVRYFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLcPjdVRYFI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -447,15 +440,15 @@ The most defensible conclusion is therefore not that LEGO is immune to shocks, b
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City: Police Highway Arrest (60242) - Complete Build"><img src="https://i.ebayimg.com/images/g/EHoAAeSwpsNqKnly/s-l225.jpg" alt="Listing image for LEGO City: Police Highway Arrest (60242) - Complete Build" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City: Police Highway Arrest (60242) - Complete Build</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +456,15 @@ The most defensible conclusion is therefore not that LEGO is immune to shocks, b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Fire Station 60215 Building Kit Complete Set with Instructions"><img src="https://i.ebayimg.com/images/g/MaQAAeSwTrNqJpg5/s-l225.jpg" alt="Listing image for LEGO City Fire Station 60215 Building Kit Complete Set with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City Fire Station 60215 Building Kit Complete Set with Instructions</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +472,31 @@ The most defensible conclusion is therefore not that LEGO is immune to shocks, b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅"><img src="https://i.ebayimg.com/images/g/G4MAAeSwAqxqHcoJ/s-l225.jpg" alt="Listing image for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CITY: Repair Truck (3179) Complete Set"><img src="https://i.ebayimg.com/images/g/G0EAAeSwUuBqJmxQ/s-l225.jpg" alt="Listing image for LEGO CITY: Repair Truck (3179) Complete Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CITY: Repair Truck (3179) Complete Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City 60181 Forest Tractor ** 100% Complete**"><img src="https://i.ebayimg.com/images/g/P7YAAeSwQ4NqJwAS/s-l225.jpg" alt="Listing image for LEGO City 60181 Forest Tractor ** 100% Complete**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City 60181 Forest Tractor ** 100% Complete**</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,7 +504,7 @@ The most defensible conclusion is therefore not that LEGO is immune to shocks, b
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-regional-weakness-lego-could-not-ignore-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="the-regional-weakness-lego-could-not-ignore-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -705,184 +714,185 @@ The most defensible conclusion is therefore not that LEGO is immune to shocks, b
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: Lego outplays wobbly game market  
-   Link: [https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/](https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersLego outplays wobbly game marketMarch 12, 2024 — 12 Mar 2024 — Lego&#x27;s consumer sales grew 4% in 2023 vs market decline of 7% · Exp...</p></details>
+   Link: <a href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego outplays wobbly game marketMarch 12, 2024 — 12 Mar 2024 — Lego&#x27;s consumer sales grew 4% in 2023 vs market decline of 7% · Exp...</p></details>
    Published: March 12, 2024  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: lego grabs bigger share declining toy market 2023 08 30  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/](https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Title: lego sales jump 27 2021 boosted by new china stores 2022 03 08  
-   Link: [https://www.reuters.com/world/europe/lego-sales-jump-27-2021-boosted-by-new-china-stores-2022-03-08/](https://www.reuters.com/world/europe/lego-sales-jump-27-2021-boosted-by-new-china-stores-2022-03-08/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersLego sales jump 27% in 2021, boosted by new China stores8 Mar 2022 — Lego&#x27;s sales jumped 27% last year driven by new store opening...</p></details>
+   Link: <a href="https://www.reuters.com/world/europe/lego-sales-jump-27-2021-boosted-by-new-china-stores-2022-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/lego-sales-jump-27-2021-boosted-by-new-china-stores-2022-03-08/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego sales jump 27% in 2021, boosted by new China stores8 Mar 2022 — Lego&#x27;s sales jumped 27% last year driven by new store opening...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scandasia.com  
    Title: lego outperforms struggling toy market despite china buying less  
-   Link: [https://scandasia.com/lego-outperforms-struggling-toy-market-despite-china-buying-less/](https://scandasia.com/lego-outperforms-struggling-toy-market-despite-china-buying-less/)  
+   Link: <a href="https://scandasia.com/lego-outperforms-struggling-toy-market-despite-china-buying-less/" target="_blank" rel="noopener noreferrer nofollow">https://scandasia.com/lego-outperforms-struggling-toy-market-despite-china-buying-less/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego outperforms struggling toy market despite China...14 Mar 2024 — Lego increased sales last year, even though China has bought less f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: lego outperforms toy market with robust sales europe north america 2024 08 28  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/](https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — Lego sales rose 13% in first half of 2024 · The company grabbed...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreLEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: China's stuttering recovery darkens global corporate growth outlook  
-   Link: [https://www.reuters.com/business/chinas-stuttering-recovery-darkens-global-corporate-growth-outlook-2024-08-02/](https://www.reuters.com/business/chinas-stuttering-recovery-darkens-global-corporate-growth-outlook-2024-08-02/)  
+   Link: <a href="https://www.reuters.com/business/chinas-stuttering-recovery-darkens-global-corporate-growth-outlook-2024-08-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/chinas-stuttering-recovery-darkens-global-corporate-growth-outlook-2024-08-02/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key factors include a downturn in the property market and significant job insecurity, leading to cautious consumer behavior. Despite stim...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: chinas stubborn savers ignore inducements spend growth slows 2024 07 18  
-   Link: [https://www.reuters.com/world/china/chinas-stubborn-savers-ignore-inducements-spend-growth-slows-2024-07-18/](https://www.reuters.com/world/china/chinas-stubborn-savers-ignore-inducements-spend-growth-slows-2024-07-18/)  
+   Link: <a href="https://www.reuters.com/world/china/chinas-stubborn-savers-ignore-inducements-spend-growth-slows-2024-07-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/chinas-stubborn-savers-ignore-inducements-spend-growth-slows-2024-07-18/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s stubborn savers ignore inducements to spend as...18 Jul 2024 — Chinese consumer spending has failed to respond to government mea...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: chinas economy likely have slowed q3 beijings 2024 target risk 2024 10 17  
-   Link: [https://www.reuters.com/world/china/chinas-economy-likely-have-slowed-q3-beijings-2024-target-risk-2024-10-17/](https://www.reuters.com/world/china/chinas-economy-likely-have-slowed-q3-beijings-2024-target-risk-2024-10-17/)  
+   Link: <a href="https://www.reuters.com/world/china/chinas-economy-likely-have-slowed-q3-beijings-2024-target-risk-2024-10-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/chinas-economy-likely-have-slowed-q3-beijings-2024-target-risk-2024-10-17/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s Q3 GDP hits weakest pace since early 2023, backs...18 Oct 2024 — China&#x27;s economy grew at the slowest pace since early 2023 in th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report10 Mar 2025 — Commercial momentum and market share. In 2024, the LEGO Group grew its consumer sales* by 12 percent...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: lego sales rise bricks click with more shoppers 2025 03 11  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/](https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego sales rise as bricks click with more shoppers11 Mar 2025 — Lego reported strong sales growth for 2024 as more shoppers snapped up it...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: China's economy loses steam at start of Q2 as  
-   Link: [https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/](https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/)  
+   Link: <a href="https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2569 BE — China&#x27;s April industrial output growth slowest since July 2023 · Consumer demand stays weak, as retail sales rise just...</p></details>
    Published: May 17, 2569  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: helped by brand tie ups legos first half sales hit record 2025 08 27  
-   Link: [https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/](https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Helped by brand tie-ups, Lego&#x27;s first-half sales hit a record27 Aug 2025 — Lego outpaces global toy market with 12% sales growth · Succes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/article/business/weaker-retail-sales-loom-over-chinas-economy-despite-some-bright-spots-idUSKCN1NJ06W/](https://www.reuters.com/article/business/weaker-retail-sales-loom-over-chinas-economy-despite-some-bright-spots-idUSKCN1NJ06W/)  
+   Link: <a href="https://www.reuters.com/article/business/weaker-retail-sales-loom-over-chinas-economy-despite-some-bright-spots-idUSKCN1NJ06W/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/business/weaker-retail-sales-loom-over-chinas-economy-despite-some-bright-spots-idUSKCN1NJ06W/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weaker retail sales loom over China&#x27;s economy despite...13 Nov 2018 — China delivered a mixed economic report card for October on Wednes...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
    Title: chinas factory output retail sales weaken november 2025 12 15  
-   Link: [https://www.reuters.com/world/china/chinas-factory-output-retail-sales-weaken-november-2025-12-15/](https://www.reuters.com/world/china/chinas-factory-output-retail-sales-weaken-november-2025-12-15/)  
+   Link: <a href="https://www.reuters.com/world/china/chinas-factory-output-retail-sales-weaken-november-2025-12-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/chinas-factory-output-retail-sales-weaken-november-2025-12-15/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s economy stalls in November as calls grow for reformDec 14, 2025 — Factory output, retail sales grow at weakest pace in over a yea...</p></details>
    Published: november 2025  
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
    Title: chinas factory output retail sales growth worst over year 2025 11 14  
-   Link: [https://www.reuters.com/world/china/chinas-factory-output-retail-sales-growth-worst-over-year-2025-11-14/](https://www.reuters.com/world/china/chinas-factory-output-retail-sales-growth-worst-over-year-2025-11-14/)  
+   Link: <a href="https://www.reuters.com/world/china/chinas-factory-output-retail-sales-growth-worst-over-year-2025-11-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/chinas-factory-output-retail-sales-growth-worst-over-year-2025-11-14/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s economy jolted by weakest factory output, retail...14 Nov 2025 — Industrial output grew 4.9% year-on-year in October, National B...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: taipeitimes.com  
-   Link: [https://www.taipeitimes.com/News/biz/archives/2023/03/08/2003795687](https://www.taipeitimes.com/News/biz/archives/2023/03/08/2003795687)  
+   Link: <a href="https://www.taipeitimes.com/News/biz/archives/2023/03/08/2003795687" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/biz/archives/2023/03/08/2003795687</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei TimesLego plans additional China stores to build on 2022 sales...8 Mar 2023 — Lego plans to open another 145 stores this year, mo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: businessinsider.com  
    Title: parents bought fewer toys except lego millennials plastic clutter 2024 3  
-   Link: [https://www.businessinsider.com/parents-bought-fewer-toys-except-lego-millennials-plastic-clutter-2024-3](https://www.businessinsider.com/parents-bought-fewer-toys-except-lego-millennials-plastic-clutter-2024-3)  
+   Link: <a href="https://www.businessinsider.com/parents-bought-fewer-toys-except-lego-millennials-plastic-clutter-2024-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/parents-bought-fewer-toys-except-lego-millennials-plastic-clutter-2024-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key products included collaborations with &quot;Fortnite,&quot; &quot;[Star Wars](&amp;#123;&amp;#123; &#x27;star-wars/&#x27; | relative_url &amp;#125;&amp;#125;),&quot; and &quot;Harry Potter,&quot; with a growing focus on the adult market. Lego&#x27;s r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: Reuters executive Simon Robinson to replace Justin Stevens as ABC news director  
-   Link: [https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director](https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director)  
+   Link: <a href="https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Reuters/](https://www.facebook.com/Reuters/)  
+   Link: <a href="https://www.facebook.com/Reuters/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10405078 likes · 2229506 talking about this. Welcome to Reuters news on Facebook. We share news from around the world...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: cmswire.com  
-   Link: [https://www.cmswire.com/sitemap/](https://www.cmswire.com/sitemap/)  
+   Link: <a href="https://www.cmswire.com/sitemap/" target="_blank" rel="noopener noreferrer nofollow">https://www.cmswire.com/sitemap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMSWire SitemapCMSWire&#x27;s Marketing &amp; Customer Experience Leadership channel is the go-to hub for actionable research, editorial and opini...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp](https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp)  
+   Link: <a href="https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company reported a 2 per cent increase in annual revenues to DKr65.9 billion (£7.55 billion), but net profits fell by 5 per cent to D...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jaysbrickblog.com  
-   Link: [https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/](https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/)  
+   Link: <a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group posts stellar 2024 financial results with...11 Mar 2025 — The LEGO Group posts stellar 2024 financial results with record...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: jaysbrickblog.com  
    Title: lego posts double digit growth in first half of 2024 defying economic headwinds  
-   Link: [https://jaysbrickblog.com/news/lego-posts-double-digit-growth-in-first-half-of-2024-defying-economic-headwinds/](https://jaysbrickblog.com/news/lego-posts-double-digit-growth-in-first-half-of-2024-defying-economic-headwinds/)  
+   Link: <a href="https://jaysbrickblog.com/news/lego-posts-double-digit-growth-in-first-half-of-2024-defying-economic-headwinds/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-posts-double-digit-growth-in-first-half-of-2024-defying-economic-headwinds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO posts double-digit growth in first half of 2024, defying...28 Aug 2024 — LEGO posts double-digit growth in first half of 2024, defy...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: wsj.com  
    Title: lego builds market share as ever popular toy bricks defy demand drop 31af4249  
-   Link: [https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249](https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249)  
+   Link: <a href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: techmeme.com  
-   Link: [https://www.techmeme.com/250731/p47](https://www.techmeme.com/250731/p47)  
+   Link: <a href="https://www.techmeme.com/250731/p47" target="_blank" rel="noopener noreferrer nofollow">https://www.techmeme.com/250731/p47</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>$89.53B est., its largest quarterly growth since December 2021, and China net sales up 4% YoY to $15.37B —...Read more...</p></details>
    Published: December 2021  
 
 28. <a id="endnote-28"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2024/12/oecd-economic-outlook-volume-2024-issue-2_67bb8fac/full-report/china_da81a082.html](https://www.oecd.org/en/publications/2024/12/oecd-economic-outlook-volume-2024-issue-2_67bb8fac/full-report/china_da81a082.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2024/12/oecd-economic-outlook-volume-2024-issue-2_67bb8fac/full-report/china_da81a082.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/12/oecd-economic-outlook-volume-2024-issue-2_67bb8fac/full-report/china_da81a082.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>China: OECD Economic Outlook, Volume 2024 Issue 24 Dec 2024 — Year-on-year growth in the first three quarters of 2024 slowed to 4.8%...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
    Title: lego group the lego group fy 2024 results activity 7305136564492247040 NYuV  
-   Link: [https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV](https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV)  
+   Link: <a href="https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group FY 2024 resultsWe&#x27;re thrilled to share our record annual results for 2024 With double-digit growth in both revenue and ope...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lSMGIp2yXnk](https://www.youtube.com/watch?v=lSMGIp2yXnk)  
+   Link: <a href="https://www.youtube.com/watch?v=lSMGIp2yXnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lSMGIp2yXnk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego CEO talks market share gains, AI, China expansionToy giant Lego has reported double-digit sales growth year-over-year in the first h...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: euronews.com  
    Title: lego growth continues to slow down amid struggling toy market  
-   Link: [https://www.euronews.com/business/2024/03/12/lego-growth-continues-to-slow-down-amid-struggling-toy-market](https://www.euronews.com/business/2024/03/12/lego-growth-continues-to-slow-down-amid-struggling-toy-market)  
+   Link: <a href="https://www.euronews.com/business/2024/03/12/lego-growth-continues-to-slow-down-amid-struggling-toy-market" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/business/2024/03/12/lego-growth-continues-to-slow-down-amid-struggling-toy-market</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego growth continues to slow down amid struggling toy...12 Mar 2024 — &quot;We are pleased with our performance given that 2023 was the most...</p></details>

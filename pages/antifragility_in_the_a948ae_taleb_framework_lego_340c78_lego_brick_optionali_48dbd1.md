@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /framework/
 nav_short_title: Brick Optionality
 title: Why LEGO's Bricks Create Business Options
-title_full: Why LEGO's Bricks Create Business Options | Framework
+title_full: Why LEGO's Bricks Create Business Options
 display_title_short: Brick Optionality
 display_title: Brick Optionality
 heading_title: Why LEGO's Bricks Create Business Options
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Is LEGO Really Antifragile or Just Resilient? | LEGO Antifragility
+parent_title: Is LEGO Really Antifragile or Just Resilient?
 parent_permalink: /framework/
 parent_nav_short_title: Framework
 parent_heading_title: Is LEGO Really Antifragile or Just Resilient?
@@ -259,7 +259,7 @@ next_link:
   permalink: /crisis-learning/
   short_title: Crisis Learning
   heading_title: How LEGO's Crisis Became a Learning System
-date: '2026-06-09 03:50:04 '
+date: '2026-06-11 21:41:13 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1.webp
@@ -268,18 +268,16 @@ image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_le
 
 ## Introduction
 
-LEGO’s strongest antifragile characteristic is not any single product line, film partnership, or marketing campaign. It is the underlying [brick system]({{ 'brick-system/' | relative_url }}) itself. The company’s “System in Play” creates a form of business optionality: LEGO can launch new themes, enter new audiences, test new ideas, and absorb cultural trends without rebuilding its core platform. The same physical bricks that supported castle sets in one decade can support licensed franchises, architecture models, educational kits, or adult collector products in the next. Because new experiments remain compatible with the existing system, LEGO can explore uncertainty at relatively low cost while preserving accumulated value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
-
+LEGO’s strongest antifragile characteristic is not any single product line, film partnership, or marketing campaign. It is the underlying [brick system]({{ 'brick-system/' | relative_url }}) itself. The company’s “System in Play” creates a form of business optionality: LEGO can launch new themes, enter new audiences, test new ideas, and absorb cultural trends without rebuilding its core platform. The same physical bricks that supported castle sets in one decade can support licensed franchises, architecture models, educational kits, or adult collector products in the next. Because new experiments remain compatible with the existing system, LEGO can explore uncertainty at relatively low cost while preserving accumulated value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1-dark.svg" | relative_url }}" alt="Brick Optionality illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In Taleb’s [framework]({{ 'framework/' | relative_url }}), optionality matters because systems benefit when they have many potential upsides and limited downside exposure. LEGO’s brick ecosystem does not make the company fully antifragile, but it gives the business an unusual capacity to adapt to changing tastes without abandoning its core asset: a modular building language shared across generations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+In Taleb’s [framework]({{ 'framework/' | relative_url }}), optionality matters because systems benefit when they have many potential upsides and limited downside exposure. LEGO’s brick ecosystem does not make the company fully antifragile, but it gives the business an unusual capacity to adapt to changing tastes without abandoning its core asset: a modular building language shared across generations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 ## Why the Brick System Creates Business Options
 
-The key feature of LEGO’s system is [compatibility]({{ 'compatibility/' | relative_url }}). The company has long maintained that bricks produced decades apart should connect with one another. LEGO describes the System in Play as a design philosophy in which all elements fit together, can be combined in multiple ways, and retain value because future products remain compatible with past ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+The key feature of LEGO’s system is [compatibility]({{ 'compatibility/' | relative_url }}). The company has long maintained that bricks produced decades apart should connect with one another. LEGO describes the System in Play as a design philosophy in which all elements fit together, can be combined in multiple ways, and retain value because future products remain compatible with past ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 This compatibility creates several forms of optionality at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,10 +288,9 @@ This compatibility creates several forms of optionality at once:
 
 </div>
 
-Unlike many toy companies, LEGO does not have to start from zero whenever it introduces a new concept. A pirate ship, a [Star Wars]({{ 'star-wars/' | relative_url }}) vehicle, a botanical display, and a modular city building all draw from the same foundational language of bricks, connectors, and building logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+Unlike many toy companies, LEGO does not have to start from zero whenever it introduces a new concept. A pirate ship, a [Star Wars]({{ 'star-wars/' | relative_url }}) vehicle, a botanical display, and a modular city building all draw from the same foundational language of bricks, connectors, and building logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 From a Taleb-style perspective, this structure creates asymmetry. If a new theme succeeds, LEGO gains a new revenue stream. If it fails, much of the underlying manufacturing knowledge, tooling, and platform [investment]({{ 'investment/' | relative_url }}) remains useful elsewhere because the bricks themselves still belong to the broader ecosystem. The experiment is therefore less costly than creating an entirely separate product architecture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HEjHRB6jV2Q" title="LEGO ® History Uncovered: Ep 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HEjHRB6jV2Q" target="_blank" rel="noopener noreferrer">LEGO ® History Uncovered: Ep 1</a></p><p class="youtube-embed-meta">Channel: The LEGO Group &middot; Views: 12.5K &middot; Uploaded: October 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HEjHRB6jV2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HEjHRB6jV2Q">Open on YouTube</a></p></div></div></div>
 
@@ -301,12 +298,11 @@ From a Taleb-style perspective, this structure creates asymmetry. If a new theme
 
 A common problem in consumer products is that innovation can fragment a customer base. New products often make older ones obsolete. LEGO’s system works differently.
 
-When LEGO introduces a new theme, it usually extends the platform rather than replacing it. A child who owns City sets can incorporate parts from NINJAGO, Creator, Technic, or licensed franchises into a single build. The value of each additional purchase partly comes from its ability to interact with previous purchases. LEGO itself has emphasised that bricks bought years ago should fit perfectly with bricks bought in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+When LEGO introduces a new theme, it usually extends the platform rather than replacing it. A child who owns City sets can incorporate parts from NINJAGO, Creator, Technic, or licensed franchises into a single build. The value of each additional purchase partly comes from its ability to interact with previous purchases. LEGO itself has emphasised that bricks bought years ago should fit perfectly with bricks bought in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
-This creates a network effect around physical objects. Each new set adds possibilities not only within that set but across a customer's entire collection. As collections grow, the number of potential combinations expands far faster than the number of individual products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+This creates a network effect around physical objects. Each new set adds possibilities not only within that set but across a customer's entire collection. As collections grow, the number of potential combinations expands far faster than the number of individual products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 The business consequence is important. LEGO can pursue novelty while preserving continuity:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,15 +313,14 @@ The business consequence is important. LEGO can pursue novelty while preserving 
 
 </div>
 
-This helps explain why LEGO has been able to move across genres and generations while maintaining a coherent identity. The company is not selling isolated toys as much as it is expanding a shared construction environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ipbusinessacademy.org/did-they-really-patent-this-use-case-example-the-lego-eco-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipbusinessacademy.org">[IP Business Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipbusinessacademy.org</span><span class="citation-popover-title">IP Business Academy Did they really patent this use case?</span><span class="citation-popover-snippet">– The Lego eco-systemApril 12, 2022 — 12 Apr 2022 — LEGO established a clear and consistent customer experience with the whole LEGO eco-s...</span><span class="citation-popover-meta">Published: April 12, 2022</span></span></span>
-
+This helps explain why LEGO has been able to move across genres and generations while maintaining a coherent identity. The company is not selling isolated toys as much as it is expanding a shared construction environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ipbusinessacademy.org/did-they-really-patent-this-use-case-example-the-lego-eco-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipbusinessacademy.org">[IP Business Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipbusinessacademy.org</span><span class="citation-popover-title">IP Business Academy Did they really patent this use case?</span><span class="citation-popover-snippet">The Lego eco-systemApril 12, 2022 — 12 Apr 2022 — LEGO established a clear and consistent customer experience with the whole LEGO eco-s...</span><span class="citation-popover-meta">Published: April 12, 2022</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-2-dark.svg" | relative_url }}" alt="Brick Optionality illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bounded Creativity Lowers Innovation Risk
 
 LEGO is often associated with unlimited creativity, but its commercial advantage comes partly from constraints.
 
-Every new LEGO product must work within established design rules. Bricks need to connect reliably. Pieces must meet dimensional standards. New elements are generally designed to integrate with existing ones. These constraints reduce the number of variables involved in innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+Every new LEGO product must work within established design rules. Bricks need to connect reliably. Pieces must meet dimensional standards. New elements are generally designed to integrate with existing ones. These constraints reduce the number of variables involved in innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 That may sound restrictive, yet it lowers risk in several ways.
 
@@ -339,7 +334,6 @@ In Taleb's language, optionality improves when small bets are cheap to place. LE
 
 The company’s recovery after the early-2000s crisis reinforced this lesson. Management increasingly refocused on the brick system rather than pursuing disconnected ventures. The result was not an end to innovation but a return to innovation that compounded on a common foundation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y1c6nWHSB-A" title="Building Success, Brick by Brick: How The LEGO Group Reinvented Itself | ASU+GSV Summit 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y1c6nWHSB-A" target="_blank" rel="noopener noreferrer">Building Success, Brick by Brick: How The LEGO Group Reinvented Itself | ASU+GSV Summit 2025</a></p><p class="youtube-embed-meta">Channel: Global Silicon Valley &middot; Views: 520 &middot; Uploaded: April 2025 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y1c6nWHSB-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y1c6nWHSB-A">Open on YouTube</a></p></div></div></div>
 
 ## Optionality in Practice: Themes, Licences and New Audiences
@@ -348,10 +342,9 @@ The strength of LEGO's platform becomes visible when examining how it expands.
 
 Licensed properties such as Star Wars, Harry Potter, Marvel, and other franchises can be integrated into the same brick ecosystem. The company gains exposure to new audiences and cultural moments while avoiding the need to create a separate physical system for each property. A successful licence can generate substantial upside, while the underlying brick platform remains useful even if a particular franchise loses popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Lego</span><span class="citation-popover-snippet">May 22, 2005 — Lego began in 1932 in the carpentry workshop of Ole Kirk Christiansen, a Danish furniture maker. During the Great Depressi...</span><span class="citation-popover-meta">Published: May 22, 2005</span></span></span>
 
-The same pattern appears in LEGO's move toward adults. Botanical collections, architecture products, complex Technic sets, and display-focused models attract different customers than traditional children's themes. Yet these products still reinforce the broader system rather than competing with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Case Study: Lego&#x27;s Playbook For Intellectual Property</span><span class="citation-popover-snippet">LinkedInCase Study: Lego&#x27;s Playbook For Intellectual PropertyFebruary 3, 2026 — A deep case study on how LEGO uses patents, trademarks, d...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+The same pattern appears in LEGO's move toward adults. Botanical collections, architecture products, complex Technic sets, and display-focused models attract different customers than traditional children's themes. Yet these products still reinforce the broader system rather than competing with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Case Study: Lego&#x27;s Playbook For Intellectual Property</span><span class="citation-popover-snippet">Case Study: Lego&#x27;s Playbook For Intellectual PropertyFebruary 3, 2026 — A deep case study on how LEGO uses patents, trademarks, d...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
 This is a form of strategic flexibility. Instead of predicting exactly which audience will dominate in the future, LEGO maintains a platform capable of supporting many audiences simultaneously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7vG6dfhpt-Y" title="Interview with LEGO CEO Jørgen Vig Knudstorp: Past, Future &amp; Bricks!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7vG6dfhpt-Y" target="_blank" rel="noopener noreferrer">Interview with LEGO CEO Jørgen Vig Knudstorp: Past, Future &amp; Bricks!</a></p><p class="youtube-embed-meta">Channel: Zusammengebaut &middot; Views: 9.2K &middot; Uploaded: March 2016 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7vG6dfhpt-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7vG6dfhpt-Y">Open on YouTube</a></p></div></div></div>
 
@@ -365,15 +358,14 @@ There are also [limits]({{ 'limits/' | relative_url }}) to compatibility. New el
 
 Recent initiatives such as LEGO's Smart Play technology illustrate both the opportunity and the challenge. LEGO has emphasised that new smart components are being designed to remain part of the existing system rather than becoming a separate ecosystem. The strategic goal is to add capabilities while preserving compatibility. Whether such innovations strengthen the platform or create new complexity will depend on how successfully they remain integrated into the broader System in Play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">An Inside Look at Lego&#x27;s New Tech-Packed Smart Brick</span><span class="citation-popover-snippet">Set to launch on March 1, 2026, initially with Star Wars-themed sets, this 2-by-4 black brick packs cutting-edge technology, including cu...</span><span class="citation-popover-meta">Published: March 1, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/streaming/entertainment/i-dont-think-we-can-call-ourselves-a-toy-anymore-because-were-an-iconic-experience-company-lego-on-how-smart-bricks-expand-the-system-and-how-this-just-adds-a-new-dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Developed over eight years, the Smart Brick integrates advanced technology—including custom silicon chips—into traditional Lego bricks wi...</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-3-dark.svg" | relative_url }}" alt="Brick Optionality illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Antifragile Mechanism Behind the Bricks
 
 The most important insight is that LEGO's brick system turns uncertainty into a field of manageable experiments.
 
-Because the platform remains stable while themes, stories, and audiences can change, LEGO gains the ability to explore many possible futures without committing fully to any single one. The company can benefit from unexpected cultural trends, successful licences, emerging demographics, and new forms of play while continuing to build on decades of accumulated compatibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+Because the platform remains stable while themes, stories, and audiences can change, LEGO gains the ability to explore many possible futures without committing fully to any single one. The company can benefit from unexpected cultural trends, successful licences, emerging demographics, and new forms of play while continuing to build on decades of accumulated compatibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
-That does not make LEGO immune to failure. What it does create is a structure where successful innovations can be absorbed and amplified more easily than in businesses that must reinvent their core architecture every time they adapt. In Taleb's terms, the brick system is valuable not because it predicts the future, but because it gives LEGO more ways to benefit when the future turns out differently than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+That does not make LEGO immune to failure. What it does create is a structure where successful innovations can be absorbed and amplified more easily than in businesses that must reinvent their core architecture every time they adapt. In Taleb's terms, the brick system is valuable not because it predicts the future, but because it gives LEGO more ways to benefit when the future turns out differently than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,7 +460,7 @@ That does not make LEGO immune to failure. What it does create is a structure wh
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -492,15 +484,15 @@ That does not make LEGO immune to failure. What it does create is a structure wh
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008"><img src="https://i.ebayimg.com/images/g/hcAAAeSwRndoboJ2/s-l225.jpg" alt="Listing image for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Jazz Club Modular Building Set 10312 Brand New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/Z~MAAeSwQzRp9kYX/s-l225.jpg" alt="Listing image for LEGO Jazz Club Modular Building Set 10312 Brand New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Jazz Club Modular Building Set 10312 Brand New &amp; Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO modular set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO modular set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +500,15 @@ That does not make LEGO immune to failure. What it does create is a structure wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Town Hall 10224 Modular Building Set With Instructions No Box"><img src="https://i.ebayimg.com/images/g/UF8AAeSwYOtqFw8P/s-l225.jpg" alt="Listing image for LEGO Town Hall 10224 Modular Building Set With Instructions No Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Town Hall 10224 Modular Building Set With Instructions No Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO modular set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO modular set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +516,31 @@ That does not make LEGO immune to failure. What it does create is a structure wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 10211 Grand Emporium Creator Expert Modular Building"><img src="https://i.ebayimg.com/images/g/4ugAAeSwDvNqKRka/s-l225.jpg" alt="Listing image for LEGO 10211 Grand Emporium Creator Expert Modular Building" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 10211 Grand Emporium Creator Expert Modular Building</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO modular set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO modular set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 10190 Market Street Modular Set with instructions"><img src="https://i.ebayimg.com/images/g/CrkAAeSwWz1qFal6/s-l225.jpg" alt="Listing image for Lego 10190 Market Street Modular Set with instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer">Lego 10190 Market Street Modular Set with instructions</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO modular set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO modular set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +548,7 @@ That does not make LEGO immune to failure. What it does create is a structure wh
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+modular+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-bricks-create-business-options-lego-modular-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO modular set" data-ebay-reference="why-lego-s-bricks-create-business-options-lego-modular-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -750,107 +758,108 @@ That does not make LEGO immune to failure. What it does create is a structure wh
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/history/articles/lego-system-in-play](https://www.lego.com/en-us/history/articles/lego-system-in-play)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</p></details>
+   Link: <a href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/lego-system-in-play</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bcg.com  
    Title: people organization jorgen vig knudstorp lego growth culture not kid stuff  
-   Link: [https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff](https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff)  
+   Link: <a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — In this interview, conducted in his final days as CEO, the 48-year-ol...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: History of Lego  
-   Link: [https://en.wikipedia.org/wiki/History_of_Lego](https://en.wikipedia.org/wiki/History_of_Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Lego</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2005 — Lego began in 1932 in the carpentry workshop of Ole Kirk Christiansen, a Danish furniture maker. During the Great Depressi...</p></details>
    Published: May 22, 2005  
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
    Title: Linked In Case Study: Lego's Playbook For Intellectual Property  
-   Link: [https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze](https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInCase Study: Lego&#x27;s Playbook For Intellectual PropertyFebruary 3, 2026 — A deep case study on how LEGO uses patents, trademarks, d...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Lego&#x27;s Playbook For Intellectual PropertyFebruary 3, 2026 — A deep case study on how LEGO uses patents, trademarks, d...</p></details>
    Published: February 3, 2026  
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: An Inside Look at Lego's New Tech-Packed Smart Brick  
-   Link: [https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick](https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick)  
+   Link: <a href="https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Set to launch on March 1, 2026, initially with Star Wars-themed sets, this 2-by-4 black brick packs cutting-edge technology, including cu...</p></details>
    Published: March 1, 2026  
 
 6. <a id="endnote-6"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/streaming/entertainment/i-dont-think-we-can-call-ourselves-a-toy-anymore-because-were-an-iconic-experience-company-lego-on-how-smart-bricks-expand-the-system-and-how-this-just-adds-a-new-dimension](https://www.techradar.com/streaming/entertainment/i-dont-think-we-can-call-ourselves-a-toy-anymore-because-were-an-iconic-experience-company-lego-on-how-smart-bricks-expand-the-system-and-how-this-just-adds-a-new-dimension)  
+   Link: <a href="https://www.techradar.com/streaming/entertainment/i-dont-think-we-can-call-ourselves-a-toy-anymore-because-were-an-iconic-experience-company-lego-on-how-smart-bricks-expand-the-system-and-how-this-just-adds-a-new-dimension" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/streaming/entertainment/i-dont-think-we-can-call-ourselves-a-toy-anymore-because-were-an-iconic-experience-company-lego-on-how-smart-bricks-expand-the-system-and-how-this-just-adds-a-new-dimension</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developed over eight years, the Smart Brick integrates advanced technology—including custom silicon chips—into traditional Lego bricks wi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: strategosinstitute.com  
    Title: Strategos Institute LEGO®  
-   Link: [https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf](https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf)  
+   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategos InstituteLEGO® - Strategy and Value CreationThis competitor analysis will focus on LEGO® Core Business, Toys and Games industry...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ipbusinessacademy.org  
    Title: IP Business Academy Did they really patent this use case?  
-   Link: [https://ipbusinessacademy.org/did-they-really-patent-this-use-case-example-the-lego-eco-system](https://ipbusinessacademy.org/did-they-really-patent-this-use-case-example-the-lego-eco-system)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>– The Lego eco-systemApril 12, 2022 — 12 Apr 2022 — LEGO established a clear and consistent customer experience with the whole LEGO eco-s...</p></details>
+   Link: <a href="https://ipbusinessacademy.org/did-they-really-patent-this-use-case-example-the-lego-eco-system" target="_blank" rel="noopener noreferrer nofollow">https://ipbusinessacademy.org/did-they-really-patent-this-use-case-example-the-lego-eco-system</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego eco-systemApril 12, 2022 — 12 Apr 2022 — LEGO established a clear and consistent customer experience with the whole LEGO eco-s...</p></details>
    Published: April 12, 2022  
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: innovation360.com  
-   Link: [https://innovation360.com/business-innovation-using-lego-models/](https://innovation360.com/business-innovation-using-lego-models/)  
+   Link: <a href="https://innovation360.com/business-innovation-using-lego-models/" target="_blank" rel="noopener noreferrer nofollow">https://innovation360.com/business-innovation-using-lego-models/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Innovation Using LEGO ModelsInnovation360 Group uses LEGO models and similar manipulative systems to train collaborative teams o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: imd.org  
-   Link: [https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/](https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/)  
+   Link: <a href="https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolLessons from LEGO Group: assembling the bricks to grow in a...In this exclusive video interview with IMD President Je...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: imd.org  
-   Link: [https://www.imd.org/news/leadership/updates-interview-with-howard-yu-and-jorgen-vig-knudstorp-of-lego/](https://www.imd.org/news/leadership/updates-interview-with-howard-yu-and-jorgen-vig-knudstorp-of-lego/)  
+   Link: <a href="https://www.imd.org/news/leadership/updates-interview-with-howard-yu-and-jorgen-vig-knudstorp-of-lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/news/leadership/updates-interview-with-howard-yu-and-jorgen-vig-knudstorp-of-lego/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the building blocks of LEGO Group&#x27;s success“Lego is about every human being&#x27;s urge to express themselves through creativity”, said Knudst...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: platformprofessional.substack.com  
-   Link: [https://platformprofessional.substack.com/p/lego-smart-play-platform-building](https://platformprofessional.substack.com/p/lego-smart-play-platform-building)  
+   Link: <a href="https://platformprofessional.substack.com/p/lego-smart-play-platform-building" target="_blank" rel="noopener noreferrer nofollow">https://platformprofessional.substack.com/p/lego-smart-play-platform-building</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Platform ProfessionalLego SMART Play™ Platform: Building Network Effects, Brick...This new product line is fully compatible with existin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: iiprd.com  
-   Link: [https://www.iiprd.com/lego-group-patent-landscape-analysis/](https://www.iiprd.com/lego-group-patent-landscape-analysis/)  
+   Link: <a href="https://www.iiprd.com/lego-group-patent-landscape-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiprd.com/lego-group-patent-landscape-analysis/</a>  
 
 14. <a id="endnote-14"></a>
    Source: quartr.com  
-   Link: [https://quartr.com/insights/edge/the-lego-story-building-a-business-brick-by-brick](https://quartr.com/insights/edge/the-lego-story-building-a-business-brick-by-brick)  
+   Link: <a href="https://quartr.com/insights/edge/the-lego-story-building-a-business-brick-by-brick" target="_blank" rel="noopener noreferrer nofollow">https://quartr.com/insights/edge/the-lego-story-building-a-business-brick-by-brick</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: lego system in play in the 21st centuryintroduced in 1955 by godtfred kirk chris  
-   Link: [https://www.facebook.com/bricksworld/posts/lego-system-in-play-in-the-21st-centuryintroduced-in-1955-by-godtfred-kirk-chris/4429316540491424/](https://www.facebook.com/bricksworld/posts/lego-system-in-play-in-the-21st-centuryintroduced-in-1955-by-godtfred-kirk-chris/4429316540491424/)  
+   Link: <a href="https://www.facebook.com/bricksworld/posts/lego-system-in-play-in-the-21st-centuryintroduced-in-1955-by-godtfred-kirk-chris/4429316540491424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bricksworld/posts/lego-system-in-play-in-the-21st-centuryintroduced-in-1955-by-godtfred-kirk-chris/4429316540491424/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO System-in-Play in the 21st Century Introduced...Introduced in 1955 by Godtfred Kirk Christiansen, LEGO® System in Play is a structu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 400145560 Strategies and Digital Transformation A Case Study of the Lego Group  
-   Link: [https://www.researchgate.net/publication/400145560_Strategies_and_Digital_Transformation_-_A_Case_Study_of_the_Lego_Group](https://www.researchgate.net/publication/400145560_Strategies_and_Digital_Transformation_-_A_Case_Study_of_the_Lego_Group)  
+   Link: <a href="https://www.researchgate.net/publication/400145560_Strategies_and_Digital_Transformation_-_A_Case_Study_of_the_Lego_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400145560_Strategies_and_Digital_Transformation_-_A_Case_Study_of_the_Lego_Group</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies and Digital Transformation – A Case Study...31 Jan 2026 — Lego has implemented various transformations and strategies across...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kantar.com  
-   Link: [https://www.kantar.com/inspiration/agile-market-research/stacking-up-success-how-lego-played-to-its-strengths](https://www.kantar.com/inspiration/agile-market-research/stacking-up-success-how-lego-played-to-its-strengths)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KantarStacking up success: How the LEGO brand played to its...11 Dec 2025 — This coupling system created a firm foundation for the &#x27;LEGO...</p></details>
+   Link: <a href="https://www.kantar.com/inspiration/agile-market-research/stacking-up-success-how-lego-played-to-its-strengths" target="_blank" rel="noopener noreferrer nofollow">https://www.kantar.com/inspiration/agile-market-research/stacking-up-success-how-lego-played-to-its-strengths</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stacking up success: How the LEGO brand played to its...11 Dec 2025 — This coupling system created a firm foundation for the &#x27;LEGO...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: creativityatwork.com  
    Title: jorgen vig knudstorp on lego group innovation  
-   Link: [https://www.creativityatwork.com/jorgen-vig-knudstorp-on-lego-group-innovation/](https://www.creativityatwork.com/jorgen-vig-knudstorp-on-lego-group-innovation/)  
+   Link: <a href="https://www.creativityatwork.com/jorgen-vig-knudstorp-on-lego-group-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.creativityatwork.com/jorgen-vig-knudstorp-on-lego-group-innovation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2025 — Jorgen Vig Knudstorp, Chairman of The LEGO Group, says hIs innovation process began with a question— “How do we think about...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /recent-results/
 nav_short_title: Portfolio
 title: Why LEGO's range became a shock absorber
-title_full: Why LEGO's range became a shock absorber | Recent Results
+title_full: Why LEGO's range became a shock absorber
 display_title_short: Portfolio
 display_title: Portfolio
 heading_title: Why LEGO's range became a shock absorber
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Recent LEGO Results Really Prove | LEGO Antifragility
+parent_title: What Recent LEGO Results Really Prove
 parent_permalink: /recent-results/
 parent_nav_short_title: Recent Results
 parent_heading_title: What Recent LEGO Results Really Prove
@@ -265,7 +265,7 @@ next_link:
   permalink: /profit-dip/
   short_title: Profit dip
   heading_title: The warning inside LEGO's strong year
-date: '2026-06-09 03:48:46 '
+date: '2026-06-11 21:41:04 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1.webp
@@ -276,12 +276,8 @@ image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_le
 
 LEGO’s strong performance in 2023 and 2024 was not simply the result of having popular products. A central resilience mechanism was the breadth of its portfolio. When parts of the toy market weakened, LEGO was not dependent on a single age group, franchise, price point or purchasing occasion. Instead, it could draw demand from children, teenagers, adult enthusiasts, gift buyers and licensed-franchise fans at the same time. LEGO itself attributed its 2024 growth to strong demand for a large and diverse portfolio, while its annual reports repeatedly emphasised products designed for builders of different ages and interests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/113042/lego-achieves-substantial-growth-in-first-half-of-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego achieves substantial growth in first half of 2024</span><span class="citation-popover-snippet">Consumer sales grew 14 percent driven by demand for a strong and diverse portfolio. Market share...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1-dark.svg" | relative_url }}" alt="Portfolio illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 From an antifragility perspective, the important point is not merely diversification. It is that market stress revealed multiple alternative routes to demand. Weakness in one segment could be offset by strength in another, allowing LEGO to gain share while many toy companies struggled. LEGO Store <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego sales rise bricks click with more shoppers 2025 03 11</span><span class="citation-popover-snippet">Sales from Lego&#x27;s own stores and website grew by 12%, even as the broader toy market declined by 1%...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcSsaUEmch8" title="Top 5 Worst LEGO Investing Mistakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcSsaUEmch8" target="_blank" rel="noopener noreferrer">Top 5 Worst LEGO Investing Mistakes</a></p><p class="youtube-embed-meta">Channel: Unhinged Bricks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcSsaUEmch8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcSsaUEmch8">Open on YouTube</a></p></div></div></div>
 
 ## The role of evergreen themes like City and Technic
 
@@ -293,9 +289,6 @@ The company’s 2024 best-selling themes included both City and Technic, showing
 
 Another advantage is flexibility. City, Technic and similar ranges can be refreshed continuously with new vehicles, buildings and play scenarios without requiring a major [licensing]({{ 'licensing/' | relative_url }}) agreement or a blockbuster entertainment release. That gives LEGO a dependable base of products that can absorb fluctuations elsewhere in the portfolio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJ0wT-Ic7PU" title="Lego Investing Is Booming. Here’s How It Works | Niche Markets | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJ0wT-Ic7PU" target="_blank" rel="noopener noreferrer">Lego Investing Is Booming. Here’s How It Works | Niche Markets | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJ0wT-Ic7PU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJ0wT-Ic7PU">Open on YouTube</a></p></div></div></div>
-
 ## How licensed sets broaden demand beyond children
 
 If evergreen themes provide stability, licensed themes provide reach. LEGO’s major entertainment partnerships allow the company to attract consumers who might not otherwise be active toy buyers.
@@ -305,7 +298,6 @@ If evergreen themes provide stability, licensed themes provide reach. LEGO’s m
 The significance of this mechanism became especially clear during weaker toy-market conditions. While overall industry demand softened, LEGO’s best-selling themes combined both home-grown ranges and entertainment licences. This mix meant that demand could come from several directions at once rather than relying solely on children's play purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[Toy World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-snippet">Toy WorldThe Lego Group delivers record top- and bottom-line...12 Mar 2025 — The 2024 portfolio was the Lego Group&#x27;s largest ever, with...</span></span></span>
 
 Licensed products also create multiple buying occasions. A child may receive a Star Wars set as a toy, while an adult collector may buy a large display model based on the same franchise. The same intellectual property therefore supports different customer groups, price levels and retail channels. That diversification reduces exposure to weakness in any single segment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/lego-sales-revenue-surge-decline-mattel-hasbro-toy-market-2025-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Toy sales are on the slide — but not for Lego</span><span class="citation-popover-snippet">Business Insider Toy sales are on the slide — but not for Lego</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-2-dark.svg" | relative_url }}" alt="Portfolio illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why adult-facing sets matter in downturns
@@ -320,13 +312,9 @@ The Botanical Collection provides a concrete example. LEGO reported that the ran
 
 The effect was visible during 2024, when LEGO achieved double-digit consumer-sales growth despite a slightly declining toy market. Demand from teenagers and adults helped offset industry headwinds and reduced reliance on the traditional children's toy cycle. LEGO Store <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego sales rise bricks click with more shoppers 2025 03 11</span><span class="citation-popover-snippet">Sales from Lego&#x27;s own stores and website grew by 12%, even as the broader toy market declined by 1%...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-d8sNML3WT8" title="Why Lego Is So Expensive | So Expensive | Business Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer">Why Lego Is So Expensive | So Expensive | Business Insider</a></p><p class="youtube-embed-meta">Channel: Business Insider</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-d8sNML3WT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-d8sNML3WT8">Open on YouTube</a></p></div></div></div>
-
 ## Why portfolio breadth became a resilience mechanism
 
 The key lesson from LEGO’s 2023 and 2024 results is that diversification worked at several levels simultaneously.
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +329,6 @@ The key lesson from LEGO’s 2023 and 2024 results is that diversification worke
 Because these demand sources are not perfectly correlated, weakness in one area does not automatically produce weakness everywhere. During a period when the broader toy market was declining or stagnant, LEGO’s broad portfolio allowed it to capture spending from whichever segments remained healthy. That is why the company could continue gaining [market share]({{ 'market-share/' | relative_url }}) in 2023 and then accelerate growth in 2024. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</span></span></span>
 
 Viewed through the lens of antifragility, the portfolio did more than spread risk. Market stress revealed the value of having multiple independent engines of demand. As conditions became more challenging for the toy industry, LEGO’s range of themes, licences and adult-focused products became a practical shock absorber that helped transform industry weakness into an opportunity to gain share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego achieves record revenue and profit in 2024</span><span class="citation-popover-snippet">11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 840 products designed for builders of all ages and interests. Be...</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-3-dark.svg" | relative_url }}" alt="Portfolio illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -438,7 +425,7 @@ Viewed through the lens of antifragility, the portfolio did more than spread ris
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -462,15 +449,15 @@ Viewed through the lens of antifragility, the portfolio did more than spread ris
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed"><img src="https://i.ebayimg.com/images/g/lRoAAeSwz5hqD3tt/s-l225.jpg" alt="Listing image for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City 60210 Sky Police Air Base Set with Box and Manuals Pre-owned Opened"><img src="https://i.ebayimg.com/images/g/YA4AAeSw3AdqJxdt/s-l225.jpg" alt="Listing image for LEGO City 60210 Sky Police Air Base Set with Box and Manuals Pre-owned Opened" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City 60210 Sky Police Air Base Set with Box and Manuals Pre-owned Opened</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +465,15 @@ Viewed through the lens of antifragility, the portfolio did more than spread ris
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Taxi Car From The Lego City Donut Shop Opening Set (60233)"><img src="https://i.ebayimg.com/images/g/S7QAAeSwBVZqKbBc/s-l225.jpg" alt="Listing image for LEGO City Taxi Car From The Lego City Donut Shop Opening Set (60233)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City Taxi Car From The Lego City Donut Shop Opening Set (60233)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +481,31 @@ Viewed through the lens of antifragility, the portfolio did more than spread ris
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City 60117 Van &amp; Caravan 250pcs With Instructions Age 5-12 with out box"><img src="https://i.ebayimg.com/images/g/BaUAAeSwY3xqKsQL/s-l225.jpg" alt="Listing image for LEGO City 60117 Van &amp; Caravan 250pcs With Instructions Age 5-12 with out box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO City 60117 Van &amp; Caravan 250pcs With Instructions Age 5-12 with out box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CITY HEAVY HAULER TRUCK SET - 7998 - RETIRED 2008"><img src="https://i.ebayimg.com/images/g/1BEAAeSwii1qJaZp/s-l225.jpg" alt="Listing image for LEGO CITY HEAVY HAULER TRUCK SET - 7998 - RETIRED 2008" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CITY HEAVY HAULER TRUCK SET - 7998 - RETIRED 2008</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO City set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO City set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,7 +513,7 @@ Viewed through the lens of antifragility, the portfolio did more than spread ris
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+City+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-range-became-a-shock-absorber-lego-city-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO City set" data-ebay-reference="why-lego-s-range-became-a-shock-absorber-lego-city-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -720,132 +723,133 @@ Viewed through the lens of antifragility, the portfolio did more than spread ris
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company achieved record revenue and operating profit, outpacing the toy market with significant...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: brickset.com  
    Title: lego achieves substantial growth in first half of 2024  
-   Link: [https://brickset.com/article/113042/lego-achieves-substantial-growth-in-first-half-of-2024](https://brickset.com/article/113042/lego-achieves-substantial-growth-in-first-half-of-2024)  
+   Link: <a href="https://brickset.com/article/113042/lego-achieves-substantial-growth-in-first-half-of-2024" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/113042/lego-achieves-substantial-growth-in-first-half-of-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer sales grew 14 percent driven by demand for a strong and diverse portfolio. Market share...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
    Title: lego sales rise bricks click with more shoppers 2025 03 11  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/](https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sales from Lego&#x27;s own stores and website grew by 12%, even as the broader toy market declined by 1%...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report10 Mar 2025 — Half of the [materials](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) purchased in 2024 were produced with sustainable sources: we more than doubled...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio](https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group 2025 Full Year Results - About Us10 Mar 2026 — The LEGO Group delivers record results in 2025 driven by strong brand and i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comOur Responsibility Report accounts for the LEGO Group&#x27;s development and activities and serves as our annual Communicat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Financial Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Financial Highlights of the LEGO Group2024 Financial Highlights of the LEGO Group. Definitions of Financial ratios are disclosed in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: brickset.com  
    Title: lego achieves record revenue and profit in 2024  
-   Link: [https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024](https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024)  
+   Link: <a href="https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/119693/lego-achieves-record-revenue-and-profit-in-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 840 products designed for builders of all ages and interests. Be...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: toyworldmag.co.uk  
-   Link: [https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/](https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/)  
+   Link: <a href="https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/the-lego-group-delivers-record-top-and-bottom-line-results-in-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy WorldThe Lego Group delivers record top- and bottom-line...12 Mar 2025 — The 2024 portfolio was the Lego Group&#x27;s largest ever, with...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: businessinsider.com  
    Title: Business Insider Toy sales are on the slide &mdash; but not for Lego  
-   Link: [https://www.businessinsider.com/lego-sales-revenue-surge-decline-mattel-hasbro-toy-market-2025-3](https://www.businessinsider.com/lego-sales-revenue-surge-decline-mattel-hasbro-toy-market-2025-3)  
+   Link: <a href="https://www.businessinsider.com/lego-sales-revenue-surge-decline-mattel-hasbro-toy-market-2025-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/lego-sales-revenue-surge-decline-mattel-hasbro-toy-market-2025-3</a>  
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: pocket money toys uk costs sales 2024 lego  
-   Link: [https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego](https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego)  
+   Link: <a href="https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, &quot;pocket money&quot; toys costing less than £10 thrived, comprising 30% of sales as parents sought cheaper [options](&amp;#123;&amp;#123; &#x27;options/&#x27; | relative_url &amp;#125;&amp;#125;). Popular among chil...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: lego sales rise as parents steer children to activities away from smartphones  
-   Link: [https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones](https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/aug/27/lego-sales-rise-as-parents-steer-children-to-activities-away-from-smartphones</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego builds record sales of £4bn as parents steer children...27 Aug 2025 — The Danish toy company said sales increased to a record 34.6b...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: brickeconomy.com  
-   Link: [https://www.brickeconomy.com/analysis-themes](https://www.brickeconomy.com/analysis-themes)  
+   Link: <a href="https://www.brickeconomy.com/analysis-themes" target="_blank" rel="noopener noreferrer nofollow">https://www.brickeconomy.com/analysis-themes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Themes AnalysisHere is a list of the top-performing LEGO themes based on selectable growth rates, including total, annual, and rolli...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/08/28/business/lego-bucks-toy-industry-woes-turning-in-13-sales-increase/](https://nypost.com/2024/08/28/business/lego-bucks-toy-industry-woes-turning-in-13-sales-increase/)  
+   Link: <a href="https://nypost.com/2024/08/28/business/lego-bucks-toy-industry-woes-turning-in-13-sales-increase/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/28/business/lego-bucks-toy-industry-woes-turning-in-13-sales-increase/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This success is attributed to the popularity of its diverse product line, including sets themed around Star Wars, Harry Potter, Fortnite...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp](https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp)  
+   Link: <a href="https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company reported a 2 per cent increase in annual revenues to DKr65.9 billion (£7.55 billion), but net profits fell by 5 per cent to D...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html](https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html)  
+   Link: <a href="https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to market research firm Circana, total toy market value rose by 9% year-to-date, with toy sales to those over 12 increasing by...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA](https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA)  
+   Link: <a href="https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Shay&#x27;s Post11 Mar 2025 — Bestselling themes combined homegrown and entertainment IP themes, including LEGO® City, LEGO® Star Wars™...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jaysbrickblog.com  
-   Link: [https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/](https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/)  
+   Link: <a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group posts stellar 2024 financial results with...11 Mar 2025 — The best-selling themes were a combination of homegrown and ent...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: lego is quietly operating like a luxury brand posting margins in the same conver  
-   Link: [https://www.facebook.com/TheBoardroom/posts/lego-is-quietly-operating-like-a-luxury-brand-posting-margins-in-the-same-conver/1432907492182053/](https://www.facebook.com/TheBoardroom/posts/lego-is-quietly-operating-like-a-luxury-brand-posting-margins-in-the-same-conver/1432907492182053/)  
+   Link: <a href="https://www.facebook.com/TheBoardroom/posts/lego-is-quietly-operating-like-a-luxury-brand-posting-margins-in-the-same-conver/1432907492182053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBoardroom/posts/lego-is-quietly-operating-like-a-luxury-brand-posting-margins-in-the-same-conver/1432907492182053/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO is quietly operating like a luxury brand, posting...FY 2023 * Revenue grew 13 percent to DKK 74.3 billion, driven by strong demand...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
    Title: lego group the lego group fy 2024 results activity 7305136564492247040 NYuV  
-   Link: [https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV](https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV)  
+   Link: <a href="https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group FY 2024 resultsWe&#x27;re thrilled to share our record annual results for 2024 With double-digit growth in both revenue and ope...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blocksmag.com  
    Title: the lego group reports massive increase in revenue and profits for 2025  
-   Link: [https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/](https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/)  
+   Link: <a href="https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group&#x27;s Record Revenue and Profits Grow in 202510 Mar 2026 — Once again, the LEGO Group has reported increased revenue and profits f...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: legofoundation.com  
-   Link: [https://legofoundation.com/reports](https://legofoundation.com/reports)  
+   Link: <a href="https://legofoundation.com/reports" target="_blank" rel="noopener noreferrer nofollow">https://legofoundation.com/reports</a>

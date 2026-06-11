@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-lego-ideas/
 description: Focused pages that expand on LEGO Ideas.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c
-parent_title: LEGO Ideas | antifragility in the context of the Lego company
+parent_title: LEGO Ideas
 parent_nav_short_title: LEGO Ideas
 parent_permalink: /lego-ideas/
 ---

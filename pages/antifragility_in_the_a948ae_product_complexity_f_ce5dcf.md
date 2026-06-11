@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /antifragility-in-the-context-of-the/
 nav_short_title: Complexity
 title: When More LEGO Products Made LEGO Weaker
-title_full: When More LEGO Products Made LEGO Weaker | LEGO Antifragility
+title_full: When More LEGO Products Made LEGO Weaker
 display_title_short: Complexity
 display_title: Complexity
 heading_title: When More LEGO Products Made LEGO Weaker
@@ -343,7 +343,7 @@ next_link:
   permalink: /crisis-test/
   short_title: Crisis Test
   heading_title: What LEGO's Crisis Revealed About Fragility
-date: '2026-06-09 03:34:17 '
+date: '2026-06-11 21:39:11 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-overview.webp
@@ -353,7 +353,6 @@ image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-ov
 ## Introduction
 
 LEGO’s early-2000s crisis was not only a story of weak sales, digital competition or failed side bets. A quieter fragility sat inside the product system itself: too much variety had made the company harder to run. New themes, specialised pieces, adjacent product lines and scattered development efforts created operational drag faster than they created customer value. By 2003, LEGO’s own annual report admitted that years of expanding the product portfolio had raised costs without producing the desired results, and that some new products had even cannibalised core LEGO sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2003 ENG</span><span class="citation-popover-snippet">Annual Report 2003 ENG</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-overview.webp" | relative_url }}" alt="Overview image for Complexity" loading="eager" decoding="sync" fetchpriority="high">
 In antifragility terms, the crisis exposed a hidden weakness. LEGO’s strength had always been combinability: many possible models from a disciplined system of compatible parts. But when variety lost that discipline, optionality became clutter. The turnaround mattered because it did not reject innovation; it forced LEGO to distinguish productive breadth from expensive incoherence.
@@ -370,7 +369,6 @@ Strategy+Business described LEGO’s supply chain before the turnaround as outda
 
 That is why product complexity was “hidden” fragility. On the shelf, a larger assortment could look like creativity. Inside the company, it could mean more moulds, longer changeovers, harder planning, more inventory risk, and less certainty about which products were actually profitable.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-1-dark.svg" | relative_url }}" alt="Complexity illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why More Products Did Not Mean More Strength
 
@@ -385,7 +383,6 @@ That episode shows how complexity can weaken a brand even when the underlying in
 Galidor showed the risk from a different angle. Released in 2002, it moved away from traditional LEGO bricks towards interchangeable action figures and was later discontinued. Its failure has often been cited as part of the pre-turnaround drift because it stretched LEGO into a format where [compatibility]({{ 'compatibility/' | relative_url }}) with the [brick system]({{ 'brick-system/' | relative_url }}) was weaker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Both examples point to the same mechanism. Variety is valuable when it increases the usefulness of the system. It is dangerous when it multiplies choices, parts and messages without deepening the core experience.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jMNUY8RbS9A" title="Brick by Brick: How LEGO Rewrote the Rules of… by David Robertson · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jMNUY8RbS9A" target="_blank" rel="noopener noreferrer">Brick by Brick: How LEGO Rewrote the Rules of… by David Robertson · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 105 &middot; Uploaded: January 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jMNUY8RbS9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jMNUY8RbS9A">Open on YouTube</a></p></div></div></div>
 
@@ -403,7 +400,6 @@ Simplification also improved responsiveness. The 2004 report described efforts t
 
 In this sense, LEGO’s crisis created a useful form of pain. It forced the company to ask whether each product made the system stronger, whether customers understood it, whether retailers could sell it, and whether operations could support it profitably. Fragility became visible only when the accumulated cost of “more” became impossible to ignore.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-2-dark.svg" | relative_url }}" alt="Complexity illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Antifragile Lesson: Constraints Can Create Better Options
 
@@ -417,7 +413,6 @@ Harvard Business School’s discussion of the LEGO case summarises the rescue in
 
 That is the difference between fragile variety and antifragile variety:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Fragile variety** adds products that require separate processes, separate explanations and separate economics.
@@ -426,7 +421,6 @@ That is the difference between fragile variety and antifragile variety:
 * **Antifragile innovation** uses the core system as a filter for deciding which trends LEGO can absorb without losing coherence.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kh8Id_x269s" title="Writing the Case of a Company Coming Back From the Brink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kh8Id_x269s" target="_blank" rel="noopener noreferrer">Writing the Case of a Company Coming Back From the Brink</a></p><p class="youtube-embed-meta">Channel: Harvard Business School &middot; Views: 5.2K &middot; Uploaded: February 2017 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kh8Id_x269s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kh8Id_x269s">Open on YouTube</a></p></div></div></div>
 
@@ -440,7 +434,6 @@ The risk, however, has not disappeared. A large portfolio always creates tension
 
 That is why product complexity remains one of the most important LEGO lessons for antifragility. The company became stronger not by avoiding shocks, but by letting a severe shock reveal where its own system had become overgrown. The crisis forced LEGO to cut distracting complexity, restore the brick as the organising principle, and rebuild a portfolio where new products had to justify their place in the whole.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-3-dark.svg" | relative_url }}" alt="Complexity illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Hidden Fragility Still Matters
 
@@ -450,9 +443,7 @@ Product complexity made LEGO weaker because it disguised cost as creativity. Eac
 
 For readers thinking about antifragility, LEGO shows that strength is not the same as having many [options]({{ 'options/' | relative_url }}). Strength comes from having options that remain connected, reusable and learnable. LEGO’s best products add variety without breaking the system. Its weakest pre-crisis experiments added variety that the system had to carry as weight.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-kNOvgCWMDI" title="David Robertson - BRICK BY BRICK: HOW LEGO REWROTE THE RULES OF INNOVATION." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-kNOvgCWMDI" target="_blank" rel="noopener noreferrer">David Robertson - BRICK BY BRICK: HOW LEGO REWROTE THE RULES OF INNOVATION.</a></p><p class="youtube-embed-meta">Channel: InnoTown Conference &middot; Views: 14.0K &middot; Uploaded: August 2016 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-kNOvgCWMDI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-kNOvgCWMDI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -571,15 +562,15 @@ For readers thinking about antifragility, LEGO shows that strength is not the sa
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/rGoAAeSwsV9pt2sw/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs"><img src="https://i.ebayimg.com/images/g/-D4AAeSwqZVp6fAQ/s-l225.jpg" alt="Listing image for LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +578,15 @@ For readers thinking about antifragility, LEGO shows that strength is not the sa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CLASSIC Creative Brick Box Set (10696) Complete Set Boxed with Manual"><img src="https://i.ebayimg.com/images/g/rC4AAeSwarlqGI6R/s-l225.jpg" alt="Listing image for LEGO CLASSIC Creative Brick Box Set (10696) Complete Set Boxed with Manual" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CLASSIC Creative Brick Box Set (10696) Complete Set Boxed with Manual</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +594,31 @@ For readers thinking about antifragility, LEGO shows that strength is not the sa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed"><img src="https://i.ebayimg.com/images/g/lRoAAeSwz5hqD3tt/s-l225.jpg" alt="Listing image for LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LEGO Classic Town Set 6522 Highway Patrol COMPLETE + Instructions NO BOX"><img src="https://i.ebayimg.com/images/g/BmUAAeSw5GFpqtSa/s-l225.jpg" alt="Listing image for Vintage LEGO Classic Town Set 6522 Highway Patrol COMPLETE + Instructions NO BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10334 Retro Radio Sound Brick Display Set Complete &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">Vintage LEGO Classic Town Set 6522 Highway Patrol COMPLETE + Instructions NO BOX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CLASSIC: Creative Building Box (10695)"><img src="https://i.ebayimg.com/images/g/zD0AAeSwLqJqJwn5/s-l225.jpg" alt="Listing image for LEGO CLASSIC: Creative Building Box (10695)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CLASSIC: Creative Building Box (10695)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,7 +626,7 @@ For readers thinking about antifragility, LEGO shows that strength is not the sa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="when-more-lego-products-made-lego-weaker-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-products-made-lego-weaker-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="when-more-lego-products-made-lego-weaker-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -829,161 +836,162 @@ For readers thinking about antifragility, LEGO shows that strength is not the sa
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2003 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: slideshare.net  
    Title: the lego case study the great turnaround 2003 2013  
-   Link: [https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623](https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623)  
+   Link: <a href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Galidor](https://en.wikipedia.org/wiki/Galidor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galidor</a>  
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: LEGO Group 2023 Financial Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Financial Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
 11. <a id="endnote-11"></a>
    Source: lego.com  
    Title: LEGO Group Sustainability Statement 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Performance Highlights  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf](https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: lego.com  
    Title: lego delivered topline growth and outpaced market in 2023  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023](https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
 
 15. <a id="endnote-15"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/](https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
 
 16. <a id="endnote-16"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/](https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Brick by Brick: How Lego Rewrote the Rules of Innovation  
-   Link: [https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation](https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brick_by_Brick%3A_How_Lego_Rewrote_the_Rules_of_Innovation</a>  
 
 18. <a id="endnote-18"></a>
    Source: hbr.org  
    Title: innovating a turnaround at lego  
-   Link: [https://hbr.org/2009/09/innovating-a-turnaround-at-lego](https://hbr.org/2009/09/innovating-a-turnaround-at-lego)  
+   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
 19. <a id="endnote-19"></a>
    Source: strategy-business.com  
    Title: Strategy+business Rebuilding Lego, Brick by Brick  
-   Link: [https://www.strategy-business.com/article/07306](https://www.strategy-business.com/article/07306)  
+   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
 
 20. <a id="endnote-20"></a>
    Source: library.hbs.edu  
    Title: Harvard Business School Library HBS Cases: LEGO | Working Knowledge  
-   Link: [https://www.library.hbs.edu/working-knowledge/hbs-cases-lego](https://www.library.hbs.edu/working-knowledge/hbs-cases-lego)  
+   Link: <a href="https://www.library.hbs.edu/working-knowledge/hbs-cases-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.library.hbs.edu/working-knowledge/hbs-cases-lego</a>  
 
 21. <a id="endnote-21"></a>
    Source: strategyzer.com  
-   Link: [https://www.strategyzer.com/library/legos-great-business-model-turnaround-story](https://www.strategyzer.com/library/legos-great-business-model-turnaround-story)  
+   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
 
 22. <a id="endnote-22"></a>
    Source: bigintblog.files.wordpress.com  
-   Link: [https://bigintblog.files.wordpress.com/2014/08/lego.pdf](https://bigintblog.files.wordpress.com/2014/08/lego.pdf)  
+   Link: <a href="https://bigintblog.files.wordpress.com/2014/08/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bigintblog.files.wordpress.com/2014/08/lego.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: [https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/](https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/)  
+   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
 
 24. <a id="endnote-24"></a>
    Source: strategosinstitute.com  
    Title: LEG O®  
-   Link: [https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf](https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf)  
+   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: cfocentre.com  
-   Link: [https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/](https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/)  
+   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
 
 26. <a id="endnote-26"></a>
    Source: amazon.nl  
-   Link: [https://www.amazon.nl/Brick-Rewrote-Innovation-Conquered-Industry/dp/0307951618](https://www.amazon.nl/Brick-Rewrote-Innovation-Conquered-Industry/dp/0307951618)  
+   Link: <a href="https://www.amazon.nl/Brick-Rewrote-Innovation-Conquered-Industry/dp/0307951618" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Brick-Rewrote-Innovation-Conquered-Industry/dp/0307951618</a>  
 
 27. <a id="endnote-27"></a>
    Source: bonsite.nl  
-   Link: [https://bonsite.nl/phpcmsys/file/fosiroxem_lajed.pdf](https://bonsite.nl/phpcmsys/file/fosiroxem_lajed.pdf)  
+   Link: <a href="https://bonsite.nl/phpcmsys/file/fosiroxem_lajed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bonsite.nl/phpcmsys/file/fosiroxem_lajed.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS](https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS)  
+   Link: <a href="https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS</a>  
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/williamstern_back-in-the-early-2000s-lego-almost-collapsed-activity-7375197696992796672-Eq49](https://www.linkedin.com/posts/williamstern_back-in-the-early-2000s-lego-almost-collapsed-activity-7375197696992796672-Eq49)  
+   Link: <a href="https://www.linkedin.com/posts/williamstern_back-in-the-early-2000s-lego-almost-collapsed-activity-7375197696992796672-Eq49" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/williamstern_back-in-the-early-2000s-lego-almost-collapsed-activity-7375197696992796672-Eq49</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/](https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/)  
+   Link: <a href="https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SimonGerman600/posts/lego-revenue-in-recent-years-has-been-through-the-roof-the-turnaround-story-of-l/1254938805994825/</a>  
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/844890827/Case-study](https://www.scribd.com/document/844890827/Case-study)  
+   Link: <a href="https://www.scribd.com/document/844890827/Case-study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/844890827/Case-study</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth](https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth)  
+   Link: <a href="https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth</a>  
 
 33. <a id="endnote-33"></a>
    Source: michealhalpin.com  
-   Link: [https://michealhalpin.com/a-review-of-brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-dbfd03d9eb40](https://michealhalpin.com/a-review-of-brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-dbfd03d9eb40)  
+   Link: <a href="https://michealhalpin.com/a-review-of-brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-dbfd03d9eb40" target="_blank" rel="noopener noreferrer nofollow">https://michealhalpin.com/a-review-of-brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-dbfd03d9eb40</a>  
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/alec-chapados-0b12b11b7_in-2003-the-lego-group-was-seconds-away-activity-7363343003370856448-RHig](https://www.linkedin.com/posts/alec-chapados-0b12b11b7_in-2003-the-lego-group-was-seconds-away-activity-7363343003370856448-RHig)  
+   Link: <a href="https://www.linkedin.com/posts/alec-chapados-0b12b11b7_in-2003-the-lego-group-was-seconds-away-activity-7363343003370856448-RHig" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/alec-chapados-0b12b11b7_in-2003-the-lego-group-was-seconds-away-activity-7363343003370856448-RHig</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /fan-signals/
 nav_short_title: Botanicals
 title: Why LEGO Flowers Reached New Builders
-title_full: Why LEGO Flowers Reached New Builders | Fan Signals
+title_full: Why LEGO Flowers Reached New Builders
 display_title_short: Botanicals
 display_title: Botanicals
 heading_title: Why LEGO Flowers Reached New Builders
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How LEGO Fans Became a Market Sensor | LEGO Antifragility
+parent_title: How LEGO Fans Became a Market Sensor
 parent_permalink: /fan-signals/
 parent_nav_short_title: Fan Signals
 parent_heading_title: How LEGO Fans Became a Market Sensor
@@ -265,7 +265,7 @@ next_link:
   permalink: /brick-link/
   short_title: Brick Link
   heading_title: What Brick Link Revealed That Surveys Missed
-date: '2026-06-09 03:43:56 '
+date: '2026-06-11 21:40:24 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1.webp
@@ -274,22 +274,20 @@ image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bo
 
 ## Introduction
 
-The LEGO Botanical Collection became one of the clearest examples of how LEGO turned fan-visible adult demand into a new business category. What began as a line of buildable flowers and plants expanded the meaning of a LEGO set: it was no longer only a toy, collectors item or licensed display model. Botanical sets entered homes as dcor, relaxation projects and gifts. In doing so, they revealed a demand signal that traditional toy-market assumptions could easily have missed.
-
+The LEGO Botanical Collection became one of the clearest examples of how LEGO turned fan-visible adult demand into a new business category. What began as a line of buildable flowers and plants expanded the meaning of a LEGO set: it was no longer only a toy, collector’s item or licensed display model. Botanical sets entered homes as décor, relaxation projects and gifts. In doing so, they revealed a demand signal that traditional toy-market assumptions could easily have missed.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1-dark.svg" | relative_url }}" alt="Botanicals illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For LEGOs broader antifragile strategy, the significance was not simply that adults bought more sets. The Botanical line showed that fan communities and adult builders were identifying entirely different occasions for LEGO consumption. Flowers, houseplants and decorative objects allowed LEGO to participate in birthdays, Valentines Day, Mothers Day, housewarming gifts and interior design in ways that did not depend on childrens play patterns. The result was a new layer of demand that made the company less dependent on any single customer segment or product trend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignasia.com">[Campaign Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignasia.com</span><span class="citation-popover-title">Campaign Asia No kidding: Lego sees strong growth from adult consumers</span><span class="citation-popover-snippet">Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021  20 Apr 2021  We launched a large-scale Lamborghin...</span><span class="citation-popover-meta">Published: April 20, 2021</span></span></span>
+For LEGO’s broader antifragile strategy, the significance was not simply that adults bought more sets. The Botanical line showed that fan communities and adult builders were identifying entirely different occasions for LEGO consumption. Flowers, houseplants and decorative objects allowed LEGO to participate in birthdays, Valentine’s Day, Mother’s Day, housewarming gifts and interior design in ways that did not depend on children’s play patterns. The result was a new layer of demand that made the company less dependent on any single customer segment or product trend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignasia.com">[Campaign Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignasia.com</span><span class="citation-popover-title">Campaign Asia No kidding: Lego sees strong growth from adult consumers</span><span class="citation-popover-snippet">Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021 — 20 Apr 2021 — “We launched a large-scale Lamborghin...</span><span class="citation-popover-meta">Published: April 20, 2021</span></span></span>
 
 ## How Botanicals Changed the Meaning of a LEGO Set
 
-When the first major Botanical Collection sets such as the Flower Bouquet and Bonsai Tree appeared in 2021, they stood out because they were designed to look comfortable outside the toy box. Instead of spaceships, castles or licensed characters, they presented flowers, branches and potted plants intended for display in living rooms, kitchens and offices. LEGO itself describes the collection as being designed for the home and emphasises both the building experience and the finished decorative object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOThe LEGO Botanical Collection | Official LEGO Shop GBDiscover the stunning LEGO Botanical Collection designed for your home. Immer...</span></span></span>
+When the first major Botanical Collection sets such as the Flower Bouquet and Bonsai Tree appeared in 2021, they stood out because they were designed to look comfortable outside the toy box. Instead of spaceships, castles or licensed characters, they presented flowers, branches and potted plants intended for display in living rooms, kitchens and offices. LEGO itself describes the collection as being designed for the home and emphasises both the building experience and the finished decorative object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The LEGO® Botanical Collection &#124; Official LEGO® Shop GBDiscover the stunning LEGO® Botanical Collection designed for your home. Immer...</span></span></span>
 
 That shift sounds simple, but it altered how many adults interpreted the brand.
 
 For decades, adult LEGO purchases were often connected to nostalgia, collecting or fandom. A large [Star Wars]({{ 'star-wars/' | relative_url }}) model still announces itself as a hobby object. A flower bouquet on a shelf operates differently. Visitors may initially see it as decoration before recognising it as LEGO. This reduced the cultural barrier for adults who had never identified as LEGO fans.
 
 The collection also aligned with trends that were already visible in adult fan communities:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,10 +299,9 @@ The collection also aligned with trends that were already visible in adult fan c
 
 </div>
 
-LEGO actively framed Botanicals around calm, creativity and peaceful building experiences. Company marketing for the range repeatedly emphasised mindfulness, home atmosphere and decorative value rather than traditional toy play narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/bring-peace-to-your-home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOCreate a Peaceful Space with Flowers &amp; PlantsAdding botanicals to your home can bring a sense of calm and peace. Here are some of the...</span></span></span>
+LEGO actively framed Botanicals around calm, creativity and peaceful building experiences. Company marketing for the range repeatedly emphasised mindfulness, home atmosphere and decorative value rather than traditional toy play narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/bring-peace-to-your-home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Create a Peaceful Space with Flowers &amp; PlantsAdding botanicals to your home can bring a sense of calm and peace. Here are some of the...</span></span></span>
 
 The important demand-sensing lesson is that fans had already demonstrated many of these behaviours. Adult builders were displaying models, photographing them for social media and treating LEGO as part of their personal environment long before flowers became an official product category. The Botanical Collection translated those observed behaviours into a mass-market offering.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foDpfN13qeg" title="Ranking Every LEGO Set for Adults in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foDpfN13qeg" target="_blank" rel="noopener noreferrer">Ranking Every LEGO Set for Adults in 2025</a></p><p class="youtube-embed-meta">Channel: Bricked to Perfection &middot; Views: 195.4K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foDpfN13qeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foDpfN13qeg">Open on YouTube</a></p></div></div></div>
 
@@ -334,22 +331,20 @@ Recipients received both an activity and a decorative object. This created value
 
 Unlike some traditional toy categories, flowers and plants could be marketed broadly without relying on a specific fandom identity.
 
-LEGO increasingly leaned into these gifting occasions. Official [materials]({{ 'materials/' | relative_url }}) present Botanicals as gifts for home decoration, birthdays, celebrations and personal milestones. LEGO has also published dedicated gifting guides built around the collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO Botanicals for Every OccasionWell, anyone with a taste for stylish interiors will love the wall-hanging LEGO Botanicals Flower...</span></span></span>
+LEGO increasingly leaned into these gifting occasions. Official [materials]({{ 'materials/' | relative_url }}) present Botanicals as gifts for home decoration, birthdays, celebrations and personal milestones. LEGO has also published dedicated gifting guides built around the collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Botanicals for Every OccasionWell, anyone with a taste for stylish interiors will love the wall-hanging LEGO Botanicals Flower...</span></span></span>
 
-The companys 2024 Le Florist campaign in London made the strategy explicit. A LEGO store was temporarily transformed into a florist shop for Valentines Day, treating brick-built flowers as direct participants in an established gifting tradition rather than as novelty toys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lbbonline.com/work/118953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbbonline.com">[Little Black Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbbonline.com</span><span class="citation-popover-title">Little Black Book The LEGO Group</span><span class="citation-popover-snippet">Little Black BookThe LEGO Group - LEGO Le Florist9 Oct 2024  For a limited time only, our London store was given a fresh floral makeover...</span></span></span>
+The company’s 2024 “Le Florist” campaign in London made the strategy explicit. A LEGO store was temporarily transformed into a florist shop for Valentine’s Day, treating brick-built flowers as direct participants in an established gifting tradition rather than as novelty toys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lbbonline.com/work/118953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbbonline.com">[Little Black Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbbonline.com</span><span class="citation-popover-title">Little Black Book The LEGO Group</span><span class="citation-popover-snippet">Little Black BookThe LEGO Group - LEGO Le Florist9 Oct 2024 — For a limited time only, our London store was given a fresh floral makeover...</span></span></span>
 
 This mattered because gifting expands demand beyond the enthusiast community. Someone who would never purchase a complex construction set for themselves might still receive LEGO flowers from a partner, friend or family member.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-2-dark.svg" | relative_url }}" alt="Botanicals illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Adult Decor Market Was Hiding in Plain Sight
 
-The Botanical Collection also revealed a form of demand that traditional toy analysis often overlooks: people purchasing LEGO primarily as dcor.
+The Botanical Collection also revealed a form of demand that traditional toy analysis often overlooks: people purchasing LEGO primarily as décor.
 
-Many Botanical sets are marketed with imagery that resembles furniture, houseplant and lifestyle advertising more than conventional toy [packaging]({{ 'packaging/' | relative_url }}). Product descriptions regularly emphasise shelves, tables, workspaces and interior design settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.johnlewis.com/lego-botanical-collection-10280-flower-bouquet/p5295885" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlewis.com">[John Lewis &amp; Partners]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlewis.com</span><span class="citation-popover-snippet">John Lewis &amp; PartnersLEGO Botanical Collection 10280 Flower BouquetIdeal for any plant lovers, flower fans and botanical buffs  Fully as...</span></span></span>
+Many Botanical sets are marketed with imagery that resembles furniture, houseplant and lifestyle advertising more than conventional toy [packaging]({{ 'packaging/' | relative_url }}). Product descriptions regularly emphasise shelves, tables, workspaces and interior design settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.johnlewis.com/lego-botanical-collection-10280-flower-bouquet/p5295885" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlewis.com">[John Lewis &amp; Partners]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlewis.com</span><span class="citation-popover-snippet">John Lewis &amp; PartnersLEGO Botanical Collection 10280 Flower BouquetIdeal for any plant lovers, flower fans and botanical buffs · Fully as...</span></span></span>
 
 This positioning connected LEGO to several existing consumer habits:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,21 +356,19 @@ This positioning connected LEGO to several existing consumer habits:
 
 </div>
 
-The appeal was especially strong for consumers who liked the appearance of plants but wanted something permanent and low-maintenance. Media coverage repeatedly highlighted the idea of flowers that last forever and decorative plants that require no care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/25/shopping/shop-lego-flowers-and-more-during-the-amazon-big-spring-sale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Build a garden with these Big Spring deals on LEGO Botanicals</span><span class="citation-popover-snippet">First launched in 2021, these LEGO sets offer a creative and lasting alternative to real flowers, featuring detailed, mix-and-matchable b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/cant-keep-plants-alive-try-the-lego-versions-instead-tbbtt6fxx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Can&#x27;t keep plants alive?</span><span class="citation-popover-snippet">Try the Lego versions insteadIn response to the growing challenges faced by amateur plant owners, Lego&#x27;s Botanicals range has surged in p...</span></span></span>
+The appeal was especially strong for consumers who liked the appearance of plants but wanted something permanent and low-maintenance. Media coverage repeatedly highlighted the idea of “flowers that last forever” and decorative plants that require no care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/25/shopping/shop-lego-flowers-and-more-during-the-amazon-big-spring-sale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Build a garden with these Big Spring deals on LEGO Botanicals</span><span class="citation-popover-snippet">First launched in 2021, these LEGO sets offer a creative and lasting alternative to real flowers, featuring detailed, mix-and-matchable b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/cant-keep-plants-alive-try-the-lego-versions-instead-tbbtt6fxx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Can&#x27;t keep plants alive?</span><span class="citation-popover-snippet">Try the Lego versions insteadIn response to the growing challenges faced by amateur plant owners, Lego&#x27;s Botanicals range has surged in p...</span></span></span>
 
 What makes this significant from an antifragility perspective is diversification. Decor spending follows different cycles from toy spending. Housewarming gifts, apartment decoration and lifestyle purchases are influenced by different motivations than children's entertainment purchases.
 
 By remaining inside the LEGO building system while reaching those new motivations, the company expanded its demand base without abandoning its core manufacturing and design strengths.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXCLJiXqqus" title="LEGO&#x27;s Outsmarting Us With Their NEW Flowers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXCLJiXqqus" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Outsmarting Us With Their NEW Flowers</a></p><p class="youtube-embed-meta">Channel: Brick Master Harri &middot; Views: 444.3K &middot; Uploaded: December 2024 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXCLJiXqqus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXCLJiXqqus">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXCLJiXqqus" title="LEGO&#x27;s Outsmarting Us With Their NEW Flowers🤯" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXCLJiXqqus" target="_blank" rel="noopener noreferrer">LEGO&#x27;s Outsmarting Us With Their NEW Flowers🤯</a></p><p class="youtube-embed-meta">Channel: Brick Master Harri &middot; Views: 444.3K &middot; Uploaded: December 2024 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXCLJiXqqus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXCLJiXqqus">Open on YouTube</a></p></div></div></div>
 
 ## What Fan Behaviour Revealed Before the Market Fully Formed
 
 The Botanical Collection looks obvious in hindsight, but it emerged from signals that were visible earlier among adult builders.
 
 Fan communities had already demonstrated several patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,12 +380,11 @@ Fan communities had already demonstrated several patterns:
 
 </div>
 
-LEGO executives have described adult growth as coming from products connected to passion points, specifically citing flowers and botanical products alongside other adult-focused themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignasia.com">[Campaign Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignasia.com</span><span class="citation-popover-title">Campaign Asia No kidding: Lego sees strong growth from adult consumers</span><span class="citation-popover-snippet">Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021  20 Apr 2021  We launched a large-scale Lamborghin...</span><span class="citation-popover-meta">Published: April 20, 2021</span></span></span>
+LEGO executives have described adult growth as coming from products connected to “passion points”, specifically citing flowers and botanical products alongside other adult-focused themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignasia.com">[Campaign Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignasia.com</span><span class="citation-popover-title">Campaign Asia No kidding: Lego sees strong growth from adult consumers</span><span class="citation-popover-snippet">Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021 — 20 Apr 2021 — “We launched a large-scale Lamborghin...</span><span class="citation-popover-meta">Published: April 20, 2021</span></span></span>
 
 That language is important. A passion point is not defined by age. It is defined by interest. Someone interested in gardening, interior design or floral aesthetics may never have considered themselves part of the toy market. The Botanical Collection gave LEGO access to those interests while still using bricks, building techniques and the existing production system.
 
 This is exactly the kind of weak signal that fan communities help surface. Demand did not first appear as a giant market report saying adults wanted LEGO flowers. Instead, it appeared through years of adult engagement with display culture, creativity, custom building and alternative uses for LEGO.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-3-dark.svg" | relative_url }}" alt="Botanicals illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Botanicals Matter for LEGO's Antifragility
@@ -403,24 +395,21 @@ A more fragile company might have interpreted adult interest narrowly, assuming 
 
 Several antifragile advantages emerged:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Revenue became less dependent on children's purchasing cycles.
 * LEGO gained access to occasions such as Valentine's Day and housewarming gifts.
 * Adult customers entered the ecosystem through non-traditional themes.
-* The company expanded into home dcor without abandoning its core product architecture.
+* The company expanded into home décor without abandoning its core product architecture.
 * Successful sets generated new feedback loops about adult tastes and behaviour.
 
 </div>
 
-The Botanical Collection therefore represents more than a successful product line. It is evidence that LEGO learned to treat fan behaviour as an information source. Adult builders and communities revealed that LEGO could function as dcor, creative therapy, social gift and lifestyle object. Once the company recognised that signal, it transformed a niche pattern into a major commercial category.
+The Botanical Collection therefore represents more than a successful product line. It is evidence that LEGO learned to treat fan behaviour as an information source. Adult builders and communities revealed that LEGO could function as décor, creative therapy, social gift and lifestyle object. Once the company recognised that signal, it transformed a niche pattern into a major commercial category.
 
-That ability to discover strength in unexpected demand is one of the clearest examples of [antifragility in]({{ 'antifragility-in-the-context-of-the/' | relative_url }}) LEGOs modern business model. Rather than protecting a fixed definition of what a LEGO set should be, the company allowed evidence from its community to expand that definition. The flower sets did not replace traditional LEGO products. They made the system useful in more situations, for more people, and for reasons that conventional toy-market assumptions would have struggled to predict.
-
+That ability to discover strength in unexpected demand is one of the clearest examples of antifragility in LEGO’s modern business model. Rather than protecting a fixed definition of what a LEGO set should be, the company allowed evidence from its community to expand that definition. The flower sets did not replace traditional LEGO products. They made the system useful in more situations, for more people, and for reasons that conventional toy-market assumptions would have struggled to predict.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CjyTQfA8C7c" title="Why the LEGO Botanical theme is changing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CjyTQfA8C7c" target="_blank" rel="noopener noreferrer">Why the LEGO Botanical theme is changing</a></p><p class="youtube-embed-meta">Channel: Brick Fanatics &middot; Views: 11.8K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CjyTQfA8C7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CjyTQfA8C7c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -539,15 +528,15 @@ That ability to discover strength in unexpected demand is one of the clearest ex
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces"><img src="https://i.ebayimg.com/images/g/P7EAAeSwnVVqJbLo/s-l225.jpg" alt="Listing image for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bonsai Tree Set Botanical Collection 10281"><img src="https://i.ebayimg.com/images/g/dn8AAeSwTfpqHZc2/s-l225.jpg" alt="Listing image for LEGO Bonsai Tree Set Botanical Collection 10281" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Bonsai Tree Set Botanical Collection 10281</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +544,15 @@ That ability to discover strength in unexpected demand is one of the clearest ex
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed"><img src="https://i.ebayimg.com/images/g/5PUAAeSw0NhqJain/s-l225.jpg" alt="Listing image for LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanical Collection Plum Blossom 10369 Set Complete with Instructions"><img src="https://i.ebayimg.com/images/g/GcAAAeSw0NhqIale/s-l225.jpg" alt="Listing image for LEGO Botanical Collection Plum Blossom 10369 Set Complete with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas A-Frame Cabin 21338 Retired Set - Brand New Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanical Collection Plum Blossom 10369 Set Complete with Instructions</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +560,31 @@ That ability to discover strength in unexpected demand is one of the clearest ex
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED"><img src="https://i.ebayimg.com/images/g/lHYAAeSwFW1qKAkj/s-l225.jpg" alt="Listing image for Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanical Collection 40460 Roses Set"><img src="https://i.ebayimg.com/images/g/d0cAAeSwB7tplf9a/s-l225.jpg" alt="Listing image for LEGO Botanical Collection 40460 Roses Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanical Collection 40460 Roses Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 10313 Botanical Collection Wildflower Bouquet Building Set Brand New Sealed"><img src="https://i.ebayimg.com/images/g/2NIAAeSwpl1qJEXC/s-l225.jpg" alt="Listing image for LEGO 10313 Botanical Collection Wildflower Bouquet Building Set Brand New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 10313 Botanical Collection Wildflower Bouquet Building Set Brand New Sealed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,7 +592,7 @@ That ability to discover strength in unexpected demand is one of the clearest ex
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-flowers-reached-new-builders-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-lego-flowers-reached-new-builders-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -797,116 +802,117 @@ That ability to discover strength in unexpected demand is one of the clearest ex
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/themes/botanicals/about](https://www.lego.com/en-gb/themes/botanicals/about)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe LEGO Botanical Collection | Official LEGO Shop GBDiscover the stunning LEGO Botanical Collection designed for your home. Immer...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/botanicals/about</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO® Botanical Collection | Official LEGO® Shop GBDiscover the stunning LEGO® Botanical Collection designed for your home. Immer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/bring-peace-to-your-home](https://www.lego.com/en-gb/bring-peace-to-your-home)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOCreate a Peaceful Space with Flowers &amp; PlantsAdding botanicals to your home can bring a sense of calm and peace. Here are some of the...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/bring-peace-to-your-home" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/bring-peace-to-your-home</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Create a Peaceful Space with Flowers &amp; PlantsAdding botanicals to your home can bring a sense of calm and peace. Here are some of the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: techradar.com  
    Title: Tech Radar Lego flowers make a blooming perfect Mothers' Day present  
-   Link: [https://www.techradar.com/home/lego-flowers-make-a-blooming-perfect-mothers-day-present-here-are-12-hand-picked-deals](https://www.techradar.com/home/lego-flowers-make-a-blooming-perfect-mothers-day-present-here-are-12-hand-picked-deals)  
+   Link: <a href="https://www.techradar.com/home/lego-flowers-make-a-blooming-perfect-mothers-day-present-here-are-12-hand-picked-deals" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/home/lego-flowers-make-a-blooming-perfect-mothers-day-present-here-are-12-hand-picked-deals</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These flower-themed sets, which include roses, tulips, sunflowers, wildflowers, succulents, and orchids, provide a unique alternative to...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals](https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO Botanicals for Every OccasionWell, anyone with a taste for stylish interiors will love the wall-hanging LEGO Botanicals Flower...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Botanicals for Every OccasionWell, anyone with a taste for stylish interiors will love the wall-hanging LEGO Botanicals Flower...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/adults-welcome/flowers](https://www.lego.com/en-gb/adults-welcome/flowers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO Flowers and Plants | Official LEGO Shop GBDiscover your birth month flower and explore the LEGO Botanicals collection to buil...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/adults-welcome/flowers" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/flowers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Flowers and Plants | Official LEGO® Shop GBDiscover your birth month flower and explore the LEGO® Botanicals collection to buil...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: campaignasia.com  
    Title: Campaign Asia No kidding: Lego sees strong growth from adult consumers  
-   Link: [https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91](https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021  20 Apr 2021  We launched a large-scale Lamborghin...</p></details>
+   Link: <a href="https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignasia.com/article/no-kidding-lego-sees-strong-growth-from-adult-consumers/6za7soynw96eajz0yu8vjwop91</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Campaign AsiaNo kidding: Lego sees strong growth from adult consumersApril 20, 2021 — 20 Apr 2021 — “We launched a large-scale Lamborghin...</p></details>
    Published: April 20, 2021  
 
 7. <a id="endnote-7"></a>
    Source: lbbonline.com  
    Title: Little Black Book The LEGO Group  
-   Link: [https://lbbonline.com/work/118953](https://lbbonline.com/work/118953)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Black BookThe LEGO Group - LEGO Le Florist9 Oct 2024  For a limited time only, our London store was given a fresh floral makeover...</p></details>
+   Link: <a href="https://lbbonline.com/work/118953" target="_blank" rel="noopener noreferrer nofollow">https://lbbonline.com/work/118953</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Black BookThe LEGO Group - LEGO Le Florist9 Oct 2024 — For a limited time only, our London store was given a fresh floral makeover...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: johnlewis.com  
-   Link: [https://www.johnlewis.com/lego-botanical-collection-10280-flower-bouquet/p5295885](https://www.johnlewis.com/lego-botanical-collection-10280-flower-bouquet/p5295885)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lewis &amp; PartnersLEGO Botanical Collection 10280 Flower BouquetIdeal for any plant lovers, flower fans and botanical buffs  Fully as...</p></details>
+   Link: <a href="https://www.johnlewis.com/lego-botanical-collection-10280-flower-bouquet/p5295885" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlewis.com/lego-botanical-collection-10280-flower-bouquet/p5295885</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lewis &amp; PartnersLEGO Botanical Collection 10280 Flower BouquetIdeal for any plant lovers, flower fans and botanical buffs · Fully as...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nypost.com  
    Title: New York Post Build a garden with these Big Spring deals on LEGO Botanicals  
-   Link: [https://nypost.com/2026/03/25/shopping/shop-lego-flowers-and-more-during-the-amazon-big-spring-sale/](https://nypost.com/2026/03/25/shopping/shop-lego-flowers-and-more-during-the-amazon-big-spring-sale/)  
+   Link: <a href="https://nypost.com/2026/03/25/shopping/shop-lego-flowers-and-more-during-the-amazon-big-spring-sale/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/25/shopping/shop-lego-flowers-and-more-during-the-amazon-big-spring-sale/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First launched in 2021, these LEGO sets offer a creative and lasting alternative to real flowers, featuring detailed, mix-and-matchable b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thetimes.co.uk  
    Title: The Times Can't keep plants alive?  
-   Link: [https://www.thetimes.co.uk/article/cant-keep-plants-alive-try-the-lego-versions-instead-tbbtt6fxx](https://www.thetimes.co.uk/article/cant-keep-plants-alive-try-the-lego-versions-instead-tbbtt6fxx)  
+   Link: <a href="https://www.thetimes.co.uk/article/cant-keep-plants-alive-try-the-lego-versions-instead-tbbtt6fxx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/cant-keep-plants-alive-try-the-lego-versions-instead-tbbtt6fxx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Try the Lego versions insteadIn response to the growing challenges faced by amateur plant owners, Lego&#x27;s Botanicals range has surged in p...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf](https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf)  
+   Link: <a href="https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult interest has grown following Lego&#x27;s launch of the 18+ category in 2020, featuring intricate and expensive sets. Sales of these adul...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: curiousminds.co.uk  
-   Link: [https://curiousminds.co.uk/collections/lego-botanicals](https://curiousminds.co.uk/collections/lego-botanicals)  
+   Link: <a href="https://curiousminds.co.uk/collections/lego-botanicals" target="_blank" rel="noopener noreferrer nofollow">https://curiousminds.co.uk/collections/lego-botanicals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Botanicals | LEGO Flowers &amp; Plants | CuriousMinds.co.ukBuild beautiful floral LEGO sets with LEGO Botanicals at CuriousMinds.co.uk...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: investabrick.com  
-   Link: [https://investabrick.com/articles/lego-botanicals-buyers-guide-[investment](https://investabrick.com/articles/lego-botanicals-buyers-guide-[investment)  
+   Link: <a href="https://investabrick.com/articles/lego-botanicals-buyers-guide-[investment" target="_blank" rel="noopener noreferrer nofollow">https://investabrick.com/articles/lego-botanicals-buyers-guide-[investment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compare bouquets, colours, and resale trends with easy display tips. LEGO&#x27;s Botanical Collection has quietly become one...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gardeningknowhow.com  
    Title: Gardening Know How Ditch the Fresh Flowers This Valentine's Day!  
-   Link: [https://www.gardeningknowhow.com/specialty/lego-botanicals-for-valentines-day](https://www.gardeningknowhow.com/specialty/lego-botanicals-for-valentines-day)  
+   Link: <a href="https://www.gardeningknowhow.com/specialty/lego-botanicals-for-valentines-day" target="_blank" rel="noopener noreferrer nofollow">https://www.gardeningknowhow.com/specialty/lego-botanicals-for-valentines-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gift a LEGO Botanicals Bouquet That Will Last ForeverThis article from Gardening Know How advocates for choosing LEGO Botanicals over fre...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: netmums.com  
-   Link: [https://www.netmums.com/home-garden/home/say-goodbye-to-wilting-flowers-this-lego-flower-arrangement-set-will-keep-your-home-cheery-all-winter](https://www.netmums.com/home-garden/home/say-goodbye-to-wilting-flowers-this-lego-flower-arrangement-set-will-keep-your-home-cheery-all-winter)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO botanicals flower arrangement set for adults24 Jan 2026  This set allows for customisable arrangements and requires no maintenance...</p></details>
+   Link: <a href="https://www.netmums.com/home-garden/home/say-goodbye-to-wilting-flowers-this-lego-flower-arrangement-set-will-keep-your-home-cheery-all-winter" target="_blank" rel="noopener noreferrer nofollow">https://www.netmums.com/home-garden/home/say-goodbye-to-wilting-flowers-this-lego-flower-arrangement-set-will-keep-your-home-cheery-all-winter</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO botanicals flower arrangement set for adults24 Jan 2026 — ️This set allows for customisable arrangements and requires no maintenance...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: currys.co.uk  
    Title: most beautiful lego flower gifts for valentines day  
-   Link: [https://www.currys.co.uk/techtalk/how-to/what-to-buy/most-beautiful-lego-flower-gifts-for-valentines-day.html](https://www.currys.co.uk/techtalk/how-to/what-to-buy/most-beautiful-lego-flower-gifts-for-valentines-day.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 most beautiful LEGO flower gifts for Valentine&#x27;s Day...2 Feb 2026  LEGO Botanicals 10342 Pretty Pink Flower Bouquet Set for Adul...</p></details>
+   Link: <a href="https://www.currys.co.uk/techtalk/how-to/what-to-buy/most-beautiful-lego-flower-gifts-for-valentines-day.html" target="_blank" rel="noopener noreferrer nofollow">https://www.currys.co.uk/techtalk/how-to/what-to-buy/most-beautiful-lego-flower-gifts-for-valentines-day.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 most beautiful LEGO flower gifts for Valentine&#x27;s Day...2 Feb 2026 — LEGO Botanicals 10342 Pretty Pink Flower Bouquet Set for Adul...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/18dfxju/when_did_adult_lego_really_take_off/](https://www.reddit.com/r/lego/comments/18dfxju/when_did_adult_lego_really_take_off/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/18dfxju/when_did_adult_lego_really_take_off/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/18dfxju/when_did_adult_lego_really_take_off/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ts. I know there have always been AFOLs, but one cannot...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: amazon.co.uk  
    Title: LEG O Botanicals Flower Bouquet  
-   Link: [https://www.amazon.co.uk/LEGO-Botanicals-Artificial-Flowers-Adults/dp/B0GL23RMWR](https://www.amazon.co.uk/LEGO-Botanicals-Artificial-Flowers-Adults/dp/B0GL23RMWR)  
+   Link: <a href="https://www.amazon.co.uk/LEGO-Botanicals-Artificial-Flowers-Adults/dp/B0GL23RMWR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/LEGO-Botanicals-Artificial-Flowers-Adults/dp/B0GL23RMWR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Botanicals Flower Bouquet - Artificial Flowers Set for...LEGO artificial flowers bouquet set for adults makes a wonderful birthday...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXbqSD1kSqS/](https://www.instagram.com/p/DXbqSD1kSqS/)  
+   Link: <a href="https://www.instagram.com/p/DXbqSD1kSqS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXbqSD1kSqS/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>our favourite Lego botanical sets.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: goodhousekeeping.com  
    Title: lego botanical adults  
-   Link: [https://www.goodhousekeeping.com/childrens-products/toy-reviews/a64311951/lego-botanical-adults/](https://www.goodhousekeeping.com/childrens-products/toy-reviews/a64311951/lego-botanical-adults/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the LEGO Botanical Sets Are So Popular30 Mar 2025  We see a lot of adults finding fun and unique ways to decorate their homes and g...</p></details>
+   Link: <a href="https://www.goodhousekeeping.com/childrens-products/toy-reviews/a64311951/lego-botanical-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.goodhousekeeping.com/childrens-products/toy-reviews/a64311951/lego-botanical-adults/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the LEGO Botanical Sets Are So Popular30 Mar 2025 — “We see a lot of adults finding fun and unique ways to decorate their homes and g...</p></details>

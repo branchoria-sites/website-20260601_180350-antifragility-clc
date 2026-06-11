@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sustainability/
 nav_short_title: Mass Balance
 title: Can a Greener Brick Look Exactly the Same?
-title_full: Can a Greener Brick Look Exactly the Same? | Sustainability
+title_full: Can a Greener Brick Look Exactly the Same?
 display_title_short: Mass Balance
 display_title: Mass Balance
 heading_title: Can a Greener Brick Look Exactly the Same?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where LEGO's Antifragility Hits Hard Limits | LEGO Antifragility
+parent_title: Where LEGO's Antifragility Hits Hard Limits
 parent_permalink: /sustainability/
 parent_nav_short_title: Sustainability
 parent_heading_title: Where LEGO's Antifragility Hits Hard Limits
@@ -265,7 +265,7 @@ next_link:
   permalink: /packaging/
   short_title: Packaging
   heading_title: Why LEGO Bags Can Change Before Bricks
-date: '2026-06-09 03:39:51 '
+date: '2026-06-11 21:39:50 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_ma
 
 ## Introduction
 
-LEGO’s move towards lower-carbon materials increasingly depends on something most consumers never see: mass balance accounting. Instead of making visibly different “green bricks”, the company is buying resin linked to renewable and recycled feedstocks that are mixed into existing industrial plastic systems. The result is deliberately invisible. A brick made through this system looks, feels and performs exactly like a conventional LEGO brick. That helps LEGO preserve quality and [compatibility]({{ 'compatibility/' | relative_url }}), but it also creates a communication problem. If the [sustainability]({{ 'sustainability/' | relative_url }}) improvement cannot be seen in any individual brick, consumers must trust certification systems, accounting rules and supplier claims rather than physical evidence. This tension sits at the centre of LEGO’s sustainability strategy and reveals an important limit to the company’s antifragility: adapting to environmental pressure increasingly depends on governance and credibility, not just product innovation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Mass balance</span><span class="citation-popover-snippet">LEGOMass balance - SustainabilityThe mass balance approach involves producing materials that are a mix of both virgin fossil and renewabl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Sustainable materials</span><span class="citation-popover-snippet">Our suppliers mix virgin fossil sources with certified...Read more...</span></span></span>
-
+LEGO’s move towards lower-carbon materials increasingly depends on something most consumers never see: mass balance accounting. Instead of making visibly different “green bricks”, the company is buying resin linked to renewable and recycled feedstocks that are mixed into existing industrial plastic systems. The result is deliberately invisible. A brick made through this system looks, feels and performs exactly like a conventional LEGO brick. That helps LEGO preserve quality and [compatibility]({{ 'compatibility/' | relative_url }}), but it also creates a communication problem. If the [sustainability]({{ 'sustainability/' | relative_url }}) improvement cannot be seen in any individual brick, consumers must trust certification systems, accounting rules and supplier claims rather than physical evidence. This tension sits at the centre of LEGO’s sustainability strategy and reveals an important limit to the company’s antifragility: adapting to environmental pressure increasingly depends on governance and credibility, not just product innovation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Mass balance</span><span class="citation-popover-snippet">Mass balance - SustainabilityThe mass balance approach involves producing materials that are a mix of both virgin fossil and renewabl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Sustainable materials</span><span class="citation-popover-snippet">Our suppliers mix virgin fossil sources with certified...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1-dark.svg" | relative_url }}" alt="Mass Balance illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can a Greener Brick Look Exactly the Same?
@@ -296,7 +295,6 @@ When a household buys renewable electricity, the electrons reaching the home are
 
 The process generally works in three steps:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Renewable or recycled feedstocks such as used cooking oil enter a chemical production system.
@@ -305,12 +303,9 @@ The process generally works in three steps:
 
 </div>
 
-LEGO’s suppliers use certification systems such as ISCC PLUS, a widely used [framework]({{ 'framework/' | relative_url }}) designed to verify sustainable feedstocks and trace them through complex industrial supply chains. Because the final plastic molecules are indistinguishable, certification focuses on bookkeeping, chain-of-custody controls and external audits rather than physical separation. ISCC System <span class="citation-chip-wrap"><a class="citation-chip" href="https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: india.controlunion.com">[Control Union India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">india.controlunion.com</span><span class="citation-popover-snippet">Control Union IndiaISCC PLUS Certification for Plastics | Mass Balance Guide...23 Apr 2026 — ISCC PLUS helps plastic manufacturers verif...</span></span></span>
+LEGO’s suppliers use certification systems such as ISCC PLUS, a widely used [framework]({{ 'framework/' | relative_url }}) designed to verify sustainable feedstocks and trace them through complex industrial supply chains. Because the final plastic molecules are indistinguishable, certification focuses on bookkeeping, chain-of-custody controls and external audits rather than physical separation. ISCC System <span class="citation-chip-wrap"><a class="citation-chip" href="https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: india.controlunion.com">[Control Union India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">india.controlunion.com</span><span class="citation-popover-snippet">Control Union IndiaISCC PLUS Certification for Plastics &#124; Mass Balance Guide...23 Apr 2026 — ISCC PLUS helps plastic manufacturers verif...</span></span></span>
 
-This approach explains why LEGO can simultaneously say that more of its materials come from renewable or recycled sources while continuing to manufacture bricks that behave exactly like earlier versions. The chemistry remains essentially the same; the origin of the carbon changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Mass balance</span><span class="citation-popover-snippet">LEGOMass balance - SustainabilityIn 2025, 60% of all resin we purchased was certified according to mass balance principles, which alongsi...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jKxn-0xyJXg" title="Plastic: One Material, Many Solutions | Design Squad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jKxn-0xyJXg" target="_blank" rel="noopener noreferrer">Plastic: One Material, Many Solutions | Design Squad</a></p><p class="youtube-embed-meta">Channel: Design Squad Global</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jKxn-0xyJXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jKxn-0xyJXg">Open on YouTube</a></p></div></div></div>
+This approach explains why LEGO can simultaneously say that more of its materials come from renewable or recycled sources while continuing to manufacture bricks that behave exactly like earlier versions. The chemistry remains essentially the same; the origin of the carbon changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Mass balance</span><span class="citation-popover-snippet">Mass balance - SustainabilityIn 2025, 60% of all resin we purchased was certified according to mass balance principles, which alongsi...</span></span></span>
 
 ## Why It Helps LEGO Move Faster
 
@@ -326,7 +321,6 @@ Chemical plants that produce plastic resin were built around large-scale mixed-f
 
 For LEGO, this dramatically increases the scale at which sustainability efforts can operate. Instead of waiting for a perfect replacement material, the company can begin reducing fossil input immediately through procurement decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The company has tested over 600 materials to find a suitable alternative but has seen limited success. Lego aims to reduce its oil-based...</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-2-dark.svg" | relative_url }}" alt="Mass Balance illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It creates demand before supply becomes cheap
 
@@ -338,12 +332,9 @@ From an antifragility perspective, this is less a technological innovation than 
 
 The mass balance approach has moved from a niche experiment to a central part of LEGO’s sustainability programme.
 
-According to LEGO and reporting on its sustainability disclosures, certified mass balance resin represented 18% of resin purchases in 2023. During the first half of 2024, that figure rose to 30%, translating into an estimated average of 22% renewable and recycled material content. By 2024, LEGO reported that 47% of purchased resin was certified under mass balance principles, and later disclosures indicated further expansion beyond the halfway mark. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://trellis.net/article/legos-sustainability-shift-draws-questions-doubts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trellis.net">[Trellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trellis.net</span><span class="citation-popover-snippet">TrellisLego&#x27;s sustainability shift draws questions, doubts10 Sept 2024 — In 2023 Lego bought 18 percent certified mass balance resin, or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-materials-use-in-2024-first-half-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productsofchange.com">[3productsofchange.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productsofchange.com</span><span class="citation-popover-snippet">The LEGO Group grows revenue and sustainable materials...28 Aug 2024 — In fact, in the first half of 2024, 30% of all resin purchased by...</span></span></span>
+According to LEGO and reporting on its sustainability disclosures, certified mass balance resin represented 18% of resin purchases in 2023. During the first half of 2024, that figure rose to 30%, translating into an estimated average of 22% renewable and recycled material content. By 2024, LEGO reported that 47% of purchased resin was certified under mass balance principles, and later disclosures indicated further expansion beyond the halfway mark. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://trellis.net/article/legos-sustainability-shift-draws-questions-doubts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trellis.net">[Trellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trellis.net</span><span class="citation-popover-snippet">Lego&#x27;s sustainability shift draws questions, doubts10 Sept 2024 — In 2023 Lego bought 18 percent certified mass balance resin, or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-materials-use-in-2024-first-half-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productsofchange.com">[3productsofchange.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productsofchange.com</span><span class="citation-popover-snippet">The LEGO Group grows revenue and sustainable materials...28 Aug 2024 — In fact, in the first half of 2024, 30% of all resin purchased by...</span></span></span>
 
 These figures matter because they show where LEGO's sustainability progress is currently coming from. Public discussion often focuses on breakthrough materials or futuristic bioplastics. In practice, a significant share of LEGO's measurable progress has come from changing feedstock sourcing through certification systems rather than replacing the brick's core chemistry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group Sustainability Statement 2024</span><span class="citation-popover-snippet">Sustainability Statement11 Mar 2025 — This Sustainability Statement is part of the management review of LEGO A/S&#x27; Annual Report 2024 and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zx04Kl8y4dE" title="What is Sustainability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zx04Kl8y4dE" target="_blank" rel="noopener noreferrer">What is Sustainability</a></p><p class="youtube-embed-meta">Channel: UCLA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zx04Kl8y4dE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zx04Kl8y4dE">Open on YouTube</a></p></div></div></div>
 
 ## Why Invisible Progress Can Be Hard to Explain
 
@@ -355,15 +346,12 @@ A child opening a LEGO set cannot tell whether any specific brick contains renew
 
 This is not necessarily evidence of deception. The accounting rules are generally disclosed, and certification systems are designed precisely because physical separation is often impractical. The challenge is that the claim depends on understanding an abstract governance mechanism rather than observing a physical attribute. Trust shifts from the product to the certification architecture behind the product. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iscc-system.org/mass-balance-and-attribution-understanding-the-difference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iscc-system.org">[ISCC System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iscc-system.org</span><span class="citation-popover-title">mass balance and attribution understanding the difference</span><span class="citation-popover-snippet">ISCC SystemMass Balance and Attribution in Chemical Recycling13 Feb 2026 — Mass balance requires clear guardrails for how the sustainabil...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iscc-system.org/mass-balance-and-attribution-understanding-the-difference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iscc-system.org">[ISCC System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iscc-system.org</span><span class="citation-popover-title">mass balance and attribution understanding the difference</span><span class="citation-popover-snippet">ISCC SystemMass Balance and Attribution in Chemical Recycling13 Feb 2026 — Mass balance requires clear guardrails for how the sustainabil...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sMqtwbKc8EA" title="8 Sustainability ideas that will change the world | FT Rethink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sMqtwbKc8EA" target="_blank" rel="noopener noreferrer">8 Sustainability ideas that will change the world | FT Rethink</a></p><p class="youtube-embed-meta">Channel: Financial Times</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sMqtwbKc8EA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sMqtwbKc8EA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-3-dark.svg" | relative_url }}" alt="Mass Balance illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Governance Challenge Behind the Brick
 
 Because consumers cannot verify the claim directly, governance becomes central.
 
 The credibility of mass balance depends on several questions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://iscc-system.org/mass-balance-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iscc-system.org">[iscc-system.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iscc-system.org</span><span class="citation-popover-title">mass balance explained</span><span class="citation-popover-snippet">ISCC SystemMass Balance Explained15 May 2024 — Mass balance provides manufacturers with a methodology to track the certified materials as...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,12 +362,10 @@ The credibility of mass balance depends on several questions: <span class="citat
 
 </div>
 
-These questions matter because sustainability controversies increasingly revolve around attribution rather than chemistry. The debate is often not whether renewable feedstocks exist, but whether companies can legitimately connect those feedstocks to particular products. ISCC System <span class="citation-chip-wrap"><a class="citation-chip" href="https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: india.controlunion.com">[Control Union India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">india.controlunion.com</span><span class="citation-popover-snippet">Control Union IndiaISCC PLUS Certification for Plastics | Mass Balance Guide...23 Apr 2026 — ISCC PLUS helps plastic manufacturers verif...</span></span></span>
+These questions matter because sustainability controversies increasingly revolve around attribution rather than chemistry. The debate is often not whether renewable feedstocks exist, but whether companies can legitimately connect those feedstocks to particular products. ISCC System <span class="citation-chip-wrap"><a class="citation-chip" href="https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: india.controlunion.com">[Control Union India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">india.controlunion.com</span><span class="citation-popover-snippet">Control Union IndiaISCC PLUS Certification for Plastics &#124; Mass Balance Guide...23 Apr 2026 — ISCC PLUS helps plastic manufacturers verif...</span></span></span>
 
 For LEGO, this creates a different type of vulnerability than product design failures. If a new set disappoints, the company can redesign it. If consumers lose confidence in sustainability claims, the problem becomes reputational and institutional. The resilience of the strategy depends on maintaining trust in certification systems that most buyers will never investigate themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brickfanatics.com/legos-sustainability-solution-under-fire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-title">legos sustainability solution under fire</span><span class="citation-popover-snippet">Brick FanaticsLEGO&#x27;s latest sustainability solution comes under fire from...10 Sept 2024 — In essence: the amount of renewable plastic i...</span></span></span>
 
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-3-dark.svg" | relative_url }}" alt="Mass Balance illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Mass Balance Reveals About LEGO's Antifragility Limit
 
 Mass balance demonstrates both the adaptability and the constraints of LEGO's sustainability response.
@@ -507,15 +493,15 @@ A greener LEGO brick increasingly looks exactly like the old one. That may be th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241"><img src="https://i.ebayimg.com/images/g/U8EAAeSweJZqDz86/s-l225.jpg" alt="Listing image for LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Slopes x50 Pack Roof bricks parts pieces Bundle Lot Choose Colour slope"><img src="https://i.ebayimg.com/images/g/vhAAAOSwEwlkRw63/s-l225.jpg" alt="Listing image for LEGO Slopes x50 Pack Roof bricks parts pieces Bundle Lot Choose Colour slope" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fast &amp; Furious Honda S2000 Display Stand – Set 77241</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Slopes x50 Pack Roof bricks parts pieces Bundle Lot Choose Colour slope</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +509,15 @@ A greener LEGO brick increasingly looks exactly like the old one. That may be th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/3fwAAeSwgWRpX4iP/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bricks 2x2 - 3003 x 10"><img src="https://i.ebayimg.com/images/g/q-wAAeSwQAFqDGli/s-l225.jpg" alt="Listing image for LEGO Bricks 2x2 - 3003 x 10" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Bricks 2x2 - 3003 x 10</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +525,31 @@ A greener LEGO brick increasingly looks exactly like the old one. That may be th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display"><img src="https://i.ebayimg.com/images/g/75EAAeSwulZqJ6U4/s-l225.jpg" alt="Listing image for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bundle 250G RANDOM Parts Bricks Tiles Plates Specialty Choose Colour Bundle"><img src="https://i.ebayimg.com/images/g/NHAAAeSwhsRpagzH/s-l225.jpg" alt="Listing image for LEGO Bundle 250G RANDOM Parts Bricks Tiles Plates Specialty Choose Colour Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Bundle 250G RANDOM Parts Bricks Tiles Plates Specialty Choose Colour Bundle</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 290g Mixed Lego Green Bricks RARE COLOURS Olive Sand Bright Yellowish Mixed Bulk"><img src="https://i.ebayimg.com/images/g/gFYAAeSwrWdqDgZM/s-l225.jpg" alt="Listing image for 290g Mixed Lego Green Bricks RARE COLOURS Olive Sand Bright Yellowish Mixed Bulk" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">290g Mixed Lego Green Bricks RARE COLOURS Olive Sand Bright Yellowish Mixed Bulk</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +557,7 @@ A greener LEGO brick increasingly looks exactly like the old one. That may be th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-greener-brick-look-exactly-the-same-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="can-a-greener-brick-look-exactly-the-same-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,167 +767,168 @@ A greener LEGO brick increasingly looks exactly like the old one. That may be th
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: Mass balance  
-   Link: [https://www.lego.com/en-us/sustainability/mass-balance](https://www.lego.com/en-us/sustainability/mass-balance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOMass balance - SustainabilityThe mass balance approach involves producing materials that are a mix of both virgin fossil and renewabl...</p></details>
+   Link: <a href="https://www.lego.com/en-us/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/mass-balance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass balance - SustainabilityThe mass balance approach involves producing materials that are a mix of both virgin fossil and renewabl...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
    Title: Sustainable materials  
-   Link: [https://www.lego.com/en-gb/sustainability/sustainable-materials](https://www.lego.com/en-gb/sustainability/sustainable-materials)  
+   Link: <a href="https://www.lego.com/en-gb/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/sustainable-materials</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our suppliers mix virgin fossil sources with certified...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: iscc-system.org  
    Title: mass balance explained  
-   Link: [https://iscc-system.org/mass-balance-explained/](https://iscc-system.org/mass-balance-explained/)  
+   Link: <a href="https://iscc-system.org/mass-balance-explained/" target="_blank" rel="noopener noreferrer nofollow">https://iscc-system.org/mass-balance-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISCC SystemMass Balance Explained15 May 2024 — Mass balance provides manufacturers with a methodology to track the certified materials as...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company has tested over 600 materials to find a suitable alternative but has seen limited success. Lego aims to reduce its oil-based...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: iscc-system.org  
    Title: mass balance and attribution understanding the difference  
-   Link: [https://iscc-system.org/mass-balance-and-attribution-understanding-the-difference/](https://iscc-system.org/mass-balance-and-attribution-understanding-the-difference/)  
+   Link: <a href="https://iscc-system.org/mass-balance-and-attribution-understanding-the-difference/" target="_blank" rel="noopener noreferrer nofollow">https://iscc-system.org/mass-balance-and-attribution-understanding-the-difference/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISCC SystemMass Balance and Attribution in Chemical Recycling13 Feb 2026 — Mass balance requires clear guardrails for how the sustainabil...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: trellis.net  
-   Link: [https://trellis.net/article/legos-sustainability-shift-draws-questions-doubts/](https://trellis.net/article/legos-sustainability-shift-draws-questions-doubts/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TrellisLego&#x27;s sustainability shift draws questions, doubts10 Sept 2024 — In 2023 Lego bought 18 percent certified mass balance resin, or...</p></details>
+   Link: <a href="https://trellis.net/article/legos-sustainability-shift-draws-questions-doubts/" target="_blank" rel="noopener noreferrer nofollow">https://trellis.net/article/legos-sustainability-shift-draws-questions-doubts/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego&#x27;s sustainability shift draws questions, doubts10 Sept 2024 — In 2023 Lego bought 18 percent certified mass balance resin, or...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: productsofchange.com  
-   Link: [https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-materials-use-in-2024-first-half-report/](https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-materials-use-in-2024-first-half-report/)  
+   Link: <a href="https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-materials-use-in-2024-first-half-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-materials-use-in-2024-first-half-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group grows revenue and sustainable materials...28 Aug 2024 — In fact, in the first half of 2024, 30% of all resin purchased by...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: Mass balance  
-   Link: [https://www.lego.com/en-gb/sustainability/mass-balance](https://www.lego.com/en-gb/sustainability/mass-balance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOMass balance - SustainabilityIn 2025, 60% of all resin we purchased was certified according to mass balance principles, which alongsi...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/mass-balance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass balance - SustainabilityIn 2025, 60% of all resin we purchased was certified according to mass balance principles, which alongsi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lego.com  
    Title: LEGO Group Sustainability Statement 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainability Statement11 Mar 2025 — This Sustainability Statement is part of the management review of LEGO A/S&#x27; Annual Report 2024 and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb](https://www.lego.com/en-gb)  
+   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lego.com  
    Title: Sustainable materials  
-   Link: [https://www.lego.com/en-us/sustainability/sustainable-materials](https://www.lego.com/en-us/sustainability/sustainable-materials)  
+   Link: <a href="https://www.lego.com/en-us/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/sustainable-materials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainability - LEGO.comSince 2024, over 900 of our transparent elements, like Lightsabers™, windscreens and windows, now contain 20% of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lego.com  
    Title: 2025 Annual Report The LEGO Group  
-   Link: [https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf](https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report... increased to 52 percent, growing from 33 percent in 2024 This was achieved due to large increases in purchases of certif...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6](https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6)  
+   Link: <a href="https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After two years of testing, they found that PET did not reduce carbon emissions as hoped. The company, which historically uses oil-based...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: lego plans to make half the plastic in bricks from renewable materials by 2026  
-   Link: [https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026](https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Currently, 22% of the materials in Lego bricks are derived from non-fossil sources. The company is testing over 600 alternative materials...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plasticseurope.org  
-   Link: [https://plasticseurope.org/knowledge-hub/chemical-recycling-mass-balance-explained/](https://plasticseurope.org/knowledge-hub/chemical-recycling-mass-balance-explained/)  
+   Link: <a href="https://plasticseurope.org/knowledge-hub/chemical-recycling-mass-balance-explained/" target="_blank" rel="noopener noreferrer nofollow">https://plasticseurope.org/knowledge-hub/chemical-recycling-mass-balance-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plastics EuropeChemical Recycling and Mass Balance explainedMass balance enables the use of chemically recycled feedstocks in existing in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fashionforgood.com  
    Title: mass balance attribution  
-   Link: [https://www.fashionforgood.com/our_news/mass-balance-attribution/](https://www.fashionforgood.com/our_news/mass-balance-attribution/)  
+   Link: <a href="https://www.fashionforgood.com/our_news/mass-balance-attribution/" target="_blank" rel="noopener noreferrer nofollow">https://www.fashionforgood.com/our_news/mass-balance-attribution/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fashion for GoodMass Balance Attribution: Never heard of it?30 Mar 2026 — Mass balance works the same way: renewable and fossil-based fee...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: india.controlunion.com  
-   Link: [https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/](https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/)  
+   Link: <a href="https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://india.controlunion.com/insight/is-your-plastic-business-ready-for-iscc-plus-certification-heres-everything-you-need-to-know-in-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Control Union IndiaISCC PLUS Certification for Plastics | Mass Balance Guide...23 Apr 2026 — ISCC PLUS helps plastic manufacturers verif...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: plasticstoday.com  
-   Link: [https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin](https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin)  
+   Link: <a href="https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin" target="_blank" rel="noopener noreferrer nofollow">https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plastics TodayLego Set to Pay Up to 70% More for Certified Renewable...28 Aug 2024 — Thirty percent of all resin purchased by Lego in th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: brickfanatics.com  
    Title: legos sustainability solution under fire  
-   Link: [https://www.brickfanatics.com/legos-sustainability-solution-under-fire](https://www.brickfanatics.com/legos-sustainability-solution-under-fire)  
+   Link: <a href="https://www.brickfanatics.com/legos-sustainability-solution-under-fire" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/legos-sustainability-solution-under-fire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO&#x27;s latest sustainability solution comes under fire from...10 Sept 2024 — In essence: the amount of renewable plastic i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lego-group_sustainability-climateaction-circulareconomy-activity-7442930495417389056-2K0G](https://www.linkedin.com/posts/lego-group_sustainability-climateaction-circulareconomy-activity-7442930495417389056-2K0G)  
+   Link: <a href="https://www.linkedin.com/posts/lego-group_sustainability-climateaction-circulareconomy-activity-7442930495417389056-2K0G" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lego-group_sustainability-climateaction-circulareconomy-activity-7442930495417389056-2K0G</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rack material strategy (physical...Read more...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/organicarchitect_lego-surpasses-50-renewable-and-recycled-activity-7439324610275266560--San](https://www.linkedin.com/posts/organicarchitect_lego-surpasses-50-renewable-and-recycled-activity-7439324610275266560--San)  
+   Link: <a href="https://www.linkedin.com/posts/organicarchitect_lego-surpasses-50-renewable-and-recycled-activity-7439324610275266560--San" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/organicarchitect_lego-surpasses-50-renewable-and-recycled-activity-7439324610275266560--San</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Corey Freed, AIA, LEED Fellow&#x27;s PostNEWS: the LEGO Group revealed significant progress toward using sustainable materials, having re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/content/08abd746-dba5-494b-8cd9-7f646bdff86d](https://www.ft.com/content/08abd746-dba5-494b-8cd9-7f646bdff86d)  
+   Link: <a href="https://www.ft.com/content/08abd746-dba5-494b-8cd9-7f646bdff86d" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/08abd746-dba5-494b-8cd9-7f646bdff86d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is financed by substantial profit increases, with the first-half revenues for 2024 rising 13% to DKr31bn ($4.6bn) and ope...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/asuene_lego-surpasses-50-renewable-and-recycled-activity-7437685552566538240-t5dN](https://www.linkedin.com/posts/asuene_lego-surpasses-50-renewable-and-recycled-activity-7437685552566538240-t5dN)  
+   Link: <a href="https://www.linkedin.com/posts/asuene_lego-surpasses-50-renewable-and-recycled-activity-7437685552566538240-t5dN" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/asuene_lego-surpasses-50-renewable-and-recycled-activity-7437685552566538240-t5dN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Reaches 50% Renewable Materials in BricksThe progress has been largely enabled through the mass balance approach - where our supplie...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: onestopesg.com  
-   Link: [https://onestopesg.com/esg-news/lego-reaches-50-renewable-and-recycled-content-in-bricks-advancing-circular-materials-strategy-1773156844641](https://onestopesg.com/esg-news/lego-reaches-50-renewable-and-recycled-content-in-bricks-advancing-circular-materials-strategy-1773156844641)  
+   Link: <a href="https://onestopesg.com/esg-news/lego-reaches-50-renewable-and-recycled-content-in-bricks-advancing-circular-materials-strategy-1773156844641" target="_blank" rel="noopener noreferrer nofollow">https://onestopesg.com/esg-news/lego-reaches-50-renewable-and-recycled-content-in-bricks-advancing-circular-materials-strategy-1773156844641</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Reaches 50% Renewable and Recycled Content in...The LEGO Group reported that 52% of the materials used to produce its bricks in 202...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/bryonylester_good-for-your-ears-and-for-the-planet-largely-activity-7455954434674798592-FglJ](https://www.linkedin.com/posts/bryonylester_good-for-your-ears-and-for-the-planet-largely-activity-7455954434674798592-FglJ)  
+   Link: <a href="https://www.linkedin.com/posts/bryonylester_good-for-your-ears-and-for-the-planet-largely-activity-7455954434674798592-FglJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/bryonylester_good-for-your-ears-and-for-the-planet-largely-activity-7455954434674798592-FglJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO reduces fossil fuel usage with mass balance approachToday, over half (52%) of the materials we buy for LEGO products now come from r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/timthorsman_its-fantastic-to-see-the-sustainable-approach-activity-7309652419389325312-yr3G](https://www.linkedin.com/posts/timthorsman_its-fantastic-to-see-the-sustainable-approach-activity-7309652419389325312-yr3G)  
+   Link: <a href="https://www.linkedin.com/posts/timthorsman_its-fantastic-to-see-the-sustainable-approach-activity-7309652419389325312-yr3G" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/timthorsman_its-fantastic-to-see-the-sustainable-approach-activity-7309652419389325312-yr3G</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego&#x27;s sustainable approach to reduce plasticIt&#x27;s fantastic to see the sustainable approach Lego is taking to reduce plastic and introduc...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/scott-sherman-39166115_plasticsrecycling-circulareconomy-abs-activity-7438199721028087808-LeB3](https://www.linkedin.com/posts/scott-sherman-39166115_plasticsrecycling-circulareconomy-abs-activity-7438199721028087808-LeB3)  
+   Link: <a href="https://www.linkedin.com/posts/scott-sherman-39166115_plasticsrecycling-circulareconomy-abs-activity-7438199721028087808-LeB3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scott-sherman-39166115_plasticsrecycling-circulareconomy-abs-activity-7438199721028087808-LeB3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Boosts Renewable Materials to 52% with...LEGO just announced that 52% of the materials used to make their bricks are now renewable...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sustainable-plastics-crain_the-danish-toy-maker-said-the-estimated-average-activity-7437487158954897408-afd1](https://www.linkedin.com/posts/sustainable-plastics-crain_the-danish-toy-maker-said-the-estimated-average-activity-7437487158954897408-afd1)  
+   Link: <a href="https://www.linkedin.com/posts/sustainable-plastics-crain_the-danish-toy-maker-said-the-estimated-average-activity-7437487158954897408-afd1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sustainable-plastics-crain_the-danish-toy-maker-said-the-estimated-average-activity-7437487158954897408-afd1</a>  
 
 29. <a id="endnote-29"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/lego-sustainable-bricks](https://www.wired.com/story/lego-sustainable-bricks)  
+   Link: <a href="https://www.wired.com/story/lego-sustainable-bricks" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-sustainable-bricks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This month, the company introduced its first [sustainable bricks](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) made from sugarcane-based polyethylene. Initially, only about 2% of Lego...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ryan-shay_this-is-a-big-deal-in-2025-52-of-the-materials-activity-7443283158353006592-Xz52](https://www.linkedin.com/posts/ryan-shay_this-is-a-big-deal-in-2025-52-of-the-materials-activity-7443283158353006592-Xz52)  
+   Link: <a href="https://www.linkedin.com/posts/ryan-shay_this-is-a-big-deal-in-2025-52-of-the-materials-activity-7443283158353006592-Xz52" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ryan-shay_this-is-a-big-deal-in-2025-52-of-the-materials-activity-7443283158353006592-Xz52</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Shay&#x27;s PostThis is a BIG deal: in 2025, 52% of the materials purchased to make LEGO® bricks came from renewable or recycled sources...</p></details>

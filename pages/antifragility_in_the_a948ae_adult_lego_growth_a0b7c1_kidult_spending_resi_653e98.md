@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /adult-sets/
 nav_short_title: Kidult Demand
 title: Can adult buyers steady LEGO's growth?
-title_full: Can adult buyers steady LEGO's growth? | Adult Sets
+title_full: Can adult buyers steady LEGO's growth?
 display_title_short: Kidult Demand
 display_title: Kidult Demand
 heading_title: Can adult buyers steady LEGO's growth?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Adults Became Central to LEGO Growth | LEGO Antifragility
+parent_title: Why Adults Became Central to LEGO Growth
 parent_permalink: /adult-sets/
 parent_nav_short_title: Adult Sets
 parent_heading_title: Why Adults Became Central to LEGO Growth
@@ -265,7 +265,7 @@ next_link:
   permalink: /mindful-build/
   short_title: Mindful Build
   heading_title: Why adults build LEGO to unwind
-date: '2026-06-09 03:36:37 '
+date: '2026-06-11 21:39:26 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-1.webp
@@ -276,20 +276,18 @@ image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidul
 
 [Adult buyers]({{ 'adult-buyers/' | relative_url }}) have become one of LEGO’s most important shock absorbers. The company still depends on children for its long-term future, but the rise of “kidult” spending — purchases by teenagers and adults for hobbies, collecting, display, gifting and relaxation — gives LEGO a second demand base that behaves differently from the traditional toy market. That matters because many of the pressures facing toy companies today, including falling birth rates, changing play habits and volatile children’s trends, do not affect adult buyers in the same way.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-1-dark.svg" | relative_url }}" alt="Kidult Demand illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In antifragility terms, LEGO benefits from having demand arrive from multiple motivations rather than a single consumer group. A child may want a playset because of a current film or cartoon. An adult may buy a botanical display piece, a Formula 1 model, a [Star Wars]({{ 'star-wars/' | relative_url }}) collector set, a nostalgic recreation of a childhood favourite, or a premium gift. These overlapping reasons to buy make LEGO less exposed to any one market shift and help stabilise growth when parts of the toy sector weaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOThe LEGO Group 2025 Full Year Results - About UsMar 10, 2026 — The LEGO Group today reported earnings for the full year of 2025, achi...</span></span></span>
+In antifragility terms, LEGO benefits from having demand arrive from multiple motivations rather than a single consumer group. A child may want a playset because of a current film or cartoon. An adult may buy a botanical display piece, a Formula 1 model, a [Star Wars]({{ 'star-wars/' | relative_url }}) collector set, a nostalgic recreation of a childhood favourite, or a premium gift. These overlapping reasons to buy make LEGO less exposed to any one market shift and help stabilise growth when parts of the toy sector weaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The LEGO Group 2025 Full Year Results - About UsMar 10, 2026 — The LEGO Group today reported earnings for the full year of 2025, achi...</span></span></span>
 
 ## What kidult toy data shows
 
 The most important evidence is that older buyers are no longer a niche audience inside the toy industry.
 
-Circana, one of the main toy market research firms, reported that building sets became the strongest-performing toy supercategory in 2024, growing 14% and leading all major toy categories in both sales and growth. The same period saw global toy demand supported by collectors, fandom purchases and adult-oriented buying patterns rather than only traditional children's purchases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-snippet">CircanaGlobal Toy Sales Stabilize in 2024 Thanks To &quot;Kidult...January 30, 2025 — 30 Jan 2025 — Building sets grew for the fifth consecut...</span><span class="citation-popover-meta">Published: January 30, 2025</span></span></span>
+Circana, one of the main toy market research firms, reported that building sets became the strongest-performing toy supercategory in 2024, growing 14% and leading all major toy categories in both sales and growth. The same period saw global toy demand supported by collectors, fandom purchases and adult-oriented buying patterns rather than only traditional children's purchases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-snippet">Global Toy Sales Stabilize in 2024 Thanks To &quot;Kidult...January 30, 2025 — 30 Jan 2025 — Building sets grew for the fifth consecut...</span><span class="citation-popover-meta">Published: January 30, 2025</span></span></span>
 
-The UK market shows how large the shift has become. Circana reported that the 12+ “kidult” segment accounted for roughly £1 in every £3 spent on toys by mid-2025, representing about 31% of total toy spending. The market was valued at approximately £1.2 billion and continued to expand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-snippet">CircanaU.K Toy Market Grows as Christmas Approaches12 Nov 2025 — The kidult (12+ years) market has expanded (up% in the last 12 months to...</span></span></span>
+The UK market shows how large the shift has become. Circana reported that the 12+ “kidult” segment accounted for roughly £1 in every £3 spent on toys by mid-2025, representing about 31% of total toy spending. The market was valued at approximately £1.2 billion and continued to expand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-snippet">U.K Toy Market Grows as Christmas Approaches12 Nov 2025 — The kidult (12+ years) market has expanded (up% in the last 12 months to...</span></span></span>
 
 Several related figures point in the same direction:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -303,7 +301,6 @@ LEGO sits directly inside the strongest part of this trend because building sets
 
 This creates a structural advantage. Instead of relying almost entirely on the number of children entering toy-buying years, LEGO participates in a market that increasingly includes adults spending discretionary income on themselves.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DelIpkE4gF4" title="BEAUTIFUL 18+ 2025 LEGO ICONS REVEAL!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DelIpkE4gF4" target="_blank" rel="noopener noreferrer">BEAUTIFUL 18+ 2025 LEGO ICONS REVEAL!</a></p><p class="youtube-embed-meta">Channel: just2good &middot; Views: 6.2K &middot; Uploaded: November 2024 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DelIpkE4gF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DelIpkE4gF4">Open on YouTube</a></p></div></div></div>
 
 ## Why adult demand moves differently
@@ -314,21 +311,19 @@ Children's toy demand is often tied to short cycles. Popularity can depend on sc
 
 Adult buyers tend to purchase for different reasons:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Hobbies and collecting.** Enthusiasts often follow themes such as Star Wars, Formula 1, architecture or engineering regardless of current children's trends.
 * **Home display.** Botanical models, landmarks and premium collector sets compete partly with décor purchases rather than only toy purchases.
 * **Nostalgia.** Adults reconnect with brands, films and themes they remember from childhood.
 * **Stress relief and leisure.** LEGO increasingly markets building as a focused, screen-free activity.
-* **Gifting.** Adult-oriented sets can be bought for birthdays, anniversaries, housewarmings and seasonal occasions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
+* **Gifting.** Adult-oriented sets can be bought for birthdays, anniversaries, housewarmings and seasonal occasions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
 </div>
 
 These motivations create different purchasing rhythms. Someone buying a £50 bouquet from the LEGO Botanical Collection is not necessarily participating in the same spending decision as a parent choosing a toy aisle purchase for a child. The demand drivers overlap only partially.
 
 That diversification is valuable because economic pressures rarely hit every buying motive at the same time. A decline in one segment can be partly offset by strength elsewhere. When children move towards digital entertainment, collectors may still be purchasing display models. When a particular children's licence loses popularity, adults may continue buying architecture, vehicle or nostalgia-oriented products.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Cl9G16Clog" title="Annual UK toy fair highlights micro-collectibles, and kidult toy trends for 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Cl9G16Clog" target="_blank" rel="noopener noreferrer">Annual UK toy fair highlights micro-collectibles, and kidult toy trends for 2025</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 230 &middot; Uploaded: January 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Cl9G16Clog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Cl9G16Clog">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +334,6 @@ The company did not simply discover [adult fans]({{ 'adult-fans/' | relative_url
 LEGO now maintains a large "Adults Welcome" range covering vehicles, film franchises, architecture, botanical models, art and premium collector products. These sets are typically more complex, more expensive and designed for display after completion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ourself in the building experience, then sit back and admire the flowers...</span></span></span>
 
 The Botanical Collection is especially important because it brought in buyers who may never have previously considered purchasing LEGO. Company reporting has repeatedly highlighted Botanicals as a driver of new adult customers and a source of demand among teenagers and adults. LEGO's 2025 results identified Botanicals among its strongest-performing themes, while executives have noted the collection's appeal to women and first-time builders. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego sales rise bricks click with more shoppers 2025 03 11</span><span class="citation-popover-snippet">The strong sales momentum, particularly in the U.S., continued into 2025. Lego&#x27;s CEO Niels Christiansen highlighted the popularity of new...</span></span></span> This matters for antifragility because the same [brick system]({{ 'brick-system/' | relative_url }}) can now serve multiple markets at once:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -353,7 +347,6 @@ The Botanical Collection is especially important because it brought in buyers wh
 </div>
 
 A larger number of use cases means fewer single points of failure.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-2-dark.svg" | relative_url }}" alt="Kidult Demand illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why demographic pressures matter less when adults buy too
@@ -380,7 +373,6 @@ LEGO's own financial results reflect the same pattern. The company reported stro
 
 This does not mean adult spending is recession-proof. It means LEGO now has more than one route through difficult market conditions.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-3-dark.svg" | relative_url }}" alt="Kidult Demand illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the resilience has limits
 
@@ -395,7 +387,6 @@ Third, parts of the kidult market can become dependent on [licensing]({{ 'licens
 There is also a balancing challenge. LEGO's long-term health still depends on introducing new generations to the brick system. Adult collectors generate revenue, but future adult collectors typically begin as child builders. If the company ever shifted too heavily towards existing fans, it could weaken the pipeline that created the adult audience in the first place.
 
 The antifragile advantage therefore comes from balance rather than replacement. Adult demand works best as a second engine that complements children's play, not as a substitute for it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pOpt-O8Ndzc" title="The Kidult Economy: How Adults Are Spending BILLIONS to Save the Toy Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pOpt-O8Ndzc" target="_blank" rel="noopener noreferrer">The Kidult Economy: How Adults Are Spending BILLIONS to Save the Toy Industry</a></p><p class="youtube-embed-meta">Channel: Kyky&#x27;s TALK BUFFET &middot; Views: 98 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pOpt-O8Ndzc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pOpt-O8Ndzc">Open on YouTube</a></p></div></div></div>
 
@@ -561,6 +552,22 @@ The result is not immunity from market change. It is a broader and more adaptabl
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adult+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-adult-buyers-steady-lego-s-growth-adult-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adult LEGO set" data-ebay-reference="can-adult-buyers-steady-lego-s-growth-adult-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Harry Potter Diagon Alley Wizarding Shops Adult Building Set 76444</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adult+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-adult-buyers-steady-lego-s-growth-adult-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adult LEGO set" data-ebay-reference="can-adult-buyers-steady-lego-s-growth-adult-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adult LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: adult LEGO set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adult+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-adult-buyers-steady-lego-s-growth-adult-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adult LEGO set" data-ebay-reference="can-adult-buyers-steady-lego-s-growth-adult-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adult+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-adult-buyers-steady-lego-s-growth-adult-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adult LEGO set" data-ebay-reference="can-adult-buyers-steady-lego-s-growth-adult-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for *NEW* MOC 42171 Mercedes-AMG F1 W14 E Performance Technic 1643pcs Free Delivery"><img src="https://i.ebayimg.com/images/g/IDIAAeSw7nZpcSfG/s-l225.jpg" alt="Listing image for *NEW* MOC 42171 Mercedes-AMG F1 W14 E Performance Technic 1643pcs Free Delivery" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adult+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-adult-buyers-steady-lego-s-growth-adult-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adult LEGO set" data-ebay-reference="can-adult-buyers-steady-lego-s-growth-adult-lego-set" target="_blank" rel="sponsored noopener noreferrer">*NEW* MOC 42171 Mercedes-AMG F1 W14 E Performance Technic 1643pcs Free Delivery</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adult+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-adult-buyers-steady-lego-s-growth-adult-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adult LEGO set" data-ebay-reference="can-adult-buyers-steady-lego-s-growth-adult-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adult LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: adult LEGO set</a>
         <div class="fr-book-actions">
@@ -782,201 +789,202 @@ The result is not immunity from market change. It is a broader and more adaptabl
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio](https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe LEGO Group 2025 Full Year Results - About UsMar 10, 2026 — The LEGO Group today reported earnings for the full year of 2025, achi...</p></details>
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group 2025 Full Year Results - About UsMar 10, 2026 — The LEGO Group today reported earnings for the full year of 2025, achi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/categories/adults-welcome](https://www.lego.com/en-us/categories/adults-welcome)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
+   Link: <a href="https://www.lego.com/en-us/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/categories/adults-welcome</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market](https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CircanaGlobal Toy Sales Stabilize in 2024 Thanks To &quot;Kidult...January 30, 2025 — 30 Jan 2025 — Building sets grew for the fifth consecut...</p></details>
+   Link: <a href="https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Toy Sales Stabilize in 2024 Thanks To &quot;Kidult...January 30, 2025 — 30 Jan 2025 — Building sets grew for the fifth consecut...</p></details>
    Published: January 30, 2025  
 
 4. <a id="endnote-4"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive](https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CircanaU.K Toy Market Grows as Christmas Approaches12 Nov 2025 — The kidult (12+ years) market has expanded (up% in the last 12 months to...</p></details>
+   Link: <a href="https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.K Toy Market Grows as Christmas Approaches12 Nov 2025 — The kidult (12+ years) market has expanded (up% in the last 12 months to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: toyassociation.org  
    Title: circana reports first half 2024 toy industry performance in us and globally.aspx  
-   Link: [https://www.toyassociation.org/ta/PressRoom2/News/2024_News/circana-reports-first-half-2024-toy-industry-performance-in-us-and-globally.aspx](https://www.toyassociation.org/ta/PressRoom2/News/2024_News/circana-reports-first-half-2024-toy-industry-performance-in-us-and-globally.aspx)  
+   Link: <a href="https://www.toyassociation.org/ta/PressRoom2/News/2024_News/circana-reports-first-half-2024-toy-industry-performance-in-us-and-globally.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.toyassociation.org/ta/PressRoom2/News/2024_News/circana-reports-first-half-2024-toy-industry-performance-in-us-and-globally.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circana Reports First Half 2024 Toy Industry Performance...12 Aug 2024 — According to Circana&#x27;s Retail Tracking Service data, three out...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/themes/botanicals/about](https://www.lego.com/en-us/themes/botanicals/about)  
+   Link: <a href="https://www.lego.com/en-us/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/botanicals/about</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ourself in the building experience, then sit back and admire the flowers...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: lego sales rise bricks click with more shoppers 2025 03 11  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/](https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strong sales momentum, particularly in the U.S., continued into 2025. Lego&#x27;s CEO Niels Christiansen highlighted the popularity of new...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: The LEGO Group 2025 Annual Report  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportThe 2025 portfolio reached a record size with. 868 products, up from 840 last year, and about half of which were new Among t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us11 Mar 2025 — The LEGO Group achieved record revenue and operating profit, outpacing the toy market with significant market share...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
    Title: the lego group achieves double digit top and bottom line growth in h1 2025  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025](https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group H1 2025 - About Us27 Aug 2025 — LEGO Group reports H1 2025 revenue up 12% to DKK 34.6B, profit up 10%, driven by innovatio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comOur Responsibility Report accounts for the LEGO Group&#x27;s development and activities and serves as our annual Communicat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu](https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu)  
+   Link: <a href="https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collectible Figures: 2025 Toy Trend Driving Kidult Demand...27 Jan 2026 — Global Toy Industry Rebounds in 2025 as Sales Rise 7%, Fueled...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing](https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing)  
+   Link: <a href="https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Toy Market Size 2025 – Strong Rebound in H1 20258 Aug 2025 — Across the G12, dollar sales increased by 7% from January through Jun...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/industries/toys](https://www.circana.com/industries/toys)  
+   Link: <a href="https://www.circana.com/industries/toys" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/industries/toys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Consumer Behavior Data &amp; InsightsCircana&#x27;s Complete Consumer solutions combine purchase data, surveys, and panels to show how, w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/toying-with-tradition-nostalgic-kidults-fuel-1bn-surge-as-uk-gears-up-for-record-christmas-sales](https://www.circana.com/post/toying-with-tradition-nostalgic-kidults-fuel-1bn-surge-as-uk-gears-up-for-record-christmas-sales)  
+   Link: <a href="https://www.circana.com/post/toying-with-tradition-nostalgic-kidults-fuel-1bn-surge-as-uk-gears-up-for-record-christmas-sales" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/toying-with-tradition-nostalgic-kidults-fuel-1bn-surge-as-uk-gears-up-for-record-christmas-sales</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toying with tradition: Nostalgic kidults fuel £1bn surge as...18 Nov 2024 — Sales to these kidults has grown% and now accounts for nearl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: formula1.com  
    Title: F1 and Sky agree new long-term partnership across UK, Ireland, and Italy  
-   Link: [https://www.formula1.com/en/latest/article/f1-and-sky-agree-new-long-term-partnership-across-uk-ireland-and-italy.Yd2VK2z6QxZkrR6zH2ssr](https://www.formula1.com/en/latest/article/f1-and-sky-agree-new-long-term-partnership-across-uk-ireland-and-italy.Yd2VK2z6QxZkrR6zH2ssr)  
+   Link: <a href="https://www.formula1.com/en/latest/article/f1-and-sky-agree-new-long-term-partnership-across-uk-ireland-and-italy.Yd2VK2z6QxZkrR6zH2ssr" target="_blank" rel="noopener noreferrer nofollow">https://www.formula1.com/en/latest/article/f1-and-sky-agree-new-long-term-partnership-across-uk-ireland-and-italy.Yd2VK2z6QxZkrR6zH2ssr</a>  
 
 17. <a id="endnote-17"></a>
    Source: toyworldmag.co.uk  
    Title: circana reports uk toy market grows to 3 9b  
-   Link: [https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/](https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/)  
+   Link: <a href="https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circana reports UK toy market grows to £3.9b12 Nov 2025 — The Kidult (12+ years) market has expanded (up% in the last 12 months to June 2...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales](https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales)  
+   Link: <a href="https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DreamToys 2025 list reflects this broader appeal, with products ranging from the £13 Dress to Impress Roblox dolls to the £120 Lego O...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego](https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego)  
+   Link: <a href="https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jan/21/pocket-money-toys-uk-costs-sales-2024-lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, &quot;pocket money&quot; toys costing less than £10 thrived, comprising 30% of sales as parents sought cheaper [options](&amp;#123;&amp;#123; &#x27;options/&#x27; | relative_url &amp;#125;&amp;#125;). Popular among chil...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/commentisfree/2026/may/06/labour-collapse-union-nigel-farage-uk-elections](https://www.theguardian.com/commentisfree/2026/may/06/labour-collapse-union-nigel-farage-uk-elections)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2026/may/06/labour-collapse-union-nigel-farage-uk-elections" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2026/may/06/labour-collapse-union-nigel-farage-uk-elections</a>  
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/lifeandstyle/2026/jan/20/uk-toy-sales-rise-lego-toniebox](https://www.theguardian.com/lifeandstyle/2026/jan/20/uk-toy-sales-rise-lego-toniebox)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2026/jan/20/uk-toy-sales-rise-lego-toniebox" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2026/jan/20/uk-toy-sales-rise-lego-toniebox</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;An evolving era of play&#x27;: UK toy sales rise for first time...20 Jan 2026 — In 2025 UK toy sales increased by 6% to £3.9bn, according to...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DelIpkE4gF4](https://www.youtube.com/watch?v=DelIpkE4gF4)  
+   Link: <a href="https://www.youtube.com/watch?v=DelIpkE4gF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DelIpkE4gF4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BEAUTIFUL 18+ 2025 LEGO ICONS REVEAL!A new Lego icons 2025 set releasing in January has just been revealed which is the Fountain Garden t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WRMWPoqRIpM](https://www.youtube.com/watch?v=WRMWPoqRIpM)  
+   Link: <a href="https://www.youtube.com/watch?v=WRMWPoqRIpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WRMWPoqRIpM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BILLIONS in Profits, Popular Themes, and What it Means...Lego released its 2025 annual report and that means we get information on their...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: toybook.com  
    Title: circana global toy sales 2024  
-   Link: [https://toybook.com/circana-global-toy-sales-2024/](https://toybook.com/circana-global-toy-sales-2024/)  
+   Link: <a href="https://toybook.com/circana-global-toy-sales-2024/" target="_blank" rel="noopener noreferrer nofollow">https://toybook.com/circana-global-toy-sales-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Among the gains were a 14% growth for building...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: toysnplaythings.media  
    Title: circana reports toy market grows to 3 2bn  
-   Link: [https://www.toysnplaythings.media/circana-reports-toy-market-grows-to-3-2bn/](https://www.toysnplaythings.media/circana-reports-toy-market-grows-to-3-2bn/)  
+   Link: <a href="https://www.toysnplaythings.media/circana-reports-toy-market-grows-to-3-2bn/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnplaythings.media/circana-reports-toy-market-grows-to-3-2bn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circana reports toy market grows to £3.2bn12 Nov 2025 — The kidult (12+ years) market has expanded (up% in the last 12 months to June 202...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: toyfoundation.org  
    Title: Circana: U.S  
-   Link: [https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx](https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx)  
+   Link: <a href="https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx" target="_blank" rel="noopener noreferrer nofollow">https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Toy Sales Remain Flat, Moving from &#x27;...Building sets grew for the fifth consecutive year and captured the top spot in terms of both...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/claire-naish-6b24a0177_circana-uk-toy-market-up-8-in-first-half-activity-7361013402493665281-cJg_](https://www.linkedin.com/posts/claire-naish-6b24a0177_circana-uk-toy-market-up-8-in-first-half-activity-7361013402493665281-cJg_)  
+   Link: <a href="https://www.linkedin.com/posts/claire-naish-6b24a0177_circana-uk-toy-market-up-8-in-first-half-activity-7361013402493665281-cJg_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claire-naish-6b24a0177_circana-uk-toy-market-up-8-in-first-half-activity-7361013402493665281-cJg_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK toy market up 8% in value, driven by kidult products12-Aug-2025 — The total UK toy market is up 8 per cent in value in the year to Jun...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: toysnbricks.com  
-   Link: [https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/](https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/)  
+   Link: <a href="https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-group-2025-annual-results-report-revenue-sales-growth-profits-financial-highlights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group 2025 Annual Results Report: Revenue Sales...Mar 10, 2026 — Revenue for 2025: Approximately $13 billion (DKK 83.5 billion), an...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mojo-nation.com  
    Title: construction and collectibles help uk toy market grow to 3 9bn reports circana  
-   Link: [https://www.mojo-nation.com/construction-and-collectibles-help-uk-toy-market-grow-to-3-9bn-reports-circana/](https://www.mojo-nation.com/construction-and-collectibles-help-uk-toy-market-grow-to-3-9bn-reports-circana/)  
+   Link: <a href="https://www.mojo-nation.com/construction-and-collectibles-help-uk-toy-market-grow-to-3-9bn-reports-circana/" target="_blank" rel="noopener noreferrer nofollow">https://www.mojo-nation.com/construction-and-collectibles-help-uk-toy-market-grow-to-3-9bn-reports-circana/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Construction and collectibles help UK toy market grow to £...12 Nov 2025 — Elsewhere, the kidult market is up 5% in the last 12 months t...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
    Title: marius lang 2025 annual results announcement activity 7437077473474871296 umRi  
-   Link: [https://www.linkedin.com/posts/marius-lang_2025-annual-results-announcement-activity-7437077473474871296-umRi](https://www.linkedin.com/posts/marius-lang_2025-annual-results-announcement-activity-7437077473474871296-umRi)  
+   Link: <a href="https://www.linkedin.com/posts/marius-lang_2025-annual-results-announcement-activity-7437077473474871296-umRi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/marius-lang_2025-annual-results-announcement-activity-7437077473474871296-umRi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Annual Results Announcement | Marius LangLEGO built an adult fan community that designs their products, defends them, and buys them...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: retailgazette.co.uk  
    Title: toy sales climb for the first time since the pandemic as kidults drive demand  
-   Link: [https://www.retailgazette.co.uk/blog/2025/11/toy-sales-climb-for-the-first-time-since-the-pandemic-as-kidults-drive-demand/](https://www.retailgazette.co.uk/blog/2025/11/toy-sales-climb-for-the-first-time-since-the-pandemic-as-kidults-drive-demand/)  
+   Link: <a href="https://www.retailgazette.co.uk/blog/2025/11/toy-sales-climb-for-the-first-time-since-the-pandemic-as-kidults-drive-demand/" target="_blank" rel="noopener noreferrer nofollow">https://www.retailgazette.co.uk/blog/2025/11/toy-sales-climb-for-the-first-time-since-the-pandemic-as-kidults-drive-demand/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy sales up for first time since pandemic as “kidults” drive...12 Nov 2025 — The so-called “kidult” market, which covers consumers aged...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9mRzJaVjkzQ](https://www.youtube.com/watch?v=9mRzJaVjkzQ)  
+   Link: <a href="https://www.youtube.com/watch?v=9mRzJaVjkzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9mRzJaVjkzQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s financial report is good news for adultsWhat&#x27;s still interesting about this list though is just how much of it is geared towards a...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: globaltoynews.com  
    Title: us toy industry grows sales through the third quarter circana reports  
-   Link: [https://globaltoynews.com/2025/11/22/us-toy-industry-grows-sales-through-the-third-quarter-circana-reports/](https://globaltoynews.com/2025/11/22/us-toy-industry-grows-sales-through-the-third-quarter-circana-reports/)  
+   Link: <a href="https://globaltoynews.com/2025/11/22/us-toy-industry-grows-sales-through-the-third-quarter-circana-reports/" target="_blank" rel="noopener noreferrer nofollow">https://globaltoynews.com/2025/11/22/us-toy-industry-grows-sales-through-the-third-quarter-circana-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Toy Industry Grows Sales Through the Third Quarter...22 Nov 2025 — According to new data from Circana, LLC, toy sales from January t...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: licensingsource.net  
    Title: uk toy market grows to 3 9bn with licensing playing a key role  
-   Link: [https://www.licensingsource.net/uk-toy-market-grows-to-3-9bn-with-licensing-playing-a-key-role/](https://www.licensingsource.net/uk-toy-market-grows-to-3-9bn-with-licensing-playing-a-key-role/)  
+   Link: <a href="https://www.licensingsource.net/uk-toy-market-grows-to-3-9bn-with-licensing-playing-a-key-role/" target="_blank" rel="noopener noreferrer nofollow">https://www.licensingsource.net/uk-toy-market-grows-to-3-9bn-with-licensing-playing-a-key-role/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK toy market grows to £3.9bn, with licensing playing a key...12 Nov 2025 — The kidult (12+ years) market has expanded (up% in the last...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/toys-n-playthings_with-the-retail-sectors-golden-quarter-activity-7394294189070381056-HW_c](https://www.linkedin.com/posts/toys-n-playthings_with-the-retail-sectors-golden-quarter-activity-7394294189070381056-HW_c)  
+   Link: <a href="https://www.linkedin.com/posts/toys-n-playthings_with-the-retail-sectors-golden-quarter-activity-7394294189070381056-HW_c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/toys-n-playthings_with-the-retail-sectors-golden-quarter-activity-7394294189070381056-HW_c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025), accounting for £1 in every £3 spent and worth £1.2bn, or 31% of total toy spend. Growth is expected to continue as the next genera...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: cbsnews.com  
    Title: lego sales growth 2025 formula1 bluey pokemon botanicals  
-   Link: [https://www.cbsnews.com/news/lego-sales-growth-2025-formula1-bluey-pokemon-botanicals/](https://www.cbsnews.com/news/lego-sales-growth-2025-formula1-bluey-pokemon-botanicals/)  
+   Link: <a href="https://www.cbsnews.com/news/lego-sales-growth-2025-formula1-bluey-pokemon-botanicals/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lego-sales-growth-2025-formula1-bluey-pokemon-botanicals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego builds record earnings from botanical-themed bricks...Aug 27, 2025 — A growing portfolio of Lego brick sets, led by the Lego Botani...</p></details>

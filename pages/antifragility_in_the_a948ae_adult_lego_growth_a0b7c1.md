@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /antifragility-in-the-context-of-the/
 nav_short_title: Adult Sets
 title: Why Adults Became Central to LEGO Growth
-title_full: Why Adults Became Central to LEGO Growth | LEGO Antifragility
+title_full: Why Adults Became Central to LEGO Growth
 display_title_short: Adult Sets
 display_title: Adult Sets
 heading_title: Why Adults Became Central to LEGO Growth
@@ -337,7 +337,7 @@ next_link:
   permalink: /brick-system/
   short_title: Brick System
   heading_title: Why the Brick Became LEGO's Best Constraint
-date: '2026-06-09 03:32:05 '
+date: '2026-06-11 21:38:56 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overview.webp
@@ -347,7 +347,6 @@ image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overv
 ## Introduction
 
 Adult LEGO sets have become one of LEGO’s most important new growth engines because they expand the company beyond the traditional child-and-parent toy cycle. The key shift is not simply that adults also buy LEGO. It is that LEGO has turned building into a premium hobby, a display object, a collectible, a gift category and a stress-relief ritual. That gives the company more routes to demand when children’s toy spending softens, birth rates fall or play habits move towards screens.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overview.webp" | relative_url }}" alt="Overview image for Adult Sets" loading="eager" decoding="sync" fetchpriority="high">
 In antifragility terms, adult sets make LEGO less dependent on one audience and one use case. A Botanical orchid, a Technic supercar, a [Star Wars]({{ 'star-wars/' | relative_url }}) collector model and an Architecture landmark all use the same [brick system]({{ 'brick-system/' | relative_url }}), but they reach different motivations: home décor, fandom, engineering interest, nostalgia, collecting and gifting. LEGO’s own 2025 results said demand was high among both children and adults, while its largest-ever portfolio included LEGO Icons and LEGO Botanicals among the most popular themes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
@@ -364,7 +363,6 @@ The attraction is not only the finished object. LEGO’s adult marketing increas
 
 This is a different growth mechanism from chasing a children’s fad. A successful adult display set can sit across several buying occasions at once: a birthday present, a housewarming object, a fandom purchase, a couple’s build, a desk ornament, a self-care purchase or a collector’s item. That gives LEGO more surface area for demand without leaving the brick system.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-1-dark.svg" | relative_url }}" alt="Adult Sets illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why adult hobbies add resilience
 
@@ -377,7 +375,6 @@ For LEGO, this does not replace children as the core mission. The company still 
 Adult demand also supports a broader [price ladder]({{ 'price-ladder/' | relative_url }}). The same brand can sell relatively accessible flowers, mid-priced cars and buildings, and very large collector models. Reuters reported that LEGO’s 2024 revenue rose 13% to DKK 74.3 billion while the wider toy market declined, and noted CEO Niels Christiansen’s emphasis on Botanicals attracting more teenage girls and women. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego sales rise as bricks click with more shoppers</span><span class="citation-popover-snippet">Lego sales rise as bricks click with more shoppers</span></span></span> LEGO’s own 2024 announcement credited record results to a large, diverse portfolio for builders of all ages and interests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 That diversity is the antifragile part. Volatility in one area can reveal where demand is moving rather than simply damaging the company. If children’s play shifts towards digital worlds, LEGO can test gaming-linked physical sets. If home décor gifting grows, Botanicals can expand. If motorsport interest rises, Formula 1 partnerships can feed Technic and display sets. If nostalgia cycles revive old franchises, Icons and licensed collector lines can absorb that energy into the same brick system.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Omqf3KYsJA" title="18+ Adults Welcome LEGO Sets Are Not For Hardcore LEGO Fans (Sort Of...)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Omqf3KYsJA" target="_blank" rel="noopener noreferrer">18+ Adults Welcome LEGO Sets Are Not For Hardcore LEGO Fans (Sort Of...)</a></p><p class="youtube-embed-meta">Channel: PenPlays &middot; Views: 211.4K &middot; Uploaded: July 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Omqf3KYsJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Omqf3KYsJA">Open on YouTube</a></p></div></div></div>
 
@@ -393,7 +390,6 @@ That matters because adult hobbyists do more than buy boxed sets. They review, m
 
 This fan infrastructure turns adult demand into information. LEGO can see which licences, scales, building styles, display formats and nostalgic references generate real enthusiasm before committing to broader production. That does not remove risk, but it lowers the cost of learning. A toy company that can learn from adult collectors, fan designers and secondary-market behaviour has more feedback loops than one relying only on seasonal children’s retail sales.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-2-dark.svg" | relative_url }}" alt="Adult Sets illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest example is Botanicals, not the biggest spaceship
 
@@ -406,7 +402,6 @@ The commercial logic is unusually flexible. A Botanical set can be bought by som
 Retail and consumer commentary has picked up the same pattern. Which? placed Botanicals at the top of its 2025 popular LEGO themes list, describing the sets as decorative, low-maintenance and linked to mindfulness; it also identified Icons as a major adult-and-collector range built around advanced techniques and display. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">the most popular lego sets and themes a EPDT0y2RU6T</span><span class="citation-popover-snippet">the most popular lego sets and themes a EPDT0y2RU6T</span></span></span>
 
 The important distinction is that Botanicals widened the audience rather than merely monetising existing adult fans. A Star Wars Ultimate Collector Series model mainly speaks to people already comfortable with LEGO, Star Wars or both. A bouquet or orchid can reach adults who would never buy a spaceship, castle or minifigure-heavy playset. That is why the theme matters so much for growth: it creates new entrances into the LEGO system.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsBBGd6QnAs" title="Best LEGO Sets for Adults in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsBBGd6QnAs" target="_blank" rel="noopener noreferrer">Best LEGO Sets for Adults in 2025</a></p><p class="youtube-embed-meta">Channel: Bricked to Perfection &middot; Views: 377.5K &middot; Uploaded: November 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsBBGd6QnAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsBBGd6QnAs">Open on YouTube</a></p></div></div></div>
 
@@ -424,7 +419,6 @@ The fourth risk is sustainability. Adult collectors often keep sets, resell them
 
 The final risk is relationship management with serious fans. Adult builders are a strength because they generate ideas, content, feedback and secondary-market activity. But they are also demanding. They notice price changes, colour mismatches, missing prints, licence compromises and perceived corporate control of fan spaces. LEGO’s BrickLink acquisition gave it closer access to adult fans, but it also raised the stakes: a community that feels heard can become a source of innovation, while a community that feels exploited can become a reputational liability.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-3-dark.svg" | relative_url }}" alt="Adult Sets illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this growth engine is antifragile rather than merely opportunistic
 
@@ -434,9 +428,7 @@ The adult strategy also turns cultural shifts into options. Ageing populations, 
 
 The most important lesson is implementation discipline. Adult sets work because LEGO did not simply slap an “18+” label on ordinary toys. It changed packaging, subject matter, display value, retail language, fan engagement and occasion-based marketing while keeping compatibility with the core brick system. That is why the adult segment belongs in an antifragility analysis: it shows LEGO using uncertainty in the toy market to discover a broader, more resilient version of itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YBg-osEV9AM" title="Buying your first LEGO Modular Building 💰" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YBg-osEV9AM" target="_blank" rel="noopener noreferrer">Buying your first LEGO Modular Building 💰</a></p><p class="youtube-embed-meta">Channel: Kiwi Modulars &middot; Views: 1.6M &middot; Uploaded: July 2023 &middot; Length: 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YBg-osEV9AM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YBg-osEV9AM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -592,6 +584,22 @@ The most important lesson is implementation discipline. Adult sets work because 
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-became-central-to-lego-growth-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-adults-became-central-to-lego-growth-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO 75439 Star Wars Darth Vader Bust - Display Model Kit for Adults incl. Co...</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-became-central-to-lego-growth-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-adults-became-central-to-lego-growth-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-became-central-to-lego-growth-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-adults-became-central-to-lego-growth-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-became-central-to-lego-growth-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-adults-became-central-to-lego-growth-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 43013 Editions Kylian Mbappe - 3D Display Model Kit with Collectible Min..."><img src="https://i.ebayimg.com/images/g/i88AAeSwCy1p8kyn/s-l225.jpg" alt="Listing image for LEGO 43013 Editions Kylian Mbappe - 3D Display Model Kit with Collectible Min..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-became-central-to-lego-growth-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-adults-became-central-to-lego-growth-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO 43013 Editions Kylian Mbappe - 3D Display Model Kit with Collectible Min...</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-became-central-to-lego-growth-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="why-adults-became-central-to-lego-growth-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
         <div class="fr-book-actions">
@@ -813,252 +821,253 @@ The most important lesson is implementation discipline. Adult sets work because 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio](https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome](https://www.lego.com/en-gb/categories/adults-welcome)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome</a>  
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals](https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals</a>  
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/themes/botanicals/about](https://www.lego.com/en-gb/themes/botanicals/about)  
+   Link: <a href="https://www.lego.com/en-gb/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/botanicals/about</a>  
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024](https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
 
 6. <a id="endnote-6"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow](https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow</a>  
 
 7. <a id="endnote-7"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults](https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults</a>  
 
 8. <a id="endnote-8"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market](https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market)  
+   Link: <a href="https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-sales-stabilize-in-2024-collectibles-fan-favorites-and-smart-spending-shape-the-market</a>  
 
 9. <a id="endnote-9"></a>
    Source: circana.com  
    Title: Toys Market in Europe – Fandom, Nostalgia Fuel €4.5 bn  
-   Link: [https://www.circana.com/post/playful-profits-fandom-and-nostalgia-fuel-growth-of-teens-and-adults-4-5bn-toy-market-in-europe](https://www.circana.com/post/playful-profits-fandom-and-nostalgia-fuel-growth-of-teens-and-adults-4-5bn-toy-market-in-europe)  
+   Link: <a href="https://www.circana.com/post/playful-profits-fandom-and-nostalgia-fuel-growth-of-teens-and-adults-4-5bn-toy-market-in-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/playful-profits-fandom-and-nostalgia-fuel-growth-of-teens-and-adults-4-5bn-toy-market-in-europe</a>  
 
 10. <a id="endnote-10"></a>
    Source: circana.com  
    Title: U.K Toy Market Grows as Christmas Approaches  
-   Link: [https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive](https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive)  
+   Link: <a href="https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive</a>  
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
    Title: Lego sales rise as bricks click with more shoppers  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/](https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
 
 12. <a id="endnote-12"></a>
    Source: lego.com  
    Title: [Brick Link](&#123;&#123; 'brick-link/' | relative_url &#125;&#125;)  
-   Link: [https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink](https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2019/november/lego-bricklink</a>  
 
 13. <a id="endnote-13"></a>
    Source: lego.com  
    Title: Fan Engagement and Programs  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/fan-engagement-and-programs](https://www.lego.com/en-us/aboutus/lego-group/fan-engagement-and-programs)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/fan-engagement-and-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/fan-engagement-and-programs</a>  
 
 14. <a id="endnote-14"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/series-1/main.page](https://www.bricklink.com/v3/designer-program/series-1/main.page)  
+   Link: <a href="https://www.bricklink.com/v3/designer-program/series-1/main.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/series-1/main.page</a>  
 
 15. <a id="endnote-15"></a>
    Source: lego.com  
    Title: Grow Your Creativity With Four New LEGO® Botanicals Sets  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/november/grow-your-creativity-with-four-new-lego-botanicals-sets](https://www.lego.com/en-us/aboutus/news/2024/november/grow-your-creativity-with-four-new-lego-botanicals-sets)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/november/grow-your-creativity-with-four-new-lego-botanicals-sets" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/november/grow-your-creativity-with-four-new-lego-botanicals-sets</a>  
 
 16. <a id="endnote-16"></a>
    Source: thebrickblogger.com  
    Title: The Problem with LEGO Sets for Adults  
-   Link: [https://thebrickblogger.com/2025/02/the-problem-with-lego-sets-for-adults/](https://thebrickblogger.com/2025/02/the-problem-with-lego-sets-for-adults/)  
+   Link: <a href="https://thebrickblogger.com/2025/02/the-problem-with-lego-sets-for-adults/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2025/02/the-problem-with-lego-sets-for-adults/</a>  
 
 17. <a id="endnote-17"></a>
    Source: circana.com  
-   Link: [https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu](https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu)  
+   Link: <a href="https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu</a>  
 
 18. <a id="endnote-18"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports](https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
 21. <a id="endnote-21"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-nl/categories/adults-welcome](https://www.lego.com/en-nl/categories/adults-welcome)  
+   Link: <a href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/categories/adults-welcome</a>  
 
 22. <a id="endnote-22"></a>
    Source: lego.com  
    Title: florist london  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/lego-florist-london](https://www.lego.com/en-gb/categories/adults-welcome/article/lego-florist-london)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/lego-florist-london" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/lego-florist-london</a>  
 
 23. <a id="endnote-23"></a>
    Source: lego.com  
    Title: lego botanicals june 2024  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/june/lego-botanicals-june-2024](https://www.lego.com/en-us/aboutus/news/2024/june/lego-botanicals-june-2024)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/june/lego-botanicals-june-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/june/lego-botanicals-june-2024</a>  
    Published: june 2024  
 
 24. <a id="endnote-24"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/themes/botanicals](https://www.lego.com/en-gb/themes/botanicals)  
+   Link: <a href="https://www.lego.com/en-gb/themes/botanicals" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/botanicals</a>  
 
 25. <a id="endnote-25"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness](https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness</a>  
 
 26. <a id="endnote-26"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome-products](https://www.lego.com/en-gb/categories/adults-welcome-products)  
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome-products" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome-products</a>  
 
 27. <a id="endnote-27"></a>
    Source: bricklink.com  
    Title: Brick Link  
-   Link: [https://www.bricklink.com/](https://www.bricklink.com/)  
+   Link: <a href="https://www.bricklink.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/</a>  
 
 28. <a id="endnote-28"></a>
    Source: bricklink.com  
    Title: Brick Link Reference Catalog  
-   Link: [https://www.bricklink.com/catalogList.asp?catType=S&itemYear=2024&sortAsc=D&sortBy=D](https://www.bricklink.com/catalogList.asp?catType=S&itemYear=2024&sortAsc=D&sortBy=D)  
+   Link: <a href="https://www.bricklink.com/catalogList.asp?catType=S&amp;itemYear=2024&amp;sortAsc=D&amp;sortBy=D" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catType=S&amp;itemYear=2024&amp;sortAsc=D&amp;sortBy=D</a>  
 
 29. <a id="endnote-29"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/catalogStatsWanted.asp?itemType=S](https://www.bricklink.com/catalogStatsWanted.asp?itemType=S)  
+   Link: <a href="https://www.bricklink.com/catalogStatsWanted.asp?itemType=S" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogStatsWanted.asp?itemType=S</a>  
 
 30. <a id="endnote-30"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/designer-program/main.page](https://www.bricklink.com/v3/designer-program/main.page)  
+   Link: <a href="https://www.bricklink.com/v3/designer-program/main.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/main.page</a>  
 
 31. <a id="endnote-31"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/v3/bricklink25/history.page](https://www.bricklink.com/v3/bricklink25/history.page)  
+   Link: <a href="https://www.bricklink.com/v3/bricklink25/history.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/bricklink25/history.page</a>  
 
 32. <a id="endnote-32"></a>
    Source: bricklink.com  
-   Link: [https://www.bricklink.com/catalogList.asp?catString=1197&catType=S](https://www.bricklink.com/catalogList.asp?catString=1197&catType=S)  
+   Link: <a href="https://www.bricklink.com/catalogList.asp?catString=1197&amp;catType=S" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catString=1197&amp;catType=S</a>  
 
 33. <a id="endnote-33"></a>
    Source: thebrickblogger.com  
    Title: adults welcome new category at lego com  
-   Link: [https://thebrickblogger.com/2021/01/adults-welcome-new-category-at-lego-com/](https://thebrickblogger.com/2021/01/adults-welcome-new-category-at-lego-com/)  
+   Link: <a href="https://thebrickblogger.com/2021/01/adults-welcome-new-category-at-lego-com/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2021/01/adults-welcome-new-category-at-lego-com/</a>  
 
 34. <a id="endnote-34"></a>
    Source: thebrickblogger.com  
    Title: the lego group acquires bricklink com  
-   Link: [https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/](https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/)  
+   Link: <a href="https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2019/12/the-lego-group-acquires-bricklink-com/</a>  
 
 35. <a id="endnote-35"></a>
    Source: thebrickblogger.com  
    Title: bricklink designer program sets for pre order more  
-   Link: [https://thebrickblogger.com/2024/10/bricklink-designer-program-sets-for-pre-order-more/](https://thebrickblogger.com/2024/10/bricklink-designer-program-sets-for-pre-order-more/)  
+   Link: <a href="https://thebrickblogger.com/2024/10/bricklink-designer-program-sets-for-pre-order-more/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2024/10/bricklink-designer-program-sets-for-pre-order-more/</a>  
 
 36. <a id="endnote-36"></a>
    Source: brickipedia.fandom.com  
-   Link: [https://brickipedia.fandom.com/wiki/18%2B](https://brickipedia.fandom.com/wiki/18%2B)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/18%2B" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/18%2B</a>  
 
 37. <a id="endnote-37"></a>
    Source: brickipedia.fandom.com  
-   Link: [https://brickipedia.fandom.com/wiki/Botanicals](https://brickipedia.fandom.com/wiki/Botanicals)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/Botanicals" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Botanicals</a>  
 
 38. <a id="endnote-38"></a>
    Source: brickipedia.fandom.com  
    Title: Brick Link  
-   Link: [https://brickipedia.fandom.com/wiki/BrickLink](https://brickipedia.fandom.com/wiki/BrickLink)  
+   Link: <a href="https://brickipedia.fandom.com/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/BrickLink</a>  
 
 39. <a id="endnote-39"></a>
    Source: lego.me  
-   Link: [https://www.lego.me/en-ae/about-adults-welcome?srsltid=AfmBOoo1Mlbyg4yN8Ofg_bpquf5nJPVG1Uj-CyyNf41riOTpSKMq665D](https://www.lego.me/en-ae/about-adults-welcome?srsltid=AfmBOoo1Mlbyg4yN8Ofg_bpquf5nJPVG1Uj-CyyNf41riOTpSKMq665D)  
+   Link: <a href="https://www.lego.me/en-ae/about-adults-welcome?srsltid=AfmBOoo1Mlbyg4yN8Ofg_bpquf5nJPVG1Uj-CyyNf41riOTpSKMq665D" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.me/en-ae/about-adults-welcome?srsltid=AfmBOoo1Mlbyg4yN8Ofg_bpquf5nJPVG1Uj-CyyNf41riOTpSKMq665D</a>  
 
 40. <a id="endnote-40"></a>
    Source: which.co.uk  
    Title: the most popular lego sets and themes a EPDT0y2RU6T  
-   Link: [https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T](https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T)  
+   Link: <a href="https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/the-most-popular-lego-sets-and-themes-aEPDT0y2RU6T</a>  
 
 41. <a id="endnote-41"></a>
    Source: toyworldmag.co.uk  
    Title: circana reports uk toy market grows to 3 9b  
-   Link: [https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/](https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/)  
+   Link: <a href="https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/circana-reports-uk-toy-market-grows-to-3-9b/</a>  
 
 42. <a id="endnote-42"></a>
    Source: toyworldmag.co.uk  
    Title: circana releases new eat play love report  
-   Link: [https://toyworldmag.co.uk/circana-releases-new-eat-play-love-report/](https://toyworldmag.co.uk/circana-releases-new-eat-play-love-report/)  
+   Link: <a href="https://toyworldmag.co.uk/circana-releases-new-eat-play-love-report/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/circana-releases-new-eat-play-love-report/</a>  
 
 43. <a id="endnote-43"></a>
    Source: Wikipedia  
    Title: Brick Link  
-   Link: [https://en.wikipedia.org/wiki/BrickLink](https://en.wikipedia.org/wiki/BrickLink)  
+   Link: <a href="https://en.wikipedia.org/wiki/BrickLink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/BrickLink</a>  
 
 44. <a id="endnote-44"></a>
    Source: smythstoys.com  
-   Link: [https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/adult-lego/c/adult-lego](https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/adult-lego/c/adult-lego)  
+   Link: <a href="https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/adult-lego/c/adult-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.smythstoys.com/uk/en-gb/toys/lego-and-bricks/adult-lego/c/adult-lego</a>  
 
 45. <a id="endnote-45"></a>
    Source: thetoyshop.com  
-   Link: [https://www.thetoyshop.com/brands/lego/lego-adult-shop?page=3](https://www.thetoyshop.com/brands/lego/lego-adult-shop?page=3)  
+   Link: <a href="https://www.thetoyshop.com/brands/lego/lego-adult-shop?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.thetoyshop.com/brands/lego/lego-adult-shop?page=3</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: Buying your first LEGO Modular Building  
-   Link: [https://www.youtube.com/watch?v=YBg-osEV9AM](https://www.youtube.com/watch?v=YBg-osEV9AM)  
+   Link: <a href="https://www.youtube.com/watch?v=YBg-osEV9AM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YBg-osEV9AM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Adults Welcome strategy business model Buying your first LEGO Modular Building 💰 Kiwi [Modulars](&amp;#123;&amp;#123; &#x27;modulars/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Dark Truth of LEGO: Why Adults Are Addicted to Bricks  
-   Link: [https://www.youtube.com/watch?v=xNTrbnIWyLg](https://www.youtube.com/watch?v=xNTrbnIWyLg)  
+   Link: <a href="https://www.youtube.com/watch?v=xNTrbnIWyLg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xNTrbnIWyLg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Brainwashed An Entire Generation...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390839882_Stimulating_Circulation_in_the_Circular_Economy_A_case_study_of_value_generation_for_a_resale_platform_for_LEGO_bricks](https://www.researchgate.net/publication/390839882_Stimulating_Circulation_in_the_Circular_Economy_A_case_study_of_value_generation_for_a_resale_platform_for_LEGO_bricks)  
+   Link: <a href="https://www.researchgate.net/publication/390839882_Stimulating_Circulation_in_the_Circular_Economy_A_case_study_of_value_generation_for_a_resale_platform_for_LEGO_bricks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390839882_Stimulating_Circulation_in_the_Circular_Economy_A_case_study_of_value_generation_for_a_resale_platform_for_LEGO_bricks</a>  
 
 49. <a id="endnote-49"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tedxgateway_kidulttrend-toycollecting-tedtalks-activity-7413580007035535360-OP7o](https://www.linkedin.com/posts/tedxgateway_kidulttrend-toycollecting-tedtalks-activity-7413580007035535360-OP7o)  
+   Link: <a href="https://www.linkedin.com/posts/tedxgateway_kidulttrend-toycollecting-tedtalks-activity-7413580007035535360-OP7o" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tedxgateway_kidulttrend-toycollecting-tedtalks-activity-7413580007035535360-OP7o</a>  
 
 50. <a id="endnote-50"></a>
    Source: brickwatch.net  
-   Link: [https://www.brickwatch.net/en-NL/sets/ages/18-plus](https://www.brickwatch.net/en-NL/sets/ages/18-plus)  
+   Link: <a href="https://www.brickwatch.net/en-NL/sets/ages/18-plus" target="_blank" rel="noopener noreferrer nofollow">https://www.brickwatch.net/en-NL/sets/ages/18-plus</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LEGO/videos/build-unwind-relax/804927042432867/](https://www.facebook.com/LEGO/videos/build-unwind-relax/804927042432867/)  
+   Link: <a href="https://www.facebook.com/LEGO/videos/build-unwind-relax/804927042432867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGO/videos/build-unwind-relax/804927042432867/</a>  
 
 52. <a id="endnote-52"></a>
    Source: bol.com  
-   Link: [https://www.bol.com/nl/nl/l/bouwsets-lego-icons-voor-volwassenen/20001/7558456080%2B4279522805/?page=3](https://www.bol.com/nl/nl/l/bouwsets-lego-icons-voor-volwassenen/20001/7558456080%2B4279522805/?page=3)  
+   Link: <a href="https://www.bol.com/nl/nl/l/bouwsets-lego-icons-voor-volwassenen/20001/7558456080%2B4279522805/?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/l/bouwsets-lego-icons-voor-volwassenen/20001/7558456080%2B4279522805/?page=3</a>  
 
 53. <a id="endnote-53"></a>
    Source: brickplaats.nl  
-   Link: [https://brickplaats.nl/collections/bricklink-designer-program?srsltid=AfmBOorFjLTJB2_cPe0SVpGbhrNLgE6PbIO2vC0P_wqvfJ3RdPr-aCxz](https://brickplaats.nl/collections/bricklink-designer-program?srsltid=AfmBOorFjLTJB2_cPe0SVpGbhrNLgE6PbIO2vC0P_wqvfJ3RdPr-aCxz)  
+   Link: <a href="https://brickplaats.nl/collections/bricklink-designer-program?srsltid=AfmBOorFjLTJB2_cPe0SVpGbhrNLgE6PbIO2vC0P_wqvfJ3RdPr-aCxz" target="_blank" rel="noopener noreferrer nofollow">https://brickplaats.nl/collections/bricklink-designer-program?srsltid=AfmBOorFjLTJB2_cPe0SVpGbhrNLgE6PbIO2vC0P_wqvfJ3RdPr-aCxz</a>  
 
 54. <a id="endnote-54"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/video/9db6b9a6-7583-40af-932b-bcf48af2e6dc](https://www.ft.com/video/9db6b9a6-7583-40af-932b-bcf48af2e6dc)  
+   Link: <a href="https://www.ft.com/video/9db6b9a6-7583-40af-932b-bcf48af2e6dc" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/video/9db6b9a6-7583-40af-932b-bcf48af2e6dc</a>  
 
 55. <a id="endnote-55"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/](https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/)  
+   Link: <a href="https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /complexity/
 nav_short_title: Partner Shift
 title: Why LEGO Did Not Need to Do Everything
-title_full: Why LEGO Did Not Need to Do Everything | Complexity
+title_full: Why LEGO Did Not Need to Do Everything
 display_title_short: Partner Shift
 display_title: Partner Shift
 heading_title: Why LEGO Did Not Need to Do Everything
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When More LEGO Products Made LEGO Weaker | LEGO Antifragility
+parent_title: When More LEGO Products Made LEGO Weaker
 parent_permalink: /complexity/
 parent_nav_short_title: Complexity
 parent_heading_title: When More LEGO Products Made LEGO Weaker
@@ -265,7 +265,7 @@ next_link:
   permalink: /special-parts/
   short_title: Special Parts
   heading_title: Why Some LEGO Failures Left More Waste
-date: '2026-06-09 03:47:42 '
+date: '2026-06-11 21:40:55 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-1.webp
@@ -276,10 +276,8 @@ image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_pa
 
 LEGO’s recovery from its early-2000s crisis was not only about cutting products or simplifying operations. It was also about deciding which opportunities the company did not need to manage itself. One of the most important governance shifts in the turnaround was a greater reliance on licensed partners for activities that extended the brand beyond the core [brick system]({{ 'brick-system/' | relative_url }}). Instead of building every capability internally, LEGO increasingly used specialised partners for games, media, publishing and location-based entertainment. This allowed the company to participate in growing markets while reducing the organisational burden that had contributed to its earlier fragility.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-1-dark.svg" | relative_url }}" alt="Partner Shift illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In antifragility terms, the change mattered because it preserved optionality without requiring LEGO to absorb every risk. The company could benefit when a film franchise, video game or theme-park concept succeeded, but it no longer had to carry the full operational [complexity]({{ 'complexity/' | relative_url }}) of owning and running each adjacent business itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z5btbvvnUj4" title="How LEGO used play time to unlock creativity - Julia Goldin, Global CMO, LEGO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z5btbvvnUj4" target="_blank" rel="noopener noreferrer">How LEGO used play time to unlock creativity - Julia Goldin, Global CMO, LEGO</a></p><p class="youtube-embed-meta">Channel: Uncensored CMO &middot; Views: 2.7K &middot; Uploaded: October 2023 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z5btbvvnUj4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z5btbvvnUj4">Open on YouTube</a></p></div></div></div>
 
@@ -291,13 +289,12 @@ The turnaround did not mean abandoning these areas entirely. Instead, LEGO incre
 
 Key examples included:
 
-* **Theme parks:** LEGO sold the LEGOLAND parks in 2005, moving day-to-day attraction management into the hands of specialised operators while retaining a long-term relationship with the brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US swoop takes Legoland under Merlin&#x27;s wand | Business</span><span class="citation-popover-snippet">The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</span><span class="citation-popover-meta">Published: July 14, 2005</span></span></span>
-* **Video games:** Rather than building a large internal games studio, LEGO worked through [licensing]({{ 'licensing/' | relative_url }}) and development partnerships, most notably with TT Games, which produced successful LEGO-branded titles based on major entertainment properties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">Learn how Lego leveraged partnerships to thrive</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
-* **Entertainment franchises:** LEGO expanded through licensing agreements with companies that already owned major fictional worlds, including [Star Wars]({{ 'star-wars/' | relative_url }}) and Harry Potter, instead of creating and maintaining every narrative universe internally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">Learn how Lego leveraged partnerships to thrive</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+* **Theme parks:** LEGO sold the LEGOLAND parks in 2005, moving day-to-day attraction management into the hands of specialised operators while retaining a long-term relationship with the brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US swoop takes Legoland under Merlin&#x27;s wand &#124; Business</span><span class="citation-popover-snippet">The GuardianUS swoop takes Legoland under Merlin&#x27;s wand &#124; BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</span><span class="citation-popover-meta">Published: July 14, 2005</span></span></span>
+* **Video games:** Rather than building a large internal games studio, LEGO worked through [licensing]({{ 'licensing/' | relative_url }}) and development partnerships, most notably with TT Games, which produced successful LEGO-branded titles based on major entertainment properties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">Learn how Lego leveraged partnerships to thrive</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+* **Entertainment franchises:** LEGO expanded through licensing agreements with companies that already owned major fictional worlds, including [Star Wars]({{ 'star-wars/' | relative_url }}) and Harry Potter, instead of creating and maintaining every narrative universe internally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">Learn how Lego leveraged partnerships to thrive</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 * **Publishing and media extensions:** External partners increasingly handled specialised content production, distribution and adaptation functions that would otherwise have required additional internal divisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.licenseglobal.com/toys-games/lego-impossibly-simple-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: licenseglobal.com">[License Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">licenseglobal.com</span><span class="citation-popover-snippet">License GlobalLEGO: Impossibly simple licensing.Danish giant LEGO has turned its business around in recent years and has extended its rea...</span></span></span>
 
 The distinction is important. LEGO did not stop participating in entertainment or experiences. It changed who carried the operational responsibility.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSgN96DLtWU" title="Lego: An Outsourcing Journey | Harvard Business | Solved MBA Supply Chain Case Study &amp; Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer">Lego: An Outsourcing Journey | Harvard Business | Solved MBA Supply Chain Case Study &amp; Analysis</a></p><p class="youtube-embed-meta">Channel: 5 Minutes Learning &middot; Views: 3.3K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSgN96DLtWU">Open on YouTube</a></p></div></div></div>
 
@@ -313,18 +310,16 @@ This governance model also limited the consequences of failure. If a licensed ga
 
 That mattered because complexity had already proven dangerous. LEGO's crisis showed that growth initiatives could impose hidden costs through management distraction, specialised infrastructure and fragmented decision-making. Partnering became a way to access opportunities without recreating those same burdens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-2-dark.svg" | relative_url }}" alt="Partner Shift illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Focus Did Not Mean Retreat
 
 One common misunderstanding of the LEGO turnaround is that the company simply became more conservative. In reality, the partner model allowed LEGO to remain ambitious while becoming more selective about ownership.
 
-Licensed entertainment themes helped LEGO stay culturally relevant during a period when children's attention was increasingly influenced by films, television and digital media. The Star Wars partnership, introduced in 1999, became especially significant because it connected LEGO's physical building system to a much larger entertainment ecosystem. Rather than investing heavily in creating every narrative world itself, LEGO could attach its core product to intellectual property that already had global audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">Learn how Lego leveraged partnerships to thrive</span><span class="citation-popover-snippet">MarkHub24Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+Licensed entertainment themes helped LEGO stay culturally relevant during a period when children's attention was increasingly influenced by films, television and digital media. The Star Wars partnership, introduced in 1999, became especially significant because it connected LEGO's physical building system to a much larger entertainment ecosystem. Rather than investing heavily in creating every narrative world itself, LEGO could attach its core product to intellectual property that already had global audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markhub24.com">[MarkHub24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markhub24.com</span><span class="citation-popover-title">Learn how Lego leveraged partnerships to thrive</span><span class="citation-popover-snippet">Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
 The same logic applied to games and attractions. LEGO still appeared in those markets, but participation no longer required building every capability from scratch. This reduced strategic rigidity. The company could expand, contract or redirect partnerships more easily than it could unwind large internally owned divisions.
 
 From an antifragility perspective, that distinction is crucial. A fragile organisation accumulates commitments that are difficult to reverse. A more resilient organisation keeps pathways open while limiting irreversible obligations. LEGO's use of licensed partners moved the company closer to the second model.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nnYHvSkB5o" title="LEGO Jurassic World - Gameplay Reveal Trailer (English)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nnYHvSkB5o" target="_blank" rel="noopener noreferrer">LEGO Jurassic World - Gameplay Reveal Trailer (English)</a></p><p class="youtube-embed-meta">Channel: Warner Bros. Games Nordic &middot; Views: 1.4K &middot; Uploaded: March 2015 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nnYHvSkB5o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nnYHvSkB5o">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +332,6 @@ The company's competitive advantage lay in the LEGO system itself: the brick pla
 This was a governance decision as much as a commercial one. Management stopped assuming that every attractive opportunity needed to become an internal business unit. Instead, the company increasingly treated partners as a way to expand reach while protecting organisational focus.
 
 That shift helped resolve one of the hidden weaknesses behind LEGO's earlier crisis. The company could still explore media, entertainment and experiential growth, but it no longer had to carry the full complexity cost of doing everything itself. BCG Global <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-snippet">How LEGO Revived Its Founder&#x27;s MentalityThe conventional wisdom was that LEGO&#x27;s brick business was too small and burdened with high costs...</span></span></span>
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-3-dark.svg" | relative_url }}" alt="Partner Shift illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -458,15 +452,15 @@ That shift helped resolve one of the hidden weaknesses behind LEGO's earlier cri
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008"><img src="https://i.ebayimg.com/images/g/hcAAAeSwRndoboJ2/s-l225.jpg" alt="Listing image for BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 21367 Ideas Tintin Moon Rocket | Brand New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/UocAAeSwaNZqHeZF/s-l225.jpg" alt="Listing image for LEGO 21367 Ideas Tintin Moon Rocket | Brand New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">BRICK IN IT Display Case For LEGO® Nike Dunk x LEGO® Set 43008</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 21367 Ideas Tintin Moon Rocket | Brand New &amp; Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +468,15 @@ That shift helped resolve one of the hidden weaknesses behind LEGO's earlier cri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK"><img src="https://i.ebayimg.com/images/g/3fwAAeSwgWRpX4iP/s-l225.jpg" alt="Listing image for Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO® Set 952403-1 - Builder with Cement Mixer paper bag"><img src="https://i.ebayimg.com/images/g/T1cAAOSwyyRm9lmA/s-l225.jpg" alt="Listing image for LEGO® Set 952403-1 - Builder with Cement Mixer paper bag" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Flower Bouquet Set– LEGO Flowers Display Gift Home Décor Boutique UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® Set 952403-1 - Builder with Cement Mixer paper bag</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +484,31 @@ That shift helped resolve one of the hidden weaknesses behind LEGO's earlier cri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display"><img src="https://i.ebayimg.com/images/g/75EAAeSwulZqJ6U4/s-l225.jpg" alt="Listing image for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego IDEAS 21339 BTS Dynamite Set 🔻 NEW / SEALED 🔻"><img src="https://i.ebayimg.com/images/g/rBgAAeSwyqFookNI/s-l225.jpg" alt="Listing image for Lego IDEAS 21339 BTS Dynamite Set 🔻 NEW / SEALED 🔻" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">Lego IDEAS 21339 BTS Dynamite Set 🔻 NEW / SEALED 🔻</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Creator LEGO Set 40650 Land Rover Classic Defender Rare Collectable L1"><img src="https://i.ebayimg.com/images/g/VAsAAeSwGqFqFb1m/s-l225.jpg" alt="Listing image for Creator LEGO Set 40650 Land Rover Classic Defender Rare Collectable L1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">Creator LEGO Set 40650 Land Rover Classic Defender Rare Collectable L1</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,7 +516,7 @@ That shift helped resolve one of the hidden weaknesses behind LEGO's earlier cri
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="why-lego-did-not-need-to-do-everything-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-did-not-need-to-do-everything-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-lego-did-not-need-to-do-everything-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -716,110 +726,111 @@ That shift helped resolve one of the hidden weaknesses behind LEGO's earlier cri
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: bcg.com  
-   Link: [https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff](https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff)  
+   Link: <a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — A victim of [overexpansion](&amp;#123;&amp;#123; &#x27;overexpansion/&#x27; | relative_url &amp;#125;&amp;#125;) and brand dilution, LEGO was on the brink o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: markhub24.com  
    Title: Learn how Lego leveraged partnerships to thrive  
-   Link: [https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing](https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MarkHub24Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</p></details>
+   Link: <a href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: Business Model Reinvention Through LicensingJanuary 30, 2026 — 31 Jan 2026 — Discover how Lego&#x27;s strategic licensing trans...</p></details>
    Published: January 30, 2026  
 
 3. <a id="endnote-3"></a>
    Source: bain.com  
-   Link: [https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/](https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/)  
+   Link: <a href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Revived Its Founder&#x27;s MentalityThe conventional wisdom was that LEGO&#x27;s brick business was too small and burdened with high costs...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportThe LEGO Group&#x27;s main activities are the development, manufacturing, sales and distribution of play experiences, educational...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: [https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf](https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf)  
+   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — * From 2024, stores in LEGOLAND® Parks and Discovery Centres (40) run by Merlin Entertainments (Motion JVco...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: markhub24.com  
    Title: lego strategic turnaround through innovation and focus  
-   Link: [https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus](https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus)  
+   Link: <a href="https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025 — LEGO Group faced near-bankruptcy in 2003–2004 after years of uncontr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: hbr.org  
-   Link: [https://hbr.org/2009/09/innovating-a-turnaround-at-lego](https://hbr.org/2009/09/innovating-a-turnaround-at-lego)  
+   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian US swoop takes Legoland under Merlin's wand | Business  
-   Link: [https://www.theguardian.com/business/2005/jul/14/1](https://www.theguardian.com/business/2005/jul/14/1)  
+   Link: <a href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2005/jul/14/1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</p></details>
    Published: July 14, 2005  
 
 9. <a id="endnote-9"></a>
    Source: licenseglobal.com  
-   Link: [https://www.licenseglobal.com/toys-games/lego-impossibly-simple-licensing](https://www.licenseglobal.com/toys-games/lego-impossibly-simple-licensing)  
+   Link: <a href="https://www.licenseglobal.com/toys-games/lego-impossibly-simple-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/toys-games/lego-impossibly-simple-licensing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>License GlobalLEGO: Impossibly simple licensing.Danish giant LEGO has turned its business around in recent years and has extended its rea...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AttractionSource/posts/the-lego-group-today-announced-it-has-agreed-to-acquire-lego-and-legoland-discov/1199119095585673/](https://www.facebook.com/AttractionSource/posts/the-lego-group-today-announced-it-has-agreed-to-acquire-lego-and-legoland-discov/1199119095585673/)  
+   Link: <a href="https://www.facebook.com/AttractionSource/posts/the-lego-group-today-announced-it-has-agreed-to-acquire-lego-and-legoland-discov/1199119095585673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AttractionSource/posts/the-lego-group-today-announced-it-has-agreed-to-acquire-lego-and-legoland-discov/1199119095585673/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO® Group to acquire LEGO® Discovery Centres andThe LEGO Group today announced it has agreed to acquire LEGO and LEGOLAND Discovery...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: strategyzer.com  
-   Link: [https://www.strategyzer.com/library/legos-great-business-model-turnaround-story](https://www.strategyzer.com/library/legos-great-business-model-turnaround-story)  
+   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
    Title: lego crisis how unexpectedly bad nearly catastrophic became sethi hefqc  
-   Link: [https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc](https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc)  
+   Link: <a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;[Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aiu.edu  
-   Link: [https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/](https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/)  
+   Link: <a href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he verge of bankruptcy into a global leader in creativity and innovation through...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: forward-partners.com  
-   Link: [https://www.forward-partners.com/perspectives/lego-turnaround/](https://www.forward-partners.com/perspectives/lego-turnaround/)  
+   Link: <a href="https://www.forward-partners.com/perspectives/lego-turnaround/" target="_blank" rel="noopener noreferrer nofollow">https://www.forward-partners.com/perspectives/lego-turnaround/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Turnaround: How LEGO Avoided BankruptcyFinancial Struggles: By 2003, the company reported a loss of over USD 150 million...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The process of sourcing back production began with the company taking control  
-   Link: [https://www.youtube.com/watch?v=aSgN96DLtWU](https://www.youtube.com/watch?v=aSgN96DLtWU)  
+   Link: <a href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSgN96DLtWU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: An Outsourcing Journey | Harvard Business | Solved...The Lego Group announced the phase out of collaboration with Flextronics...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: licensinginternational.org  
    Title: merlin entertainment shareholders approve sale  
-   Link: [https://licensinginternational.org/news/merlin-entertainment-shareholders-approve-sale/](https://licensinginternational.org/news/merlin-entertainment-shareholders-approve-sale/)  
+   Link: <a href="https://licensinginternational.org/news/merlin-entertainment-shareholders-approve-sale/" target="_blank" rel="noopener noreferrer nofollow">https://licensinginternational.org/news/merlin-entertainment-shareholders-approve-sale/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Sept 2019 — Merlin Entertainment shareholders Tuesday approved the $7.5 billion sale of the licensed theme park operator to Lego&#x27;s foun...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/303978116/Report-Lego-s-Turnaround](https://www.scribd.com/doc/303978116/Report-Lego-s-Turnaround)  
+   Link: <a href="https://www.scribd.com/doc/303978116/Report-Lego-s-Turnaround" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/303978116/Report-Lego-s-Turnaround</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ification and enhancement to support market expansion.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: traverssmith.com  
-   Link: [https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/](https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/)  
+   Link: <a href="https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Merlin will continue to operate eleven LEGOLAND...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: LEGO Jurassic World  
-   Link: [http://www.youtube.com/watch?v=2nnYHvSkB5o](http://www.youtube.com/watch?v=2nnYHvSkB5o)  
+   Link: <a href="http://www.youtube.com/watch?v=2nnYHvSkB5o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2nnYHvSkB5o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO turnaround strategy licensing partners theme parks movies The Only Way You Should Add Blood To LEGO Minifigures #shorts Portal Maste...</p></details>

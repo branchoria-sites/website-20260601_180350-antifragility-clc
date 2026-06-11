@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sustainability/
 nav_short_title: Cost Pressure
 title: Who Pays for Greener LEGO Bricks?
-title_full: Who Pays for Greener LEGO Bricks? | Sustainability
+title_full: Who Pays for Greener LEGO Bricks?
 display_title_short: Cost Pressure
 display_title: Cost Pressure
 heading_title: Who Pays for Greener LEGO Bricks?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where LEGO's Antifragility Hits Hard Limits | LEGO Antifragility
+parent_title: Where LEGO's Antifragility Hits Hard Limits
 parent_permalink: /sustainability/
 parent_nav_short_title: Sustainability
 parent_heading_title: Where LEGO's Antifragility Hits Hard Limits
@@ -265,7 +265,7 @@ next_link:
   permalink: /mass-balance/
   short_title: Mass Balance
   heading_title: Can a Greener Brick Look Exactly the Same?
-date: '2026-06-09 03:49:46 '
+date: '2026-06-11 21:41:10 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1.webp
@@ -276,32 +276,24 @@ image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_re
 
 Why does **the LEGO Group absorb significantly higher costs for renewable resin** rather than passing them on to consumers? As part of its long‑term [sustainability]({{ 'sustainability/' | relative_url }}) strategy — aiming to make all LEGO bricks from renewable or recycled [materials]({{ 'materials/' | relative_url }}) by 2032 — the company has committed to buying certified renewable resin at prices **up to around 70 per cent higher** than conventional fossil‑based plastics. Rather than increasing retail prices to cover this, LEGO chooses to shoulder that premium itself. This decision reflects a mix of **strategic positioning, ownership structure and market creation efforts**, and it highlights a central tension in LEGO’s sustainability shift: the company can afford to pay more, but that cost absorption has **limits and implications** for how far and how fast the transition can proceed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plasticstoday.com">[Plastics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plasticstoday.com</span><span class="citation-popover-title">Plastics Today Lego Set to Pay Up to 70% More for Certified Renewable Resin</span><span class="citation-popover-snippet">Plastics TodayLego Set to Pay Up to 70% More for Certified Renewable ResinAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1-dark.svg" | relative_url }}" alt="Cost Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Renewable Resin Costs More
 
 Certified renewable resin — feedstock derived from plant‑based sources (like sugarcane) or biomaterials processed under auditing standards such as **[mass balance]({{ 'mass-balance/' | relative_url }}) certification** — is still an emerging supply chain relative to conventional fossil‑based plastic. Producers of these materials operate at smaller volumes, invest in new processing infrastructure, and need to cover certification and traceability costs. As a result, **renewable resin often commands a substantial price premium** over traditional plastics; LEGO has publicly acknowledged paying as much as **70 per cent more** for certified renewable resin to help meet its sustainability targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plasticstoday.com">[Plastics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plasticstoday.com</span><span class="citation-popover-title">Plastics Today Lego Set to Pay Up to 70% More for Certified Renewable Resin</span><span class="citation-popover-snippet">Plastics TodayLego Set to Pay Up to 70% More for Certified Renewable ResinAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
-This premium isn’t just about feedstock price: it also reflects **limited production capacity and market immaturity**. Renewable resin suppliers cannot yet match the economies of scale of global petrochemical producers, and certification systems like **ISCC Plus mass balance** add compliance steps that raise unit costs. These factors make renewable inputs more expensive even before they reach LEGO’s factories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/sustainability/assets/bltab4c38a57c6b4e8c/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group</span><span class="citation-popover-snippet">LEGOThe LEGO GroupApril 12, 2026...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+This premium isn’t just about feedstock price: it also reflects **limited production capacity and market immaturity**. Renewable resin suppliers cannot yet match the economies of scale of global petrochemical producers, and certification systems like **ISCC Plus mass balance** add compliance steps that raise unit costs. These factors make renewable inputs more expensive even before they reach LEGO’s factories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/sustainability/assets/bltab4c38a57c6b4e8c/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group</span><span class="citation-popover-snippet">The LEGO GroupApril 12, 2026...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RN-Z72GiL18" title="Why Lego is about to undertake big transition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RN-Z72GiL18" target="_blank" rel="noopener noreferrer">Why Lego is about to undertake big transition</a></p><p class="youtube-embed-meta">Channel: The Australian &middot; Views: 815 &middot; Uploaded: August 2024 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RN-Z72GiL18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RN-Z72GiL18">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-2-dark.svg" | relative_url }}" alt="Cost Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Private Ownership Changes the Trade‑Off
 
 One reason LEGO chooses to **absorb rather than externalise** these added raw‑material costs is its ownership structure. The company is privately held by the Kirk Kristiansen family rather than being publicly traded. That allows management to prioritise **long‑term sustainability goals over short‑term shareholder pressure for quarterly profit growth**. As CEO Niels Christiansen has said, the family ownership gives LEGO the “privilege” to pay extra for greener materials **without passing those costs straight to customers**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plasticstoday.com">[Plastics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plasticstoday.com</span><span class="citation-popover-title">Plastics Today Lego Set to Pay Up to 70% More for Certified Renewable Resin</span><span class="citation-popover-snippet">Plastics TodayLego Set to Pay Up to 70% More for Certified Renewable ResinAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
 This stance reinforces LEGO’s **premium brand positioning**. Consumers associate the brand with quality, durability and play value, and price increases tied directly to environmental costs risk alienating some buyers. Absorbing the extra material cost helps preserve price perceptions and broad appeal while signalling that environmental leadership is part of LEGO’s value proposition. Instead of hiking set prices, LEGO invests in **brand equity and future‑proofing** the supply chain.
 
-LEGO’s use of the **mass balance approach** also illustrates how it seeks pragmatic transitions. Under mass balance accounting, fossil and renewable feedstocks are mixed at the supplier level, but certified volumes are tracked so LEGO can claim the renewable content it purchased. This lets the company scale renewable inputs while avoiding major disruptions to existing manufacturing at current [investment]({{ 'investment/' | relative_url }}) levels, even if it doesn’t yet deliver fully segregated, plant‑only brick material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-pl/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Mass balance</span><span class="citation-popover-snippet">LEGOMass balance - Sustainability - LEGO.com...</span></span></span>
+LEGO’s use of the **mass balance approach** also illustrates how it seeks pragmatic transitions. Under mass balance accounting, fossil and renewable feedstocks are mixed at the supplier level, but certified volumes are tracked so LEGO can claim the renewable content it purchased. This lets the company scale renewable inputs while avoiding major disruptions to existing manufacturing at current [investment]({{ 'investment/' | relative_url }}) levels, even if it doesn’t yet deliver fully segregated, plant‑only brick material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-pl/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Mass balance</span><span class="citation-popover-snippet">Mass balance - Sustainability - LEGO.com...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RN-Z72GiL18" title="Why Lego is about to undertake big transition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RN-Z72GiL18" target="_blank" rel="noopener noreferrer">Why Lego is about to undertake big transition</a></p><p class="youtube-embed-meta">Channel: The Australian &middot; Views: 815 &middot; Uploaded: August 2024 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RN-Z72GiL18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RN-Z72GiL18">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-3-dark.svg" | relative_url }}" alt="Cost Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-2-dark.svg" | relative_url }}" alt="Cost Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Higher Spending Still Has Strategic Limits
 
 Absorbing higher resin costs is not cost‑free. Even for a financially robust private company, there comes a point where **sustained premium material costs can squeeze profitability** or delay investment in other strategic areas. Renewable resin remains a **small component of total set cost** (plastic feedstock is only one element of manufacturing), but consistently paying a high premium slows the pace at which LEGO can scale up sustainable inputs.
@@ -312,9 +304,7 @@ Finally, the company must balance quality and safety requirements with sustainab
 
 In short, LEGO absorbs higher renewable resin costs because it **can afford to do so in pursuit of long‑term sustainability goals** and to protect brand equity. But this cost absorption is a **strategic tool rather than a permanent subsidy**, and it operates within the [limits]({{ 'limits/' | relative_url }}) of supplier markets, material performance requirements, and the company’s broader financial priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plasticstoday.com">[Plastics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plasticstoday.com</span><span class="citation-popover-title">Plastics Today Lego Set to Pay Up to 70% More for Certified Renewable Resin</span><span class="citation-popover-snippet">Plastics TodayLego Set to Pay Up to 70% More for Certified Renewable ResinAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zx04Kl8y4dE" title="What is Sustainability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zx04Kl8y4dE" target="_blank" rel="noopener noreferrer">What is Sustainability</a></p><p class="youtube-embed-meta">Channel: UCLA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zx04Kl8y4dE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zx04Kl8y4dE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-3-dark.svg" | relative_url }}" alt="Cost Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -433,15 +423,15 @@ In short, LEGO absorbs higher renewable resin costs because it **can afford to d
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅"><img src="https://i.ebayimg.com/images/g/G4MAAeSwAqxqHcoJ/s-l225.jpg" alt="Listing image for LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bricks 100 x 2x4 Green (3001) | BRAND NEW &amp; FREE UK 🇬🇧 POSTAGE 🚚 ✅"><img src="https://i.ebayimg.com/images/g/OJUAAeSwY~ppCSDL/s-l225.jpg" alt="Listing image for LEGO Bricks 100 x 2x4 Green (3001) | BRAND NEW &amp; FREE UK 🇬🇧 POSTAGE 🚚 ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Architecture New York City Skyline Display Set Adults 21066 | IN HAND 🚚 ✅</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Bricks 100 x 2x4 Green (3001) | BRAND NEW &amp; FREE UK 🇬🇧 POSTAGE 🚚 ✅</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +439,15 @@ In short, LEGO absorbs higher renewable resin costs because it **can afford to d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bricks 2x4 x 25 pcs - part.no. 3001 - Used - Choose Colour"><img src="https://i.ebayimg.com/images/g/pesAAOSwDChj3SH3/s-l225.jpg" alt="Listing image for LEGO Bricks 2x4 x 25 pcs - part.no. 3001 - Used - Choose Colour" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Bricks 2x4 x 25 pcs - part.no. 3001 - Used - Choose Colour</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +455,31 @@ In short, LEGO absorbs higher renewable resin costs because it **can afford to d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Flower Trellis Display Set 40683"><img src="https://i.ebayimg.com/images/g/JOYAAeSwTrNqJDC6/s-l225.jpg" alt="Listing image for LEGO Flower Trellis Display Set 40683" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Bricks 20x Dark Green 1x2 Tile Flat Thin Studless Plate 306928 3069 NEW"><img src="https://i.ebayimg.com/images/g/fksAAOSwIoZgZe~e/s-l225.jpg" alt="Listing image for Lego Bricks 20x Dark Green 1x2 Tile Flat Thin Studless Plate 306928 3069 NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Flower Trellis Display Set 40683</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">Lego Bricks 20x Dark Green 1x2 Tile Flat Thin Studless Plate 306928 3069 NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Brick Bundle x50 PACK, 2x2 2x3 2x4+ Random Basic Sizes LOT / Select Colour"><img src="https://i.ebayimg.com/images/g/i2cAAOSw4xJledyV/s-l225.jpg" alt="Listing image for LEGO Brick Bundle x50 PACK, 2x2 2x3 2x4+ Random Basic Sizes LOT / Select Colour" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Brick Bundle x50 PACK, 2x2 2x3 2x4+ Random Basic Sizes LOT / Select Colour</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO green bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO green bricks</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,7 +487,7 @@ In short, LEGO absorbs higher renewable resin costs because it **can afford to d
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+green+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-greener-lego-bricks-lego-green-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO green bricks" data-ebay-reference="who-pays-for-greener-lego-bricks-lego-green-bricks" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -691,31 +697,32 @@ In short, LEGO absorbs higher renewable resin costs because it **can afford to d
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: lego.com  
    Title: The LEGO Group  
-   Link: [https://www.lego.com/cdn/cs/sustainability/assets/bltab4c38a57c6b4e8c/LEGO_Group_Sustainability_Statement_2024.pdf](https://www.lego.com/cdn/cs/sustainability/assets/bltab4c38a57c6b4e8c/LEGO_Group_Sustainability_Statement_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOThe LEGO GroupApril 12, 2026...</p></details>
+   Link: <a href="https://www.lego.com/cdn/cs/sustainability/assets/bltab4c38a57c6b4e8c/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/sustainability/assets/bltab4c38a57c6b4e8c/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO GroupApril 12, 2026...</p></details>
    Published: April 12, 2026  
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
    Title: Mass balance  
-   Link: [https://www.lego.com/en-pl/sustainability/mass-balance](https://www.lego.com/en-pl/sustainability/mass-balance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOMass balance - Sustainability - LEGO.com...</p></details>
+   Link: <a href="https://www.lego.com/en-pl/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-pl/sustainability/mass-balance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass balance - Sustainability - LEGO.com...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
    Title: Mass balance  
-   Link: [https://www.lego.com/en-de/sustainability/mass-balance](https://www.lego.com/en-de/sustainability/mass-balance)  
+   Link: <a href="https://www.lego.com/en-de/sustainability/mass-balance" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-de/sustainability/mass-balance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2024, 47% of all resin we purchased was certified according to mass balance principles, which translates into an estimated a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plasticstoday.com  
    Title: Plastics Today Lego Set to Pay Up to 70% More for Certified Renewable Resin  
-   Link: [https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin](https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin)  
+   Link: <a href="https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin" target="_blank" rel="noopener noreferrer nofollow">https://www.plasticstoday.com/sustainability/lego-set-to-pay-up-to-70-more-for-certified-renewable-resin</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plastics TodayLego Set to Pay Up to 70% More for Certified Renewable ResinAugust 28, 2024...</p></details>
    Published: August 28, 2024  
 
@@ -723,64 +730,64 @@ In short, LEGO absorbs higher renewable resin costs because it **can afford to d
 
 5. <a id="endnote-5"></a>
    Source: fortune.com  
-   Link: [https://fortune.com/europe/2024/03/18/lego-ceo-promises-to-use-more-expensive-renewable-plastic-in-toy-blocks-by-2032-without-passing-higher-costs-on-to-consumers/](https://fortune.com/europe/2024/03/18/lego-ceo-promises-to-use-more-expensive-renewable-plastic-in-toy-blocks-by-2032-without-passing-higher-costs-on-to-consumers/)  
+   Link: <a href="https://fortune.com/europe/2024/03/18/lego-ceo-promises-to-use-more-expensive-renewable-plastic-in-toy-blocks-by-2032-without-passing-higher-costs-on-to-consumers/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/europe/2024/03/18/lego-ceo-promises-to-use-more-expensive-renewable-plastic-in-toy-blocks-by-2032-without-passing-higher-costs-on-to-consumers/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego CEO promises to use more expensive, renewable plastic in toy blocks by 2032 – without passing higher costs to consumers | FortuneMar...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: equities.com  
-   Link: [https://www.equities.com/impact-investing/lego-group-more-than-doubles-the-renewable-resources-in-its-kid-friendly-bricks-in-2024/](https://www.equities.com/impact-investing/lego-group-more-than-doubles-the-renewable-resources-in-its-kid-friendly-bricks-in-2024/)  
+   Link: <a href="https://www.equities.com/impact-investing/lego-group-more-than-doubles-the-renewable-resources-in-its-kid-friendly-bricks-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.equities.com/impact-investing/lego-group-more-than-doubles-the-renewable-resources-in-its-kid-friendly-bricks-in-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group more than doubles the renewable resources in its kid-friendly bricks in 2024 - Equities.comMarch 13, 2025 — LEGO GROUP MORE TH...</p></details>
    Published: March 13, 2025  
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026](https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/aug/28/lego-plans-to-make-half-the-plastic-in-bricks-from-renewable-materials-by-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego plans to make half the plastic in bricks from renewable materials by 2026 | Lego | The GuardianAugust 28, 2024 — Image: Children pla...</p></details>
    Published: August 28, 2024  
 
 8. <a id="endnote-8"></a>
    Source: ndtv.com  
    Title: www.ndtv.com Lego Announces Plan To Swap Oil-Based Bricks With Renewable Plastic  
-   Link: [https://www.ndtv.com/world-news/lego-announces-plan-to-swap-oil-based-bricks-with-renewable-plastic-6458111](https://www.ndtv.com/world-news/lego-announces-plan-to-swap-oil-based-bricks-with-renewable-plastic-6458111)  
+   Link: <a href="https://www.ndtv.com/world-news/lego-announces-plan-to-swap-oil-based-bricks-with-renewable-plastic-6458111" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/lego-announces-plan-to-swap-oil-based-bricks-with-renewable-plastic-6458111</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Announces Plan To Swap Oil-Based Bricks With Renewable PlasticAugust 31, 2024 — Lego Announces Plan To Swap Oil-Based Bricks With Re...</p></details>
    Published: August 31, 2024  
 
 9. <a id="endnote-9"></a>
    Source: ofimagazine.com  
    Title: Lego plans to make half the plastic in toy bricks from renewable…  
-   Link: [https://www.ofimagazine.com/news/lego-plans-to-make-half-the-plastic-in-toy-bricks-from-renewable-materials-by-2026](https://www.ofimagazine.com/news/lego-plans-to-make-half-the-plastic-in-toy-bricks-from-renewable-materials-by-2026)  
+   Link: <a href="https://www.ofimagazine.com/news/lego-plans-to-make-half-the-plastic-in-toy-bricks-from-renewable-materials-by-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.ofimagazine.com/news/lego-plans-to-make-half-the-plastic-in-toy-bricks-from-renewable-materials-by-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 6, 2024 — * # Lego plans to make half the plastic in toy bricks from renewable materials by 2026 Published 6th September, 2024...</p></details>
    Published: September 6, 2024  
 
 10. <a id="endnote-10"></a>
    Source: sdgnews.com  
    Title: legos bold move shifting to renewable plastic by 2026  
-   Link: [https://sdgnews.com/legos-bold-move-shifting-to-renewable-plastic-by-2026/](https://sdgnews.com/legos-bold-move-shifting-to-renewable-plastic-by-2026/)  
+   Link: <a href="https://sdgnews.com/legos-bold-move-shifting-to-renewable-plastic-by-2026/" target="_blank" rel="noopener noreferrer nofollow">https://sdgnews.com/legos-bold-move-shifting-to-renewable-plastic-by-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego&#x27;s Bold Move: Shifting to Renewable Plastic by 2026 - SDG NewsAugust 29, 2024 — LEGO’S BOLD MOVE: SHIFTING TO RENEWABLE PLASTIC BY 20...</p></details>
    Published: August 29, 2024  
 
 11. <a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: lego renewable plastics bricks fossil fuels  
-   Link: [https://www.cbsnews.com/news/lego-renewable-plastics-bricks-fossil-fuels/](https://www.cbsnews.com/news/lego-renewable-plastics-bricks-fossil-fuels/)  
+   Link: <a href="https://www.cbsnews.com/news/lego-renewable-plastics-bricks-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lego-renewable-plastics-bricks-fossil-fuels/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO to scale up use of renewable plastics in its bricks, with goal of replacing fossil fuel-based materials by 2032 - CBS NewsAugust 28...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: boingboing.net  
    Title: Lego to make bricks from renewable plastic  
-   Link: [https://boingboing.net/2024/08/30/lego-to-make-bricks-from-renewable-plastic.html](https://boingboing.net/2024/08/30/lego-to-make-bricks-from-renewable-plastic.html)  
+   Link: <a href="https://boingboing.net/2024/08/30/lego-to-make-bricks-from-renewable-plastic.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2024/08/30/lego-to-make-bricks-from-renewable-plastic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boing BoingAugust 30, 2024 — LEGO TO MAKE BRICKS FROM RENEWABLE PLASTIC Rob Beschizza 5:38 am Fri Aug 30, 2024 Image: Photo credit: Ferna...</p></details>
    Published: August 30, 2024  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Strategic Cost of Sustainable Materials in Manufacturing  
-   Link: [https://www.youtube.com/watch?v=sU149-8z6lI](https://www.youtube.com/watch?v=sU149-8z6lI)  
+   Link: <a href="https://www.youtube.com/watch?v=sU149-8z6lI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sU149-8z6lI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video is relevant because it explores the transition to renewable resins in the toy industry, explaining the financial impact and th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: green-blog.org  
    Title: Lego set to phase out oil in its bricks  
-   Link: [https://green-blog.org/2024/08/31/lego-set-to-phase-out-oil-in-its-bricks/](https://green-blog.org/2024/08/31/lego-set-to-phase-out-oil-in-its-bricks/)  
+   Link: <a href="https://green-blog.org/2024/08/31/lego-set-to-phase-out-oil-in-its-bricks/" target="_blank" rel="noopener noreferrer nofollow">https://green-blog.org/2024/08/31/lego-set-to-phase-out-oil-in-its-bricks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Green BlogAugust 31, 2024 — LEGO SET TO PHASE OUT OIL IN ITS BRICKS August 31, 2024 Iconic toymaker Lego will replace oil-based plastics...</p></details>
-   Published: August 31, 2024  
+   Published: August 31, 2024

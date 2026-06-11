@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /seasonality/
 nav_short_title: Adult Gifting
 title: How LEGO Finds Gift Moments Beyond Christmas
-title_full: How LEGO Finds Gift Moments Beyond Christmas | Seasonality
+title_full: How LEGO Finds Gift Moments Beyond Christmas
 display_title_short: Adult Gifting
 display_title: Adult Gifting
 heading_title: How LEGO Finds Gift Moments Beyond Christmas
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Toy Seasonality Tests LEGO's Strength | LEGO Antifragility
+parent_title: Why Toy Seasonality Tests LEGO's Strength
 parent_permalink: /seasonality/
 parent_nav_short_title: Seasonality
 parent_heading_title: Why Toy Seasonality Tests LEGO's Strength
@@ -259,7 +259,7 @@ next_link:
   permalink: /holiday-risk/
   short_title: Holiday Risk
   heading_title: Why Christmas Makes Toy Forecasts So Fragile
-date: '2026-06-09 03:50:33 '
+date: '2026-06-11 21:41:18 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-1.webp
@@ -270,10 +270,8 @@ image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_ad
 
 LEGO’s response to toy-market [seasonality]({{ 'seasonality/' | relative_url }}) has not been limited to making Christmas bigger. A more important shift has been the creation of new gifting occasions throughout the year, especially through products aimed at adults. By expanding into home décor, collectibles, motorsport culture and hobby-based display sets, LEGO has turned parts of its business from a children's holiday purchase into an all-year gift category.
 
-
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-1-dark.svg" | relative_url }}" alt="Adult Gifting illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters for antifragility because it reduces dependence on a single seasonal peak. Instead of concentrating demand around December, LEGO can generate additional sales around Valentine's Day, Mother's Day, birthdays, major sporting events and fan-community moments. Products designed for adults are often purchased for emotional reasons that are less tied to the traditional toy calendar, giving LEGO more opportunities to absorb shocks in one season by creating demand in another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego sales rise as bricks click with more shoppers</span><span class="citation-popover-snippet">The strong sales momentum, particularly in the U.S., continued into 2025. Lego&#x27;s CEO Niels Christiansen highlighted the popularity of new...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qv9X4qDT-JE" title="Top 10 LEGO Botanicals Sets 2025 for Adult LEGO Collectors – New Releases &amp; Display LEGO Sets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qv9X4qDT-JE" target="_blank" rel="noopener noreferrer">Top 10 LEGO Botanicals Sets 2025 for Adult LEGO Collectors – New Releases &amp; Display LEGO Sets</a></p><p class="youtube-embed-meta">Channel: Lous Bricks House &middot; Views: 2.7K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qv9X4qDT-JE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qv9X4qDT-JE">Open on YouTube</a></p></div></div></div>
 
@@ -281,12 +279,11 @@ This matters for antifragility because it reduces dependence on a single seasona
 
 Traditional toy sales are heavily concentrated around Christmas because children depend on parents and relatives for purchases. Adult-oriented LEGO sets operate differently. Many are bought either as self-gifts or as gifts between adults, creating demand that follows lifestyle and cultural occasions rather than school holidays.
 
-LEGO has spent years building an "Adults Welcome" category that includes architecture, vehicles, art, film franchises, sport-themed products and display pieces. These sets are marketed less as toys and more as hobbies, collectibles and decorative objects. The company explicitly positions them as gifts for occasions including Valentine's Day, Mother's Day and Father's Day rather than only Christmas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGOLEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
+LEGO has spent years building an "Adults Welcome" category that includes architecture, vehicles, art, film franchises, sport-themed products and display pieces. These sets are marketed less as toys and more as hobbies, collectibles and decorative objects. The company explicitly positions them as gifts for occasions including Valentine's Day, Mother's Day and Father's Day rather than only Christmas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
 From an antifragility perspective, this broadens the company's demand base. A retailer that relies mainly on children's Christmas spending faces a narrow window for success. LEGO's adult-focused portfolio creates multiple revenue checkpoints during the year. If one seasonal period disappoints, the business still has other opportunities to capture spending from different customer groups.
 
 The strategy also changes the economics of product life cycles. Many adult display sets remain relevant for longer because they are tied to enduring interests such as motorsport, film franchises, architecture or interior decoration rather than short-lived children's trends. That can reduce pressure to predict a single blockbuster toy every holiday season.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0fnVR9a4Hfg" title="Huge LEGO x Formula 1 Announcement for 2025 - What to expect from the new partnership!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0fnVR9a4Hfg" target="_blank" rel="noopener noreferrer">Huge LEGO x Formula 1 Announcement for 2025 - What to expect from the new partnership!</a></p><p class="youtube-embed-meta">Channel: RacingBrick &middot; Views: 148.9K &middot; Uploaded: September 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0fnVR9a4Hfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0fnVR9a4Hfg">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +303,6 @@ The company has also explicitly connected the theme to seasonal demand outside C
 
 For antifragility, this creates an important demand-spreading mechanism:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Valentine's Day generates a major sales opportunity in February.
@@ -318,7 +314,6 @@ For antifragility, this creates an important demand-spreading mechanism:
 </div>
 
 Each additional demand moment reduces the concentration risk associated with the holiday quarter.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-2-dark.svg" | relative_url }}" alt="Adult Gifting illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How event-led partnerships create extra demand windows
@@ -335,7 +330,6 @@ The adult appeal is particularly important. Large Technic Formula 1 models are m
 
 The broader pattern extends beyond Formula 1. LEGO increasingly organises products around passions rather than age groups: gaming, film franchises, sport, travel, architecture and home decoration. When demand follows fandoms and interests, sales become tied to multiple cultural calendars instead of one retail season.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLcPjdVRYFI" title="Lego sales rise as bricks click with more shoppers | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLcPjdVRYFI" target="_blank" rel="noopener noreferrer">Lego sales rise as bricks click with more shoppers | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 828 &middot; Uploaded: March 2025 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLcPjdVRYFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLcPjdVRYFI">Open on YouTube</a></p></div></div></div>
 
 ## Why this strengthens LEGO against seasonal volatility
@@ -347,7 +341,6 @@ Botanicals creates demand around romantic and family gifting occasions. Motorspo
 That diversification reflects an antifragile characteristic. Rather than trying to predict one dominant holiday trend, LEGO has built multiple demand channels tied to different emotions, communities and calendars. If one category weakens, another can strengthen. A Valentine's Day gifting trend, a successful Formula 1 season, a popular collector launch or a new adult hobby category can all contribute revenue outside the traditional toy peak.
 
 In practical terms, adult gifting turns LEGO from a company waiting for Christmas into a company creating new reasons to buy throughout the year. That does not remove volatility, but it distributes it across more occasions, more customer groups and more cultural moments than the toy industry historically relied upon.
-
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-3-dark.svg" | relative_url }}" alt="Adult Gifting illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -468,15 +461,15 @@ In practical terms, adult gifting turns LEGO from a company waiting for Christma
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanical Collection 40460 Roses Set"><img src="https://i.ebayimg.com/images/g/d0cAAeSwB7tplf9a/s-l225.jpg" alt="Listing image for LEGO Botanical Collection 40460 Roses Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanical Collection 40460 Roses Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Botanical set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +477,15 @@ In practical terms, adult gifting turns LEGO from a company waiting for Christma
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanicals: Plum Blossom (10369) - NEW"><img src="https://i.ebayimg.com/images/g/dgkAAeSw4BpqJ9GE/s-l225.jpg" alt="Listing image for LEGO Botanicals: Plum Blossom (10369) - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanicals: Plum Blossom (10369) - NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Botanical set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +493,31 @@ In practical terms, adult gifting turns LEGO from a company waiting for Christma
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 10313 Botanical Collection Wildflower Bouquet Building Set Brand New Sealed"><img src="https://i.ebayimg.com/images/g/2NIAAeSwpl1qJEXC/s-l225.jpg" alt="Listing image for LEGO 10313 Botanical Collection Wildflower Bouquet Building Set Brand New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 10313 Botanical Collection Wildflower Bouquet Building Set Brand New Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Botanical set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanicals Cosmos Flowers Building Set 11514"><img src="https://i.ebayimg.com/images/g/dBkAAeSwxrlqIwBS/s-l225.jpg" alt="Listing image for LEGO Botanicals Cosmos Flowers Building Set 11514" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanicals Cosmos Flowers Building Set 11514</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Botanical set</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,7 +525,7 @@ In practical terms, adult gifting turns LEGO from a company waiting for Christma
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Botanical set" data-ebay-reference="how-lego-finds-gift-moments-beyond-christmas-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -726,171 +735,172 @@ In practical terms, adult gifting turns LEGO from a company waiting for Christma
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: Lego sales rise as bricks click with more shoppers  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/](https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strong sales momentum, particularly in the U.S., continued into 2025. Lego&#x27;s CEO Niels Christiansen highlighted the popularity of new...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-us/categories/adults-welcome](https://www.lego.com/en-us/categories/adults-welcome)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
+   Link: <a href="https://www.lego.com/en-us/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/categories/adults-welcome</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb](https://www.lego.com/en-gb)  
+   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals](https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Botanicals for Every OccasionAdults welcome. LEGO® Botanicals for Every Occasion. LEGO® Botanicals... They say the heart wants...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/gifting-with-botanicals</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Botanicals for Every OccasionAdults welcome. LEGO® Botanicals for Every Occasion. LEGO® Botanicals... They say the heart wants...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/seasonal/mothers-day](https://www.lego.com/en-gb/seasonal/mothers-day)  
+   Link: <a href="https://www.lego.com/en-gb/seasonal/mothers-day" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/seasonal/mothers-day</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion. They offer a wide variety of beautifully vibrant floral...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: finance.yahoo.com  
    Title: lego builds record earnings botanical 170516106  
-   Link: [https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html](https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html)  
+   Link: <a href="https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/lego-builds-record-earnings-botanical-170516106.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLego builds record earnings from botanical-themed bricks...Aug 27, 2025 — A growing portfolio of Lego brick sets, led by th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: formula1.com  
    Title: Formula 1®  
-   Link: [https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB](https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB)  
+   Link: <a href="https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB" target="_blank" rel="noopener noreferrer nofollow">https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official F1® WebsiteFormula 1 and The LEGO Group build partnership from 2025September 18, 2024 — 18 Sept 2024 — Formula 1 and The LEG...</p></details>
    Published: September 18, 2024  
 
 8. <a id="endnote-8"></a>
    Source: lego.com  
    Title: & F1 Partnership Announcement  
-   Link: [https://www.lego.com/en-us/aboutus/news/2024/september/lego-f1-partnership-announcement](https://www.lego.com/en-us/aboutus/news/2024/september/lego-f1-partnership-announcement)  
+   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/september/lego-f1-partnership-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/september/lego-f1-partnership-announcement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us18 Sept 2024 — The LEGO Group and Formula 1 announced a new, multi-year partnership to connect more fans of LEGO® building with t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lego.com  
    Title: 2025 formula 1 season  
-   Link: [https://www.lego.com/en-gb/families/formula1/article/2025-formula-1-season](https://www.lego.com/en-gb/families/formula1/article/2025-formula-1-season)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOA look ahead to the 2025 Formula 1® season16 Mar 2025 — We&#x27;ll be hosting a special LEGO Fan Zone at the FORMULA 1 AUSTRALIAN GRAND PR...</p></details>
+   Link: <a href="https://www.lego.com/en-gb/families/formula1/article/2025-formula-1-season" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/families/formula1/article/2025-formula-1-season</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A look ahead to the 2025 Formula 1® season16 Mar 2025 — We&#x27;ll be hosting a special LEGO Fan Zone at the FORMULA 1 AUSTRALIAN GRAND PR...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lego.com  
-   Link: [https://www.lego.com/en-gb/aboutus](https://www.lego.com/en-gb/aboutus)  
+   Link: <a href="https://www.lego.com/en-gb/aboutus" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/aboutus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comFounded in 1932 by Ole Kirk Kristiansen, and based on the iconic LEGO® brick, it is one of the world&#x27;s leading manufac...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
    Title: lego outperforms toy market with robust sales europe north america 2024 08 28  
-   Link: [https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/](https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — Lego sales rose 13% in first half of 2024 · The company grabbed...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: helped by brand tie ups legos first half sales hit record 2025 08 27  
-   Link: [https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/](https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Helped by brand tie-ups, Lego&#x27;s first-half sales hit a record27 Aug 2025 — COPENHAGEN, Aug 27 (Reuters) - Danish toymaker Lego said on We...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: finance.yahoo.com  
    Title: lego sales rise bricks click 114231874  
-   Link: [https://finance.yahoo.com/video/lego-sales-rise-bricks-click-114231874.html](https://finance.yahoo.com/video/lego-sales-rise-bricks-click-114231874.html)  
+   Link: <a href="https://finance.yahoo.com/video/lego-sales-rise-bricks-click-114231874.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/video/lego-sales-rise-bricks-click-114231874.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sales rise as bricks click with more shoppersLego&#x27;s overall revenue for 2024 grew 13% to $10.82 billion up from 2% growth the year before...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: marketingweek.com  
    Title: lego partnerships new audiences  
-   Link: [https://www.marketingweek.com/lego-partnerships-new-audiences/](https://www.marketingweek.com/lego-partnerships-new-audiences/)  
+   Link: <a href="https://www.marketingweek.com/lego-partnerships-new-audiences/" target="_blank" rel="noopener noreferrer nofollow">https://www.marketingweek.com/lego-partnerships-new-audiences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing WeekLego on using tie-ups to &#x27;buck the trend&#x27; in the toy sector2 Apr 2025 — Now its Lego Botanicals range of flower constructio...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: brandsuntapped.com  
    Title: lego and formula 1 to kick off multi year partnership in 2025  
-   Link: [https://www.brandsuntapped.com/lego-and-formula-1-to-kick-off-multi-year-partnership-in-2025/](https://www.brandsuntapped.com/lego-and-formula-1-to-kick-off-multi-year-partnership-in-2025/)  
+   Link: <a href="https://www.brandsuntapped.com/lego-and-formula-1-to-kick-off-multi-year-partnership-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandsuntapped.com/lego-and-formula-1-to-kick-off-multi-year-partnership-in-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brands UntappedLEGO and Formula 1 to kick off multi-year partnership in...20 Sept 2024 — The LEGO Group and Formula 1 are embarking on a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: roadandtrack.com  
    Title: Road & Track Lego Unveils Massive F1 Technic Mc Laren MCL39 Set-Preorder Now  
-   Link: [https://www.roadandtrack.com/gear/a70407981/lego-f1-championship-technic-mclaren/](https://www.roadandtrack.com/gear/a70407981/lego-f1-championship-technic-mclaren/)  
+   Link: <a href="https://www.roadandtrack.com/gear/a70407981/lego-f1-championship-technic-mclaren/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadandtrack.com/gear/a70407981/lego-f1-championship-technic-mclaren/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This detailed model is intended for [adult fans](&amp;#123;&amp;#123; &#x27;adult-fans/&#x27; | relative_url &amp;#125;&amp;#125;) and motorsport enthusiasts and represents the actual vehicle driven by Lando Norris and Os...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: A beautiful bouquet of flowers  
-   Link: [https://www.facebook.com/LEGO/posts/a-beautiful-bouquet-of-flowers-so-realistic-you-could-almost-smell-them-the-bota/10158122058798403/](https://www.facebook.com/LEGO/posts/a-beautiful-bouquet-of-flowers-so-realistic-you-could-almost-smell-them-the-bota/10158122058798403/)  
+   Link: <a href="https://www.facebook.com/LEGO/posts/a-beautiful-bouquet-of-flowers-so-realistic-you-could-almost-smell-them-the-bota/10158122058798403/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGO/posts/a-beautiful-bouquet-of-flowers-so-realistic-you-could-almost-smell-them-the-bota/10158122058798403/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOWhether you&#x27;re decorating your desk, brightening your kitchen, or gifting a loved one, LEGO Botanicals add a personal touch that&#x27;s un...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lego](https://en.wikipedia.org/wiki/Lego)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: coolshop.co.uk  
-   Link: [https://www.coolshop.co.uk/toys/brand%3Dlego/](https://www.coolshop.co.uk/toys/brand%3Dlego/)  
+   Link: <a href="https://www.coolshop.co.uk/toys/brand%3Dlego/" target="_blank" rel="noopener noreferrer nofollow">https://www.coolshop.co.uk/toys/brand%3Dlego/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO - Buy cheap LEGO and toys with free shippingLEGO is the perfect gift for those who love to play, be creative and create something fr...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: as.com  
-   Link: [https://as.com/meristation/noticias/lego-celebra-el-comienzo-del-mundial-de-f1-con-todos-los-coches-de-la-parrilla-n/](https://as.com/meristation/noticias/lego-celebra-el-comienzo-del-mundial-de-f1-con-todos-los-coches-de-la-parrilla-n/)  
+   Link: <a href="https://as.com/meristation/noticias/lego-celebra-el-comienzo-del-mundial-de-f1-con-todos-los-coches-de-la-parrilla-n/" target="_blank" rel="noopener noreferrer nofollow">https://as.com/meristation/noticias/lego-celebra-el-comienzo-del-mundial-de-f1-con-todos-los-coches-de-la-parrilla-n/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Esta colaboración incluye actividades en 13 carreras clave de F1, contenidos digitales, experiencias en tiendas LEGO y LEGO Discovery Cen...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: blocksmag.com  
-   Link: [https://blocksmag.com/the-lego-group-sees-sales-and-profits-increase-while-using-more-sustainable-[materials](https://blocksmag.com/the-lego-group-sees-sales-and-profits-increase-while-using-more-sustainable-[materials)  
+   Link: <a href="https://blocksmag.com/the-lego-group-sees-sales-and-profits-increase-while-using-more-sustainable-[materials" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/the-lego-group-sees-sales-and-profits-increase-while-using-more-sustainable-[materials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group sees sales and profits increase while using...28 Aug 2024 — The LEGO Group reported a strong start to 2024, with sales in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LEGO/videos/keep-mothers-day-fresh/1726324321864455/](https://www.facebook.com/LEGO/videos/keep-mothers-day-fresh/1726324321864455/)  
+   Link: <a href="https://www.facebook.com/LEGO/videos/keep-mothers-day-fresh/1726324321864455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGO/videos/keep-mothers-day-fresh/1726324321864455/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Botanicals is two gifts in one. Her favorite blooms plus time with you. This Mother&#x27;s Day, give her LEGO...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: amazon.co.uk  
    Title: LEGOLEGO Editions Lionel Messi – Football Legend Toy  
-   Link: [https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D](https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D)  
+   Link: <a href="https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3D Figure Display Model Kit - DIY Kids&#x27; Room Decor - Gift for 12+ Year Old Boys, G...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: the formula 1 miami grand prix 2025 drivers parade was a whirlwind  
-   Link: [https://www.facebook.com/LEGO/posts/the-formula-1-miami-grand-prix-2025-drivers-parade-was-a-whirlwind/1139545164882619/](https://www.facebook.com/LEGO/posts/the-formula-1-miami-grand-prix-2025-drivers-parade-was-a-whirlwind/1139545164882619/)  
+   Link: <a href="https://www.facebook.com/LEGO/posts/the-formula-1-miami-grand-prix-2025-drivers-parade-was-a-whirlwind/1139545164882619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGO/posts/the-formula-1-miami-grand-prix-2025-drivers-parade-was-a-whirlwind/1139545164882619/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FORMULA 1 MIAMI GRAND PRIX 2025 Drivers...It&#x27;s really enjoyable to watch the F1 drivers for the first time not stress but having a g...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: These lego flowers sets from B&M Stores will last a lifetime!  
-   Link: [https://www.facebook.com/themandercentre/posts/these-lego-flowers-sets-from-bm-stores-will-last-a-lifetime-they-just-require-so/867205365577613/](https://www.facebook.com/themandercentre/posts/these-lego-flowers-sets-from-bm-stores-will-last-a-lifetime-they-just-require-so/867205365577613/)  
+   Link: <a href="https://www.facebook.com/themandercentre/posts/these-lego-flowers-sets-from-bm-stores-will-last-a-lifetime-they-just-require-so/867205365577613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themandercentre/posts/these-lego-flowers-sets-from-bm-stores-will-last-a-lifetime-they-just-require-so/867205365577613/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;re looking for a flower gift with a difference, the LEGO Flower Bouquet (10280) is an inspired choice. Whether you&#x27;re treating a l...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: idisplayit.co.uk  
    Title: last minute lego valentines day gift ideas  
-   Link: [https://www.idisplayit.co.uk/news/lego-releases/last-minute-lego-valentines-day-gift-ideas/?srsltid=AfmBOorMbTxirkMjCSiDdlhGlpfTUwD6tIYtv7EGca59yQBW93DGE5AS](https://www.idisplayit.co.uk/news/lego-releases/last-minute-lego-valentines-day-gift-ideas/?srsltid=AfmBOorMbTxirkMjCSiDdlhGlpfTUwD6tIYtv7EGca59yQBW93DGE5AS)  
+   Link: <a href="https://www.idisplayit.co.uk/news/lego-releases/last-minute-lego-valentines-day-gift-ideas/?srsltid=AfmBOorMbTxirkMjCSiDdlhGlpfTUwD6tIYtv7EGca59yQBW93DGE5AS" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/last-minute-lego-valentines-day-gift-ideas/?srsltid=AfmBOorMbTxirkMjCSiDdlhGlpfTUwD6tIYtv7EGca59yQBW93DGE5AS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Last-Minute LEGO Valentine&#x27;s Day Gift Ideas9 Feb 2026 — Last-minute LEGO Valentine&#x27;s Day gift ideas, delivery deadlines &amp; top picks inclu...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: brickfanatics.com  
    Title: lego new partnership formula 1 2025 beyond  
-   Link: [https://www.brickfanatics.com/lego-new-partnership-formula-1-2025-beyond](https://www.brickfanatics.com/lego-new-partnership-formula-1-2025-beyond)  
+   Link: <a href="https://www.brickfanatics.com/lego-new-partnership-formula-1-2025-beyond" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-new-partnership-formula-1-2025-beyond</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO announces new partnership with Formula 1 for 2025...18 Sept 2024 — 2025 will be the year of LEGO Formula 1, thanks to a multi-year...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: amazon.co.uk  
    Title: LEG O® Botanicals LEGO Botanicals Daisies  
-   Link: [https://www.amazon.co.uk/stores/LEGO/page/9AB67270-060E-4DCE-93C3-6BB99823931C](https://www.amazon.co.uk/stores/LEGO/page/9AB67270-060E-4DCE-93C3-6BB99823931C)  
+   Link: <a href="https://www.amazon.co.uk/stores/LEGO/page/9AB67270-060E-4DCE-93C3-6BB99823931C" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/LEGO/page/9AB67270-060E-4DCE-93C3-6BB99823931C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® BotanicalsLEGO Botanicals Daisies - Artificial Flower Bouquet - Gift for Mother&#x27;s Day incl. Faux Daisies &amp; Lavender - DIY Bedroom D...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: jaysbrickblog.com  
    Title: lego and formula 1 2025 partnership  
-   Link: [https://jaysbrickblog.com/news/lego-and-formula-1-2025-partnership/](https://jaysbrickblog.com/news/lego-and-formula-1-2025-partnership/)  
+   Link: <a href="https://jaysbrickblog.com/news/lego-and-formula-1-2025-partnership/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-and-formula-1-2025-partnership/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO and Formula 1 announce multi-year partnership...18 Sept 2024 — The LEGO Group and Formula 1 have officially announced a new multi-y...</p></details>
