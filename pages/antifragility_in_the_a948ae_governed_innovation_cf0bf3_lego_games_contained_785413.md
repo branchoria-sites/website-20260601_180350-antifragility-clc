@@ -274,14 +274,14 @@ image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_leg
 
 ## Introduction
 
-LEGO Games was not just a toy line. It was a controlled experiment in how far LEGO could expand beyond its traditional categories without repeating the mistakes that had nearly pushed the company into crisis a few years earlier. After the failed diversification efforts of the late 1990s and early 2000s, LEGO became much more careful about how it tested new ideas. The board-game range launched in 2009 explored a different play occasion — family tabletop gaming — but it did so while remaining tightly connected to the [brick system]({{ 'brick-system/' | relative_url }}), LEGO design culture and internal innovation governance. Rather than betting the company on an entirely new business model, LEGO turned the category into a bounded test whose risks could be observed, limited and adjusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boardgamegeek.com/boardgamefamily/2909/series-lego-games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boardgamegeek.com">[BoardGameGeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boardgamegeek.com</span><span class="citation-popover-snippet">Series: LEGO Games &#124; FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</span></span></span>
+LEGO Games was not just a toy line. It was a controlled experiment in how far LEGO could expand beyond its traditional categories without repeating the mistakes that had nearly pushed the company into crisis a few years earlier. After the failed diversification efforts of the late 1990s and early 2000s, LEGO became much more careful about how it tested new ideas. The board-game range launched in 2009 explored a different play occasion — family tabletop gaming — but it did so while remaining tightly connected to the [brick system]({{ 'brick-system/' | relative_url }}), LEGO design culture and internal innovation governance. Rather than betting the company on an entirely new business model, LEGO turned the category into a bounded test whose risks could be observed, limited and adjusted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://boardgamegeek.com/boardgamefamily/2909/series-lego-games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boardgamegeek.com">[BoardGameGeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boardgamegeek.com</span><span class="citation-popover-snippet">Series: LEGO Games &#124; FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-1-dark.svg" | relative_url }}" alt="LEGO Games illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In antifragility terms, LEGO Games mattered because it allowed the company to learn from experimentation without exposing itself to the kind of uncontrolled downside that had characterised earlier expansion efforts. The project widened LEGO’s understanding of play while keeping failure manageable and knowledge reusable.
 
 ## The Board Games That Tested Safer Innovation
 
-When LEGO introduced LEGO Games in 2009, the idea sounded unusual: buildable board games assembled from LEGO elements, often featuring a customisable LEGO dice and boards that players constructed themselves. The first wave included titles such as *Minotaurus*, *Ramses Pyramid*, *Creationary* and *Pirate Code*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+When LEGO introduced LEGO Games in 2009, the idea sounded unusual: buildable board games assembled from LEGO elements, often featuring a customisable LEGO dice and boards that players constructed themselves. The first wave included titles such as *Minotaurus*, *Ramses Pyramid*, *Creationary* and *Pirate Code*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
 What made the launch strategically important was not simply the games themselves. LEGO was entering a category that already contained established competitors and different consumer expectations. Traditional board games depended on rules, replayability and family interaction rather than the open-ended construction play that defined LEGO’s core business.
 
@@ -295,7 +295,7 @@ The answer was tested through several constraints:
 * Construction remained part of the play experience.
 * Components could often be rebuilt or modified.
 * Manufacturing used familiar LEGO capabilities.
-* The products sat within LEGO’s existing retail and brand ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+* The products sat within LEGO’s existing retail and brand ecosystem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
 </div>
 
@@ -305,11 +305,11 @@ That distinction mattered. Earlier failed diversification efforts had often stre
 
 ## Why Buildable Board Games Were a Bounded Experiment
 
-The most revealing feature of LEGO Games was how carefully its risks were contained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+The most revealing feature of LEGO Games was how carefully its risks were contained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
-A conventional diversification push might have required LEGO to acquire a major games company, build a separate publishing division or develop an entirely new operational structure. LEGO Games avoided those commitments. The products largely reused the company's existing strengths: plastic elements, family branding, child-focused design and global distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-title">Business School Innovation at the LEGO Group (B</span><span class="citation-popover-snippet">They include: 1) Restructuring the company to make responsibility...</span></span></span>
+A conventional diversification push might have required LEGO to acquire a major games company, build a separate publishing division or develop an entirely new operational structure. LEGO Games avoided those commitments. The products largely reused the company's existing strengths: plastic elements, family branding, child-focused design and global distribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-title">Business School Innovation at the LEGO Group (B</span><span class="citation-popover-snippet">They include: 1) Restructuring the company to make responsibility...</span></span></span>
 
-Even the core innovation — the LEGO Dice with interchangeable faces — reflected this logic. Rather than introducing a completely foreign mechanism, LEGO created a game component that remained physically compatible with the building system. The experiment therefore generated learning about game design while still reinforcing the value of LEGO construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+Even the core innovation — the LEGO Dice with interchangeable faces — reflected this logic. Rather than introducing a completely foreign mechanism, LEGO created a game component that remained physically compatible with the building system. The experiment therefore generated learning about game design while still reinforcing the value of LEGO construction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
 This created several layers of protection:
 
@@ -326,13 +326,13 @@ These characteristics are precisely what distinguished the initiative from the s
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-2-dark.svg" | relative_url }}" alt="LEGO Games illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Concept Lab and Community Input Shaped the Launch
 
-LEGO’s post-crisis innovation system placed greater emphasis on structured experimentation. An important part of that system was the Concept Lab, which was tasked with developing ideas that were recognisably LEGO while still introducing something genuinely new. An IMD business-school case on LEGO’s innovation changes notes that the Concept Lab was separated and refocused around creating ideas that were “obviously LEGO but never seen before”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-title">Business School Innovation at the LEGO Group (B</span><span class="citation-popover-snippet">They include: 1) Restructuring the company to make responsibility...</span></span></span>
+LEGO’s post-crisis innovation system placed greater emphasis on structured experimentation. An important part of that system was the Concept Lab, which was tasked with developing ideas that were recognisably LEGO while still introducing something genuinely new. An IMD business-school case on LEGO’s innovation changes notes that the Concept Lab was separated and refocused around creating ideas that were “obviously LEGO but never seen before”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-title">Business School Innovation at the LEGO Group (B</span><span class="citation-popover-snippet">They include: 1) Restructuring the company to make responsibility...</span></span></span>
 
-Lego Games(#endnote-3 "Endnote 3") fit that description closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+Lego Games(#endnote-3 "Endnote 3") fit that description closely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
-BoardGameGeek's historical overview notes that the range originated inside LEGO's secret ConceptLAB before reaching market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boardgamegeek.com/boardgamefamily/2909/series-lego-games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boardgamegeek.com">[BoardGameGeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boardgamegeek.com</span><span class="citation-popover-snippet">Series: LEGO Games &#124; FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</span></span></span> The concept was neither a simple extension of existing sets nor a leap into a disconnected industry. It occupied an intermediate space where LEGO could test whether building, rules and social gameplay could reinforce one another.
+BoardGameGeek's historical overview notes that the range originated inside LEGO's secret ConceptLAB before reaching market.<span class="citation-chip-wrap"><a class="citation-chip" href="https://boardgamegeek.com/boardgamefamily/2909/series-lego-games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boardgamegeek.com">[BoardGameGeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boardgamegeek.com</span><span class="citation-popover-snippet">Series: LEGO Games &#124; FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</span></span></span> The concept was neither a simple extension of existing sets nor a leap into a disconnected industry. It occupied an intermediate space where LEGO could test whether building, rules and social gameplay could reinforce one another.
 
-The project also drew on expertise beyond traditional toy design. The games involved established game-design contributors including Reiner Knizia and Bernie DeKoven, while designer Cephas Howard played a central role in developing the range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+The project also drew on expertise beyond traditional toy design. The games involved established game-design contributors including Reiner Knizia and Bernie DeKoven, while designer Cephas Howard played a central role in developing the range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
 That combination reflects another post-crisis LEGO habit: innovation became more networked and evidence-driven rather than purely intuition-led. Instead of assuming internal designers could solve every problem alone, LEGO imported specialised knowledge while keeping ownership of the overall system.
 
@@ -344,7 +344,7 @@ Community response also became part of the learning process. Because LEGO fans a
 
 The contrast with failed pre-turnaround initiatives becomes clearer when examining what LEGO Games did not require.
 
-Galidor pushed LEGO toward a model centred on action figures, television tie-ins and specialised moulds that did not reinforce the broader construction ecosystem. Clikits attempted to reach new audiences through products that sat awkwardly beside the core building identity. Both represented forms of expansion where success depended on consumers embracing something substantially different from the traditional LEGO experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-title">Business School Innovation at the LEGO Group (B</span><span class="citation-popover-snippet">They include: 1) Restructuring the company to make responsibility...</span></span></span>
+Galidor pushed LEGO toward a model centred on action figures, television tie-ins and specialised moulds that did not reinforce the broader construction ecosystem. Clikits attempted to reach new audiences through products that sat awkwardly beside the core building identity. Both represented forms of expansion where success depended on consumers embracing something substantially different from the traditional LEGO experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-title">Business School Innovation at the LEGO Group (B</span><span class="citation-popover-snippet">They include: 1) Restructuring the company to make responsibility...</span></span></span>
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Lego Games]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BoardGameGeekSeries: LEGO Games &#124; FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</span></span></span> worked differently.
 
@@ -356,7 +356,7 @@ Rather than asking customers to leave the LEGO system, it invited them to use th
 * Pieces remained recognisably LEGO elements.
 * Building often continued during gameplay.
 * Rules encouraged physical interaction with constructed objects.
-* Many games could be modified or rebuilt by players. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
+* Many games could be modified or rebuilt by players.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Games</span><span class="citation-popover-snippet">Lego Games</span></span></span>
 
 </div>
 
@@ -387,194 +387,194 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lt1Y2wKErPI" title="All Lego Games Sets(2009-2013)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lt1Y2wKErPI" target="_blank" rel="noopener noreferrer">All Lego Games Sets(2009-2013)</a></p><p class="youtube-embed-meta">Channel: MilkyWay &middot; Views: 17.7K &middot; Uploaded: April 2020 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lt1Y2wKErPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lt1Y2wKErPI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Board Games That Tested Safer Innovation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Board Games That Tested Safer Innovation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains LEGO&#x27;s controlled experimentation approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains LEGO&#x27;s controlled experimentation approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Matches the idea of bounded tests and iterative learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Matches the idea of bounded tests and iterative learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creative Confidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10534005-M.jpg" alt="Cover for Creative Confidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creative Confidence">Creative Confidence</a>
-        </h4>
-        <p class="fr-book-author">By Tom Kelley, David Kelley et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creative Confidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10534005-M.jpg" alt="Cover for Creative Confidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creative Confidence">Creative Confidence</a>
+</h4>
+<p class="fr-book-author">By Tom Kelley, David Kelley et al.</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Creative ability, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Problem Solving, BUSINESS &amp; ECONOMICS / Career...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Creative ability, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Problem Solving, BUSINESS &amp; ECONOMICS / Career...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s experimentation framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s experimentation framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Creative+Confidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creative Confidence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Creative+Confidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creative Confidence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 3865 City Alarm Board Game - 100% Complete with Instructions"><img src="https://i.ebayimg.com/images/g/sfgAAeSwVGZqJoNl/s-l225.jpg" alt="Listing image for LEGO 3865 City Alarm Board Game - 100% Complete with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">LEGO 3865 City Alarm Board Game - 100% Complete with Instructions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 3865 City Alarm Board Game - 100% Complete with Instructions"><img src="https://i.ebayimg.com/images/g/sfgAAeSwVGZqJoNl/s-l225.jpg" alt="Listing image for LEGO 3865 City Alarm Board Game - 100% Complete with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">LEGO 3865 City Alarm Board Game - 100% Complete with Instructions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Champion Board Game Complete Set"><img src="https://i.ebayimg.com/images/g/FZIAAeSw47pqJbcE/s-l225.jpg" alt="Listing image for LEGO Champion Board Game Complete Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">LEGO Champion Board Game Complete Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Champion Board Game Complete Set"><img src="https://i.ebayimg.com/images/g/FZIAAeSw47pqJbcE/s-l225.jpg" alt="Listing image for LEGO Champion Board Game Complete Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">LEGO Champion Board Game Complete Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VERY RARE - LEGO Friends 40265 Tic-Tac-Toe Board Game 2017 Edition"><img src="https://i.ebayimg.com/images/g/qAkAAeSwyF1pRJCC/s-l225.jpg" alt="Listing image for VERY RARE - LEGO Friends 40265 Tic-Tac-Toe Board Game 2017 Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">VERY RARE - LEGO Friends 40265 Tic-Tac-Toe Board Game 2017 Edition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VERY RARE - LEGO Friends 40265 Tic-Tac-Toe Board Game 2017 Edition"><img src="https://i.ebayimg.com/images/g/qAkAAeSwyF1pRJCC/s-l225.jpg" alt="Listing image for VERY RARE - LEGO Friends 40265 Tic-Tac-Toe Board Game 2017 Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">VERY RARE - LEGO Friends 40265 Tic-Tac-Toe Board Game 2017 Edition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Games: DC Super Heroes Batman Board Game (50003) brand new Retired Set Che"><img src="https://i.ebayimg.com/images/g/NigAAeSwOeFqGV2c/s-l225.jpg" alt="Listing image for LEGO Games: DC Super Heroes Batman Board Game (50003) brand new Retired Set Che" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">LEGO Games: DC Super Heroes Batman Board Game (50003) brand new Retired Set Che</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Games: DC Super Heroes Batman Board Game (50003) brand new Retired Set Che"><img src="https://i.ebayimg.com/images/g/NigAAeSwOeFqGV2c/s-l225.jpg" alt="Listing image for LEGO Games: DC Super Heroes Batman Board Game (50003) brand new Retired Set Che" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">LEGO Games: DC Super Heroes Batman Board Game (50003) brand new Retired Set Che</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-board-games-that-tested-safer-innovation-lego-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO board game" data-ebay-reference="the-board-games-that-tested-safer-innovation-lego-board-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,150 +780,150 @@ From an antifragility perspective, LEGO Games was valuable precisely because it 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: boardgamegeek.com  
-   Link: <a href="https://boardgamegeek.com/boardgamefamily/2909/series-lego-games" target="_blank" rel="noopener noreferrer nofollow">https://boardgamegeek.com/boardgamefamily/2909/series-lego-games</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Series: LEGO Games | FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</p></details>
+   Link:<a href="https://boardgamegeek.com/boardgamefamily/2909/series-lego-games" target="_blank" rel="noopener noreferrer nofollow">https://boardgamegeek.com/boardgamefamily/2909/series-lego-games</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Series: LEGO Games | FamilyLEGO Games is a range of buildable board games for kids, the concept was originally developed in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imd.org  
    Title: Business School Innovation at the LEGO Group (B)  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They include: 1) Restructuring the company to make responsibility...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They include: 1) Restructuring the company to make responsibility...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Lego Games  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Games</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Games" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Games</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/smart-play/article/innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/smart-play/article/innovation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How we made the LEGO® SMART Play™ systemDiscover the innovation behind the LEGO® SMART Play™ system and the SMART Brick, and learn more a...</p></details>
+   Link:<a href="https://www.lego.com/en-us/smart-play/article/innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/smart-play/article/innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How we made the LEGO® SMART Play™ systemDiscover the innovation behind the LEGO® SMART Play™ system and the SMART Brick, and learn more a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
    Title: 25 Years of LEGO® Games | Official LEGO® Shop NLEpisode 0  
-   Link: <a href="https://www.lego.com/en-nl/legogames-25-subpage" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/legogames-25-subpage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction · Episode 1 - Minecraft · Episode 2 - Fluid Play · Episode 3 - Holiday Special · Episode 4 - LEGO Island · Episode 5 - Unity...</p></details>
+   Link:<a href="https://www.lego.com/en-nl/legogames-25-subpage" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/legogames-25-subpage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction · Episode 1 - Minecraft · Episode 2 - Fluid Play · Episode 3 - Holiday Special · Episode 4 - LEGO Island · Episode 5 - Unity...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: boardgamegeek.com  
-   Link: <a href="https://boardgamegeek.com/video/544981/series-lego-games/lego-games-overview-and-reminiscences" target="_blank" rel="noopener noreferrer nofollow">https://boardgamegeek.com/video/544981/series-lego-games/lego-games-overview-and-reminiscences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Overview &amp; Reminiscences | VideoLego Games (stylized as LEGO Games) is a discontinued product range of the construction toy Le...</p></details>
+   Link:<a href="https://boardgamegeek.com/video/544981/series-lego-games/lego-games-overview-and-reminiscences" target="_blank" rel="noopener noreferrer nofollow">https://boardgamegeek.com/video/544981/series-lego-games/lego-games-overview-and-reminiscences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Overview &amp; Reminiscences | VideoLego Games (stylized as LEGO Games) is a discontinued product range of the construction toy Le...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: boardgamegeek.com  
-   Link: <a href="https://boardgamegeek.com/geeklist/152243/a-brick-breakdown-guide-to-lego-games" target="_blank" rel="noopener noreferrer nofollow">https://boardgamegeek.com/geeklist/152243/a-brick-breakdown-guide-to-lego-games</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brick Breakdown Guide to LEGO GamesThis is comprehensive guide to LEGO Games brought to you by the Brick Breakdown. Why this List was M...</p></details>
+   Link:<a href="https://boardgamegeek.com/geeklist/152243/a-brick-breakdown-guide-to-lego-games" target="_blank" rel="noopener noreferrer nofollow">https://boardgamegeek.com/geeklist/152243/a-brick-breakdown-guide-to-lego-games</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brick Breakdown Guide to LEGO GamesThis is comprehensive guide to LEGO Games brought to you by the Brick Breakdown. Why this List was M...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Lt1Y2wKErPI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Lt1Y2wKErPI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Review: 3862 Harry Potter Hogwarts...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Lt1Y2wKErPI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Lt1Y2wKErPI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Review: 3862 Harry Potter Hogwarts...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=YS3jEF5D5Jo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YS3jEF5D5Jo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best LEGO Game You&#x27;ve Never Heard Of...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YS3jEF5D5Jo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YS3jEF5D5Jo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best LEGO Game You&#x27;ve Never Heard Of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=_seAOLrkbUk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_seAOLrkbUk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games: Sunblock...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_seAOLrkbUk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_seAOLrkbUk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games: Sunblock...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: LEGO Games: Sunblock  
-   Link: <a href="http://www.youtube.com/watch?v=qg8Aw4DRX08" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qg8Aw4DRX08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Ninjago...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qg8Aw4DRX08" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qg8Aw4DRX08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Ninjago...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: LEGO Games Ninjago  
-   Link: <a href="http://www.youtube.com/watch?v=FTT9tj_Uuso" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FTT9tj_Uuso</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Games board games review 2009 All Lego Games Sets(2009-2013) MilkyWay...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FTT9tj_Uuso" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FTT9tj_Uuso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Games board games review 2009 All Lego Games Sets(2009-2013) MilkyWay...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brickset.com  
    Title: year 2009  
-   Link: <a href="https://brickset.com/sets/theme-Games/year-2009" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/sets/theme-Games/year-2009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games | 2009Knights&#x27; Kingdom Board Game · 3592: Knights&#x27; Kingdom Board Game · Robo Champ · 3835: Robo Champ · Magikus · 3836: Magiku...</p></details>
+   Link:<a href="https://brickset.com/sets/theme-Games/year-2009" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/sets/theme-Games/year-2009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games | 2009Knights&#x27; Kingdom Board Game · 3592: Knights&#x27; Kingdom Board Game · Robo Champ · 3835: Robo Champ · Magikus · 3836: Magiku...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/LEGO-Games-3843-Ramses-Pyramid/dp/B001U3Y5X4" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/LEGO-Games-3843-Ramses-Pyramid/dp/B001U3Y5X4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games 3843: Ramses PyramidLEGO Games 3843: Ramses Pyramid · Warning. Not suitable for children under 36 months. · Warning. To be use...</p></details>
+   Link:<a href="https://www.amazon.co.uk/LEGO-Games-3843-Ramses-Pyramid/dp/B001U3Y5X4" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/LEGO-Games-3843-Ramses-Pyramid/dp/B001U3Y5X4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games 3843: Ramses PyramidLEGO Games 3843: Ramses Pyramid · Warning. Not suitable for children under 36 months. · Warning. To be use...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F-bhivnTbhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F-bhivnTbhc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Ramses Pyramid (Behind the Scenes)I&#x27;m going to explain you the rules to this game called rams&#x27;s pyramid and basically we&#x27;ve se...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F-bhivnTbhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F-bhivnTbhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games Ramses Pyramid (Behind the Scenes)I&#x27;m going to explain you the rules to this game called rams&#x27;s pyramid and basically we&#x27;ve se...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ebay.co.uk  
-   Link: <a href="https://www.ebay.co.uk/itm/389682543995" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/389682543995</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games: Ramses Pyramid (3843) - 100% CompleteThis board game requires players to construct a modular pyramid and use a customisable d...</p></details>
+   Link:<a href="https://www.ebay.co.uk/itm/389682543995" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/389682543995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games: Ramses Pyramid (3843) - 100% CompleteThis board game requires players to construct a modular pyramid and use a customisable d...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alwaysboardneverboring.com  
-   Link: <a href="https://www.alwaysboardneverboring.com/2012/12/ramses-pyramid.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwaysboardneverboring.com/2012/12/ramses-pyramid.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramses Pyramid - Always Board Never Boring5 Dec 2012 — You get enough Lego blocks to build a three-dimensional pyramid, a buildable dice...</p></details>
+   Link:<a href="https://www.alwaysboardneverboring.com/2012/12/ramses-pyramid.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwaysboardneverboring.com/2012/12/ramses-pyramid.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramses Pyramid - Always Board Never Boring5 Dec 2012 — You get enough Lego blocks to build a three-dimensional pyramid, a buildable dice...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: therapyfunzone.net  
-   Link: <a href="https://therapyfunzone.net/blog/toy-review-lego-game-ramses-pyramid/" target="_blank" rel="noopener noreferrer nofollow">https://therapyfunzone.net/blog/toy-review-lego-game-ramses-pyramid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Game, Ramses PyramidThis game requires a good ability to follow directions. It works on fine motor skills when you are moving the li...</p></details>
+   Link:<a href="https://therapyfunzone.net/blog/toy-review-lego-game-ramses-pyramid/" target="_blank" rel="noopener noreferrer nofollow">https://therapyfunzone.net/blog/toy-review-lego-game-ramses-pyramid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Game, Ramses PyramidThis game requires a good ability to follow directions. It works on fine motor skills when you are moving the li...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=viDu6U-PFuU&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viDu6U-PFuU&amp;vl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO BOARD GAMES: THEY ACTUALLY WORK!!!In this video, I recreated 14 board games with LEGO and test them all in real play to make sure th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=viDu6U-PFuU&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viDu6U-PFuU&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO BOARD GAMES: THEY ACTUALLY WORK!!!In this video, I recreated 14 board games with LEGO and test them all in real play to make sure th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: brickipedia.fandom.com  
    Title: Brickipedia LEGO Games (theme)  
-   Link: <a href="https://brickipedia.fandom.com/wiki/LEGO_Games_%28theme%29" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Games_%28theme%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games (theme) - Brickipedia - FandomLEGO Games was a line of brick-built board games introduced in July of 2009. It compr...</p></details>
+   Link:<a href="https://brickipedia.fandom.com/wiki/LEGO_Games_%28theme%29" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Games_%28theme%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Games (theme) - Brickipedia - FandomLEGO Games was a line of brick-built board games introduced in July of 2009. It compr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bricklink.com  
    Title: [Brick Link](&#123;&#123; 'brick-link/' | relative_url &#125;&#125;) Reference Catalog  
-   Link: <a href="https://www.bricklink.com/catalogList.asp?catString=1166&amp;catType=S" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catString=1166&amp;catType=S</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink Reference Catalog - Sets - Category GamesBrickLink® is the world&#x27;s largest online marketplace to buy and sell LEGO® parts, Mini...</p></details>
+   Link:<a href="https://www.bricklink.com/catalogList.asp?catString=1166&amp;catType=S" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catString=1166&amp;catType=S</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BrickLink Reference Catalog - Sets - Category GamesBrickLink® is the world&#x27;s largest online marketplace to buy and sell LEGO® parts, Mini...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: toyqueen.com  
    Title: new lego game ramses pyramid  
-   Link: <a href="https://toyqueen.com/new-lego-game-ramses-pyramid.html" target="_blank" rel="noopener noreferrer nofollow">https://toyqueen.com/new-lego-game-ramses-pyramid.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New LEGO Game: Ramses Pyramid24 Jul 2010 — Ramses Pyramid is one variation of 10 new LEGO GAMES. In this game children construct a pyrami...</p></details>
+   Link:<a href="https://toyqueen.com/new-lego-game-ramses-pyramid.html" target="_blank" rel="noopener noreferrer nofollow">https://toyqueen.com/new-lego-game-ramses-pyramid.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New LEGO Game: Ramses Pyramid24 Jul 2010 — Ramses Pyramid is one variation of 10 new LEGO GAMES. In this game children construct a pyrami...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blog.firestartoys.com  
    Title: past and future lego games  
-   Link: <a href="https://blog.firestartoys.com/past-and-future-lego-games/" target="_blank" rel="noopener noreferrer nofollow">https://blog.firestartoys.com/past-and-future-lego-games/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Future LEGO Games for Fans of All Ages2 May 2019 — We take a brief look at LEGO games and how they have made their mark on the world...</p></details>
+   Link:<a href="https://blog.firestartoys.com/past-and-future-lego-games/" target="_blank" rel="noopener noreferrer nofollow">https://blog.firestartoys.com/past-and-future-lego-games/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Future LEGO Games for Fans of All Ages2 May 2019 — We take a brief look at LEGO games and how they have made their mark on the world...</p></details>
    Published: May 2019  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0309877X.2026.2623003" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0309877X.2026.2623003</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For the love of Lego®: exploring the perceptions and use...by H Henderson · 2026 — The study aims to explore the perceptions and practic...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0309877X.2026.2623003" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0309877X.2026.2623003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For the love of Lego®: exploring the perceptions and use...by H Henderson · 2026 — The study aims to explore the perceptions and practic...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-032-20129-4_4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-032-20129-4_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comLEGO® SERIOUS PLAY® and Simulation Gamesby M Freese · 2025 — Both LEGO® SERIOUS PLAY® and simulation games have gained attrac...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-032-20129" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-032-20129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comLEGO® SERIOUS PLAY® and Simulation Gamesby M Freese · 2025 — Both LEGO® SERIOUS PLAY® and simulation games have gained attrac...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ink.library.smu.edu.sg  
-   Link: <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>case study of lego ideas platformby KMM ALHARBI · 2018 · Cited by 1 — Besides branching into film making, Lego has also gone into the dig...</p></details>
+   Link:<a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>case study of lego ideas platformby KMM ALHARBI · 2018 · Cited by 1 — Besides branching into film making, Lego has also gone into the dig...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebay.com  
    Title: or Best  
-   Link: <a href="https://www.ebay.com/b/LEGO-Board-Contemporary-Manufacture-Complete-Games-Games/180349/bn_7113482789" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/b/LEGO-Board-Contemporary-Manufacture-Complete-Games-Games/180349/bn_7113482789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Board Contemporary Manufacture Complete Games...LEGO Board Contemporary Manufacture Complete Games Games; LEGO Monster 4 Game 3837...</p></details>
+   Link:<a href="https://www.ebay.com/b/LEGO-Board-Contemporary-Manufacture-Complete-Games-Games/180349/bn_7113482789" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/b/LEGO-Board-Contemporary-Manufacture-Complete-Games-Games/180349/bn_7113482789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Board Contemporary Manufacture Complete Games...LEGO Board Contemporary Manufacture Complete Games Games; LEGO Monster 4 Game 3837...</p></details>

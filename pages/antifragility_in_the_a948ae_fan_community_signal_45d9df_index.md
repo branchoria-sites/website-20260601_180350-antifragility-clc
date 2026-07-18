@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-fan/
 description: Focused pages that expand on Fan Signals.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_fan_community_signal_45d9df
 parent_title: Fan Signals
@@ -16,7 +16,7 @@ parent_permalink: /fan-signals/
 
 # Explore Topics in Fan Signals
 
-The following pages expand on the main **[Fan Signals]({{ '/fan-signals/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Fan Signals]({{ '/fan-signals/' | relative_url }})** page and cover its key branches in.
 
 - [Adult Fans]({{ '/adult-fans/' | relative_url }})
 - [Botanicals]({{ '/botanicals-3aa67f/' | relative_url }})

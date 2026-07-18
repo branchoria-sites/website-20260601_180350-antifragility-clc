@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-product/
 description: Focused pages that expand on Complexity.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_product_complexity_f_ce5dcf
 parent_title: Complexity
@@ -16,7 +16,7 @@ parent_permalink: /complexity/
 
 # Explore Topics in Complexity
 
-The following pages expand on the main **[Complexity]({{ '/complexity/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Complexity]({{ '/complexity/' | relative_url }})** page and cover its key branches in.
 
 - [Cannibalisation]({{ '/cannibalisation/' | relative_url }})
 - [The Short Lived Replacement Of DUPLO With LEGO Explore In The Early...]({{ '/the-short-lived-replacement-of-duplo/' | relative_url }})

@@ -352,20 +352,20 @@ image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-ov
 
 ## Introduction
 
-Licensed LEGO themes are a way for the LEGO Group to absorb popular culture without surrendering the logic of LEGO play. A film, game or entertainment franchise supplies recognisable worlds, characters and moments; LEGO translates them into compatible bricks, minifigures, instructions, display models and rebuildable scenes. That makes licensing more than a marketing add-on. In the context of antifragility, it gives LEGO options: when culture shifts towards Star Wars, Harry Potter, Minecraft, Super Mario, Fortnite or another franchise, the company can borrow attention from that trend while keeping the [brick system]({{ 'brick-system/' | relative_url }}) as the stable platform underneath. The result is not risk-free. Licensed themes depend on outside intellectual property, royalties, renewals and the health of other media brands. But used well, they let LEGO convert external volatility into new routes back to the same core activity: building. LEGO’s [recent results]({{ 'recent-results/' | relative_url }}) show this balance clearly, with bestselling portfolios combining homegrown themes such as City, Technic and Icons with entertainment-IP themes such as Star Wars and Harry Potter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">lego group delivers record results in 2024</span></span></span>
+Licensed LEGO themes are a way for the LEGO Group to absorb popular culture without surrendering the logic of LEGO play. A film, game or entertainment franchise supplies recognisable worlds, characters and moments; LEGO translates them into compatible bricks, minifigures, instructions, display models and rebuildable scenes. That makes licensing more than a marketing add-on. In the context of antifragility, it gives LEGO options: when culture shifts towards Star Wars, Harry Potter, Minecraft, Super Mario, Fortnite or another franchise, the company can borrow attention from that trend while keeping the [brick system]({{ 'brick-system/' | relative_url }}) as the stable platform underneath. The result is not risk-free. Licensed themes depend on outside intellectual property, royalties, renewals and the health of other media brands. But used well, they let LEGO convert external volatility into new routes back to the same core activity: building. LEGO’s [recent results]({{ 'recent-results/' | relative_url }}) show this balance clearly, with bestselling portfolios combining homegrown themes such as City, Technic and Icons with entertainment-IP themes such as Star Wars and Harry Potter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">lego group delivers record results in 2024</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-overview.webp" | relative_url }}" alt="Overview image for Licensed Themes" loading="eager" decoding="sync" fetchpriority="high">
 ## Why licensing adds growth options
 
 The core mechanism is simple: [licensing]({{ 'licensing/' | relative_url }}) turns an external cultural surge into a LEGO product opportunity. When a film, streaming series, game or anniversary makes a franchise newly visible, LEGO does not have to invent the whole story world from scratch. It can translate that attention into sets that already fit its manufacturing, retail and building capabilities. This is why licensed themes matter for antifragility: they create many small bets on outside cultural energy while leaving LEGO’s underlying system intact.
 
-LEGO [Star Wars]({{ 'star-wars/' | relative_url }}) is the clearest example. The collaboration between the LEGO Group and Lucasfilm was first revealed at the International Toy Fair in New York in 1999, and LEGO marked its 25th anniversary in 2024 with new sets, fan activity and a travelling brick-built R2-D2 model. The official anniversary announcement is revealing because it does not describe the partnership as a one-off tie-in. It presents it as a long-running ecosystem of products, video games, animated content, large builds, merchandise and fan creativity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+LEGO [Star Wars]({{ 'star-wars/' | relative_url }}) is the clearest example. The collaboration between the LEGO Group and Lucasfilm was first revealed at the International Toy Fair in New York in 1999, and LEGO marked its 25th anniversary in 2024 with new sets, fan activity and a travelling brick-built R2-D2 model. The official anniversary announcement is revealing because it does not describe the partnership as a one-off tie-in. It presents it as a long-running ecosystem of products, video games, animated content, large builds, merchandise and fan creativity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
-That longevity changes the economics of a trend. Star Wars is not a single release window; it is a recurring cultural calendar of films, series, anniversaries, collector nostalgia and fan events. LEGO can serve children who want playsets, adults who want display models, and fans who want specific vehicles, scenes or minifigures. Its 2024 May the 4th announcement, for example, included an 18+ TIE Interceptor, an 18+ Mos Espa Podrace diorama, younger play sets and lower-priced BrickHeadz products, all linked to the same franchise but aimed at different uses and budgets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">® Star Wars™ 25 Anniversary</span></span></span>
+That longevity changes the economics of a trend. Star Wars is not a single release window; it is a recurring cultural calendar of films, series, anniversaries, collector nostalgia and fan events. LEGO can serve children who want playsets, adults who want display models, and fans who want specific vehicles, scenes or minifigures. Its 2024 May the 4th announcement, for example, included an 18+ TIE Interceptor, an 18+ Mos Espa Podrace diorama, younger play sets and lower-priced BrickHeadz products, all linked to the same franchise but aimed at different uses and budgets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">® Star Wars™ 25 Anniversary</span></span></span>
 
-The same pattern appears outside cinema. LEGO Super Mario absorbed a video-game icon by creating a physical play experience around interactive brick-built levels rather than simply producing static character models. Nintendo’s 2020 UK announcement described children building challenges, defeating enemies and collecting coins in a real-life game format, while LEGO’s own announcement said the partnership brought Super Mario into the physical world while retaining the LEGO construction experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nintendo.com">[Nintendo of Europe SE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nintendo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same pattern appears outside cinema. LEGO Super Mario absorbed a video-game icon by creating a physical play experience around interactive brick-built levels rather than simply producing static character models. Nintendo’s 2020 UK announcement described children building challenges, defeating enemies and collecting coins in a real-life game format, while LEGO’s own announcement said the partnership brought Super Mario into the physical world while retaining the LEGO construction experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nintendo.com">[Nintendo of Europe SE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nintendo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-LEGO Fortnite shows the mechanism moving in the other direction: LEGO entering a digital platform and then feeding physical sets back out of it. The LEGO Group and Epic Games launched LEGO Fortnite as a survival-crafting game inside Fortnite in December 2023, describing it as the first play experience from a long-term partnership focused on safe digital spaces for children and families. In July 2024, LEGO then announced the first physical LEGO Fortnite sets, based on characters, places and items from that game experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary</span></span></span>
+LEGO Fortnite shows the mechanism moving in the other direction: LEGO entering a digital platform and then feeding physical sets back out of it. The LEGO Group and Epic Games launched LEGO Fortnite as a survival-crafting game inside Fortnite in December 2023, describing it as the first play experience from a long-term partnership focused on safe digital spaces for children and families. In July 2024, LEGO then announced the first physical LEGO Fortnite sets, based on characters, places and items from that game experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary</span></span></span>
 
 The growth option is not merely “more brands”. It is optionality across formats. A licensed theme can support a small entry set, a large collector model, a seasonal promotion, a video game, a fan challenge, a digital experience or a display piece. If one format cools, another may still work. If a franchise has a new release, LEGO can refresh the range. If nostalgia becomes the driver, LEGO can aim at adults. In antifragility terms, the outside world supplies disorder and shifting attention; LEGO gains when it has enough disciplined ways to turn that movement into buildable products.
 
@@ -376,9 +376,9 @@ The reason licensing does not simply turn LEGO into a generic merchandise compan
 
 This constraint matters because it [limits]({{ 'limits/' | relative_url }}) brand drift. A fragile response to popular culture would chase every hit by making unrelated toys in unrelated formats. LEGO’s stronger pattern is to ask whether the trend can become a LEGO expression. A Star Wars ship becomes a model built from beams, plates, slopes and specialised elements. A Mario level becomes a course assembled from bricks. A Fortnite llama becomes a display object made from LEGO parts. The borrowed world changes the surface; the system governs the experience.
 
-LEGO’s financial language reinforces this point. In 2024, the company said its portfolio was its largest ever, with 840 products for builders of different ages and interests; its bestselling themes mixed homegrown and entertainment-IP lines, including City, Star Wars, Technic, Icons and Harry Potter. That mix is important. Licensing is not replacing LEGO’s own themes; it is one part of a wider portfolio architecture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/fr-fr/aboutus/news/2020/march/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group and Nintendo partnership</span><span class="citation-popover-snippet">The LEGO Group and Nintendo partnership</span></span></span>
+LEGO’s financial language reinforces this point. In 2024, the company said its portfolio was its largest ever, with 840 products for builders of different ages and interests; its bestselling themes mixed homegrown and entertainment-IP lines, including City, Star Wars, Technic, Icons and Harry Potter. That mix is important. Licensing is not replacing LEGO’s own themes; it is one part of a wider portfolio architecture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/fr-fr/aboutus/news/2020/march/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group and Nintendo partnership</span><span class="citation-popover-snippet">The LEGO Group and Nintendo partnership</span></span></span>
 
-The same balance appears in 2025 results. LEGO reported revenue of DKK 83.5 billion, up 12 per cent, and said demand was driven by strong brand equity, innovative products, strategic partnerships and retail execution. Its top-performing portfolio again included a blend of proprietary and licensed or partnership-led themes, with City, Icons, Botanicals, Star Wars and Technic highlighted by specialist reporting on the annual results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+The same balance appears in 2025 results. LEGO reported revenue of DKK 83.5 billion, up 12 per cent, and said demand was driven by strong brand equity, innovative products, strategic partnerships and retail execution. Its top-performing portfolio again included a blend of proprietary and licensed or partnership-led themes, with City, Icons, Botanicals, Star Wars and Technic highlighted by specialist reporting on the annual results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 This is where licensing supports antifragility rather than undermining it. Each licensed theme brings new story material, but also forces LEGO designers to solve translation problems: how to represent a curved spaceship in angular bricks, how to make a game mechanic physical, how to design an adult display piece without losing the satisfaction of building, or how to make a recognisable character within minifigure constraints. Those solutions can strengthen internal design knowledge even when the particular licence changes.
 
@@ -390,11 +390,11 @@ The brick system also makes licensed sets interoperable with the rest of a house
 
 Licensed themes help LEGO solve a recurring toy-market problem: children’s attention is pulled by screen media, games and fast-moving culture. Rather than treating those forces only as threats, LEGO can convert some of them into invitations to build. This is a practical form of trend absorption. The trend remains external, but the activity becomes LEGO’s.
 
-Minecraft is especially natural because the game itself is about block-based construction. LEGO Minecraft, first introduced in 2012, translates a digital building world into physical modular scenes. That is not a random brand fit; it is a case where the licence and the brick system share a grammar of blocks, environments, tools and user-made structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Minecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Minecraft</span><span class="citation-popover-snippet">Lego Minecraft</span></span></span>
+Minecraft is especially natural because the game itself is about block-based construction. LEGO Minecraft, first introduced in 2012, translates a digital building world into physical modular scenes. That is not a random brand fit; it is a case where the licence and the brick system share a grammar of blocks, environments, tools and user-made structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Minecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Minecraft</span><span class="citation-popover-snippet">Lego Minecraft</span></span></span>
 
-Super Mario is a different fit. Mario is not originally a construction property, so LEGO had to turn the licence into a play pattern rather than merely a model range. The interactive figure, brick-built courses and coin-collecting mechanics allowed LEGO to absorb video-game behaviour while keeping the child physically assembling the level. This is exactly the kind of disciplined adaptation that protects the brand from becoming only a shelf-display company. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nintendo.com">[Nintendo of Europe SE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nintendo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Super Mario is a different fit. Mario is not originally a construction property, so LEGO had to turn the licence into a play pattern rather than merely a model range. The interactive figure, brick-built courses and coin-collecting mechanics allowed LEGO to absorb video-game behaviour while keeping the child physically assembling the level. This is exactly the kind of disciplined adaptation that protects the brand from becoming only a shelf-display company.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nintendo.com">[Nintendo of Europe SE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nintendo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Star Wars adds another layer: intergenerational continuity. Many adults who grew up with either Star Wars or LEGO now buy large, detailed sets for display, nostalgia or collecting, while younger fans encounter the same world through newer series and smaller playsets. LEGO’s 25th-anniversary Star Wars activity explicitly addressed the fan community, including fan films and large fan-built dioramas, showing how a licence can connect product design, fan expression and community participation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">lego fortnite launch 2024</span></span></span>
+Star Wars adds another layer: intergenerational continuity. Many adults who grew up with either Star Wars or LEGO now buy large, detailed sets for display, nostalgia or collecting, while younger fans encounter the same world through newer series and smaller playsets. LEGO’s 25th-anniversary Star Wars activity explicitly addressed the fan community, including fan films and large fan-built dioramas, showing how a licence can connect product design, fan expression and community participation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">lego fortnite launch 2024</span></span></span>
 
 The mechanism is strongest when the licence creates a bridge back to LEGO’s own strengths. The franchise supplies recognition; LEGO supplies tactile transformation. A buyer may arrive because they love the Millennium Falcon, Hogwarts, Mario or a Fortnite Battle Bus, but the value proposition becomes the experience of constructing it. That is the antifragile move: LEGO does not merely ride a cultural wave; it tries to make the wave feed the core habit of building.
 
@@ -403,11 +403,11 @@ The mechanism is strongest when the licence creates a bridge back to LEGO’s ow
 
 The same mechanism that creates [options]({{ 'options/' | relative_url }}) also creates exposure. Licensed themes depend on intellectual property that LEGO does not own. That means royalty costs, contractual restrictions, approval processes, brand-safety issues, renewal uncertainty and dependence on another company’s creative pipeline. A weak film, a fading game, a rights dispute or a change in a partner’s strategy can reduce the value of a theme even if LEGO executes well.
 
-There is also a portfolio risk. If licensed themes become too dominant, LEGO can look less like a creative construction system and more like a premium channel for other companies’ franchises. That concern appears regularly in fan and design commentary, especially when the LEGO store carries many IP-based themes at once. Fast Company argued in 2024 that LEGO had an “IP problem”, pointing to a store mix in which a large share of themes were licensed and warning that many such lines have limited lives tied to the popularity of the original property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fastcompany.com/91244371/lego-has-an-ip-problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fastcompany.com">[Fast Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fastcompany.com</span><span class="citation-popover-title">Fast Company Lego has an IP problem</span><span class="citation-popover-snippet">Fast Company Lego has an IP problem</span></span></span>
+There is also a portfolio risk. If licensed themes become too dominant, LEGO can look less like a creative construction system and more like a premium channel for other companies’ franchises. That concern appears regularly in fan and design commentary, especially when the LEGO store carries many IP-based themes at once. Fast Company argued in 2024 that LEGO had an “IP problem”, pointing to a store mix in which a large share of themes were licensed and warning that many such lines have limited lives tied to the popularity of the original property.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fastcompany.com/91244371/lego-has-an-ip-problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fastcompany.com">[Fast Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fastcompany.com</span><span class="citation-popover-title">Fast Company Lego has an IP problem</span><span class="citation-popover-snippet">Fast Company Lego has an IP problem</span></span></span>
 
-The evidence does not support a simple “licensed bad, original good” conclusion. LEGO’s strongest reported theme lists repeatedly mix both. In 2024, Star Wars and Harry Potter sat alongside City, Technic and Icons among bestselling themes. In 2025, Star Wars remained among top themes while Botanicals and City also performed strongly. The healthier interpretation is that licensing becomes dangerous when it crowds out system-led invention, but valuable when it sits inside a balanced portfolio. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">the LEGO Group Annual Report 2024</span></span></span>
+The evidence does not support a simple “licensed bad, original good” conclusion. LEGO’s strongest reported theme lists repeatedly mix both. In 2024, Star Wars and Harry Potter sat alongside City, Technic and Icons among bestselling themes. In 2025, Star Wars remained among top themes while Botanicals and City also performed strongly. The healthier interpretation is that licensing becomes dangerous when it crowds out system-led invention, but valuable when it sits inside a balanced portfolio.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">the LEGO Group Annual Report 2024</span></span></span>
 
-There is a creative risk too. Some licensed sets are constrained by the need to reproduce known scenes or vehicles accurately. That can make them less open-ended than classic buckets, Creator sets or original play themes. LEGO partly offsets this by varying the product type: playsets for children, dioramas for adults, BrickHeadz for stylised collecting, large display models for builders seeking technical satisfaction, and interactive formats for game-based licences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+There is a creative risk too. Some licensed sets are constrained by the need to reproduce known scenes or vehicles accurately. That can make them less open-ended than classic buckets, Creator sets or original play themes. LEGO partly offsets this by varying the product type: playsets for children, dioramas for adults, BrickHeadz for stylised collecting, large display models for builders seeking technical satisfaction, and interactive formats for game-based licences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 The antifragile lesson is therefore not that LEGO should license everything popular. It is that licensing works when it is governed by fit. The best licences have at least one of three qualities: they are deeply buildable, like Minecraft; they are culturally durable, like Star Wars; or they can be redesigned into a distinctive LEGO play pattern, like Super Mario or LEGO Fortnite. Licences that lack those qualities may still produce short-term sales, but they do less to strengthen the system.
 
@@ -421,16 +421,16 @@ Licensed themes make LEGO more antifragile when they turn uncertainty into a por
 
 The crucial design choice is that LEGO absorbs the trend rather than being absorbed by it. The company does not abandon the brick to chase film merchandise, nor does it isolate each licence in a separate incompatible toy system. It keeps the franchise inside a common architecture. This means a successful licensed line can bring new consumers into LEGO, while an unsuccessful one can be retired without destroying the platform underneath.
 
-This also explains why licensed themes belong within LEGO’s broader post-crisis discipline. The company’s earlier difficulties were linked partly to unfocused expansion beyond its strongest capabilities; Harvard Business Review’s account of the turnaround noted that several innovation efforts, including theme parks, Clikits and Galidor, had been unprofitable or failed before LEGO tightened innovation governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">innovating a turnaround at lego</span></span></span> Licensing is safer when it is not a licence to sprawl, but a route for external stories to pass through LEGO’s core constraints.
+This also explains why licensed themes belong within LEGO’s broader post-crisis discipline. The company’s earlier difficulties were linked partly to unfocused expansion beyond its strongest capabilities; Harvard Business Review’s account of the turnaround noted that several innovation efforts, including theme parks, Clikits and Galidor, had been unprofitable or failed before LEGO tightened innovation governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">innovating a turnaround at lego</span></span></span> Licensing is safer when it is not a licence to sprawl, but a route for external stories to pass through LEGO’s core constraints.
 
-A useful way to judge a licensed LEGO theme is to ask four questions: <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=2sN82V1Ugu4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">What&#x27;s Really Going On Inside LEGO&#x27;s Corporate Empire</span><span class="citation-popover-snippet">LEGO Star Wars: The Skywalker Saga - 10 Things The Game Doesn&#x27;t Tell You...</span></span></span>
+A useful way to judge a licensed LEGO theme is to ask four questions:<span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=2sN82V1Ugu4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">What&#x27;s Really Going On Inside LEGO&#x27;s Corporate Empire</span><span class="citation-popover-snippet">LEGO Star Wars: The Skywalker Saga - 10 Things The Game Doesn&#x27;t Tell You...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Does the franchise naturally invite building?** Minecraft and Star Wars vehicles do; some character-only properties may not.
 * **Can LEGO add a distinctive play or display experience?** Super Mario’s interactive courses show adaptation rather than simple logo use.
 * **Does the theme broaden the audience without confusing the brand?** Adult Star Wars display sets and children’s playsets can coexist because both remain recognisably LEGO.
-* **Can the theme sit beside original lines rather than replace them?** The strongest portfolio evidence shows licensed hits working alongside City, Technic, Icons, Botanicals and other LEGO-owned or LEGO-led ranges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+* **Can the theme sit beside original lines rather than replace them?** The strongest portfolio evidence shows licensed hits working alongside City, Technic, Icons, Botanicals and other LEGO-owned or LEGO-led ranges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 </div>
 
@@ -439,194 +439,194 @@ This is why licensed themes are best understood as trend absorption, not mere de
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-Illustration-3-dark.svg" | relative_url }}" alt="Licensed Themes illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How LEGO Turns Franchises Into Bricks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How LEGO Turns Franchises Into Bricks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how LEGO uses partnerships and innovation strategically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how LEGO uses partnerships and innovation strategically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
+</h4>
+<p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
         
-        <p class="fr-book-desc">Helps explain how brands leverage external networks and audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how brands leverage external networks and audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lego+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Jens Andersen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lego+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Jens Andersen</p>
         
-        <p class="fr-book-desc">Explains how LEGO evolved into a licensing powerhouse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how LEGO evolved into a licensing powerhouse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 7 x OFFICIALLY LICENSED LEGO MERCHANDISE Harry Potter plush toys."><img src="https://i.ebayimg.com/images/g/4VUAAeSwNtNoh96B/s-l225.jpg" alt="Listing image for Set of 7 x OFFICIALLY LICENSED LEGO MERCHANDISE Harry Potter plush toys." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">Set of 7 x OFFICIALLY LICENSED LEGO MERCHANDISE Harry Potter plush toys.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 7 x OFFICIALLY LICENSED LEGO MERCHANDISE Harry Potter plush toys."><img src="https://i.ebayimg.com/images/g/4VUAAeSwNtNoh96B/s-l225.jpg" alt="Listing image for Set of 7 x OFFICIALLY LICENSED LEGO MERCHANDISE Harry Potter plush toys." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">Set of 7 x OFFICIALLY LICENSED LEGO MERCHANDISE Harry Potter plush toys.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED"><img src="https://i.ebayimg.com/images/g/X5EAAeSwzMVpyRjZ/s-l225.jpg" alt="Listing image for LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED"><img src="https://i.ebayimg.com/images/g/X5EAAeSwzMVpyRjZ/s-l225.jpg" alt="Listing image for LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic 42096 Porsche 911 RSR NEW &amp; SEALED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship"><img src="https://i.ebayimg.com/images/g/HTAAAeSw8uFqIWoG/s-l225.jpg" alt="Listing image for LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship"><img src="https://i.ebayimg.com/images/g/HTAAAeSw8uFqIWoG/s-l225.jpg" alt="Listing image for LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 21367 Icons TinTin Moon Rocket-Brand New Sealed Free Shipping-Ready to ship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Unikitty! Dr. Fox Laboratory Set New Sealed Retired Building Toy Gift 41454"><img src="https://i.ebayimg.com/images/g/~5EAAeSwgWRolIo8/s-l225.jpg" alt="Listing image for LEGO Unikitty! Dr. Fox Laboratory Set New Sealed Retired Building Toy Gift 41454" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Unikitty! Dr. Fox Laboratory Set New Sealed Retired Building Toy Gift 41454</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Unikitty! Dr. Fox Laboratory Set New Sealed Retired Building Toy Gift 41454"><img src="https://i.ebayimg.com/images/g/~5EAAeSwgWRolIo8/s-l225.jpg" alt="Listing image for LEGO Unikitty! Dr. Fox Laboratory Set New Sealed Retired Building Toy Gift 41454" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Unikitty! Dr. Fox Laboratory Set New Sealed Retired Building Toy Gift 41454</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-turns-franchises-into-bricks-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="how-lego-turns-franchises-into-bricks-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ This is why licensed themes are best understood as trend absorption, not mere de
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ This is why licensed themes are best understood as trend absorption, not mere de
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ This is why licensed themes are best understood as trend absorption, not mere de
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ This is why licensed themes are best understood as trend absorption, not mere de
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ This is why licensed themes are best understood as trend absorption, not mere de
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -832,228 +832,228 @@ This is why licensed themes are best understood as trend absorption, not mere de
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
    Title: ® Star Wars™ 25 Anniversary  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: Star Wars 25th Anniversary  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nintendo.com  
-   Link: <a href="https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C" target="_blank" rel="noopener noreferrer nofollow">https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C</a>  
+   Link:<a href="https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C" target="_blank" rel="noopener noreferrer nofollow">https://www.nintendo.com/en-gb/News/2020/July/LEGO-Super-Mario-s-adventures-begin-on-1st-August-Pre-order-the-Adventures-with-Mario-Starter-Course-now-from-the-Nintendo-Official-UK-Store--1810259.html?srsltid=AfmBOorUW0MQefUOIQIyd5lQNEp_3WAR3czBWKZZDuaumJDP9zRQWv3C</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
    Title: The LEGO Group and Nintendo partnership  
-   Link: <a href="https://www.lego.com/fr-fr/aboutus/news/2020/march/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/fr-fr/aboutus/news/2020/march/lego-super-mario</a>  
+   Link:<a href="https://www.lego.com/fr-fr/aboutus/news/2020/march/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/fr-fr/aboutus/news/2020/march/lego-super-mario</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
    Title: lego fortnite launch 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Lego Minecraft  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Minecraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Minecraft</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Minecraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Minecraft</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
    Title: LEGO Annual Report2022 Final WEB  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt70ef2efdd8d21dc7/LEGO_Annual_Report2022_Final_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt70ef2efdd8d21dc7/LEGO_Annual_Report2022_Final_WEB.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt70ef2efdd8d21dc7/LEGO_Annual_Report2022_Final_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt70ef2efdd8d21dc7/LEGO_Annual_Report2022_Final_WEB.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lego.com  
    Title: Annual Report 2021 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt248041929be3b572/Annual_Report_2021_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt248041929be3b572/Annual_Report_2021_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt248041929be3b572/Annual_Report_2021_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt248041929be3b572/Annual_Report_2021_ENG.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lego.com  
    Title: the lego group achieves double digit top and bottom line growth in h1 2025  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lego.com  
    Title: The LEGO Group delivers double digit growth in H1 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/august/The-LEGO-Group-delivers-double-digit-growth-in-H1-2024</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lego.com  
    Title: lego star wars may the 4th 2025 product announcement  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/april/lego-star-wars-may-the-4th-2025-product-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/april/lego-star-wars-may-the-4th-2025-product-announcement</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/april/lego-star-wars-may-the-4th-2025-product-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/april/lego-star-wars-may-the-4th-2025-product-announcement</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lego.com  
    Title: lego delivered topline growth and outpaced market in 2023  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lan.lego.com  
-   Link: <a href="https://lan.lego.com/events/?m=6&amp;y=2025" target="_blank" rel="noopener noreferrer nofollow">https://lan.lego.com/events/?m=6&amp;y=2025</a>  
+   Link:<a href="https://lan.lego.com/events/?m=6&amp;y=2025" target="_blank" rel="noopener noreferrer nofollow">https://lan.lego.com/events/?m=6&amp;y=2025</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/world-play-day" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/world-play-day</a>  
+   Link:<a href="https://www.lego.com/en-us/world-play-day" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/world-play-day</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lego.com  
    Title: LEG O SMART Play Announcement  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/december/lego-smart-play-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/december/lego-smart-play-announcement</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2026/december/lego-smart-play-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/december/lego-smart-play-announcement</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lan.lego.com  
-   Link: <a href="https://lan.lego.com/events/?m=5&amp;y=2025" target="_blank" rel="noopener noreferrer nofollow">https://lan.lego.com/events/?m=5&amp;y=2025</a>  
+   Link:<a href="https://lan.lego.com/events/?m=5&amp;y=2025" target="_blank" rel="noopener noreferrer nofollow">https://lan.lego.com/events/?m=5&amp;y=2025</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lego.com  
    Title: The Adventure Is Building: LEGO® Fortnite is Live!  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: lego.com  
    Title: 2025 Performance Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Performance Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Lego Star Wars  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Star_Wars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Star_Wars</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Star_Wars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Star_Wars</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fortnite.com  
-   Link: <a href="https://www.fortnite.com/%40epic/lego-fortnite-odyssey" target="_blank" rel="noopener noreferrer nofollow">https://www.fortnite.com/%40epic/lego-fortnite-odyssey</a>  
+   Link:<a href="https://www.fortnite.com/%40epic/lego-fortnite-odyssey" target="_blank" rel="noopener noreferrer nofollow">https://www.fortnite.com/%40epic/lego-fortnite-odyssey</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fastcompany.com  
    Title: Fast Company Lego has an IP problem  
-   Link: <a href="https://www.fastcompany.com/91244371/lego-has-an-ip-problem" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/91244371/lego-has-an-ip-problem</a>  
+   Link:<a href="https://www.fastcompany.com/91244371/lego-has-an-ip-problem" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/91244371/lego-has-an-ip-problem</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hbr.org  
    Title: innovating a turnaround at lego  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: brickipedia.fandom.com  
    Title: Licensed themes  
-   Link: <a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
+   Link:<a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: brickipedia.fandom.com  
-   Link: <a href="https://brickipedia.fandom.com/wiki/Minecraft" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Minecraft</a>  
+   Link:<a href="https://brickipedia.fandom.com/wiki/Minecraft" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Minecraft</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: fortnite.fandom.com  
    Title: The LEGO Group  
-   Link: <a href="https://fortnite.fandom.com/wiki/The_LEGO_Group" target="_blank" rel="noopener noreferrer nofollow">https://fortnite.fandom.com/wiki/The_LEGO_Group</a>  
+   Link:<a href="https://fortnite.fandom.com/wiki/The_LEGO_Group" target="_blank" rel="noopener noreferrer nofollow">https://fortnite.fandom.com/wiki/The_LEGO_Group</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: en.brickimedia.org  
    Title: Licensed themes  
-   Link: <a href="https://en.brickimedia.org/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://en.brickimedia.org/wiki/Licensed_themes</a>  
+   Link:<a href="https://en.brickimedia.org/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://en.brickimedia.org/wiki/Licensed_themes</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: annualreports.com  
-   Link: <a href="https://www.annualreports.com/Company/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreports.com/Company/lego</a>  
+   Link:<a href="https://www.annualreports.com/Company/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreports.com/Company/lego</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: brickeconomy.com  
    Title: star wars  
-   Link: <a href="https://www.brickeconomy.com/sets/year/1999/theme/star-wars" target="_blank" rel="noopener noreferrer nofollow">https://www.brickeconomy.com/sets/year/1999/theme/star-wars</a>  
+   Link:<a href="https://www.brickeconomy.com/sets/year/1999/theme/star-wars" target="_blank" rel="noopener noreferrer nofollow">https://www.brickeconomy.com/sets/year/1999/theme/star-wars</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: HIDDEN characters in LEGO Star Wars The Complete Saga  
-   Link: <a href="http://www.youtube.com/watch?v=z_cRksLHnH8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z_cRksLHnH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO uses licensed themes Star Wars Harry Potter business strategy What&#x27;s Really Going On Inside LEGO&#x27;s Corporate Empire Hidden Econo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=z_cRksLHnH8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z_cRksLHnH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO uses licensed themes Star Wars Harry Potter business strategy What&#x27;s Really Going On Inside LEGO&#x27;s Corporate Empire Hidden Econo...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: What's Really Going On Inside LEGO's Corporate Empire  
-   Link: <a href="http://www.youtube.com/watch?v=2sN82V1Ugu4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2sN82V1Ugu4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars: The Skywalker Saga - 10 Things The Game Doesn&#x27;t Tell You...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2sN82V1Ugu4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2sN82V1Ugu4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars: The Skywalker Saga - 10 Things The Game Doesn&#x27;t Tell You...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=lOdcAdqGFnM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lOdcAdqGFnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Going On Inside LEGO&#x27;s Corporate Empire...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lOdcAdqGFnM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lOdcAdqGFnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Going On Inside LEGO&#x27;s Corporate Empire...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: marks-clerk.com  
-   Link: <a href="https://www.marks-clerk.com/insights/latest-insights/102mrpm-may-the-ip-be-with-you-how-ip-strategy-turned-star-wars-fiction-into-a-commercial-empire/" target="_blank" rel="noopener noreferrer nofollow">https://www.marks-clerk.com/insights/latest-insights/102mrpm-may-the-ip-be-with-you-how-ip-strategy-turned-star-wars-fiction-into-a-commercial-empire/</a>  
+   Link:<a href="https://www.marks-clerk.com/insights/latest-insights/102mrpm-may-the-ip-be-with-you-how-ip-strategy-turned-star-wars-fiction-into-a-commercial-empire/" target="_blank" rel="noopener noreferrer nofollow">https://www.marks-clerk.com/insights/latest-insights/102mrpm-may-the-ip-be-with-you-how-ip-strategy-turned-star-wars-fiction-into-a-commercial-empire/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
+   Link:<a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/</a>  
+   Link:<a href="https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/831715627/FINAL-REPORT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/831715627/FINAL-REPORT</a>  
+   Link:<a href="https://www.scribd.com/document/831715627/FINAL-REPORT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/831715627/FINAL-REPORT</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gamedeveloper.com  
-   Link: <a href="https://www.gamedeveloper.com/business/lego-group-renews-i-star-wars-i-licensing-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.gamedeveloper.com/business/lego-group-renews-i-star-wars-i-licensing-deal</a>  
+   Link:<a href="https://www.gamedeveloper.com/business/lego-group-renews-i-star-wars-i-licensing-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.gamedeveloper.com/business/lego-group-renews-i-star-wars-i-licensing-deal</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: bricksfanz.com  
-   Link: <a href="https://bricksfanz.com/new-lego-minecraft-reveals-during-minecraft-live/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/new-lego-minecraft-reveals-during-minecraft-live/</a>  
+   Link:<a href="https://bricksfanz.com/new-lego-minecraft-reveals-during-minecraft-live/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/new-lego-minecraft-reveals-during-minecraft-live/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GameRant/posts/nintendo-and-lego-are-teaming-up-once-again-to-release-a-brand-new-super-mario-e/920036926349317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GameRant/posts/nintendo-and-lego-are-teaming-up-once-again-to-release-a-brand-new-super-mario-e/920036926349317/</a>
+   Link:<a href="https://www.facebook.com/GameRant/posts/nintendo-and-lego-are-teaming-up-once-again-to-release-a-brand-new-super-mario-e/920036926349317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GameRant/posts/nintendo-and-lego-are-teaming-up-once-again-to-release-a-brand-new-super-mario-e/920036926349317/</a>

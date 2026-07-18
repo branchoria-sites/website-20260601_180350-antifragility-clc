@@ -355,15 +355,15 @@ image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-ov
 LEGO’s brick system became a productive constraint because it gave the company a simple but demanding rule for innovation: new ideas should add value to the reusable building system, not pull attention away from it. A LEGO product can become a castle, a city street, a [Star Wars]({{ 'star-wars/' | relative_url }}) ship, a botanical display, a robotics project or a fan-designed model, but it still has to work through shared parts, clutch power, instructions, rebuilding and [compatibility]({{ 'compatibility/' | relative_url }}). That constraint matters to LEGO’s antifragility because it turns novelty into accumulated strength. Each successful theme expands the usefulness of the system; each failed experiment can still teach LEGO something about parts, building techniques, audiences or governance without requiring the company to abandon its core.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-overview.webp" | relative_url }}" alt="Overview image for Brick System" loading="eager" decoding="sync" fetchpriority="high">
-The key is that the brick is not just a product. It is a platform. LEGO describes its System in Play as a promise that elements fit together, can be used in multiple ways and can be built together across time; the company’s own history page says bricks bought years ago should fit with bricks bought in the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
+The key is that the brick is not just a product. It is a platform. LEGO describes its System in Play as a promise that elements fit together, can be used in multiple ways and can be built together across time; the company’s own history page says bricks bought years ago should fit with bricks bought in the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® System in Play &#124; LEGO® History &#124; LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</span></span></span>
 
 ## Compatibility as a Strategic Asset
 
-The LEGO brick’s strategic power begins with a physical connection. In 1958, LEGO filed the patent for the stud-and-tube principle that made the modern brick stable enough to build with and loose enough to take apart. LEGO’s history account emphasises that this “clutch power” created both stability and “endless possibilities” for combining bricks; it also notes the famous example that six 2x4 bricks can be combined in 915,103,765 ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The stud and tube principle &#124; LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span>
+The LEGO brick’s strategic power begins with a physical connection. In 1958, LEGO filed the patent for the stud-and-tube principle that made the modern brick stable enough to build with and loose enough to take apart. LEGO’s history account emphasises that this “clutch power” created both stability and “endless possibilities” for combining bricks; it also notes the famous example that six 2x4 bricks can be combined in 915,103,765 ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">The stud and tube principle &#124; LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</span></span></span>
 
 That is a design breakthrough, but it is also a business mechanism. A toy that connects only to itself has a short commercial life. A brick that connects to decades of other bricks creates a growing stock of value in homes, schools, fan collections and LEGO’s own design library. A child’s loose bricks, an adult collector’s modular buildings, a licensed film set and a classroom robotics kit all benefit from the same underlying grammar.
 
-LEGO still frames this as a living constraint. Its [sustainability]({{ 'sustainability/' | relative_url }}) commitments state that a brick made today fits one made 60 years ago, and that this compatibility is one reason new [materials]({{ 'materials/' | relative_url }}) must meet rigorous safety, quality and durability standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/sustainability/our-commitments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Our commitments</span><span class="citation-popover-snippet">Our commitments</span></span></span> The company’s 2025 materials page makes the same point from a manufacturing angle: alternative materials have to meet high requirements so bricks from “today fit with those from yesterday and tomorrow”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Sustainable materials</span><span class="citation-popover-snippet">Sustainable materials</span></span></span>
+LEGO still frames this as a living constraint. Its [sustainability]({{ 'sustainability/' | relative_url }}) commitments state that a brick made today fits one made 60 years ago, and that this compatibility is one reason new [materials]({{ 'materials/' | relative_url }}) must meet rigorous safety, quality and durability standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/sustainability/our-commitments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Our commitments</span><span class="citation-popover-snippet">Our commitments</span></span></span> The company’s 2025 materials page makes the same point from a manufacturing angle: alternative materials have to meet high requirements so bricks from “today fit with those from yesterday and tomorrow”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Sustainable materials</span><span class="citation-popover-snippet">Sustainable materials</span></span></span>
 
 That turns compatibility into a kind of strategic memory. LEGO does not have to start from zero when it enters a new theme or audience. It can reuse existing elements, proportions, instructions, build techniques and customer habits. The brick system stores past learning in a form that designers and consumers can keep recombining.
 
@@ -372,9 +372,9 @@ That turns compatibility into a kind of strategic memory. LEGO does not have to 
 
 The useful paradox of LEGO is that stricter rules can produce more imaginative outcomes. The brick system [limits]({{ 'limits/' | relative_url }}) designers in obvious ways: elements must connect, tolerate repeated use, fit existing geometries, survive children’s play and make sense in an instruction sequence. Yet those limits reduce the blank-page problem. Designers are not asked to invent a toy universe from scratch every time. They are asked to produce something fresh inside a known system.
 
-This is why the brick became a test for innovation after LEGO’s early-2000s crisis. The company had experimented beyond the core with ventures and product lines that were not always profitable or system-strengthening. Harvard Business Review’s account of the turnaround names theme parks, Clikits and Galidor among the failed or unprofitable innovation efforts before LEGO rebuilt its innovation governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">innovating a turnaround at lego</span></span></span>
+This is why the brick became a test for innovation after LEGO’s early-2000s crisis. The company had experimented beyond the core with ventures and product lines that were not always profitable or system-strengthening. Harvard Business Review’s account of the turnaround names theme parks, Clikits and Galidor among the failed or unprofitable innovation efforts before LEGO rebuilt its innovation governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">innovating a turnaround at lego</span><span class="citation-popover-snippet">innovating a turnaround at lego</span></span></span>
 
-LEGO’s 2004 annual report made the correction explicit. It said the product range had to be “in keeping with the core idea of the brand” and pointed to classic lines such as DUPLO, Make & Create, City and Technic as areas of sharpened focus. It also described work to reduce development time, lead times and inventories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 ENG</span></span></span> In antifragility terms, the crisis did not merely punish LEGO for over-expansion; it exposed which innovations made the system stronger and which added fragile [complexity]({{ 'complexity/' | relative_url }}).
+LEGO’s 2004 annual report made the correction explicit. It said the product range had to be “in keeping with the core idea of the brand” and pointed to classic lines such as DUPLO, Make & Create, City and Technic as areas of sharpened focus. It also described work to reduce development time, lead times and inventories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 ENG</span></span></span> In antifragility terms, the crisis did not merely punish LEGO for over-expansion; it exposed which innovations made the system stronger and which added fragile [complexity]({{ 'complexity/' | relative_url }}).
 
 The brick system therefore worked as a filter. A new idea did not have to be conservative, but it had to pass a practical question: does this make the LEGO system more useful, more reusable, more buildable or more meaningful to builders? When the answer was yes, constraint became leverage. When the answer was no, novelty could become distraction.
 
@@ -384,18 +384,18 @@ The brick system therefore worked as a filter. A new idea did not have to be con
 
 The most important feature of the LEGO constraint is that it does not force all products to look the same. It allows LEGO to absorb very different cultural trends while keeping them interoperable. A licensed spaceship, a Ninjago dragon, a Friends café, a Technic car and a modular building may target different audiences, but they still depend on the same promise: parts connect, instructions teach, models can be rebuilt, and elements can migrate into a wider collection.
 
-LEGO’s own adult-building pages show how far this range has stretched. The company now presents [adult sets]({{ 'adult-sets/' | relative_url }}) across entertainment, art, design, music, travel, history, science, technology, nature, vehicles, games and Star Wars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/getting-started" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> Yet these categories do not become isolated product worlds. They plug into the brick system through shared elements and building conventions.
+LEGO’s own adult-building pages show how far this range has stretched. The company now presents [adult sets]({{ 'adult-sets/' | relative_url }}) across entertainment, art, design, music, travel, history, science, technology, nature, vehicles, games and Star Wars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/getting-started" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> Yet these categories do not become isolated product worlds. They plug into the brick system through shared elements and building conventions.
 
-The modular building line is a clear example of this constraint becoming a design asset. LEGO says modular sets are made with interconnectivity and compatibility in mind, so buildings share a scale and can be joined into an expanding street. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/article/beginners-guide-modular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> The value is not only in each annual model; it is in the way each model increases the value of the collection around it.
+The modular building line is a clear example of this constraint becoming a design asset. LEGO says modular sets are made with interconnectivity and compatibility in mind, so buildings share a scale and can be joined into an expanding street.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/adults-welcome/article/beginners-guide-modular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> The value is not only in each annual model; it is in the way each model increases the value of the collection around it.
 
-LEGO Ideas shows a different version of the same mechanism. The official help page says product suggestions must be submitted through LEGO Ideas, built out of LEGO bricks and meet project guidelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-fr/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> That requirement channels fan creativity into the system rather than away from it. A fan may propose a sitcom set, a historical object, a game-inspired model or a display piece, but the idea has to be expressed in LEGO’s buildable language.
+LEGO Ideas shows a different version of the same mechanism. The official help page says product suggestions must be submitted through LEGO Ideas, built out of LEGO bricks and meet project guidelines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-fr/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span> That requirement channels fan creativity into the system rather than away from it. A fan may propose a sitcom set, a historical object, a game-inspired model or a display piece, but the idea has to be expressed in LEGO’s buildable language.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-Illustration-2-dark.svg" | relative_url }}" alt="Brick System illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Constraint Also Disciplines Operations
 
 The brick system is not only a creative rule; it is an operational discipline. Every new mould, colour, printed element or specialised part has manufacturing, inventory and supply-chain consequences. The more LEGO allows one-off pieces to proliferate, the more fragile the system becomes behind the scenes, because design freedom creates cost, complexity and forecasting risk.
 
-This is one reason the post-crisis refocus matters. Strategy+Business reported that LEGO had lost money in four of the seven years from 1998 through 2004, with sales dropping 30 per cent in 2003 and another 10 per cent in 2004. The article also says executives estimated the company was destroying about €250,000 of value every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> That scale of pressure made complexity impossible to ignore.
+This is one reason the post-crisis refocus matters. Strategy+Business reported that LEGO had lost money in four of the seven years from 1998 through 2004, with sales dropping 30 per cent in 2003 and another 10 per cent in 2004. The article also says executives estimated the company was destroying about €250,000 of value every day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">Strategy+business Rebuilding Lego, Brick by Brick</span></span></span> That scale of pressure made complexity impossible to ignore.
 
 A productive constraint helps because it does not simply say “innovate less”. It says “innovate in ways the system can carry”. Reusing parts is not automatically better than creating new ones; LEGO sometimes needs new elements to unlock a better model, character, curve or play function. But the system asks whether that new element will earn its place. Can it appear in other sets? Does it improve build quality? Does it open a technique that designers can reuse? Does it strengthen rather than clutter the shared vocabulary?
 
@@ -407,7 +407,7 @@ This is where LEGO’s design constraint becomes antifragile. A fragile system g
 
 The brick system becomes especially demanding when LEGO tries to change the material of the brick itself. Sustainability pressure pushes the company towards recycled and renewable inputs, but the compatibility promise prevents a quick substitution. A brick made from a new material still has to feel right, grip correctly, separate cleanly, last for years and connect with older bricks.
 
-LEGO’s 2021 prototype brick made from recycled PET plastic shows the tension. LEGO announced that the prototype was the first recycled-plastic brick to meet its strict quality and safety requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2021/june/prototype-lego-brick-recycled-plastic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Prototype LEGO brick recycled plastic</span><span class="citation-popover-snippet">Prototype LEGO brick recycled plastic</span></span></span> But the later story was more complicated: in 2023, LEGO stopped the recycled-bottle project after finding it would lead to higher carbon emissions over the product’s lifetime, while saying it remained committed to finding sustainable materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Lego abandons effort to make bricks from recycled plastic</span><span class="citation-popover-snippet">The Guardian Lego abandons effort to make bricks from recycled plastic</span></span></span>
+LEGO’s 2021 prototype brick made from recycled PET plastic shows the tension. LEGO announced that the prototype was the first recycled-plastic brick to meet its strict quality and safety requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2021/june/prototype-lego-brick-recycled-plastic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Prototype LEGO brick recycled plastic</span><span class="citation-popover-snippet">Prototype LEGO brick recycled plastic</span></span></span> But the later story was more complicated: in 2023, LEGO stopped the recycled-bottle project after finding it would lead to higher carbon emissions over the product’s lifetime, while saying it remained committed to finding sustainable materials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Lego abandons effort to make bricks from recycled plastic</span><span class="citation-popover-snippet">The Guardian Lego abandons effort to make bricks from recycled plastic</span></span></span>
 
 That reversal is not a failure of the brick constraint. It shows why the constraint is productive. Without the compatibility and durability requirement, LEGO could claim progress by switching materials quickly and accepting worse performance. Instead, the system forces a more difficult standard: environmental improvement must not break the long-life, reusable, intergenerational value of the brick.
 
@@ -425,194 +425,194 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/31s1cSQkmWE" title="LEGO to make bricks from PLASTIC BOTTLES | Newsround" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=31s1cSQkmWE" target="_blank" rel="noopener noreferrer">LEGO to make bricks from PLASTIC BOTTLES | Newsround</a></p><p class="youtube-embed-meta">Channel: BBC Newsround &middot; Views: 5.2K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=31s1cSQkmWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=31s1cSQkmWE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Brick Became LEGO&#x27;s Best Constraint. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Brick Became LEGO&#x27;s Best Constraint. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains why returning to the brick system became strategically important.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why returning to the brick system became strategically important.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s argument about productive constraints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s argument about productive constraints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Relevant to enduring product systems and user-centered design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to enduring product systems and user-centered design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of LEGO Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of LEGO Bricks: The Inside Story of a Design Icon">The Secret Life of LEGO Bricks: The Inside Story of a Design...</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Konstanski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of LEGO Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of LEGO Bricks: The Inside Story of a Design Icon">The Secret Life of LEGO Bricks: The Inside Story of a Design...</a>
+</h4>
+<p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Explores the design logic and evolution of the LEGO brick system.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the design logic and evolution of the LEGO brick system.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minecraft 21254 the Turtle Beach House Building Set NEW SEALED"><img src="https://i.ebayimg.com/images/g/XacAAeSwaE5qJ-hz/s-l225.jpg" alt="Listing image for LEGO Minecraft 21254 the Turtle Beach House Building Set NEW SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Minecraft 21254 the Turtle Beach House Building Set NEW SEALED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Minecraft 21254 the Turtle Beach House Building Set NEW SEALED"><img src="https://i.ebayimg.com/images/g/XacAAeSwaE5qJ-hz/s-l225.jpg" alt="Listing image for LEGO Minecraft 21254 the Turtle Beach House Building Set NEW SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Minecraft 21254 the Turtle Beach House Building Set NEW SEALED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for *NEW* MOC Concorde Icons Aircraft Building Blocks 2083pcs Model Free Delivery"><img src="https://i.ebayimg.com/images/g/VQQAAeSw8K9p9heL/s-l225.jpg" alt="Listing image for *NEW* MOC Concorde Icons Aircraft Building Blocks 2083pcs Model Free Delivery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">*NEW* MOC Concorde Icons Aircraft Building Blocks 2083pcs Model Free Delivery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for *NEW* MOC Concorde Icons Aircraft Building Blocks 2083pcs Model Free Delivery"><img src="https://i.ebayimg.com/images/g/VQQAAeSw8K9p9heL/s-l225.jpg" alt="Listing image for *NEW* MOC Concorde Icons Aircraft Building Blocks 2083pcs Model Free Delivery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">*NEW* MOC Concorde Icons Aircraft Building Blocks 2083pcs Model Free Delivery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons Pac-Man Arcade Building Set 10323 BRAND NEW SEALED ✅"><img src="https://i.ebayimg.com/images/g/auIAAeSw3WpqEZUw/s-l225.jpg" alt="Listing image for LEGO Icons Pac-Man Arcade Building Set 10323 BRAND NEW SEALED ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons Pac-Man Arcade Building Set 10323 BRAND NEW SEALED ✅</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons Pac-Man Arcade Building Set 10323 BRAND NEW SEALED ✅"><img src="https://i.ebayimg.com/images/g/auIAAeSw3WpqEZUw/s-l225.jpg" alt="Listing image for LEGO Icons Pac-Man Arcade Building Set 10323 BRAND NEW SEALED ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons Pac-Man Arcade Building Set 10323 BRAND NEW SEALED ✅</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator Expert 10270 Bookshop Building Set"><img src="https://i.ebayimg.com/images/g/VLIAAeSwJspqJ~Cg/s-l225.jpg" alt="Listing image for LEGO Creator Expert 10270 Bookshop Building Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator Expert 10270 Bookshop Building Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator Expert 10270 Bookshop Building Set"><img src="https://i.ebayimg.com/images/g/VLIAAeSwJspqJ~Cg/s-l225.jpg" alt="Listing image for LEGO Creator Expert 10270 Bookshop Building Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator Expert 10270 Bookshop Building Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO building set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO building set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+building+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-brick-became-lego-s-best-constraint-lego-building-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO building set" data-ebay-reference="why-the-brick-became-lego-s-best-constraint-lego-building-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,190 +818,190 @@ For LEGO, the brick is therefore not a nostalgic anchor holding the company back
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/lego-system-in-play</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</p></details>
+   Link:<a href="https://www.lego.com/en-us/history/articles/lego-system-in-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/lego-system-in-play</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® System in Play | LEGO® History | LEGO.com USThe LEGO System means that: all elements fit together, can be used in multiple ways...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</p></details>
+   Link:<a href="https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The stud and tube principle | LEGO® HistoryClutch power provides stability and endless possibilities for combining bricks. With the n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
    Title: Our commitments  
-   Link: <a href="https://www.lego.com/en-us/sustainability/our-commitments" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/our-commitments</a>  
+   Link:<a href="https://www.lego.com/en-us/sustainability/our-commitments" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/our-commitments</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: Sustainable materials  
-   Link: <a href="https://www.lego.com/en-us/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/sustainable-materials</a>  
+   Link:<a href="https://www.lego.com/en-us/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/sustainable-materials</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/adults-welcome/getting-started" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/getting-started</a>  
+   Link:<a href="https://www.lego.com/en-gb/adults-welcome/getting-started" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/getting-started</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/adults-welcome/article/beginners-guide-modular" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/article/beginners-guide-modular</a>  
+   Link:<a href="https://www.lego.com/en-gb/adults-welcome/article/beginners-guide-modular" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/adults-welcome/article/beginners-guide-modular</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-fr/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-fr/service/help-topics/article/submitting-your-idea-to-lego-ideas</a>  
+   Link:<a href="https://www.lego.com/en-fr/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-fr/service/help-topics/article/submitting-your-idea-to-lego-ideas</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
    Title: Prototype LEGO brick recycled plastic  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2021/june/prototype-lego-brick-recycled-plastic" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2021/june/prototype-lego-brick-recycled-plastic</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2021/june/prototype-lego-brick-recycled-plastic" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2021/june/prototype-lego-brick-recycled-plastic</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
    Title: Company Profile  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
    Title: e further development of the system  
-   Link: <a href="https://www.lego.com/en-us/history/articles/e-further-development-of-the-system" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/e-further-development-of-the-system</a>  
+   Link:<a href="https://www.lego.com/en-us/history/articles/e-further-development-of-the-system" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/e-further-development-of-the-system</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/lego-bricks-help-adults-rediscover-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/lego-bricks-help-adults-rediscover-play</a>  
+   Link:<a href="https://www.lego.com/en-gb/categories/adults-welcome/article/lego-bricks-help-adults-rediscover-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/lego-bricks-help-adults-rediscover-play</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lego.com  
    Title: LEG O® Classic toys  
-   Link: <a href="https://www.lego.com/en-gb/themes/classic/building-instructions" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/classic/building-instructions</a>  
+   Link:<a href="https://www.lego.com/en-gb/themes/classic/building-instructions" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/classic/building-instructions</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-dk/smart-play/article/play-together" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-dk/smart-play/article/play-together</a>  
+   Link:<a href="https://www.lego.com/en-dk/smart-play/article/play-together" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-dk/smart-play/article/play-together</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/challenging-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/challenging-lego-sets-to-build-for-adults</a>  
+   Link:<a href="https://www.lego.com/en-gb/categories/adults-welcome/article/challenging-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/challenging-lego-sets-to-build-for-adults</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/sustainability/environment" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/environment</a>  
+   Link:<a href="https://www.lego.com/en-gb/sustainability/environment" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/environment</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lego.com  
    Title: Keep bricks in play  
-   Link: <a href="https://www.lego.com/en-gb/sustainability/keep-bricks-in-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/keep-bricks-in-play</a>  
+   Link:<a href="https://www.lego.com/en-gb/sustainability/keep-bricks-in-play" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/keep-bricks-in-play</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/history/articles/d-quality-in-every-detail" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/d-quality-in-every-detail</a>  
+   Link:<a href="https://www.lego.com/en-us/history/articles/d-quality-in-every-detail" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/d-quality-in-every-detail</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/sustainability/assets/bltc43f38d930d0440a/2025_Annual_Report_-_The_LEGO_Group.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lego.com  
    Title: LEGO Group Sustainability Statement 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/sustainability/" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/</a>  
+   Link:<a href="https://www.lego.com/en-us/sustainability/" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/sustainability/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-au/service/help-topics/article/how-do-lego-bricks-work" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-au/service/help-topics/article/how-do-lego-bricks-work</a>  
+   Link:<a href="https://www.lego.com/en-au/service/help-topics/article/how-do-lego-bricks-work" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-au/service/help-topics/article/how-do-lego-bricks-work</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: d3.harvard.edu  
    Title: block by block harnessing open innovation at the lego group  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/</a>  
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: hbr.org  
    Title: innovating a turnaround at lego  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: strategy-business.com  
    Title: Strategy+business Rebuilding Lego, Brick by Brick  
-   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
+   Link:<a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: The Guardian Lego abandons effort to make bricks from recycled plastic  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles</a>  
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
+   Link:<a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: strategyzer.com  
-   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
+   Link:<a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6</a>  
+   Link:<a href="https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a523a39117eed52b57622b07d07d9fd6</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: learningthroughplay.com  
-   Link: <a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
+   Link:<a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1ept3bj/appreciation_post_for_how_tight_the_tolerance_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ept3bj/appreciation_post_for_how_tight_the_tolerance_are/</a>  
+   Link:<a href="https://www.reddit.com/r/lego/comments/1ept3bj/appreciation_post_for_how_tight_the_tolerance_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ept3bj/appreciation_post_for_how_tight_the_tolerance_are/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: capgemini.com  
-   Link: <a href="https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf</a>  
+   Link:<a href="https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.capgemini.com/wp-content/uploads/2023/12/Branding_Podcast-Transcript_CR024-How-LEGO-rewrote-the-rules-of-innovation-and-conquered-with-David-Robertson-MIT-Author.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: robertsoninnovation.com  
-   Link: <a href="https://robertsoninnovation.com/books/brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://robertsoninnovation.com/books/brick-by-brick/</a>  
+   Link:<a href="https://robertsoninnovation.com/books/brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://robertsoninnovation.com/books/brick-by-brick/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/Brick-Rewrote-Innovation-Conquered-Industry/dp/030795160X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Brick-Rewrote-Innovation-Conquered-Industry/dp/030795160X</a>  
+   Link:<a href="https://www.amazon.de/Brick-Rewrote-Innovation-Conquered-Industry/dp/030795160X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Brick-Rewrote-Innovation-Conquered-Industry/dp/030795160X</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: econbiz.de  
-   Link: <a href="https://www.econbiz.de/Record/brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-industry-robertson-david/10009778653" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-industry-robertson-david/10009778653</a>  
+   Link:<a href="https://www.econbiz.de/Record/brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-industry-robertson-david/10009778653" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/brick-by-brick-how-lego-rewrote-the-rules-of-innovation-and-conquered-the-global-toy-industry-robertson-david/10009778653</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/mikewwooten_lego-almost-went-bankrupt-in-2003-not-because-activity-7425596057906040832-doLC" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mikewwooten_lego-almost-went-bankrupt-in-2003-not-because-activity-7425596057906040832-doLC</a>  
+   Link:<a href="https://www.linkedin.com/posts/mikewwooten_lego-almost-went-bankrupt-in-2003-not-because-activity-7425596057906040832-doLC" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mikewwooten_lego-almost-went-bankrupt-in-2003-not-because-activity-7425596057906040832-doLC</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1jzkzv1/i_kinda_miss_when_lego_did_its_own_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1jzkzv1/i_kinda_miss_when_lego_did_its_own_thing/</a>  
+   Link:<a href="https://www.reddit.com/r/lego/comments/1jzkzv1/i_kinda_miss_when_lego_did_its_own_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1jzkzv1/i_kinda_miss_when_lego_did_its_own_thing/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO</a>
+   Link:<a href="https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO</a>

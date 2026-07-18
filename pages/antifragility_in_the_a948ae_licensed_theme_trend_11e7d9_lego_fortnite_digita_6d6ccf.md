@@ -274,16 +274,16 @@ image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_le
 
 ## Introduction
 
-LEGO Fortnite is one of the clearest examples of LEGO turning a digital platform into a source of physical products rather than treating games as simple marketing support. The partnership with Epic Games began as an attempt to build family-friendly [digital play]({{ 'digital-play/' | relative_url }}) spaces inside Fortnite, but it quickly evolved into a two-way system. Digital characters, vehicles and objects became physical LEGO sets, while physical purchases unlocked digital content and reinforced participation in the game ecosystem. This matters for LEGO's antifragility because it creates another route through which cultural attention can flow into the [brick system]({{ 'brick-system/' | relative_url }}). Instead of depending only on films, television or traditional toy trends, LEGO can absorb energy from a live digital platform and convert it into physical building products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
+LEGO Fortnite is one of the clearest examples of LEGO turning a digital platform into a source of physical products rather than treating games as simple marketing support. The partnership with Epic Games began as an attempt to build family-friendly [digital play]({{ 'digital-play/' | relative_url }}) spaces inside Fortnite, but it quickly evolved into a two-way system. Digital characters, vehicles and objects became physical LEGO sets, while physical purchases unlocked digital content and reinforced participation in the game ecosystem. This matters for LEGO's antifragility because it creates another route through which cultural attention can flow into the [brick system]({{ 'brick-system/' | relative_url }}). Instead of depending only on films, television or traditional toy trends, LEGO can absorb energy from a live digital platform and convert it into physical building products.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-1-dark.svg" | relative_url }}" alt="Fortnite illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The important shift is not that Fortnite received LEGO branding. It is that LEGO Fortnite became a play environment capable of generating its own toys, collectables and building ideas. The digital world stopped being a [licensing]({{ 'licensing/' | relative_url }}) destination and became a source of new LEGO products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO Fortnite - About Us - LEGO.com2 Dec 2023 — The LEGO Group and Epic Games today announced LEGO® Fortnite, a new survival crafting...</span></span></span>
+The important shift is not that Fortnite received LEGO branding. It is that LEGO Fortnite became a play environment capable of generating its own toys, collectables and building ideas. The digital world stopped being a [licensing]({{ 'licensing/' | relative_url }}) destination and became a source of new LEGO products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO Fortnite - About Us - LEGO.com2 Dec 2023 — The LEGO Group and Epic Games today announced LEGO® Fortnite, a new survival crafting...</span></span></span>
 
 ## The Epic Games partnership and digital play space
 
-The roots of LEGO Fortnite go back to April 2022, when the LEGO Group and Epic Games announced a long-term partnership focused on creating safe digital experiences for children and families. Both companies framed the project as part of a broader effort to shape future online play rather than simply launching a branded game mode. LEGO executives repeatedly stressed that children already move between physical and digital play and that the challenge was connecting those worlds safely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
+The roots of LEGO Fortnite go back to April 2022, when the LEGO Group and Epic Games announced a long-term partnership focused on creating safe digital experiences for children and families. Both companies framed the project as part of a broader effort to shape future online play rather than simply launching a branded game mode. LEGO executives repeatedly stressed that children already move between physical and digital play and that the challenge was connecting those worlds safely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
 
-When LEGO Fortnite launched inside Fortnite in December 2023, it arrived as a survival-crafting experience rather than a conventional licensed crossover. Players gathered resources, built structures, explored large worlds and interacted with LEGO-styled versions of Fortnite characters. Epic described it as the first major outcome of the partnership, while LEGO positioned it as the beginning of a broader digital ecosystem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</span><span class="citation-popover-meta">Published: December 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the adventure is building lego fortnite is live</span><span class="citation-popover-snippet">The Adventure Is Building: LEGO® Fortnite is Live!7 Dec 2023 — LEGO Fortnite will be the first play experience to come from our long...</span></span></span>
+When LEGO Fortnite launched inside Fortnite in December 2023, it arrived as a survival-crafting experience rather than a conventional licensed crossover. Players gathered resources, built structures, explored large worlds and interacted with LEGO-styled versions of Fortnite characters. Epic described it as the first major outcome of the partnership, while LEGO positioned it as the beginning of a broader digital ecosystem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</span><span class="citation-popover-meta">Published: December 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the adventure is building lego fortnite is live</span><span class="citation-popover-snippet">The Adventure Is Building: LEGO® Fortnite is Live!7 Dec 2023 — LEGO Fortnite will be the first play experience to come from our long...</span></span></span>
 
 This distinction matters because LEGO was not merely inserting its logo into an existing game. The core mechanics echoed familiar LEGO values:
 
@@ -297,40 +297,40 @@ This distinction matters because LEGO was not merely inserting its logo into an 
 
 </div>
 
-The digital environment therefore functioned less like advertising and more like an extension of LEGO's long-standing play philosophy. Players were effectively engaging with a virtual version of the same construction mindset that underpins physical LEGO products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">battle bus 77073</span><span class="citation-popover-snippet">Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</span></span></span>
+The digital environment therefore functioned less like advertising and more like an extension of LEGO's long-standing play philosophy. Players were effectively engaging with a virtual version of the same construction mindset that underpins physical LEGO products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">battle bus 77073</span><span class="citation-popover-snippet">Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tbjv7MkDMGA" title="LEGO Fortnite Battle Bus (77073) - 2024 EARLY Set Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tbjv7MkDMGA" target="_blank" rel="noopener noreferrer">LEGO Fortnite Battle Bus (77073) - 2024 EARLY Set Review</a></p><p class="youtube-embed-meta">Channel: Ashnflash &middot; Views: 79.3K &middot; Uploaded: September 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tbjv7MkDMGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tbjv7MkDMGA">Open on YouTube</a></p></div></div></div>
 
 ## How in-game objects become physical sets
 
-The most interesting part of the LEGO Fortnite strategy emerged in 2024 when LEGO released its first physical LEGO Fortnite range. Rather than adapting Fortnite Battle Royale in a generic way, the company specifically selected characters, locations and objects that had become recognisable within the LEGO Fortnite experience itself. LEGO described the collection as the first range inspired directly by items and characters found within the survival-crafting game. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-za/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">battle bus 77073</span><span class="citation-popover-snippet">Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</span></span></span>
+The most interesting part of the LEGO Fortnite strategy emerged in 2024 when LEGO released its first physical LEGO Fortnite range. Rather than adapting Fortnite Battle Royale in a generic way, the company specifically selected characters, locations and objects that had become recognisable within the LEGO Fortnite experience itself. LEGO described the collection as the first range inspired directly by items and characters found within the survival-crafting game.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-za/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">battle bus 77073</span><span class="citation-popover-snippet">Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</span></span></span>
 
 The initial range included:
 
 * Battle Bus (77073)
-* Supply Llama (77071) * Durrr Burger (77070) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[brothers-brick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</span></span></span> * Peely Bone (77072) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[brothers-brick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</span></span></span>
+* Supply Llama (77071) * Durrr Burger (77070)<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[brothers-brick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</span></span></span> * Peely Bone (77072)<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[brothers-brick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</span></span></span>
 
-These were not random choices. Each represented something players already recognised from the digital environment. The Battle Bus connected one of Fortnite's most iconic vehicles with LEGO's construction system. Supply Llama transformed a familiar loot container into a buildable display model. Peely Bone converted a digital character design into a physical collector-oriented build. Durrr Burger brought a recurring Fortnite visual icon into brick form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newelementary.com/2024/07/revealed-4-lego-fortnite-sets-available.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newelementary.com">[2newelementary.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newelementary.com</span><span class="citation-popover-title">revealed 4 lego fortnite sets available</span><span class="citation-popover-snippet">Revealed: 4 LEGO® Fortnite sets, available to pre-order23 Jul 2024 — Coming 1 October 2024, the 77070 Durrr Burger, 77071 Supply Llama, 7...</span><span class="citation-popover-meta">Published: October 2024</span></span></span>
+These were not random choices. Each represented something players already recognised from the digital environment. The Battle Bus connected one of Fortnite's most iconic vehicles with LEGO's construction system. Supply Llama transformed a familiar loot container into a buildable display model. Peely Bone converted a digital character design into a physical collector-oriented build. Durrr Burger brought a recurring Fortnite visual icon into brick form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-snippet">The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newelementary.com/2024/07/revealed-4-lego-fortnite-sets-available.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newelementary.com">[2newelementary.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newelementary.com</span><span class="citation-popover-title">revealed 4 lego fortnite sets available</span><span class="citation-popover-snippet">Revealed: 4 LEGO® Fortnite sets, available to pre-order23 Jul 2024 — Coming 1 October 2024, the 77070 Durrr Burger, 77071 Supply Llama, 7...</span><span class="citation-popover-meta">Published: October 2024</span></span></span>
 
-The Battle Bus illustrates the mechanism particularly well. LEGO's product description explicitly states that the model is based on the video game version and includes recognisable Fortnite accessories, nine minifigures and details familiar to players. The object already possessed cultural meaning inside the game before becoming a physical set. LEGO therefore did not have to invent a toy concept from scratch. The game had already performed part of the world-building work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/fortnite/redeem-lego-fortnite-outfit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO Fortnite Battle Bus (77073), LEGO Fortnite Durrr Burger (77070), LEGO Fortnite...Read more...</span></span></span>
+The Battle Bus illustrates the mechanism particularly well. LEGO's product description explicitly states that the model is based on the video game version and includes recognisable Fortnite accessories, nine minifigures and details familiar to players. The object already possessed cultural meaning inside the game before becoming a physical set. LEGO therefore did not have to invent a toy concept from scratch. The game had already performed part of the world-building work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/fortnite/redeem-lego-fortnite-outfit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO Fortnite Battle Bus (77073), LEGO Fortnite Durrr Burger (77070), LEGO Fortnite...Read more...</span></span></span>
 
-In previous licensed themes, the flow often worked in the opposite direction. A film, television series or game existed first, and LEGO translated it into bricks. With LEGO Fortnite, LEGO helped create the digital experience and then harvested successful elements from that experience for physical products. The company effectively became both platform participant and toy manufacturer at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/fortnite/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What is LEGO® Fortnite®? &#124; Official LEGO® Shop USLEGO® Fortnite® is the home of several awesome game modes within the Fortnite game...</span></span></span>
+In previous licensed themes, the flow often worked in the opposite direction. A film, television series or game existed first, and LEGO translated it into bricks. With LEGO Fortnite, LEGO helped create the digital experience and then harvested successful elements from that experience for physical products. The company effectively became both platform participant and toy manufacturer at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/fortnite/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What is LEGO® Fortnite®? &#124; Official LEGO® Shop USLEGO® Fortnite® is the home of several awesome game modes within the Fortnite game...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-2-dark.svg" | relative_url }}" alt="Fortnite illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Physical purchases feeding back into the game
 
 The connection does not stop when a digital object becomes a toy. LEGO also created mechanisms that send customers back into the digital ecosystem.
 
-Several LEGO Fortnite sets include access to the Operation Brite Starter Pack through QR-code redemption. Buyers receive digital content, including character outfits and decorative items for use inside LEGO Fortnite. The physical product therefore becomes an entry point into the game rather than merely a representation of it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/december/lego-fortnite-december-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEG O Fortnite December Updates</span><span class="citation-popover-snippet">LEGO Fortnite December Updates - About Us9 Dec 2024 — This new update will introduce all-new areas to explore, enemies to overcome and ga...</span></span></span>
+Several LEGO Fortnite sets include access to the Operation Brite Starter Pack through QR-code redemption. Buyers receive digital content, including character outfits and decorative items for use inside LEGO Fortnite. The physical product therefore becomes an entry point into the game rather than merely a representation of it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/december/lego-fortnite-december-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEG O Fortnite December Updates</span><span class="citation-popover-snippet">LEGO Fortnite December Updates - About Us9 Dec 2024 — This new update will introduce all-new areas to explore, enemies to overcome and ga...</span></span></span>
 
 This creates a loop:
 
-1. Players encounter characters and objects inside LEGO Fortnite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</span><span class="citation-popover-meta">Published: December 2023</span></span></span> 2. LEGO releases physical sets based on those digital assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toypro.com/gb/news/1163/lego-fortnite-sets?srsltid=AfmBOoq1pxe65NcM4spuu9x3y511zbqAq0hWNCLLQ7O6ux0WXTyXls8Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toypro.com">[toypro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toypro.com</span><span class="citation-popover-title">lego fortnite sets</span><span class="citation-popover-snippet">LEGO® Fortnite sets28 Aug 2024 — The four new sets are: the LEGO Fortnite Durrr Burger, LEGO Fortnite Supply Llama, LEGO Fortnite Peely B...</span></span></span>
+1. Players encounter characters and objects inside LEGO Fortnite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</span><span class="citation-popover-meta">Published: December 2023</span></span></span> 2. LEGO releases physical sets based on those digital assets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toypro.com/gb/news/1163/lego-fortnite-sets?srsltid=AfmBOoq1pxe65NcM4spuu9x3y511zbqAq0hWNCLLQ7O6ux0WXTyXls8Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toypro.com">[toypro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toypro.com</span><span class="citation-popover-title">lego fortnite sets</span><span class="citation-popover-snippet">LEGO® Fortnite sets28 Aug 2024 — The four new sets are: the LEGO Fortnite Durrr Burger, LEGO Fortnite Supply Llama, LEGO Fortnite Peely B...</span></span></span>
 3. Physical purchases unlock digital rewards.
 4. Players return to the game with new content.
 5. Continued engagement strengthens demand for future products.
 
-Traditional licensing often relies on one-way movement from media property to merchandise. LEGO Fortnite increasingly operates as a circular system in which digital and physical experiences reinforce each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/fortnite/battle-bus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Introducing Battle Bus in LEGO® Fortnite® OdysseyLEGO Fortnite Odyssey&#x27;s Battle Bus update brings new ways to travel through your massive...</span></span></span>
+Traditional licensing often relies on one-way movement from media property to merchandise. LEGO Fortnite increasingly operates as a circular system in which digital and physical experiences reinforce each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/themes/fortnite/battle-bus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Introducing Battle Bus in LEGO® Fortnite® OdysseyLEGO Fortnite Odyssey&#x27;s Battle Bus update brings new ways to travel through your massive...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GFsNXiS2q1U" title="LEGO Fortnite Sets Are FINALLY HERE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GFsNXiS2q1U" target="_blank" rel="noopener noreferrer">LEGO Fortnite Sets Are FINALLY HERE!</a></p><p class="youtube-embed-meta">Channel: just2good &middot; Views: 15.2K &middot; Uploaded: July 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GFsNXiS2q1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GFsNXiS2q1U">Open on YouTube</a></p></div></div></div>
 
@@ -338,11 +338,11 @@ Traditional licensing often relies on one-way movement from media property to me
 
 From an antifragility perspective, LEGO Fortnite provides more than another licensed theme. It creates multiple points where external volatility can become useful.
 
-Fortnite itself is a live-service platform that changes constantly. New updates, seasonal content, creator-made experiences and community trends can rapidly alter what players care about. Normally, that volatility creates risk for companies tied to a single product cycle. LEGO instead gains a stream of new concepts that can potentially become future products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
+Fortnite itself is a live-service platform that changes constantly. New updates, seasonal content, creator-made experiences and community trends can rapidly alter what players care about. Normally, that volatility creates risk for companies tied to a single product cycle. LEGO instead gains a stream of new concepts that can potentially become future products.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
 
-The partnership also expands LEGO's exposure to audiences who may not enter through toy aisles. A child might first encounter LEGO through Fortnite. An existing Fortnite player might later purchase a physical set. Adult collectors interested in gaming culture may buy display-oriented models such as Peely Bone or the Battle Bus. Each route increases the number of pathways leading back to LEGO's core building system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/february/lego-islands-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Islands Fortnite</span><span class="citation-popover-snippet">About Us - LEGO.com27 Feb 2024 — Billund, 27th February 2024: The LEGO Group has today launched two all-new play experiences within Fortn...</span><span class="citation-popover-meta">Published: February 2024</span></span></span>
+The partnership also expands LEGO's exposure to audiences who may not enter through toy aisles. A child might first encounter LEGO through Fortnite. An existing Fortnite player might later purchase a physical set. Adult collectors interested in gaming culture may buy display-oriented models such as Peely Bone or the Battle Bus. Each route increases the number of pathways leading back to LEGO's core building system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/february/lego-islands-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Islands Fortnite</span><span class="citation-popover-snippet">About Us - LEGO.com27 Feb 2024 — Billund, 27th February 2024: The LEGO Group has today launched two all-new play experiences within Fortn...</span><span class="citation-popover-meta">Published: February 2024</span></span></span>
 
-Another advantage is speed. Digital environments generate feedback much faster than traditional entertainment franchises. LEGO can observe which characters, vehicles or locations attract attention inside the platform and use that information when deciding what deserves a physical release. The game becomes a form of market testing as well as entertainment. While LEGO does not publicly describe the process in those terms, the structure naturally creates that possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/march/LEGO-Islands-Unreal-Editor-Fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEG O Islands Unreal Editor Fortnite</span><span class="citation-popover-snippet">LEGO Islands Unreal Editor Fortnite - About Us20 Mar 2024 — LEGO Fortnite will be the first play experience to come from our long term pa...</span></span></span>
+Another advantage is speed. Digital environments generate feedback much faster than traditional entertainment franchises. LEGO can observe which characters, vehicles or locations attract attention inside the platform and use that information when deciding what deserves a physical release. The game becomes a form of market testing as well as entertainment. While LEGO does not publicly describe the process in those terms, the structure naturally creates that possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/march/LEGO-Islands-Unreal-Editor-Fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEG O Islands Unreal Editor Fortnite</span><span class="citation-popover-snippet">LEGO Islands Unreal Editor Fortnite - About Us20 Mar 2024 — LEGO Fortnite will be the first play experience to come from our long term pa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u80iMzYDAvA" title="EVERY LEGO FORTNITE 2024 SET REVIEWED! (Battle Bus, Loot Llama, Durr Burger &amp; Peely Bone!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u80iMzYDAvA" target="_blank" rel="noopener noreferrer">EVERY LEGO FORTNITE 2024 SET REVIEWED! (Battle Bus, Loot Llama, Durr Burger &amp; Peely Bone!)</a></p><p class="youtube-embed-meta">Channel: MandRproductions &middot; Views: 54.0K &middot; Uploaded: October 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u80iMzYDAvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u80iMzYDAvA">Open on YouTube</a></p></div></div></div>
 
@@ -350,208 +350,208 @@ Another advantage is speed. Digital environments generate feedback much faster t
 
 The strategy also introduces dependencies that do not exist with wholly owned LEGO themes.
 
-Fortnite remains controlled by Epic Games. Changes in platform popularity, moderation policies, revenue structures or player behaviour can affect the value of LEGO's [investment]({{ 'investment/' | relative_url }}). If engagement drops, physical products tied closely to the platform may become less attractive. The arrangement therefore carries platform risk alongside its growth opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
+Fortnite remains controlled by Epic Games. Changes in platform popularity, moderation policies, revenue structures or player behaviour can affect the value of LEGO's [investment]({{ 'investment/' | relative_url }}). If engagement drops, physical products tied closely to the platform may become less attractive. The arrangement therefore carries platform risk alongside its growth opportunities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span>
 
-There is also a creative challenge. Not every successful digital object translates naturally into a satisfying physical model. LEGO sets require build quality, [display value]({{ 'display-value/' | relative_url }}) and play functions that work in the real world. Some digital experiences are compelling because of movement, multiplayer interaction or software systems that cannot easily be recreated with bricks. LEGO still has to choose carefully which in-game concepts deserve physical treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO Fortnite - About Us - LEGO.com2 Dec 2023 — The LEGO Group and Epic Games today announced LEGO® Fortnite, a new survival crafting...</span></span></span>
+There is also a creative challenge. Not every successful digital object translates naturally into a satisfying physical model. LEGO sets require build quality, [display value]({{ 'display-value/' | relative_url }}) and play functions that work in the real world. Some digital experiences are compelling because of movement, multiplayer interaction or software systems that cannot easily be recreated with bricks. LEGO still has to choose carefully which in-game concepts deserve physical treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO Fortnite - About Us - LEGO.com2 Dec 2023 — The LEGO Group and Epic Games today announced LEGO® Fortnite, a new survival crafting...</span></span></span>
 
-Finally, platform-based licensing can become vulnerable to rapid trend changes. Film franchises often operate on long cycles measured in years. Online platforms can change dramatically in months. LEGO benefits from access to fast-moving culture, but it also has to manage inventory, manufacturing and retail timelines that move more slowly than digital trends. That tension is built into the model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digiday.com/marketing/here-is-how-legos-partnership-with-fortnite-stacks-up-as-an-example-of-video-game-brand-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digiday.com">[Digiday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digiday.com</span><span class="citation-popover-snippet">The game...Read more...</span></span></span>
+Finally, platform-based licensing can become vulnerable to rapid trend changes. Film franchises often operate on long cycles measured in years. Online platforms can change dramatically in months. LEGO benefits from access to fast-moving culture, but it also has to manage inventory, manufacturing and retail timelines that move more slowly than digital trends. That tension is built into the model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digiday.com/marketing/here-is-how-legos-partnership-with-fortnite-stacks-up-as-an-example-of-video-game-brand-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digiday.com">[Digiday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digiday.com</span><span class="citation-popover-snippet">The game...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-3-dark.svg" | relative_url }}" alt="Fortnite illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a LEGO game becomes a toy line
 
 The significance of LEGO Fortnite is that it blurs the traditional boundary between licensed media and licensed products. The digital experience is not merely supporting a toy range, and the toy range is not merely promoting a game. Each side continuously generates value for the other.
 
-For LEGO, this represents a more adaptive form of licensing. Instead of waiting for external entertainment properties to create demand, the company participates directly in creating a digital world and then converts successful elements into physical sets. The result is a feedback loop between platform, game, character, object and brick product. In antifragility terms, LEGO gains another mechanism for turning shifts in culture, technology and player attention into opportunities for new forms of building play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</span><span class="citation-popover-meta">Published: December 2023</span></span></span>
+For LEGO, this represents a more adaptive form of licensing. Instead of waiting for external entertainment properties to create demand, the company participates directly in creating a digital world and then converts successful elements into physical sets. The result is a feedback loop between platform, game, character, object and brick product. In antifragility terms, LEGO gains another mechanism for turning shifts in culture, technology and player attention into opportunities for new forms of building play.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicgames.com">[Epic Games Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicgames.com</span><span class="citation-popover-snippet">Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego fortnite launch 2024</span><span class="citation-popover-snippet">LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</span><span class="citation-popover-meta">Published: December 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a LEGO game becomes a toy line. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a LEGO game becomes a toy line. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
+</h4>
+<p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
         
-        <p class="fr-book-desc">Matches the Fortnite-as-platform theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the Fortnite-as-platform theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for LEGO&#x27;s expansion beyond physical toys.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for LEGO&#x27;s expansion beyond physical toys.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Console+Wars+Blake+J.+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Console Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7336883-M.jpg" alt="Cover for Console Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Console+Wars+Blake+J.+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Console Wars">Console Wars</a>
-        </h4>
-        <p class="fr-book-author">By Blake J. Harris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Console+Wars+Blake+J.+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Console Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7336883-M.jpg" alt="Cover for Console Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Console+Wars+Blake+J.+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Console Wars">Console Wars</a>
+</h4>
+<p class="fr-book-author">By Blake J. Harris</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Barbie, Hot Wheels, business, entertainment, Mattel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Console+Wars+Blake+J.+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Barbie, Hot Wheels, business, entertainment, Mattel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Console+Wars+Blake+J.+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Metaverse+Matthew+Ball&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Metaverse on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Metaverse+Matthew+Ball&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Metaverse">The Metaverse</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Ball</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Metaverse+Matthew+Ball&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Metaverse on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Metaverse+Matthew+Ball&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Metaverse">The Metaverse</a>
+</h4>
+<p class="fr-book-author">By Matthew Ball</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Metaverse+Matthew+Ball&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Metaverse+Matthew+Ball&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Console+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Console Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Console+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Console Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fortnite Supply Drop Set 77080 with Minifigures &amp; Accessories"><img src="https://i.ebayimg.com/images/g/x3wAAeSwCftqHZn4/s-l225.jpg" alt="Listing image for LEGO Fortnite Supply Drop Set 77080 with Minifigures &amp; Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fortnite Supply Drop Set 77080 with Minifigures &amp; Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fortnite Supply Drop Set 77080 with Minifigures &amp; Accessories"><img src="https://i.ebayimg.com/images/g/x3wAAeSwCftqHZn4/s-l225.jpg" alt="Listing image for LEGO Fortnite Supply Drop Set 77080 with Minifigures &amp; Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fortnite Supply Drop Set 77080 with Minifigures &amp; Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fortnite Durrr Burger Restaurant (77076) - New, Sealed Contents"><img src="https://i.ebayimg.com/images/g/UdgAAeSwKRJqIE2g/s-l225.jpg" alt="Listing image for LEGO Fortnite Durrr Burger Restaurant (77076) - New, Sealed Contents" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fortnite Durrr Burger Restaurant (77076) - New, Sealed Contents</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fortnite Durrr Burger Restaurant (77076) - New, Sealed Contents"><img src="https://i.ebayimg.com/images/g/UdgAAeSwKRJqIE2g/s-l225.jpg" alt="Listing image for LEGO Fortnite Durrr Burger Restaurant (77076) - New, Sealed Contents" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fortnite Durrr Burger Restaurant (77076) - New, Sealed Contents</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Fortnite Game Set 77082 Rave Cave Brand New Build Only"><img src="https://i.ebayimg.com/images/g/ok0AAeSwoQxqIsed/s-l225.jpg" alt="Listing image for Lego Fortnite Game Set 77082 Rave Cave Brand New Build Only" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">Lego Fortnite Game Set 77082 Rave Cave Brand New Build Only</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Fortnite Game Set 77082 Rave Cave Brand New Build Only"><img src="https://i.ebayimg.com/images/g/ok0AAeSwoQxqIsed/s-l225.jpg" alt="Listing image for Lego Fortnite Game Set 77082 Rave Cave Brand New Build Only" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">Lego Fortnite Game Set 77082 Rave Cave Brand New Build Only</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fortnite KIT Mech Figure Building Set 77081 Collectable Gamer"><img src="https://i.ebayimg.com/images/g/AmwAAeSwZXlqHmtY/s-l225.jpg" alt="Listing image for LEGO Fortnite KIT Mech Figure Building Set 77081 Collectable Gamer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fortnite KIT Mech Figure Building Set 77081 Collectable Gamer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Fortnite KIT Mech Figure Building Set 77081 Collectable Gamer"><img src="https://i.ebayimg.com/images/g/AmwAAeSwZXlqHmtY/s-l225.jpg" alt="Listing image for LEGO Fortnite KIT Mech Figure Building Set 77081 Collectable Gamer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Fortnite KIT Mech Figure Building Set 77081 Collectable Gamer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Fortnite set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Fortnite set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Fortnite+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-lego-game-becomes-a-toy-line-lego-fortnite-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Fortnite set" data-ebay-reference="when-a-lego-game-becomes-a-toy-line-lego-fortnite-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ For LEGO, this represents a more adaptive form of licensing. Instead of waiting 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ For LEGO, this represents a more adaptive form of licensing. Instead of waiting 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ For LEGO, this represents a more adaptive form of licensing. Instead of waiting 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ For LEGO, this represents a more adaptive form of licensing. Instead of waiting 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ For LEGO, this represents a more adaptive form of licensing. Instead of waiting 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,175 +757,175 @@ For LEGO, this represents a more adaptive form of licensing. Instead of waiting 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite - About Us - LEGO.com2 Dec 2023 — The LEGO Group and Epic Games today announced LEGO® Fortnite, a new survival crafting...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/november/lego-fortnite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite - About Us - LEGO.com2 Dec 2023 — The LEGO Group and Epic Games today announced LEGO® Fortnite, a new survival crafting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: lego fortnite launch 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/july/lego-fortnite-launch-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite launch 2024 - About Us23 Jul 2024 — Launched in December 2023, it is the first play experience to come from the long-te...</p></details>
    Published: December 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brothers-brick.com  
-   Link: <a href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</p></details>
+   Link:<a href="https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2024/07/23/legos-fortnite-collaboration-extends-to-four-new-sets-all-available-now-for-pre-order-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickLEGO&#x27;s Fortnite collaboration extends to four new sets, all...23 Jul 2024 — The four new sets include: the LEGO Fortni...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: the adventure is building lego fortnite is live  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Adventure Is Building: LEGO® Fortnite is Live!7 Dec 2023 — LEGO Fortnite will be the first play experience to come from our long...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/december/the-adventure-is-building-lego-fortnite-is-live-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Adventure Is Building: LEGO® Fortnite is Live!7 Dec 2023 — LEGO Fortnite will be the first play experience to come from our long...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: digiday.com  
-   Link: <a href="https://digiday.com/marketing/here-is-how-legos-partnership-with-fortnite-stacks-up-as-an-example-of-video-game-brand-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://digiday.com/marketing/here-is-how-legos-partnership-with-fortnite-stacks-up-as-an-example-of-video-game-brand-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The game...Read more...</p></details>
+   Link:<a href="https://digiday.com/marketing/here-is-how-legos-partnership-with-fortnite-stacks-up-as-an-example-of-video-game-brand-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://digiday.com/marketing/here-is-how-legos-partnership-with-fortnite-stacks-up-as-an-example-of-video-game-brand-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The game...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newelementary.com  
    Title: revealed 4 lego fortnite sets available  
-   Link: <a href="https://www.newelementary.com/2024/07/revealed-4-lego-fortnite-sets-available.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newelementary.com/2024/07/revealed-4-lego-fortnite-sets-available.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: 4 LEGO® Fortnite sets, available to pre-order23 Jul 2024 — Coming 1 October 2024, the 77070 Durrr Burger, 77071 Supply Llama, 7...</p></details>
+   Link:<a href="https://www.newelementary.com/2024/07/revealed-4-lego-fortnite-sets-available.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newelementary.com/2024/07/revealed-4-lego-fortnite-sets-available.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: 4 LEGO® Fortnite sets, available to pre-order23 Jul 2024 — Coming 1 October 2024, the 77070 Durrr Burger, 77071 Supply Llama, 7...</p></details>
    Published: October 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
    Title: battle bus 77073  
-   Link: <a href="https://www.lego.com/en-gb/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/product/battle-bus-77073</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/product/battle-bus-77073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
    Title: battle bus 77073  
-   Link: <a href="https://www.lego.com/en-za/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-za/product/battle-bus-77073</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</p></details>
+   Link:<a href="https://www.lego.com/en-za/product/battle-bus-77073" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-za/product/battle-bus-77073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ready for anything · LEGO Fortnite Battle Bus viewed from above, where there is an open hatch to view...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/themes/fortnite/redeem-lego-fortnite-outfit" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/fortnite/redeem-lego-fortnite-outfit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite Battle Bus (77073), LEGO Fortnite Durrr Burger (77070), LEGO Fortnite...Read more...</p></details>
+   Link:<a href="https://www.lego.com/en-us/themes/fortnite/redeem-lego-fortnite-outfit" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/fortnite/redeem-lego-fortnite-outfit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite Battle Bus (77073), LEGO Fortnite Durrr Burger (77070), LEGO Fortnite...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/themes/fortnite/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/fortnite/about</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is LEGO® Fortnite®? | Official LEGO® Shop USLEGO® Fortnite® is the home of several awesome game modes within the Fortnite game...</p></details>
+   Link:<a href="https://www.lego.com/en-us/themes/fortnite/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/fortnite/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is LEGO® Fortnite®? | Official LEGO® Shop USLEGO® Fortnite® is the home of several awesome game modes within the Fortnite game...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: LEG O Fortnite December Updates  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/december/lego-fortnite-december-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/december/lego-fortnite-december-updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite December Updates - About Us9 Dec 2024 — This new update will introduce all-new areas to explore, enemies to overcome and ga...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/december/lego-fortnite-december-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/december/lego-fortnite-december-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite December Updates - About Us9 Dec 2024 — This new update will introduce all-new areas to explore, enemies to overcome and ga...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/themes/fortnite/battle-bus" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/fortnite/battle-bus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introducing Battle Bus in LEGO® Fortnite® OdysseyLEGO Fortnite Odyssey&#x27;s Battle Bus update brings new ways to travel through your massive...</p></details>
+   Link:<a href="https://www.lego.com/en-us/themes/fortnite/battle-bus" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/themes/fortnite/battle-bus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introducing Battle Bus in LEGO® Fortnite® OdysseyLEGO Fortnite Odyssey&#x27;s Battle Bus update brings new ways to travel through your massive...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
    Title: 'LEGO Islands Fortnite'  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/february/lego-islands-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/february/lego-islands-fortnite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.com27 Feb 2024 — Billund, 27th February 2024: The LEGO Group has today launched two all-new play experiences within Fortn...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/february/lego-islands-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/february/lego-islands-fortnite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.com27 Feb 2024 — Billund, 27th February 2024: The LEGO Group has today launched two all-new play experiences within Fortn...</p></details>
    Published: February 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lego.com  
    Title: LEG O Islands Unreal Editor Fortnite  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/LEGO-Islands-Unreal-Editor-Fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/LEGO-Islands-Unreal-Editor-Fortnite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Islands Unreal Editor Fortnite - About Us20 Mar 2024 — LEGO Fortnite will be the first play experience to come from our long term pa...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/march/LEGO-Islands-Unreal-Editor-Fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/LEGO-Islands-Unreal-Editor-Fortnite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Islands Unreal Editor Fortnite - About Us20 Mar 2024 — LEGO Fortnite will be the first play experience to come from our long term pa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: epicgames.com  
-   Link: <a href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow">https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</p></details>
+   Link:<a href="https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse" target="_blank" rel="noopener noreferrer nofollow">https://www.epicgames.com/site/en-US/news/the-lego-group-and-epic-games-team-up-to-build-a-place-for-kids-to-play-in-the-metaverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Games StoreThe LEGO Group and Epic Games Team Up to Build...7 Apr 2022 — The LEGO Group and Epic Games today announced they are ent...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: epicgames.com  
-   Link: <a href="https://www.epicgames.com/site/news/lego-fortnite-expands-this-week-with-new-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.epicgames.com/site/news/lego-fortnite-expands-this-week-with-new-launches</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Games StoreLEGO® Fortnite Expands this Week with New Launches9 Dec 2024 — LEGO Fortnite, the original survival crafting game we laun...</p></details>
+   Link:<a href="https://www.epicgames.com/site/news/lego-fortnite-expands-this-week-with-new-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.epicgames.com/site/news/lego-fortnite-expands-this-week-with-new-launches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Games StoreLEGO® Fortnite Expands this Week with New Launches9 Dec 2024 — LEGO Fortnite, the original survival crafting game we laun...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: epicgames.com  
    Title: lego fortnite expands this week with new launches  
-   Link: <a href="https://www.epicgames.com/site/en-US/news/lego-fortnite-expands-this-week-with-new-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.epicgames.com/site/en-US/news/lego-fortnite-expands-this-week-with-new-launches</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Games StoreLEGO® Fortnite Expands this Week with New Launches9 Dec 2024 — The world of LEGO® Fortnite expands this week with a serie...</p></details>
+   Link:<a href="https://www.epicgames.com/site/en-US/news/lego-fortnite-expands-this-week-with-new-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.epicgames.com/site/en-US/news/lego-fortnite-expands-this-week-with-new-launches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Games StoreLEGO® Fortnite Expands this Week with New Launches9 Dec 2024 — The world of LEGO® Fortnite expands this week with a serie...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fortnite.fandom.com  
    Title: The LEGO Group  
-   Link: <a href="https://fortnite.fandom.com/wiki/The_LEGO_Group" target="_blank" rel="noopener noreferrer nofollow">https://fortnite.fandom.com/wiki/The_LEGO_Group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group | Fortnite Wiki - FandomLEGO Fortnite Odyssey - a survival crafting game within Fortnite - was the first play experience to co...</p></details>
+   Link:<a href="https://fortnite.fandom.com/wiki/The_LEGO_Group" target="_blank" rel="noopener noreferrer nofollow">https://fortnite.fandom.com/wiki/The_LEGO_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group | Fortnite Wiki - FandomLEGO Fortnite Odyssey - a survival crafting game within Fortnite - was the first play experience to co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tbjv7MkDMGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbjv7MkDMGA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite Battle Bus (77073) - 2024 EARLY Set ReviewToday, we&#x27;re taking a look at the brand new LEGO Fortnite set - the Battle Bus! T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tbjv7MkDMGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbjv7MkDMGA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite Battle Bus (77073) - 2024 EARLY Set ReviewToday, we&#x27;re taking a look at the brand new LEGO Fortnite set - the Battle Bus! T...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: toypro.com  
    Title: lego fortnite sets  
-   Link: <a href="https://www.toypro.com/gb/news/1163/lego-fortnite-sets?srsltid=AfmBOoq1pxe65NcM4spuu9x3y511zbqAq0hWNCLLQ7O6ux0WXTyXls8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.toypro.com/gb/news/1163/lego-fortnite-sets?srsltid=AfmBOoq1pxe65NcM4spuu9x3y511zbqAq0hWNCLLQ7O6ux0WXTyXls8Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Fortnite sets28 Aug 2024 — The four new sets are: the LEGO Fortnite Durrr Burger, LEGO Fortnite Supply Llama, LEGO Fortnite Peely B...</p></details>
+   Link:<a href="https://www.toypro.com/gb/news/1163/lego-fortnite-sets?srsltid=AfmBOoq1pxe65NcM4spuu9x3y511zbqAq0hWNCLLQ7O6ux0WXTyXls8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.toypro.com/gb/news/1163/lego-fortnite-sets?srsltid=AfmBOoq1pxe65NcM4spuu9x3y511zbqAq0hWNCLLQ7O6ux0WXTyXls8Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Fortnite sets28 Aug 2024 — The four new sets are: the LEGO Fortnite Durrr Burger, LEGO Fortnite Supply Llama, LEGO Fortnite Peely B...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: toybarnhaus.co.uk  
-   Link: <a href="https://www.toybarnhaus.co.uk/collections/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.toybarnhaus.co.uk/collections/lego-fortnite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO FortniteThese sets are inspired by characters and items from the LEGO Fortnite game. Prepare to drop in with the iconic LEGO® Battle...</p></details>
+   Link:<a href="https://www.toybarnhaus.co.uk/collections/lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.toybarnhaus.co.uk/collections/lego-fortnite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO FortniteThese sets are inspired by characters and items from the LEGO Fortnite game. Prepare to drop in with the iconic LEGO® Battle...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jaysbrickblog.com  
    Title: lego fortnite officially announced with new game mode starting 7 december 2023  
-   Link: <a href="https://jaysbrickblog.com/news/lego-fortnite-officially-announced-with-new-game-mode-starting-7-december-2023/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-fortnite-officially-announced-with-new-game-mode-starting-7-december-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite officially announced with new game mode...3 Dec 2023 — The LEGO Group and Epic Games today announced LEGO Fortnite, a new...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/lego-fortnite-officially-announced-with-new-game-mode-starting-7-december-2023/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-fortnite-officially-announced-with-new-game-mode-starting-7-december-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite officially announced with new game mode...3 Dec 2023 — The LEGO Group and Epic Games today announced LEGO Fortnite, a new...</p></details>
    Published: december 2023  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jaysbrickblog.com  
    Title: lego enters the metaverse with epic games collaboration lego fortnite soon  
-   Link: <a href="https://jaysbrickblog.com/news/lego-enters-the-metaverse-with-epic-games-collaboration-lego-fortnite-soon/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-enters-the-metaverse-with-epic-games-collaboration-lego-fortnite-soon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO enters the metaverse with Epic Games collaboration7 Apr 2022 — The LEGO Group and Epic Games team up to build a place for kids to pl...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/lego-enters-the-metaverse-with-epic-games-collaboration-lego-fortnite-soon/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-enters-the-metaverse-with-epic-games-collaboration-lego-fortnite-soon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO enters the metaverse with Epic Games collaboration7 Apr 2022 — The LEGO Group and Epic Games team up to build a place for kids to pl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GFsNXiS2q1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GFsNXiS2q1U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite Sets Are FINALLY HERE!The official LEGO Fortnite sets have finally been officially revealed - it&#x27;s a dream come true! 0:00...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GFsNXiS2q1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GFsNXiS2q1U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite Sets Are FINALLY HERE!The official LEGO Fortnite sets have finally been officially revealed - it&#x27;s a dream come true! 0:00...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=EWjOWPbylK8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EWjOWPbylK8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Fortnite links digital worlds to physical sets You get these 3 skins for FREE when scanning the QR Code on the NEW LEGO Fortnite...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=EWjOWPbylK8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EWjOWPbylK8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Fortnite links digital worlds to physical sets You get these 3 skins for FREE when scanning the QR Code on the NEW LEGO Fortnite...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: idisplayit.co.uk  
    Title: battling bricks see the recently announced lego fortnite sets  
-   Link: <a href="https://www.idisplayit.co.uk/news/lego-releases/battling-bricks-see-the-recently-announced-lego-fortnite-sets/?srsltid=AfmBOorXs0usOXPMJfFdI3x_5D2ssaPVLtyEbA2EFn9EWvBDCI6nmjzr" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/battling-bricks-see-the-recently-announced-lego-fortnite-sets/?srsltid=AfmBOorXs0usOXPMJfFdI3x_5D2ssaPVLtyEbA2EFn9EWvBDCI6nmjzr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See The Recently Announced LEGO Fortnite Sets26 Jul 2024 — They recently announced four LEGO Fortnite sets: Battle Bus, Peely Bone, Durr...</p></details>
+   Link:<a href="https://www.idisplayit.co.uk/news/lego-releases/battling-bricks-see-the-recently-announced-lego-fortnite-sets/?srsltid=AfmBOorXs0usOXPMJfFdI3x_5D2ssaPVLtyEbA2EFn9EWvBDCI6nmjzr" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/battling-bricks-see-the-recently-announced-lego-fortnite-sets/?srsltid=AfmBOorXs0usOXPMJfFdI3x_5D2ssaPVLtyEbA2EFn9EWvBDCI6nmjzr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See The Recently Announced LEGO Fortnite Sets26 Jul 2024 — They recently announced four LEGO Fortnite sets: Battle Bus, Peely Bone, Durr...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: godisageek.com  
    Title: lego fortnite is here as the new adventure game mode launches  
-   Link: <a href="https://godisageek.com/2023/12/lego-fortnite-is-here-as-the-new-adventure-game-mode-launches/" target="_blank" rel="noopener noreferrer nofollow">https://godisageek.com/2023/12/lego-fortnite-is-here-as-the-new-adventure-game-mode-launches/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite is here, as the new adventure game mode...8 Dec 2023 — Epic Games and the Lego Group has announced that LEGO Fortnite has...</p></details>
+   Link:<a href="https://godisageek.com/2023/12/lego-fortnite-is-here-as-the-new-adventure-game-mode-launches/" target="_blank" rel="noopener noreferrer nofollow">https://godisageek.com/2023/12/lego-fortnite-is-here-as-the-new-adventure-game-mode-launches/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fortnite is here, as the new adventure game mode...8 Dec 2023 — Epic Games and the Lego Group has announced that LEGO Fortnite has...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: brickfanatics.com  
    Title: every lego fortnite 2024 sale at amazon now  
-   Link: <a href="https://www.brickfanatics.com/every-lego-fortnite-2024-sale-at-amazon-now" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/every-lego-fortnite-2024-sale-at-amazon-now</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every LEGO Fortnite 2024 set is on sale at Amazon right now25 Apr 2025 — From the exclusive minifigures in 77073 Battle Bus to the restau...</p></details>
+   Link:<a href="https://www.brickfanatics.com/every-lego-fortnite-2024-sale-at-amazon-now" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/every-lego-fortnite-2024-sale-at-amazon-now</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every LEGO Fortnite 2024 set is on sale at Amazon right now25 Apr 2025 — From the exclusive minifigures in 77073 Battle Bus to the restau...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: licenseglobal.com  
-   Link: <a href="https://www.licenseglobal.com/video-games/the-lego-group-epic-games-unveil-lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/video-games/the-lego-group-epic-games-unveil-lego-fortnite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>me that will go live inside “Fortnite” on Dec. 7.Read more...</p></details>
+   Link:<a href="https://www.licenseglobal.com/video-games/the-lego-group-epic-games-unveil-lego-fortnite" target="_blank" rel="noopener noreferrer nofollow">https://www.licenseglobal.com/video-games/the-lego-group-epic-games-unveil-lego-fortnite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>me that will go live inside “Fortnite” on Dec. 7.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: jaysbrickblog.com  
    Title: lego fortnite minifigures explained  
-   Link: <a href="https://jaysbrickblog.com/news/lego-fortnite-minifigures-explained/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-fortnite-minifigures-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who&#x27;s On The Battle...23 Sept 2024 — The physical minifigure that comes in the Battle Bus 77073 set looks superb and has its own great m...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/lego-fortnite-minifigures-explained/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-fortnite-minifigures-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who&#x27;s On The Battle...23 Sept 2024 — The physical minifigure that comes in the Battle Bus 77073 set looks superb and has its own great m...</p></details>

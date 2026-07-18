@@ -352,7 +352,7 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84-ov
 
 ## Introduction
 
-LEGO’s theme parks, Clikits and Galidor are useful failure cases because they show that “more growth” can make a company more fragile when it pulls attention, capital and [complexity]({{ 'complexity/' | relative_url }}) away from the system that makes the brand strong. These bets were not foolish because they were creative; they were fragile because they were weakly connected to LEGO’s core advantage: modular building, reusable parts, and play that lets children make rather than simply consume. Harvard Business Review’s account of LEGO’s turnaround groups theme parks, Clikits and Galidor among the pre-crisis innovation efforts that were unprofitable or failed outright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Many of its innovation efforts—theme parks, Clikits craft sets...</span><span class="citation-popover-meta">Published: September 1, 2009</span></span></span>
+LEGO’s theme parks, Clikits and Galidor are useful failure cases because they show that “more growth” can make a company more fragile when it pulls attention, capital and [complexity]({{ 'complexity/' | relative_url }}) away from the system that makes the brand strong. These bets were not foolish because they were creative; they were fragile because they were weakly connected to LEGO’s core advantage: modular building, reusable parts, and play that lets children make rather than simply consume. Harvard Business Review’s account of LEGO’s turnaround groups theme parks, Clikits and Galidor among the pre-crisis innovation efforts that were unprofitable or failed outright.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Many of its innovation efforts—theme parks, Clikits craft sets...</span><span class="citation-popover-meta">Published: September 1, 2009</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84-overview.webp" | relative_url }}" alt="Overview image for Failed Bets" loading="eager" decoding="sync" fetchpriority="high">
 In antifragility terms, the lesson is not that LEGO should never experiment beyond the brick. The lesson is that experiments become healthier when failure feeds back into a stronger core. The early-2000s crisis forced LEGO to distinguish brand extension from system extension: a product could carry the LEGO name and still weaken the LEGO system.
@@ -363,11 +363,11 @@ In antifragility terms, the lesson is not that LEGO should never experiment beyo
 
 Theme parks, Clikits and Galidor failed or underperformed in different ways, but they shared a strategic pattern. Each tried to make LEGO bigger by entering a neighbouring market: leisure attractions, girls’ craft and jewellery, and television-led action figures. The problem was not adjacency itself. The problem was that the ventures demanded capabilities, cost structures and consumer logic that were not naturally reinforced by the brick business.
 
-The theme parks were the most commercially credible of the three, because LEGOLAND was a strong expression of the LEGO brand. Yet operating parks is capital-intensive, seasonal and operationally distant from designing construction toys. LEGO’s 2004 annual report said the company had decided to sell the LEGOLAND Parks to improve liquidity and strengthen its financial base, and it treated the parks as discontinuing activities rather than part of the continuing LEGO Group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — As part of the Action Plan it has been decided to sell off the LEGOLAND Parks to improv...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> In 2005, LEGO sold the four LEGOLAND parks to Merlin Entertainments for €375 million, while retaining an ownership link through the new structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 ENG</span></span></span>
+The theme parks were the most commercially credible of the three, because LEGOLAND was a strong expression of the LEGO brand. Yet operating parks is capital-intensive, seasonal and operationally distant from designing construction toys. LEGO’s 2004 annual report said the company had decided to sell the LEGOLAND Parks to improve liquidity and strengthen its financial base, and it treated the parks as discontinuing activities rather than part of the continuing LEGO Group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — As part of the Action Plan it has been decided to sell off the LEGOLAND Parks to improv...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> In 2005, LEGO sold the four LEGOLAND parks to Merlin Entertainments for €375 million, while retaining an ownership link through the new structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 ENG</span></span></span>
 
-Clikits exposed a different risk: chasing a consumer segment by imitating the category rather than translating the LEGO system into that segment. Launched as a major attempt to reach girls through designer craft accessories, Clikits moved LEGO towards jewellery, decoration and fashion-led play rather than construction-led play. Campaign described the 2003 launch as LEGO’s biggest attempt to crack the girls’ toys market with a designer craft range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">lego targets girls clikits range</span><span class="citation-popover-snippet">lego targets girls clikits range</span></span></span> The range had customisable elements, but its centre of gravity was accessory-making rather than the open-ended building system that made LEGO unusually replayable.
+Clikits exposed a different risk: chasing a consumer segment by imitating the category rather than translating the LEGO system into that segment. Launched as a major attempt to reach girls through designer craft accessories, Clikits moved LEGO towards jewellery, decoration and fashion-led play rather than construction-led play. Campaign described the 2003 launch as LEGO’s biggest attempt to crack the girls’ toys market with a designer craft range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">lego targets girls clikits range</span><span class="citation-popover-snippet">lego targets girls clikits range</span></span></span> The range had customisable elements, but its centre of gravity was accessory-making rather than the open-ended building system that made LEGO unusually replayable.
 
-Galidor was the clearest break from the core. It was built around a television series and a line of articulated action figures, with interchangeable limbs rather than brick-built models. Animation World Network reported ahead of launch that the show would premiere in February 2002 on Fox Kids in the United States and YTV in Canada. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.awn.com/news/lego-goes-global-galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awn.com">[AWN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awn.com</span><span class="citation-popover-title">lego goes global galidor</span><span class="citation-popover-snippet">lego goes global galidor</span></span></span> Brickset’s retrospective critique captures why fans often remember it as “not LEGO enough”: the toys involved constructing figures and swapping body parts, but offered little of the building depth associated with the brick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego fails galidor</span><span class="citation-popover-snippet">lego fails galidor</span></span></span> LEGO’s own later Bits N’ Bricks transcript also notes that Galidor toys did not feature the familiar studs and tubes of the iconic LEGO brick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO® game console from another reality</span><span class="citation-popover-snippet">The LEGO® game console from another reality</span></span></span>
+Galidor was the clearest break from the core. It was built around a television series and a line of articulated action figures, with interchangeable limbs rather than brick-built models. Animation World Network reported ahead of launch that the show would premiere in February 2002 on Fox Kids in the United States and YTV in Canada.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.awn.com/news/lego-goes-global-galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awn.com">[AWN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awn.com</span><span class="citation-popover-title">lego goes global galidor</span><span class="citation-popover-snippet">lego goes global galidor</span></span></span> Brickset’s retrospective critique captures why fans often remember it as “not LEGO enough”: the toys involved constructing figures and swapping body parts, but offered little of the building depth associated with the brick.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego fails galidor</span><span class="citation-popover-snippet">lego fails galidor</span></span></span> LEGO’s own later Bits N’ Bricks transcript also notes that Galidor toys did not feature the familiar studs and tubes of the iconic LEGO brick.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO® game console from another reality</span><span class="citation-popover-snippet">The LEGO® game console from another reality</span></span></span>
 
 These cases mattered because they were not isolated flops. They formed part of a broader pre-turnaround search for growth beyond traditional construction play. The company was trying to become a broader children’s lifestyle and entertainment business, but several of the resulting ventures weakened the link between innovation and LEGO’s distinctive economics.
 
@@ -376,13 +376,13 @@ These cases mattered because they were not isolated flops. They formed part of a
 
 The fragile pattern was not simply “bad products lose money”. It was that non-core growth added complexity faster than LEGO could learn from it. A construction toy company can tolerate many experiments when the experiments share parts, design knowledge, manufacturing routines and consumer feedback. Theme parks, Clikits and Galidor shared the LEGO name, but much less of the operating system.
 
-Galidor required television production, action-figure marketing and a new physical toy grammar. That meant LEGO was competing in a market where success depended heavily on media appeal, shelf impact and character attachment. Wired’s account of the turnaround describes Galidor as an attempt to build a full ecosystem around action figures, media tie-ins, McDonald’s promotions, video games and DVDs, but argues that the line lacked the construction flexibility that made LEGO play distinctive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/building-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Building success: how thinking &#x27;inside the brick&#x27; saved Lego</span><span class="citation-popover-snippet">Building success: how thinking &#x27;inside the brick&#x27; saved Lego</span></span></span> This is a classic fragility problem: the venture needed many pieces of the ecosystem to work at once, yet failure in the television or character layer undermined the toys.
+Galidor required television production, action-figure marketing and a new physical toy grammar. That meant LEGO was competing in a market where success depended heavily on media appeal, shelf impact and character attachment. Wired’s account of the turnaround describes Galidor as an attempt to build a full ecosystem around action figures, media tie-ins, McDonald’s promotions, video games and DVDs, but argues that the line lacked the construction flexibility that made LEGO play distinctive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/building-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Building success: how thinking &#x27;inside the brick&#x27; saved Lego</span><span class="citation-popover-snippet">Building success: how thinking &#x27;inside the brick&#x27; saved Lego</span></span></span> This is a classic fragility problem: the venture needed many pieces of the ecosystem to work at once, yet failure in the television or character layer undermined the toys.
 
-Clikits was less dramatic, but it created a subtler kind of fragility. By entering fashion-led craft, LEGO moved into a market shaped by faster taste cycles and category norms outside its core. Campaign’s contemporary coverage framed LEGO’s move into girls’ toys as part of a wider attempt to become a lifestyle brand, while noting the fast-changing nature of the market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">lego targets girls clikits range</span><span class="citation-popover-snippet">lego targets girls clikits range</span></span></span> That made the product line more exposed to trend risk and less protected by LEGO’s usual durability: a brick from one set remains useful in another, whereas a fashion accessory line can date quickly.
+Clikits was less dramatic, but it created a subtler kind of fragility. By entering fashion-led craft, LEGO moved into a market shaped by faster taste cycles and category norms outside its core. Campaign’s contemporary coverage framed LEGO’s move into girls’ toys as part of a wider attempt to become a lifestyle brand, while noting the fast-changing nature of the market.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">lego targets girls clikits range</span><span class="citation-popover-snippet">lego targets girls clikits range</span></span></span> That made the product line more exposed to trend risk and less protected by LEGO’s usual durability: a brick from one set remains useful in another, whereas a fashion accessory line can date quickly.
 
-The parks added balance-sheet and management complexity. They were brand-rich but asset-heavy. LEGO’s 2004 numbers show the pressure around the reset: revenue had fallen from DKK 10.1 billion in 2002 to DKK 6.7 billion in 2004, while the company recorded a net loss of DKK 1.9 billion in 2004. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Company Profile</span><span class="citation-popover-snippet">Company Profile</span></span></span> Selling the parks was therefore not an admission that LEGOLAND had no value. It was a recognition that LEGO could not afford to have a capital-intensive leisure business competing with the urgent repair of the toy company.
+The parks added balance-sheet and management complexity. They were brand-rich but asset-heavy. LEGO’s 2004 numbers show the pressure around the reset: revenue had fallen from DKK 10.1 billion in 2002 to DKK 6.7 billion in 2004, while the company recorded a net loss of DKK 1.9 billion in 2004.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Company Profile</span><span class="citation-popover-snippet">Company Profile</span></span></span> Selling the parks was therefore not an admission that LEGOLAND had no value. It was a recognition that LEGO could not afford to have a capital-intensive leisure business competing with the urgent repair of the toy company.
 
-The wider complexity problem is supported by later research into LEGO’s product system. A PLOS One study of LEGO sets from 1955 to 2015 found that sets became bigger, more colourful and more specialised, with a significantly larger vocabulary of bricks and fewer shared parts between sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0190651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That study covers a longer period than the early-2000s crisis, so it should not be read as a direct diagnosis of Clikits or Galidor alone. But it helps explain why LEGO’s recovery depended on governing complexity, not simply producing more novelty.
+The wider complexity problem is supported by later research into LEGO’s product system. A PLOS One study of LEGO sets from 1955 to 2015 found that sets became bigger, more colourful and more specialised, with a significantly larger vocabulary of bricks and fewer shared parts between sets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0190651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That study covers a longer period than the early-2000s crisis, so it should not be read as a direct diagnosis of Clikits or Galidor alone. But it helps explain why LEGO’s recovery depended on governing complexity, not simply producing more novelty.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YG1aot06vxY" title="FAILED LEGO Products.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YG1aot06vxY" target="_blank" rel="noopener noreferrer">FAILED LEGO Products..</a></p><p class="youtube-embed-meta">Channel: BrickedUp &middot; Views: 396.7K &middot; Uploaded: June 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YG1aot06vxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YG1aot06vxY">Open on YouTube</a></p></div></div></div>
 
@@ -394,7 +394,7 @@ VentureWhat LEGO was reaching forWhy it became fragileWhat the lesson becameLEGO
 
 The important nuance is that LEGO did not learn a crude lesson against parks, girls’ products or storytelling. Later LEGO successes show the opposite. The company kept using stories, characters, [licensing]({{ 'licensing/' | relative_url }}) and experience-led retail, but it became more disciplined about whether these activities strengthened the [brick system]({{ 'brick-system/' | relative_url }}).
 
-Galidor’s contrast with Bionicle is especially revealing. Both used story and character. But Bionicle still had a stronger buildable logic and a richer internal mythology that supported construction play, while Galidor looked and behaved more like a conventional action-figure line. Brickset’s comparison of Galidor with other buildable figure themes makes the point plainly: Galidor offered too little actual building to satisfy the expectations attached to LEGO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">galidor was it all bad</span><span class="citation-popover-snippet">galidor was it all bad</span></span></span>
+Galidor’s contrast with Bionicle is especially revealing. Both used story and character. But Bionicle still had a stronger buildable logic and a richer internal mythology that supported construction play, while Galidor looked and behaved more like a conventional action-figure line. Brickset’s comparison of Galidor with other buildable figure themes makes the point plainly: Galidor offered too little actual building to satisfy the expectations attached to LEGO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">galidor was it all bad</span><span class="citation-popover-snippet">galidor was it all bad</span></span></span>
 
 Clikits similarly foreshadowed a question LEGO would keep revisiting: how to include more girls without reducing “girls’ play” to a separate, less LEGO-like aisle. The later success of LEGO Friends and other lines is outside this page’s main scope, but the strategic contrast is relevant. Clikits treated the segment as an adjacent craft market; later approaches worked harder to keep construction, narrative setting and modular play in the centre.
 
@@ -403,9 +403,9 @@ Clikits similarly foreshadowed a question LEGO would keep revisiting: how to inc
 
 The strongest antifragile result was that LEGO did not become timid. It became more selective. The company retained the useful parts of the failed experiments: the value of live brand experiences, the importance of reaching underserved audiences, and the power of story. What changed was the test for whether a venture deserved [investment]({{ 'investment/' | relative_url }}).
 
-For theme parks, LEGO shifted from direct ownership under financial stress to a structure that preserved brand upside while reducing immediate balance-sheet pressure. The 2005 sale moved park operations to Merlin Entertainments, a specialist attractions operator, while LEGO’s owners retained a stake in the wider entertainment group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2007 ENG</span><span class="citation-popover-snippet">Annual Report 2007 ENG</span></span></span> That choice kept LEGOLAND alive as a brand experience without forcing the recovering toy company to run everything itself.
+For theme parks, LEGO shifted from direct ownership under financial stress to a structure that preserved brand upside while reducing immediate balance-sheet pressure. The 2005 sale moved park operations to Merlin Entertainments, a specialist attractions operator, while LEGO’s owners retained a stake in the wider entertainment group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2007 ENG</span><span class="citation-popover-snippet">Annual Report 2007 ENG</span></span></span> That choice kept LEGOLAND alive as a brand experience without forcing the recovering toy company to run everything itself.
 
-The same logic still matters in newer experience moves. Reuters reported in 2025 that LEGO agreed to buy 29 indoor entertainment centres from Merlin for about £200 million, while Merlin would continue operating 11 LEGOLAND theme parks under licence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/lego-buy-entertainment-centres-merlin-270-mln-2025-09-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego buys entertainment centres from Madame Tussauds owner Merlin for $270 mln</span><span class="citation-popover-snippet">Lego buys entertainment centres from Madame Tussauds owner Merlin for $270 mln</span></span></span> That does not reverse the early-2000s lesson. It shows a more mature version of it: LEGO can own or shape experiences when they fit its retail and brand strategy, but large theme-park operations remain a specialised business.
+The same logic still matters in newer experience moves. Reuters reported in 2025 that LEGO agreed to buy 29 indoor entertainment centres from Merlin for about £200 million, while Merlin would continue operating 11 LEGOLAND theme parks under licence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/lego-buy-entertainment-centres-merlin-270-mln-2025-09-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego buys entertainment centres from Madame Tussauds owner Merlin for $270 mln</span><span class="citation-popover-snippet">Lego buys entertainment centres from Madame Tussauds owner Merlin for $270 mln</span></span></span> That does not reverse the early-2000s lesson. It shows a more mature version of it: LEGO can own or shape experiences when they fit its retail and brand strategy, but large theme-park operations remain a specialised business.
 
 For Clikits, the retained lesson was that audience expansion should not require abandoning the LEGO grammar. The failure was not “girls do not like LEGO”; it was that a LEGO product aimed at girls still needed the depth, recombination and long-tail play value that make the system strong. The line’s weakness helped expose the danger of demographic shortcuts: a company can target a group so narrowly that it forgets the underlying play value that should make the product worth buying.
 
@@ -417,7 +417,7 @@ For Galidor, the retained lesson was that media can amplify LEGO, but should not
 
 These failed bets made LEGO more antifragile because they supplied painful information the company could not ignore. They showed that brand extension is not the same as strategic strength. A theme park can be beloved and still be too capital-intensive for a company in crisis. A craft line can reach a desired audience and still fail to use the brand’s deepest capabilities. A television-backed action figure can look like modern entertainment strategy and still be fragile if the toy at the centre does not feel meaningfully LEGO.
 
-The 2005 annual report suggests the reset was already working: LEGO reported revenue growth, improved profitability and stronger cash flow, with improvement attributed to innovated classic LEGO products, cost savings, asset sales and increased cash flows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Progress report2006</span><span class="citation-popover-snippet">Progress report2006</span></span></span> That recovery was not achieved by refusing innovation. It was achieved by forcing innovation to pass through a stronger filter.
+The 2005 annual report suggests the reset was already working: LEGO reported revenue growth, improved profitability and stronger cash flow, with improvement attributed to innovated classic LEGO products, cost savings, asset sales and increased cash flows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Progress report2006</span><span class="citation-popover-snippet">Progress report2006</span></span></span> That recovery was not achieved by refusing innovation. It was achieved by forcing innovation to pass through a stronger filter.
 
 In that sense, theme parks, Clikits and Galidor became negative assets that produced positive learning. They taught LEGO to ask harder questions before expanding: Does this venture strengthen the system of play? Does it share parts, skills, audiences or feedback with the core? Can it fail without threatening the company? Does it make LEGO more modular, more reusable and more valuable to its fans, or merely more stretched?
 
@@ -426,194 +426,194 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84-Illustration-3-dark.svg" | relative_url }}" alt="Failed Bets illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What LEGO&#x27;s Failed Bets Taught the Company. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What LEGO&#x27;s Failed Bets Taught the Company. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Analyzes failed expansion efforts and lessons learned.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes failed expansion efforts and lessons learned.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274687-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
-        </h4>
-        <p class="fr-book-author">By Clayton M. Christensen, L J Ganser et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274687-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
+</h4>
+<p class="fr-book-author">By Clayton M. Christensen, L J Ganser et al.</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Industrial management, Disruptive technologies, Success in business, Customer services, innovation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Industrial management, Disruptive technologies, Success in business, Customer services, innovation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14579504-M.jpg" alt="Cover for Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story">Historia de Lego. Como un Juguete Despertó la Imaginación Del...</a>
-        </h4>
-        <p class="fr-book-author">By Jens Andersen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14579504-M.jpg" alt="Cover for Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story">Historia de Lego. Como un Juguete Despertó la Imaginación Del...</a>
+</h4>
+<p class="fr-book-author">By Jens Andersen</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working"><img src="https://i.ebayimg.com/images/g/QCIAAeSwQAFqFegV/s-l225.jpg" alt="Listing image for Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working"><img src="https://i.ebayimg.com/images/g/QCIAAeSwQAFqFegV/s-l225.jpg" alt="Listing image for Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Kek Powerizer 8136, Interactive talking figure, Rare 2002 working</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26"><img src="https://i.ebayimg.com/images/g/2cAAAOSwVB5mCsW9/s-l225.jpg" alt="Listing image for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26"><img src="https://i.ebayimg.com/images/g/2cAAAOSwVB5mCsW9/s-l225.jpg" alt="Listing image for Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Euripides Action Figure Defenders of the Outer Dimension Rare A26</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE"><img src="https://i.ebayimg.com/images/g/Z3QAAeSw93xpLE74/s-l225.jpg" alt="Listing image for Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE"><img src="https://i.ebayimg.com/images/g/Z3QAAeSw93xpLE74/s-l225.jpg" alt="Listing image for Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor 8313 - NICK BLUETOOTH DELUXE Lego figure, 2002 VINTAGE COLLECTABLE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB"><img src="https://i.ebayimg.com/images/g/F5sAAOSw2~Zmzxqj/s-l225.jpg" alt="Listing image for Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB"><img src="https://i.ebayimg.com/images/g/F5sAAOSw2~Zmzxqj/s-l225.jpg" alt="Listing image for Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Rare OONI figure Defenders of The Outer Dimensions 8318 BNIB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lego-s-failed-bets-taught-the-company-lego-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Galidor figure" data-ebay-reference="what-lego-s-failed-bets-taught-the-company-lego-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,186 +819,186 @@ The answer after the crisis was not “stay small”. It was “grow in ways tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — As part of the [Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;) it has been decided to sell off the LEGOLAND Parks to improv...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — As part of the [Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;) it has been decided to sell off the LEGOLAND Parks to improv...</p></details>
    Published: April 26, 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: awn.com  
    Title: lego goes global galidor  
-   Link: <a href="https://www.awn.com/news/lego-goes-global-galidor" target="_blank" rel="noopener noreferrer nofollow">https://www.awn.com/news/lego-goes-global-galidor</a>  
+   Link:<a href="https://www.awn.com/news/lego-goes-global-galidor" target="_blank" rel="noopener noreferrer nofollow">https://www.awn.com/news/lego-goes-global-galidor</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brickset.com  
    Title: lego fails galidor  
-   Link: <a href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/25231/lego-fails-galidor</a>  
+   Link:<a href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/25231/lego-fails-galidor</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
    Title: The LEGO® game console from another reality  
-   Link: <a href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/set/assets/bltd6c9fecf8bee9f9b/bits_n_bricks_s03e37_feature_and_transcript.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Building success: how thinking 'inside the brick' saved Lego  
-   Link: <a href="https://www.wired.com/story/building-success" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/building-success</a>  
+   Link:<a href="https://www.wired.com/story/building-success" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/building-success</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0190651" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0190651</a>  
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0190651" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0190651</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Lego buys entertainment centres from Madame Tussauds owner Merlin for $270 mln  
-   Link: <a href="https://www.reuters.com/business/lego-buy-entertainment-centres-merlin-270-mln-2025-09-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/lego-buy-entertainment-centres-merlin-270-mln-2025-09-24/</a>  
+   Link:<a href="https://www.reuters.com/business/lego-buy-entertainment-centres-merlin-270-mln-2025-09-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/lego-buy-entertainment-centres-merlin-270-mln-2025-09-24/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
    Title: Company Profile  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
    Title: Annual Report 2007 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltd2f21c606528791c/Annual_Report_2007_ENG.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: Progress report2006  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
    Title: Annual Report 2006 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: d3.harvard.edu  
    Title: lego the missing bricks in their global supply chain  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/</a>  
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/lego-the-missing-bricks-in-their-global-supply-chain/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brickset.com  
    Title: galidor was it all bad  
-   Link: <a href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/14936/galidor-was-it-all-bad</a>  
+   Link:<a href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/14936/galidor-was-it-all-bad</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: brickset.com  
-   Link: <a href="https://brickset.com/sets/theme-Galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/sets/theme-Galidor</a>  
+   Link:<a href="https://brickset.com/sets/theme-Galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/sets/theme-Galidor</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Many of its innovation efforts—theme parks, Clikits craft sets...</p></details>
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOSeptember 1, 2009 — Many of its innovation efforts—theme parks, Clikits craft sets...</p></details>
    Published: September 1, 2009  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: campaignlive.co.uk  
    Title: lego targets girls clikits range  
-   Link: <a href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786</a>  
+   Link:<a href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: campaignlive.co.uk  
    Title: analysis lego moves girls market  
-   Link: <a href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455</a>  
+   Link:<a href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bricklink.com  
-   Link: <a href="https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;colorPart=63&amp;itemYear=2002" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;colorPart=63&amp;itemYear=2002</a>  
+   Link:<a href="https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;colorPart=63&amp;itemYear=2002" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;colorPart=63&amp;itemYear=2002</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bricklink.com  
-   Link: <a href="https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;itemDateYear=2002&amp;itemYear=2002" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;itemDateYear=2002&amp;itemYear=2002</a>  
+   Link:<a href="https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;itemDateYear=2002&amp;itemYear=2002" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catID=444&amp;catType=P&amp;catXrefLevel=0&amp;itemDateYear=2002&amp;itemYear=2002</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bricklink.com  
-   Link: <a href="https://www.bricklink.com/catalogList.asp?catType=P&amp;itemYear=2002&amp;wID=45108" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catType=P&amp;itemYear=2002&amp;wID=45108</a>  
+   Link:<a href="https://www.bricklink.com/catalogList.asp?catType=P&amp;itemYear=2002&amp;wID=45108" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/catalogList.asp?catType=P&amp;itemYear=2002&amp;wID=45108</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Merlin Entertainments  
-   Link: <a href="https://en.wikipedia.org/wiki/Merlin_Entertainments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merlin_Entertainments</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Merlin_Entertainments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merlin_Entertainments</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: galidor.fandom.com  
-   Link: <a href="https://galidor.fandom.com/wiki/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://galidor.fandom.com/wiki/LEGO</a>  
+   Link:<a href="https://galidor.fandom.com/wiki/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://galidor.fandom.com/wiki/LEGO</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: brickipedia.fandom.com  
-   Link: <a href="https://brickipedia.fandom.com/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Galidor</a>  
+   Link:<a href="https://brickipedia.fandom.com/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Galidor</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: brickipedia.fandom.com  
-   Link: <a href="https://brickipedia.fandom.com/wiki/Clikits" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Clikits</a>  
+   Link:<a href="https://brickipedia.fandom.com/wiki/Clikits" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Clikits</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/758824395633075/posts/1524908099024697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/758824395633075/posts/1524908099024697/</a>  
+   Link:<a href="https://www.facebook.com/groups/758824395633075/posts/1524908099024697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/758824395633075/posts/1524908099024697/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: en.brickimedia.org  
-   Link: <a href="https://en.brickimedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://en.brickimedia.org/wiki/Galidor</a>  
+   Link:<a href="https://en.brickimedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://en.brickimedia.org/wiki/Galidor</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.lugnet.com  
-   Link: <a href="https://news.lugnet.com/clikits/?n=%2A20%2C-20&amp;v=a" target="_blank" rel="noopener noreferrer nofollow">https://news.lugnet.com/clikits/?n=%2A20%2C-20&amp;v=a</a>  
+   Link:<a href="https://news.lugnet.com/clikits/?n=%2A20%2C-20&amp;v=a" target="_blank" rel="noopener noreferrer nofollow">https://news.lugnet.com/clikits/?n=%2A20%2C-20&amp;v=a</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bigintblog.files.wordpress.com  
-   Link: <a href="https://bigintblog.files.wordpress.com/2014/08/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bigintblog.files.wordpress.com/2014/08/lego.pdf</a>  
+   Link:<a href="https://bigintblog.files.wordpress.com/2014/08/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bigintblog.files.wordpress.com/2014/08/lego.pdf</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=n2mlewMn53E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n2mlewMn53E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Almost DISAPPEARED Forever in 2003?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n2mlewMn53E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n2mlewMn53E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Almost DISAPPEARED Forever in 2003?...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: LEGO’s Comeback: From Nearly Bankrupt To $6 Billion  
-   Link: <a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IjcSKukg9IE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rise and fall of LEGO: From near bankruptcy to the world&#x27;s largest toy company...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IjcSKukg9IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IjcSKukg9IE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rise and fall of LEGO: From near bankruptcy to the world&#x27;s largest toy company...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: How LEGO Almost WENT BANKRUPT 3 Times  
-   Link: <a href="https://www.youtube.com/watch?v=krYxfpkPIjg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=krYxfpkPIjg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO near bankruptcy crisis 2003 turnaround history How LEGO Almost DISAPPEARED Forever in 2003?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=krYxfpkPIjg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=krYxfpkPIjg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO near bankruptcy crisis 2003 turnaround history How LEGO Almost DISAPPEARED Forever in 2003?...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7CGy2fhz-Rk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7CGy2fhz-Rk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Saved Itself From Bankruptcy: The Greatest Turnaround Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7CGy2fhz-Rk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7CGy2fhz-Rk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Saved Itself From Bankruptcy: The Greatest Turnaround Story...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/melinapalmer_a-long-time-ago-in-a-galaxy-not-so-far-activity-7378451044487319552-AA7_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/melinapalmer_a-long-time-ago-in-a-galaxy-not-so-far-activity-7378451044487319552-AA7_</a>  
+   Link:<a href="https://www.linkedin.com/posts/melinapalmer_a-long-time-ago-in-a-galaxy-not-so-far-activity-7378451044487319552-AA7_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/melinapalmer_a-long-time-ago-in-a-galaxy-not-so-far-activity-7378451044487319552-AA7_</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/323901678056131/posts/1580365089076444/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/323901678056131/posts/1580365089076444/</a>  
+   Link:<a href="https://www.facebook.com/groups/323901678056131/posts/1580365089076444/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/323901678056131/posts/1580365089076444/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
+   Link:<a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/erikkruger_how-legos-darkest-moment-became-its-greatest-activity-7455613228518342656-VQ55" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/erikkruger_how-legos-darkest-moment-became-its-greatest-activity-7455613228518342656-VQ55</a>  
+   Link:<a href="https://www.linkedin.com/posts/erikkruger_how-legos-darkest-moment-became-its-greatest-activity-7455613228518342656-VQ55" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/erikkruger_how-legos-darkest-moment-became-its-greatest-activity-7455613228518342656-VQ55</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO</a>  
+   Link:<a href="https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363359654_Incorporating_History_into_Innovation_A_Case_Study_of_LEGO</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/c6gyyi/kirkby_the_lego_families_investment_firm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/c6gyyi/kirkby_the_lego_families_investment_firm/</a>
+   Link:<a href="https://www.reddit.com/r/lego/comments/c6gyyi/kirkby_the_lego_families_investment_firm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/c6gyyi/kirkby_the_lego_families_investment_firm/</a>

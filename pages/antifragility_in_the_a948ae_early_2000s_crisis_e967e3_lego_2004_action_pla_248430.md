@@ -268,26 +268,26 @@ image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego
 
 ## Introduction
 
-LEGO’s 2004 Action Plan was the moment when the company stopped treating its crisis as a temporary downturn and started rebuilding the business around discipline. After years of expanding into new categories, retail concepts, media projects and increasingly complex product portfolios, LEGO faced severe losses, falling sales and rising operational risk. The Action Plan introduced in March 2004 did not simply cut costs. It redefined what counted as a worthwhile experiment, what parts of the business deserved resources, and how much [complexity]({{ 'complexity/' | relative_url }}) the organisation could safely carry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — Report 2004. Jørgen Vig Knudstorp. Jørgen Vig Knudstorp joined the LEGO. Group in Septe...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+LEGO’s 2004 Action Plan was the moment when the company stopped treating its crisis as a temporary downturn and started rebuilding the business around discipline. After years of expanding into new categories, retail concepts, media projects and increasingly complex product portfolios, LEGO faced severe losses, falling sales and rising operational risk. The Action Plan introduced in March 2004 did not simply cut costs. It redefined what counted as a worthwhile experiment, what parts of the business deserved resources, and how much [complexity]({{ 'complexity/' | relative_url }}) the organisation could safely carry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — Report 2004. Jørgen Vig Knudstorp. Jørgen Vig Knudstorp joined the LEGO. Group in Septe...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-1-dark.svg" | relative_url }}" alt="Action Plan illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the context of antifragility, the importance of the plan lies in how it changed LEGO’s relationship with failure. Instead of spreading risk across many loosely connected ventures, management concentrated resources around the [brick system]({{ 'brick-system/' | relative_url }}) that had always been the company’s strongest asset. The goal was not to avoid change but to create a structure in which mistakes would be less destructive and successful ideas could be scaled more effectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 3. Reduce the level of risk by rightsizing our activities, cost base a...</span><span class="citation-popover-meta">Published: February 14, 2006</span></span></span>
+In the context of antifragility, the importance of the plan lies in how it changed LEGO’s relationship with failure. Instead of spreading risk across many loosely connected ventures, management concentrated resources around the [brick system]({{ 'brick-system/' | relative_url }}) that had always been the company’s strongest asset. The goal was not to avoid change but to create a structure in which mistakes would be less destructive and successful ideas could be scaled more effectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 3. Reduce the level of risk by rightsizing our activities, cost base a...</span><span class="citation-popover-meta">Published: February 14, 2006</span></span></span>
 
 ## How LEGO's 2004 Reset Changed Everything
 
-The official Action Plan described a “major switch in direction”. LEGO announced that it would concentrate future efforts on its “basic, classic and universal product idea”: the LEGO brick and the values associated with the brand. This was a sharp reversal from the broad expansion strategy that had dominated the previous years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">annual report 2004 lego</span><span class="citation-popover-snippet">LEGO Group Annual Report 2004: Strategy and Market...The plan lays down a major switch in direction, requiring the LEGO Group to...</span></span></span>
+The official Action Plan described a “major switch in direction”. LEGO announced that it would concentrate future efforts on its “basic, classic and universal product idea”: the LEGO brick and the values associated with the brand. This was a sharp reversal from the broad expansion strategy that had dominated the previous years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">annual report 2004 lego</span><span class="citation-popover-snippet">LEGO Group Annual Report 2004: Strategy and Market...The plan lays down a major switch in direction, requiring the LEGO Group to...</span></span></span>
 
 The plan was organised around three linked objectives:
 
 1. Establish a clear direction and fundamentally change how the company operated.
 2. Restore competitiveness by focusing on customers and profitable business.
-3. Reduce risk by resizing activities, costs and assets to fit a lower revenue base. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartleby.com">[bartleby]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartleby.com</span><span class="citation-popover-title">Lego Group</span><span class="citation-popover-snippet">3549 WordsThis Action Plan was emphasizing three main themes: Set clear direction for the LEGO Group and fundamentally change the way the...</span></span></span> What made the shift significant was that it treated focus as a management system rather than a marketing message. LEGO was no longer trying to prove that it could succeed in every area of children's entertainment. Instead, it began asking whether a project strengthened the core building experience and whether the company could operate it profitably.
+3. Reduce risk by resizing activities, costs and assets to fit a lower revenue base. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartleby.com">[bartleby]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartleby.com</span><span class="citation-popover-title">Lego Group</span><span class="citation-popover-snippet">3549 WordsThis Action Plan was emphasizing three main themes: Set clear direction for the LEGO Group and fundamentally change the way the...</span></span></span> What made the shift significant was that it treated focus as a management system rather than a marketing message. LEGO was no longer trying to prove that it could succeed in every area of children's entertainment. Instead, it began asking whether a project strengthened the core building experience and whether the company could operate it profitably.
 
 This distinction matters for understanding antifragility. Before the crisis, growth often came from adding more businesses, more product variations and more organisational complexity. After the reset, resilience came from reducing unnecessary complexity and preserving the parts of the system that generated repeatable value.
 
 ## The Decision to Refocus on Classic Play
 
-One of the clearest conclusions reached by management was that LEGO had drifted too far from its central strength. Internal assessments and later accounts of the turnaround repeatedly pointed to a loss of confidence in the core brick system. New categories were expected to create growth, but many failed to produce sustainable returns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span> University Press & Assessment
+One of the clearest conclusions reached by management was that LEGO had drifted too far from its central strength. Internal assessments and later accounts of the turnaround repeatedly pointed to a loss of confidence in the core brick system. New categories were expected to create growth, but many failed to produce sustainable returns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span> University Press & Assessment
 
 The Action Plan therefore pushed the company back towards products built around construction play rather than treating the brick as only one option among many. This did not mean abandoning innovation. Licensed themes, new stories and fresh product concepts remained important. The difference was that innovations increasingly had to reinforce the LEGO building system rather than compete with it for organisational attention.
 
@@ -296,7 +296,7 @@ Several practical consequences followed:
 * Greater emphasis on product lines that relied on the core building experience.
 * Tighter evaluation of projects that sat outside LEGO's traditional strengths.
 * Increased attention to profitability rather than headline growth.
-* A clearer link between brand identity and product development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — Report 2004. Jørgen Vig Knudstorp. Jørgen Vig Knudstorp joined the LEGO. Group in Septe...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+* A clearer link between brand identity and product development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — Report 2004. Jørgen Vig Knudstorp. Jørgen Vig Knudstorp joined the LEGO. Group in Septe...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
 This was a critical change because the company had discovered that diversification alone was not reducing risk. In many cases it was increasing it. New ventures required specialised capabilities, separate management attention and additional [investment]({{ 'investment/' | relative_url }}), while often contributing little to the stability of the overall business.
 
@@ -305,9 +305,9 @@ By narrowing the field of experimentation, LEGO improved its ability to learn fr
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-2-dark.svg" | relative_url }}" alt="Action Plan illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cost Cuts and Workforce Reductions
 
-The Action Plan was also a financial survival programme. Management concluded that LEGO's cost structure reflected a much larger and healthier business than the company actually was. Revenues had fallen sharply, but the organisation still carried expenses, assets and operational commitments built for higher levels of sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 3. Reduce the level of risk by rightsizing our activities, cost base a...</span><span class="citation-popover-meta">Published: February 14, 2006</span></span></span>
+The Action Plan was also a financial survival programme. Management concluded that LEGO's cost structure reflected a much larger and healthier business than the company actually was. Revenues had fallen sharply, but the organisation still carried expenses, assets and operational commitments built for higher levels of sales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 3. Reduce the level of risk by rightsizing our activities, cost base a...</span><span class="citation-popover-meta">Published: February 14, 2006</span></span></span>
 
-The response was painful but direct. LEGO began a broad effort to reduce costs, simplify operations and lower its break-even point. The objective was not merely to save money in the short term. It was to create a company that could remain viable even when market conditions became difficult. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfocentre.com">[The CFO Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfocentre.com</span><span class="citation-popover-snippet">The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe two men decided on a short-term life-saving action plan rather than...</span></span></span>
+The response was painful but direct. LEGO began a broad effort to reduce costs, simplify operations and lower its break-even point. The objective was not merely to save money in the short term. It was to create a company that could remain viable even when market conditions became difficult. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfocentre.com">[The CFO Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfocentre.com</span><span class="citation-popover-snippet">The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe two men decided on a short-term life-saving action plan rather than...</span></span></span>
 
 The restructuring included:
 
@@ -315,9 +315,9 @@ The restructuring included:
 * Divestment of assets that were no longer considered central.
 * Operational streamlining and process redesign.
 * Simplification of production and supply-chain activities.
-* Stronger financial controls and performance measurement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iedp.com">[2iedp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iedp.com</span><span class="citation-popover-title">leadership journeys legos joergen vig knudstorp</span><span class="citation-popover-snippet">Leadership Journeys: Lego&#x27;s Jørgen Vig Knudstorp“When I became CEO in 2004, Lego was in the middle of a serious crisis... Knudstorp cons...</span></span></span>
+* Stronger financial controls and performance measurement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span> University Press & Assessment<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iedp.com">[2iedp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iedp.com</span><span class="citation-popover-title">leadership journeys legos joergen vig knudstorp</span><span class="citation-popover-snippet">Leadership Journeys: Lego&#x27;s Jørgen Vig Knudstorp“When I became CEO in 2004, Lego was in the middle of a serious crisis... Knudstorp cons...</span></span></span>
 
-Later analyses of the turnaround highlighted additional moves such as reducing component complexity, relocating parts of production, centralising logistics and improving manufacturing efficiency. These changes reduced overhead while making operations easier to manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategosinstitute.com">[strategosinstitute.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategosinstitute.com</span><span class="citation-popover-snippet">LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing packaging and distribution...</span></span></span>
+Later analyses of the turnaround highlighted additional moves such as reducing component complexity, relocating parts of production, centralising logistics and improving manufacturing efficiency. These changes reduced overhead while making operations easier to manage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategosinstitute.com">[strategosinstitute.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategosinstitute.com</span><span class="citation-popover-snippet">LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing packaging and distribution...</span></span></span>
 
 The workforce reductions often receive the most attention because they were visible and politically difficult. Yet the deeper change was organisational. LEGO shifted from a culture where expansion itself could justify spending to one where investments had to prove their value against a much stricter financial [framework]({{ 'framework/' | relative_url }}).
 
@@ -327,7 +327,7 @@ The workforce reductions often receive the most attention because they were visi
 
 The most important outcome of the Action Plan was not any single cost reduction. It was the creation of a business structure in which mistakes became less dangerous.
 
-Before the turnaround, a failed product line could generate losses across a large network of connected costs: specialised manufacturing requirements, marketing campaigns, inventory commitments and management attention. The more complex the organisation became, the more expensive each failed bet became. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span> University Press & Assessment
+Before the turnaround, a failed product line could generate losses across a large network of connected costs: specialised manufacturing requirements, marketing campaigns, inventory commitments and management attention. The more complex the organisation became, the more expensive each failed bet became.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span> University Press & Assessment
 
 The 2004 reset attacked that problem directly.
 
@@ -337,212 +337,212 @@ This is where the antifragile dimension becomes visible. The company did not bec
 
 Several mechanisms contributed to this effect:
 
-**Lower fixed costs.** A smaller cost base meant weaker sales periods were less likely to threaten the company's survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategosinstitute.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategosinstitute.com</span><span class="citation-popover-snippet">LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing packaging and distribution...</span></span></span>
+**Lower fixed costs.** A smaller cost base meant weaker sales periods were less likely to threaten the company's survival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategosinstitute.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategosinstitute.com</span><span class="citation-popover-snippet">LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing packaging and distribution...</span></span></span>
 
-**Clearer strategic filters.** Projects increasingly had to support the core building experience or demonstrate obvious value. This reduced distraction and improved decision quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/row/document/tribhuvan-vishwavidalaya/business-economics/lego-a-navigating-the-crisis-of-2004-and-strategic-turnaround/135829963" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">lego a navigating the crisis of 2004 and strategic turnaround</span><span class="citation-popover-snippet">LEGO (A): Navigating the Crisis of 2004 and Strategic...This case study examines the challenges faced by LEGO Group in 2004 under CEO Jø...</span></span></span>
+**Clearer strategic filters.** Projects increasingly had to support the core building experience or demonstrate obvious value. This reduced distraction and improved decision quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/row/document/tribhuvan-vishwavidalaya/business-economics/lego-a-navigating-the-crisis-of-2004-and-strategic-turnaround/135829963" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">lego a navigating the crisis of 2004 and strategic turnaround</span><span class="citation-popover-snippet">LEGO (A): Navigating the Crisis of 2004 and Strategic...This case study examines the challenges faced by LEGO Group in 2004 under CEO Jø...</span></span></span>
 
-**Simpler operations.** Fewer moving parts made it easier to identify problems and respond quickly. Complex systems often hide weaknesses until they become crises; simplified systems expose them earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategosinstitute.com">[strategosinstitute.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategosinstitute.com</span><span class="citation-popover-snippet">LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing packaging and distribution...</span></span></span>
+**Simpler operations.** Fewer moving parts made it easier to identify problems and respond quickly. Complex systems often hide weaknesses until they become crises; simplified systems expose them earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategosinstitute.com">[strategosinstitute.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategosinstitute.com</span><span class="citation-popover-snippet">LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing packaging and distribution...</span></span></span>
 
-**Better allocation of management attention.** Leaders could focus on improving a smaller number of strategically important activities instead of supervising a growing collection of unrelated experiments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iedp.com">[iedp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iedp.com</span><span class="citation-popover-title">leadership journeys legos joergen vig knudstorp</span><span class="citation-popover-snippet">Leadership Journeys: Lego&#x27;s Jørgen Vig Knudstorp“When I became CEO in 2004, Lego was in the middle of a serious crisis... Knudstorp cons...</span></span></span>
+**Better allocation of management attention.** Leaders could focus on improving a smaller number of strategically important activities instead of supervising a growing collection of unrelated experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iedp.com">[iedp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iedp.com</span><span class="citation-popover-title">leadership journeys legos joergen vig knudstorp</span><span class="citation-popover-snippet">Leadership Journeys: Lego&#x27;s Jørgen Vig Knudstorp“When I became CEO in 2004, Lego was in the middle of a serious crisis... Knudstorp cons...</span></span></span>
 
 The result was a company that could absorb shocks more effectively. Volatility did not disappear, but the organisation became less vulnerable to being overwhelmed by it.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-3-dark.svg" | relative_url }}" alt="Action Plan illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Survival Plan to Operating Philosophy
 
-The Action Plan began as an emergency response to severe financial distress. Yet its lasting importance comes from how it reshaped LEGO's operating philosophy. Management moved from pursuing growth through expansion to pursuing growth through disciplined focus. The company became more selective about where it innovated, more cautious about complexity and more committed to aligning new ideas with the underlying brick system. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — A victim of overexpansion and brand dilution, LEGO was on the brink o...</span></span></span>
+The Action Plan began as an emergency response to severe financial distress. Yet its lasting importance comes from how it reshaped LEGO's operating philosophy. Management moved from pursuing growth through expansion to pursuing growth through disciplined focus. The company became more selective about where it innovated, more cautious about complexity and more committed to aligning new ideas with the underlying brick system. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcg.com">[BCG Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcg.com</span><span class="citation-popover-title">people organization jorgen vig knudstorp lego growth culture not kid stuff</span><span class="citation-popover-snippet">BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — A victim of overexpansion and brand dilution, LEGO was on the brink o...</span></span></span>
 
-Seen through the lens of antifragility, the 2004 reset was not simply a turnaround programme. It was a redesign of the conditions under which LEGO could experiment. By lowering costs, reducing unnecessary risk and concentrating resources around its strongest capabilities, the company made future mistakes less destructive and future successes easier to scale. The crisis exposed fragility, but the Action Plan transformed that lesson into a durable management discipline. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span>
+Seen through the lens of antifragility, the 2004 reset was not simply a turnaround programme. It was a redesign of the conditions under which LEGO could experiment. By lowering costs, reducing unnecessary risk and concentrating resources around its strongest capabilities, the company made future mistakes less destructive and future successes easier to scale. The crisis exposed fragility, but the Action Plan transformed that lesson into a durable management discipline. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How LEGO&#x27;s 2004 Reset Changed Everything. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How LEGO&#x27;s 2004 Reset Changed Everything. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Strategy, Bad Strategy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954850-M.jpg" alt="Cover for Good Strategy, Bad Strategy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Strategy, Bad Strategy">Good Strategy, Bad Strategy</a>
-        </h4>
-        <p class="fr-book-author">By Richard P. Rumelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Strategy, Bad Strategy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954850-M.jpg" alt="Cover for Good Strategy, Bad Strategy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Strategy, Bad Strategy">Good Strategy, Bad Strategy</a>
+</h4>
+<p class="fr-book-author">By Richard P. Rumelt</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Planning, Strategic planning, Strategy, management, Hd30.28 .r854 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Planning, Strategic planning, Strategy, management, Hd30.28 .r854 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Playing to Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10460776-M.jpg" alt="Cover for Playing to Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Playing to Win">Playing to Win</a>
-        </h4>
-        <p class="fr-book-author">By Roger L. Martin A. G. Lafley, L.J. Ganser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Playing to Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10460776-M.jpg" alt="Cover for Playing to Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Playing to Win">Playing to Win</a>
+</h4>
+<p class="fr-book-author">By Roger L. Martin A. G. Lafley, L.J. Ganser</p>
         
-        <p class="fr-book-desc">First published 2014.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By David C. Robertson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By David C. Robertson</p>
         
-        <p class="fr-book-desc">Directly analyzes the 2004 reset and restructuring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly analyzes the 2004 reset and restructuring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good Strategy, Bad Strategy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Playing+to+Win&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Playing to Win</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good Strategy, Bad Strategy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Playing+to+Win&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Playing to Win</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CLASSIC: Creative Building Box (10695)"><img src="https://i.ebayimg.com/images/g/zD0AAeSwLqJqJwn5/s-l225.jpg" alt="Listing image for LEGO CLASSIC: Creative Building Box (10695)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CLASSIC: Creative Building Box (10695)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CLASSIC: Creative Building Box (10695)"><img src="https://i.ebayimg.com/images/g/zD0AAeSwLqJqJwn5/s-l225.jpg" alt="Listing image for LEGO CLASSIC: Creative Building Box (10695)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CLASSIC: Creative Building Box (10695)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION"><img src="https://i.ebayimg.com/images/g/BtAAAeSwultprwjy/s-l225.jpg" alt="Listing image for 1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION"><img src="https://i.ebayimg.com/images/g/BtAAAeSwultprwjy/s-l225.jpg" alt="Listing image for 1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">1995 FACTORY SEALED LEGO SET - 6544 CLASSIC TOWN LAUNCH COMMAND GREAT CONDITION</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs"><img src="https://i.ebayimg.com/images/g/-D4AAeSwqZVp6fAQ/s-l225.jpg" alt="Listing image for LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs"><img src="https://i.ebayimg.com/images/g/-D4AAeSwqZVp6fAQ/s-l225.jpg" alt="Listing image for LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic Magical Transparent Box Building Set 11040 340 Pcs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic Medium Creative Brick Box Set 10696"><img src="https://i.ebayimg.com/images/g/esUAAeSwavpqISfE/s-l225.jpg" alt="Listing image for LEGO Classic Medium Creative Brick Box Set 10696" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic Medium Creative Brick Box Set 10696</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Classic Medium Creative Brick Box Set 10696"><img src="https://i.ebayimg.com/images/g/esUAAeSwavpqISfE/s-l225.jpg" alt="Listing image for LEGO Classic Medium Creative Brick Box Set 10696" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Classic Medium Creative Brick Box Set 10696</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classic LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: classic LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classic+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-2004-reset-changed-everything-classic-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classic LEGO set" data-ebay-reference="how-lego-s-2004-reset-changed-everything-classic-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,135 +748,135 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — Report 2004. Jørgen Vig Knudstorp. Jørgen Vig Knudstorp joined the LEGO. Group in Septe...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupApril 26, 2005 — Report 2004. Jørgen Vig Knudstorp. Jørgen Vig Knudstorp joined the LEGO. Group in Septe...</p></details>
    Published: April 26, 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: studocu.com  
    Title: annual report 2004 lego  
-   Link: <a href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group Annual Report 2004: Strategy and Market...The plan lays down a major switch in direction, requiring the LEGO Group to...</p></details>
+   Link:<a href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group Annual Report 2004: Strategy and Market...The plan lays down a major switch in direction, requiring the LEGO Group to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment3 LEGO: Redefining the boundariesA general lack of confi- dence in its core product, the LEGO bric...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 3. Reduce the level of risk by rightsizing our activities, cost base a...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 3. Reduce the level of risk by rightsizing our activities, cost base a...</p></details>
    Published: February 14, 2006  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bartleby.com  
    Title: Lego Group  
-   Link: <a href="https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3549 WordsThis Action Plan was emphasizing three main themes: Set clear direction for the LEGO Group and fundamentally change the way the...</p></details>
+   Link:<a href="https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3549 WordsThis Action Plan was emphasizing three main themes: Set clear direction for the LEGO Group and fundamentally change the way the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bcg.com  
    Title: people organization jorgen vig knudstorp lego growth culture not kid stuff  
-   Link: <a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — A victim of [overexpansion](&amp;#123;&amp;#123; &#x27;overexpansion/&#x27; | relative_url &amp;#125;&amp;#125;) and brand dilution, LEGO was on the brink o...</p></details>
+   Link:<a href="https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.bcg.com/publications/2017/people-organization-jorgen-vig-knudstorp-lego-growth-culture-not-kid-stuff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCG GlobalAt LEGO, Growth and Culture Are Not Kid Stuff9 Feb 2017 — A victim of [overexpansion](&amp;#123;&amp;#123; &#x27;overexpansion/&#x27; | relative_url &amp;#125;&amp;#125;) and brand dilution, LEGO was on the brink o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iedp.com  
    Title: leadership journeys legos joergen vig knudstorp  
-   Link: <a href="https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/" target="_blank" rel="noopener noreferrer nofollow">https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leadership Journeys: Lego&#x27;s Jørgen Vig Knudstorp“When I became CEO in 2004, Lego was in the middle of a serious crisis... Knudstorp cons...</p></details>
+   Link:<a href="https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/" target="_blank" rel="noopener noreferrer nofollow">https://www.iedp.com/articles/leadership-journeys-legos-joergen-vig-knudstorp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leadership Journeys: Lego&#x27;s Jørgen Vig Knudstorp“When I became CEO in 2004, Lego was in the middle of a serious crisis... Knudstorp cons...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: strategosinstitute.com  
-   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing [packaging](&amp;#123;&amp;#123; &#x27;packaging/&#x27; | relative_url &amp;#125;&amp;#125;) and distribution...</p></details>
+   Link:<a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® - Strategy and Value CreationBy reducing the number of factories and centralizing [packaging](&amp;#123;&amp;#123; &#x27;packaging/&#x27; | relative_url &amp;#125;&amp;#125;) and distribution...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
+   Link:<a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: studocu.com  
    Title: lego a navigating the crisis of 2004 and strategic turnaround  
-   Link: <a href="https://www.studocu.com/row/document/tribhuvan-vishwavidalaya/business-economics/lego-a-navigating-the-crisis-of-2004-and-strategic-turnaround/135829963" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/tribhuvan-vishwavidalaya/business-economics/lego-a-navigating-the-crisis-of-2004-and-strategic-turnaround/135829963</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO (A): Navigating the Crisis of 2004 and Strategic...This case study examines the challenges faced by LEGO Group in 2004 under CEO Jø...</p></details>
+   Link:<a href="https://www.studocu.com/row/document/tribhuvan-vishwavidalaya/business-economics/lego-a-navigating-the-crisis-of-2004-and-strategic-turnaround/135829963" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/tribhuvan-vishwavidalaya/business-economics/lego-a-navigating-the-crisis-of-2004-and-strategic-turnaround/135829963</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO (A): Navigating the Crisis of 2004 and Strategic...This case study examines the challenges faced by LEGO Group in 2004 under CEO Jø...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cfocentre.com  
-   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe two men decided on a short-term life-saving action plan rather than...</p></details>
+   Link:<a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe two men decided on a short-term life-saving action plan rather than...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: secondactsbiz.substack.com  
    Title: lego the turnaround  
-   Link: <a href="https://secondactsbiz.substack.com/p/lego-the-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://secondactsbiz.substack.com/p/lego-the-turnaround</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround - Second ActsIn 2004 Jorgen Vig Knudstorp was chosen to lead the company going forward. He joined the company as Director...</p></details>
+   Link:<a href="https://secondactsbiz.substack.com/p/lego-the-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://secondactsbiz.substack.com/p/lego-the-turnaround</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround - Second ActsIn 2004 Jorgen Vig Knudstorp was chosen to lead the company going forward. He joined the company as Director...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
+   Link:<a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yF55tgP6zbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Is NOT Supposed to Be Used Like This…Time to continue with our LEGO Rome Project! In case you&#x27;re visiting Austria/southern Germany a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yF55tgP6zbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Is NOT Supposed to Be Used Like This…Time to continue with our LEGO Rome Project! In case you&#x27;re visiting Austria/southern Germany a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
+   Link:<a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
    Title: lego crisis how unexpectedly bad nearly catastrophic became sethi hefqc  
-   Link: <a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;Action Plan&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;Action Plan&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1648416/000119312515349281/d61094d424b1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1648416/000119312515349281/d61094d424b1.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2014, 2013 and 2012 prepared in accordance with...Read more...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1648416/000119312515349281/d61094d424b1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1648416/000119312515349281/d61094d424b1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2014, 2013 and 2012 prepared in accordance with...Read more...</p></details>
    Published: December 31, 2014  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: slideshare.net  
    Title: the lego case study the great turnaround 2003 2013  
-   Link: <a href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego case study, the great turnaround 2003 - 2013 | PDFThe Lego case study outlines the company&#x27;s remarkable turnaround from a signif...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego case study, the great turnaround 2003 - 2013 | PDFThe Lego case study outlines the company&#x27;s remarkable turnaround from a signif...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>asures, including layoffs, better financial discipline, and...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>asures, including layoffs, better financial discipline, and...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>jobs but of guiding the company onto a new path. Jørgen Vig Knudstorp...</p></details>
+   Link:<a href="https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jobs but of guiding the company onto a new path. Jørgen Vig Knudstorp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: schroders.com  
    Title: building an investment case the lego way  
-   Link: <a href="https://www.schroders.com/en-gb/uk/intermediary/insights/building-an-investment-case-the-lego-way/" target="_blank" rel="noopener noreferrer nofollow">https://www.schroders.com/en-gb/uk/intermediary/insights/building-an-investment-case-the-lego-way/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Dec 2018 — Over the next decade or so, Knudstorp refocused on Lego&#x27;s roots – going &#x27;back to the brick&#x27; – and went on to oversee a text...</p></details>
+   Link:<a href="https://www.schroders.com/en-gb/uk/intermediary/insights/building-an-investment-case-the-lego-way/" target="_blank" rel="noopener noreferrer nofollow">https://www.schroders.com/en-gb/uk/intermediary/insights/building-an-investment-case-the-lego-way/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Dec 2018 — Over the next decade or so, Knudstorp refocused on Lego&#x27;s roots – going &#x27;back to the brick&#x27; – and went on to oversee a text...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
    Title: Annual Report 2004 Lego downloaded  
-   Link: <a href="https://www.scribd.com/document/803437296/Annual-Report-2004-Lego-downloaded" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/803437296/Annual-Report-2004-Lego-downloaded</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFAnnual Report 2004. LEGO Group The LEGO Group through three generations 1932: Ole Kirk Christiansen founds a toy factory – underRead more...</p></details>
+   Link:<a href="https://www.scribd.com/document/803437296/Annual-Report-2004-Lego-downloaded" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/803437296/Annual-Report-2004-Lego-downloaded</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDFAnnual Report 2004. LEGO Group The LEGO Group through three generations 1932: Ole Kirk Christiansen founds a toy factory – underRead more...</p></details>

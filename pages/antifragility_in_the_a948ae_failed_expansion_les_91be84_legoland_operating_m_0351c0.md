@@ -277,7 +277,7 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_le
 LEGOLAND looked like a perfect extension of the LEGO brand. Families could move from building with bricks at home to walking through entire worlds built around LEGO creativity. The parks were popular, highly visible and deeply aligned with the company’s identity. Yet they also exposed a problem that became central to LEGO’s early-2000s crisis: a strong brand experience does not automatically fit a company’s operating model.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1-dark.svg" | relative_url }}" alt="Park Strain illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-From an antifragility perspective, LEGOLAND revealed the difference between brand strength and business-system strength. The parks helped deepen emotional attachment to LEGO, but they required capabilities, assets and financial commitments that differed sharply from those of a construction-toy company. When LEGO entered a period of financial stress, the parks became an example of how a successful brand extension could still make the overall organisation more fragile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupAs part of the Action Plan it has been decided to sell off the LEGOLAND Parks to improve liquidity and e...</span></span></span>
+From an antifragility perspective, LEGOLAND revealed the difference between brand strength and business-system strength. The parks helped deepen emotional attachment to LEGO, but they required capabilities, assets and financial commitments that differed sharply from those of a construction-toy company. When LEGO entered a period of financial stress, the parks became an example of how a successful brand extension could still make the overall organisation more fragile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupAs part of the Action Plan it has been decided to sell off the LEGOLAND Parks to improve liquidity and e...</span></span></span>
 
 ## When the LEGO Brand Naturally Extended Into Parks
 
@@ -353,14 +353,14 @@ These commitments tie up large amounts of capital for years.
 
 When business conditions worsen, a company cannot easily scale a theme park down in the way it can reduce a product line. The assets remain. Maintenance continues. Staff are still needed. Facilities must still operate.
 
-As LEGO’s broader business weakened in the early 2000s, these fixed commitments became harder to justify. Harvard Business Review later grouped theme parks among the innovation efforts that were unprofitable or failing during the period when LEGO approached a financial crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
+As LEGO’s broader business weakened in the early 2000s, these fixed commitments became harder to justify. Harvard Business Review later grouped theme parks among the innovation efforts that were unprofitable or failing during the period when LEGO approached a financial crisis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-2-dark.svg" | relative_url }}" alt="Park Strain illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cash Became More Valuable Than Brand Reach
 
 The issue was not whether LEGOLAND created brand value. The issue was whether LEGO could afford to keep large amounts of capital tied up in park operations while the core company struggled.
 
-LEGO’s 2004 annual report stated that the company had decided to sell the LEGOLAND Parks “to improve liquidity and establish a more solid financial base”. The parks were treated as discontinuing activities rather than part of the continuing LEGO Group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
+LEGO’s 2004 annual report stated that the company had decided to sell the LEGOLAND Parks “to improve liquidity and establish a more solid financial base”. The parks were treated as discontinuing activities rather than part of the continuing LEGO Group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
 
 That language is revealing. Management was no longer evaluating the parks primarily as marketing assets or brand showcases. They were being evaluated as balance-sheet commitments during a period of financial stress.
 
@@ -370,7 +370,7 @@ In a fragile system, preserving liquidity becomes more important than maintainin
 
 The parks also complicated corporate focus.
 
-During the years leading up to LEGO’s crisis, the company was pursuing multiple growth initiatives simultaneously. It was experimenting with media properties, retail expansion, new product categories and entertainment ventures. LEGOLAND sat within a broader push to become more than a toy manufacturer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
+During the years leading up to LEGO’s crisis, the company was pursuing multiple growth initiatives simultaneously. It was experimenting with media properties, retail expansion, new product categories and entertainment ventures. LEGOLAND sat within a broader push to become more than a toy manufacturer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
 
 The challenge was not that each initiative was irrational in isolation. The challenge was that each demanded management attention, investment and specialised knowledge.
 
@@ -382,16 +382,16 @@ As [complexity]({{ 'complexity/' | relative_url }}) accumulated across the organ
 
 ## Selling LEGOLAND as a Refocusing Move
 
-In 2005, LEGO sold the four LEGOLAND parks to Merlin Entertainments in a deal valued at approximately €375 million while maintaining a continuing ownership connection through the transaction structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US swoop takes Legoland under Merlin&#x27;s wand &#124; Business</span><span class="citation-popover-snippet">The GuardianUS swoop takes Legoland under Merlin&#x27;s wand &#124; BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</span><span class="citation-popover-meta">Published: July 14, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackstone.com">[blackstone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackstone.com</span><span class="citation-popover-title">major new force in european leisure as blackstone acquires legoland</span><span class="citation-popover-snippet">Major New Force In European Leisure As...13 Jul 2005 — The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</span></span></span> The sale is often remembered as a financial necessity, but it also represented a strategic clarification.
+In 2005, LEGO sold the four LEGOLAND parks to Merlin Entertainments in a deal valued at approximately €375 million while maintaining a continuing ownership connection through the transaction structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US swoop takes Legoland under Merlin&#x27;s wand &#124; Business</span><span class="citation-popover-snippet">The GuardianUS swoop takes Legoland under Merlin&#x27;s wand &#124; BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</span><span class="citation-popover-meta">Published: July 14, 2005</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackstone.com">[blackstone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackstone.com</span><span class="citation-popover-title">major new force in european leisure as blackstone acquires legoland</span><span class="citation-popover-snippet">Major New Force In European Leisure As...13 Jul 2005 — The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</span></span></span> The sale is often remembered as a financial necessity, but it also represented a strategic clarification.
 
 The move separated two questions:
 
 1. Is LEGOLAND a valuable expression of the LEGO brand?
-2. Must LEGO itself operate theme parks? <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">The Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
+2. Must LEGO itself operate theme parks?<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">The Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
 
 The answer turned out to be different for each question.
 
-The brand could still benefit from LEGOLAND attractions. What changed was the assumption that the toy company needed to own and operate those capital-intensive assets directly. By moving park operations to a specialist operator, LEGO reduced exposure to a business model that demanded different capabilities and financial structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">The Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
+The brand could still benefit from LEGOLAND attractions. What changed was the assumption that the toy company needed to own and operate those capital-intensive assets directly. By moving park operations to a specialist operator, LEGO reduced exposure to a business model that demanded different capabilities and financial structures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">legoland lego family acquires theme parks</span><span class="citation-popover-snippet">The Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</span></span></span>
 
 ## The Antifragility Lesson
 
@@ -401,199 +401,199 @@ Their weakness came from economics and organisational design rather than custome
 
 An antifragile company benefits when experiments reinforce the system that made the company successful in the first place. LEGOLAND reinforced the brand but placed pressure on the operating model. It added fixed assets, specialised operational demands and capital requirements that did not naturally strengthen LEGO’s core advantage in modular construction toys.
 
-The lesson was not that LEGO should avoid immersive experiences. It was that ownership structure matters. A toy company can benefit from a theme-park ecosystem while avoiding much of the fragility created by operating that ecosystem itself. The eventual sale of the parks reflected a broader turnaround insight: growth is healthiest when it deepens the capabilities that make the core business resilient, rather than binding the company to entirely different economic realities. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
+The lesson was not that LEGO should avoid immersive experiences. It was that ownership structure matters. A toy company can benefit from a theme-park ecosystem while avoiding much of the fragility created by operating that ecosystem itself. The eventual sale of the parks reflected a broader turnaround insight: growth is healthiest when it deepens the capabilities that make the core business resilient, rather than binding the company to entirely different economic realities. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOFive years ago, the LEGO Group was near bankruptcy. Many of its innovation efforts—...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-3-dark.svg" | relative_url }}" alt="Park Strain illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Great Brand Experience Becomes Too Heavy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Great Brand Experience Becomes Too Heavy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Includes context on LEGO’s expansion experiments relevant to LEGOLAND.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes context on LEGO’s expansion experiments relevant to LEGOLAND.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Broad strategic lessons applicable to diverse expansions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad strategic lessons applicable to diverse expansions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The experience economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274589-M.jpg" alt="Cover for The experience economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The experience economy">The experience economy</a>
-        </h4>
-        <p class="fr-book-author">By B. Joseph Pine</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The experience economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274589-M.jpg" alt="Cover for The experience economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The experience economy">The experience economy</a>
+</h4>
+<p class="fr-book-author">By B. Joseph Pine</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Product management, Marketing, Customer services, Diversification in industry, Event-Marketing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Product management, Marketing, Customer services, Diversification in industry, Event-Marketing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of Lego Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of Lego Bricks: The Inside Story of a Design Icon">The Secret Life of Lego Bricks: The Inside Story of a Design...</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Konstanski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of Lego Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of Lego Bricks: The Inside Story of a Design Icon">The Secret Life of Lego Bricks: The Inside Story of a Design...</a>
+</h4>
+<p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Provides history and design context that frames park experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides history and design context that frames park experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good to Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+experience+economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The experience economy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good to Great</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+experience+economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The experience economy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Legoland Windsor Souvenir Guidebook, dated 1997"><img src="https://i.ebayimg.com/images/g/bpAAAeSwC1Zp5jSp/s-l225.jpg" alt="Listing image for Vintage Legoland Windsor Souvenir Guidebook, dated 1997" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">Vintage Legoland Windsor Souvenir Guidebook, dated 1997</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Legoland Windsor Souvenir Guidebook, dated 1997"><img src="https://i.ebayimg.com/images/g/bpAAAeSwC1Zp5jSp/s-l225.jpg" alt="Listing image for Vintage Legoland Windsor Souvenir Guidebook, dated 1997" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">Vintage Legoland Windsor Souvenir Guidebook, dated 1997</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGOLAND Windsor Resort SpringFest Fabric Event Wristband, Legoland Theme"><img src="https://i.ebayimg.com/images/g/G~YAAeSw9RVqKHIi/s-l225.jpg" alt="Listing image for LEGOLAND Windsor Resort SpringFest Fabric Event Wristband, Legoland Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">LEGOLAND Windsor Resort SpringFest Fabric Event Wristband, Legoland Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGOLAND Windsor Resort SpringFest Fabric Event Wristband, Legoland Theme"><img src="https://i.ebayimg.com/images/g/G~YAAeSw9RVqKHIi/s-l225.jpg" alt="Listing image for LEGOLAND Windsor Resort SpringFest Fabric Event Wristband, Legoland Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">LEGOLAND Windsor Resort SpringFest Fabric Event Wristband, Legoland Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Legoland Windsor Coca Cola Souvenir Cup With Lid And Straw Red"><img src="https://i.ebayimg.com/images/g/fAwAAeSwBxJp8Kyl/s-l225.jpg" alt="Listing image for Legoland Windsor Coca Cola Souvenir Cup With Lid And Straw Red" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">Legoland Windsor Coca Cola Souvenir Cup With Lid And Straw Red</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Legoland Windsor Coca Cola Souvenir Cup With Lid And Straw Red"><img src="https://i.ebayimg.com/images/g/fAwAAeSwBxJp8Kyl/s-l225.jpg" alt="Listing image for Legoland Windsor Coca Cola Souvenir Cup With Lid And Straw Red" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">Legoland Windsor Coca Cola Souvenir Cup With Lid And Straw Red</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brand New LEGOLAND Windsor Fridge Magnet UK Souvenir Theme Park Gift"><img src="https://i.ebayimg.com/images/g/pYUAAeSwJdRp00sn/s-l225.jpg" alt="Listing image for Brand New LEGOLAND Windsor Fridge Magnet UK Souvenir Theme Park Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">Brand New LEGOLAND Windsor Fridge Magnet UK Souvenir Theme Park Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brand New LEGOLAND Windsor Fridge Magnet UK Souvenir Theme Park Gift"><img src="https://i.ebayimg.com/images/g/pYUAAeSwJdRp00sn/s-l225.jpg" alt="Listing image for Brand New LEGOLAND Windsor Fridge Magnet UK Souvenir Theme Park Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">Brand New LEGOLAND Windsor Fridge Magnet UK Souvenir Theme Park Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGOLAND souvenir">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGOLAND souvenir</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGOLAND+souvenir&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGOLAND souvenir" data-ebay-reference="when-a-great-brand-experience-becomes-too-heavy-legoland-souvenir" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,145 +799,145 @@ The lesson was not that LEGO should avoid immersive experiences. It was that own
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupAs part of the [Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;) it has been decided to sell off the LEGOLAND Parks to improve liquidity and e...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupAs part of the [Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;) it has been decided to sell off the LEGOLAND Parks to improve liquidity and e...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blackstone.com  
    Title: major new force in european leisure as blackstone acquires legoland  
-   Link: <a href="https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Major New Force In European Leisure As...13 Jul 2005 — The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</p></details>
+   Link:<a href="https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackstone.com/news/press/major-new-force-in-european-leisure-as-blackstone-acquires-legoland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major New Force In European Leisure As...13 Jul 2005 — The Blackstone Group today announced the acquisition of LEGOLAND Parks by affilia...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fortune.com  
    Title: legoland lego family acquires theme parks  
-   Link: <a href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</p></details>
+   Link:<a href="https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2019/06/28/legoland-lego-family-acquires-theme-parks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Family Behind Lego Sold Legoland In 2005. Now...28 Jun 2019 — But Lego sold its theme parks business to Merlin Entertainments...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
+   Link:<a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — Half of the [materials](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) purchased in 2024 were produced with sustainable sources: we more than doubled the share...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — Half of the [materials](&amp;#123;&amp;#123; &#x27;materials/&#x27; | relative_url &amp;#125;&amp;#125;) purchased in 2024 were produced with sustainable sources: we more than doubled the share...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO Group14 Feb 2006 — As part of our financial strategy, we sold the majority shareholding in the LEGO-. LAND Parks...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO Group14 Feb 2006 — As part of our financial strategy, we sold the majority shareholding in the LEGO-. LAND Parks...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report12 Mar 2024 — The majority of the LEGO Group&#x27;s sales are in foreign currencies, and the risks relating to currency fluctuati...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report12 Mar 2024 — The majority of the LEGO Group&#x27;s sales are in foreign currencies, and the risks relating to currency fluctuati...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(5)David Robertson, “Innovating a Turnaround at LEGO,”...Read more...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(5)David Robertson, “Innovating a Turnaround at LEGO,”...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian US swoop takes Legoland under Merlin's wand | Business  
-   Link: <a href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2005/jul/14/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2005/jul/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2005/jul/14/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS swoop takes Legoland under Merlin&#x27;s wand | BusinessJuly 14, 2005 — 13 Jul 2005 — Lego, the world&#x27;s fourth largest toymaker...</p></details>
    Published: July 14, 2005  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2005/jul/13/money.uknews" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2005/jul/13/money.uknews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legoland on the block | Business13 Jul 2005 — The Danish toymaker Lego today sold its Legoland theme parks for £258m in order to concentr...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2005/jul/13/money.uknews" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2005/jul/13/money.uknews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legoland on the block | Business13 Jul 2005 — The Danish toymaker Lego today sold its Legoland theme parks for £258m in order to concentr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: infrastructureinvestor.com  
    Title: blackstone buys e375m lego set  
-   Link: <a href="https://www.infrastructureinvestor.com/blackstone-buys-e375m-lego-set/" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructureinvestor.com/blackstone-buys-e375m-lego-set/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blackstone buys €375m Lego set13 Jul 2005 — Blackstone Group, the New York-based buyout firm, has announced the acquisition of the Legola...</p></details>
+   Link:<a href="https://www.infrastructureinvestor.com/blackstone-buys-e375m-lego-set/" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructureinvestor.com/blackstone-buys-e375m-lego-set/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blackstone buys €375m Lego set13 Jul 2005 — Blackstone Group, the New York-based buyout firm, has announced the acquisition of the Legola...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: buyoutsinsider.com  
    Title: blackstone goes to the amusement park  
-   Link: <a href="https://www.buyoutsinsider.com/blackstone-goes-to-the-amusement-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.buyoutsinsider.com/blackstone-goes-to-the-amusement-park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2005 — The Blackstone Group has completed its acquisition of Legoland, an operator of four amusement parks, for $459 million (o375...</p></details>
+   Link:<a href="https://www.buyoutsinsider.com/blackstone-goes-to-the-amusement-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.buyoutsinsider.com/blackstone-goes-to-the-amusement-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2005 — The Blackstone Group has completed its acquisition of Legoland, an operator of four amusement parks, for $459 million (o375...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: perenews.com  
-   Link: <a href="https://www.perenews.com/blackstone-buys-e375m-lego-set/" target="_blank" rel="noopener noreferrer nofollow">https://www.perenews.com/blackstone-buys-e375m-lego-set/</a>  
+   Link:<a href="https://www.perenews.com/blackstone-buys-e375m-lego-set/" target="_blank" rel="noopener noreferrer nofollow">https://www.perenews.com/blackstone-buys-e375m-lego-set/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Merlin Entertainments  
-   Link: <a href="https://en.wikipedia.org/wiki/Merlin_Entertainments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merlin_Entertainments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Merlin EntertainmentsBetween 2005 and 2010, Merlin acquired the Legoland parks, Gardaland, The Tussauds Group, Cypress Gardens, and va...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Merlin_Entertainments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Merlin_Entertainments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Merlin EntertainmentsBetween 2005 and 2010, Merlin acquired the Legoland parks, Gardaland, The Tussauds Group, Cypress Gardens, and va...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cfocentre.com  
-   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
+   Link:<a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO rebuilt from near bankruptcy to iconic brandLego&#x27;s turnaround wasn&#x27;t luck. It was leadership, focus, clarity... They had LEGO c...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/caroline-king-mba_the-lego-group-nearly-collapsed-in-the-early-activity-7397009879326167040-2AMS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO rebuilt from near bankruptcy to iconic brandLego&#x27;s turnaround wasn&#x27;t luck. It was leadership, focus, clarity... They had LEGO c...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Near Bankruptcy: Simplifying to SurviveThe turnaround came from an unexpected move: they cut products, not people. Fewer bricks. F...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Near Bankruptcy: Simplifying to SurviveThe turnaround came from an unexpected move: they cut products, not people. Fewer bricks. F...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/971753809/Lights-and-shadows-in-the-growth-of-LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/971753809/Lights-and-shadows-in-the-growth-of-LEGO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Strategic Growth Journey | PDFLEGO experienced significant growth and became the second largest toy manufacturer in the world by 2...</p></details>
+   Link:<a href="https://www.scribd.com/document/971753809/Lights-and-shadows-in-the-growth-of-LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/971753809/Lights-and-shadows-in-the-growth-of-LEGO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Strategic Growth Journey | PDFLEGO experienced significant growth and became the second largest toy manufacturer in the world by 2...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Turnaround: Innovation Lessons from Near-...LEGO® was losing ~$1M a day—and nearly collapsed. What they did next became a masterc...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Turnaround: Innovation Lessons from Near-...LEGO® was losing ~$1M a day—and nearly collapsed. What they did next became a masterc...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: strategicmanagementexperience.com  
-   Link: <a href="https://strategicmanagementexperience.com/blog/operations/lego-turnaround-sku-discipline" target="_blank" rel="noopener noreferrer nofollow">https://strategicmanagementexperience.com/blog/operations/lego-turnaround-sku-discipline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: The Turnaround That Saved a Brand from DiversificationThe turnaround that saved the company was built on four counterintuitive deci...</p></details>
+   Link:<a href="https://strategicmanagementexperience.com/blog/operations/lego-turnaround-sku-discipline" target="_blank" rel="noopener noreferrer nofollow">https://strategicmanagementexperience.com/blog/operations/lego-turnaround-sku-discipline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: The Turnaround That Saved a Brand from DiversificationThe turnaround that saved the company was built on four counterintuitive deci...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Crisis: How &quot;Unexpectedly Bad, Nearly...LEGO&#x27;s Corporate Management announces their &quot;Action Plan.&quot; Article content Annual Repor...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Crisis: How &quot;Unexpectedly Bad, Nearly...LEGO&#x27;s Corporate Management announces their &quot;Action Plan.&quot; Article content Annual Repor...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: brothers-brick.com  
-   Link: <a href="https://www.brothers-brick.com/2019/07/07/a-brief-history-of-legoland-and-merlin-entertainments-how-they-came-together-and-what-it-means-today-feature/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2019/07/07/a-brief-history-of-legoland-and-merlin-entertainments-how-they-came-together-and-what-it-means-today-feature/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickA brief history of LEGOLAND and Merlin Entertainments7 Jul 2019 — Merlin acquired four LEGOLAND Parks in 2005 (Billund...</p></details>
+   Link:<a href="https://www.brothers-brick.com/2019/07/07/a-brief-history-of-legoland-and-merlin-entertainments-how-they-came-together-and-what-it-means-today-feature/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2019/07/07/a-brief-history-of-legoland-and-merlin-entertainments-how-they-came-together-and-what-it-means-today-feature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickA brief history of LEGOLAND and Merlin Entertainments7 Jul 2019 — Merlin acquired four LEGOLAND Parks in 2005 (Billund...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jordan-saunders-b7073712_in-2004-lego-was-18-months-from-going-bankrupt-activity-7444752922002771968-U6r8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jordan-saunders-b7073712_in-2004-lego-was-18-months-from-going-bankrupt-activity-7444752922002771968-U6r8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s 35-year-old savior cuts complexity, boosts profitsIn 2004, LEGO was 18 months from going bankrupt. $800 million in debt. Losing $1...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jordan-saunders-b7073712_in-2004-lego-was-18-months-from-going-bankrupt-activity-7444752922002771968-U6r8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jordan-saunders-b7073712_in-2004-lego-was-18-months-from-going-bankrupt-activity-7444752922002771968-U6r8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s 35-year-old savior cuts complexity, boosts profitsIn 2004, LEGO was 18 months from going bankrupt. $800 million in debt. Losing $1...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: traverssmith.com  
-   Link: <a href="https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travers Smith advises Merlin Entertainments on the sale of...25 Sept 2025 — Travers Smith LLP has advised long-standing client Merlin En...</p></details>
+   Link:<a href="https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.traverssmith.com/knowledge/knowledge-container/travers-smith-advises-merlin-entertainments-on-the-sale-of-its-lego-discovery-centres-and-legoland-discovery-centres-to-the-lego-group/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travers Smith advises Merlin Entertainments on the sale of...25 Sept 2025 — Travers Smith LLP has advised long-standing client Merlin En...</p></details>

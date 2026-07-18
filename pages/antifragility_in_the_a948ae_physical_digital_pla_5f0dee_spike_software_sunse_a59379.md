@@ -274,14 +274,14 @@ image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_sp
 
 ## Introduction
 
-LEGO Education’s decision to retire the SPIKE portfolio is notable not because it was abrupt, but because it was unusually responsible. The company announced a clear end-of-sales date, committed to five more years of software support, and explained how schools could continue using existing kits. Yet the announcement still exposes a deeper problem in LEGO’s physical-digital strategy: a robot built from LEGO elements can physically survive for decades, while the software needed to program it may have a much shorter life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+LEGO Education’s decision to retire the SPIKE portfolio is notable not because it was abrupt, but because it was unusually responsible. The company announced a clear end-of-sales date, committed to five more years of software support, and explained how schools could continue using existing kits. Yet the announcement still exposes a deeper problem in LEGO’s physical-digital strategy: a robot built from LEGO elements can physically survive for decades, while the software needed to program it may have a much shorter life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-1-dark.svg" | relative_url }}" alt="SPIKE sunset illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That difference matters for LEGO’s antifragility. Traditional LEGO sets gain resilience because old bricks remain compatible with new ones. SPIKE demonstrates that once play depends on apps, operating systems, firmware and software maintenance, LEGO inherits the fragility of the technology industry. Even careful sunset planning cannot fully remove that risk.
 
 ## Can a LEGO robot outlive its software?
 
-SPIKE Prime and SPIKE Essential combined familiar LEGO strengths with coding, sensors, motors and programmable hubs. The educational promise was powerful: children could build physical machines and then learn computational thinking by programming them through the SPIKE app. The system was designed for classrooms, robotics clubs and competitions such as FIRST LEGO League. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+SPIKE Prime and SPIKE Essential combined familiar LEGO strengths with coding, sensors, motors and programmable hubs. The educational promise was powerful: children could build physical machines and then learn computational thinking by programming them through the SPIKE app. The system was designed for classrooms, robotics clubs and competitions such as FIRST LEGO League.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 The question raised by retirement is not whether the plastic parts still work. They do. The motors, beams, wheels and hubs can remain physically usable long after production ends. The problem is that the educational experience depends on software layers that require continuous maintenance.
 
@@ -304,15 +304,15 @@ This is a significant shift in LEGO’s historical value proposition. LEGO’s b
 
 ## What LEGO Education promised for SPIKE support
 
-To LEGO Education’s credit, the company did not simply discontinue SPIKE and walk away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[education.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+To LEGO Education’s credit, the company did not simply discontinue SPIKE and walk away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[education.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
-The retirement announcement states that sales of the SPIKE portfolio will conclude in June 2026, while support for the SPIKE application will continue until 30 June 2031. During that period LEGO Education says it will continue fixing bugs and supporting current versions of major operating systems including Windows, macOS, Chromebook, Android and iOS. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+The retirement announcement states that sales of the SPIKE portfolio will conclude in June 2026, while support for the SPIKE application will continue until 30 June 2031. During that period LEGO Education says it will continue fixing bugs and supporting current versions of major operating systems including Windows, macOS, Chromebook, Android and iOS.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
-This is considerably more transparent than many technology product retirements. Schools were given years of notice rather than sudden abandonment. The support commitment also recognises a practical reality: educational institutions often purchase equipment expecting multi-year use cycles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+This is considerably more transparent than many technology product retirements. Schools were given years of notice rather than sudden abandonment. The support commitment also recognises a practical reality: educational institutions often purchase equipment expecting multi-year use cycles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 The announcement therefore reflects a governance choice. LEGO Education is effectively acknowledging that software-supported products create obligations beyond the original sale. The company is not treating SPIKE like a disposable app. It is treating it as educational infrastructure that requires a managed exit.
 
-From a trust perspective, that matters. Teachers and schools need predictable timelines for budgeting, lesson planning and device management. Clear retirement policies reduce uncertainty and preserve goodwill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+From a trust perspective, that matters. Teachers and schools need predictable timelines for budgeting, lesson planning and device management. Clear retirement policies reduce uncertainty and preserve goodwill.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 Yet the support promise also reveals the underlying fragility. The very existence of a published software end date highlights that the product's usefulness depends on ongoing maintenance.
 
@@ -320,7 +320,7 @@ Yet the support promise also reveals the underlying fragility. The very existenc
 
 The most important lesson from SPIKE is that educational robotics products are not just toys. They are software ecosystems.
 
-LEGO’s own technical documentation shows how many conditions must remain aligned for SPIKE to function correctly. Different versions require supported releases of Windows, macOS, ChromeOS, Android and iPadOS. Bluetooth standards must work correctly. Devices need sufficient storage and memory. Browser-based versions require supported browsers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[2LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+LEGO’s own technical documentation shows how many conditions must remain aligned for SPIKE to function correctly. Different versions require supported releases of Windows, macOS, ChromeOS, Android and iPadOS. Bluetooth standards must work correctly. Devices need sufficient storage and memory. Browser-based versions require supported browsers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[2LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 These requirements seem routine when a product is current. They become more significant over time.
 
@@ -336,7 +336,7 @@ A school might keep a SPIKE set for ten years because the physical hardware rema
 
 </div>
 
-LEGO has already had to make such decisions. Earlier SPIKE support documentation explained that Windows 7 was excluded because Microsoft had ended support for it. LEGO therefore aligned its own support policy with a larger technology platform’s lifecycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+LEGO has already had to make such decisions. Earlier SPIKE support documentation explained that Windows 7 was excluded because Microsoft had ended support for it. LEGO therefore aligned its own support policy with a larger technology platform’s lifecycle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 This illustrates a core software-service problem. LEGO controls the bricks, but it does not control the operating systems underneath them.
 
@@ -345,7 +345,7 @@ A physical LEGO brick exists inside a relatively stable compatibility system lar
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-2-dark.svg" | relative_url }}" alt="SPIKE sunset illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden expiry date inside digital LEGO
 
-The SPIKE retirement announcement contains an unusually revealing sentence. LEGO Education says that after June 2031 the software may remain available online, but it will no longer receive updates or bug fixes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
+The SPIKE retirement announcement contains an unusually revealing sentence. LEGO Education says that after June 2031 the software may remain available online, but it will no longer receive updates or bug fixes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span>
 
 That distinction matters.
 
@@ -367,7 +367,7 @@ That mismatch creates tension between educational durability and software lifecy
 
 SPIKE demonstrates the best version of a difficult process.
 
-LEGO Education provided a defined retirement roadmap, continued support commitments and transition time for schools. Community organisations and educational partners have repeatedly pointed to the value of having advance notice rather than facing an unexpected shutdown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/roboticsacademy/news/cmra-news-2026/lego_spike_support.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">lego spike support</span><span class="citation-popover-snippet">Carnegie Mellon UniversityCMRA&#x27;s Ongoing Support for LEGO SPIKE Classrooms...Mar 23, 2026 — At the Carnegie Mellon Robotics Academy (CMR...</span></span></span>
+LEGO Education provided a defined retirement roadmap, continued support commitments and transition time for schools. Community organisations and educational partners have repeatedly pointed to the value of having advance notice rather than facing an unexpected shutdown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/roboticsacademy/news/cmra-news-2026/lego_spike_support.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">lego spike support</span><span class="citation-popover-snippet">Carnegie Mellon UniversityCMRA&#x27;s Ongoing Support for LEGO SPIKE Classrooms...Mar 23, 2026 — At the Carnegie Mellon Robotics Academy (CMR...</span></span></span>
 
 From a governance perspective, this is responsible behaviour. It reduces immediate disruption and gives users time to adapt.
 
@@ -377,9 +377,9 @@ A clear support schedule answers questions such as:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* When will updates stop? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.antoniadis.com.cy/en/blog/stem-technologies/lego-education/lego-education-spike-retirement-update-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antoniadis.com.cy">[antoniadis.com.cy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antoniadis.com.cy</span><span class="citation-popover-snippet">LEGO Education SPIKE Retirement: Important Update &amp;...15 Jan 2026 — June 30, 2031: Software Support will continue for 5 more years...</span><span class="citation-popover-meta">Published: June 30, 2031</span></span></span>
+* When will updates stop?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.antoniadis.com.cy/en/blog/stem-technologies/lego-education/lego-education-spike-retirement-update-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antoniadis.com.cy">[antoniadis.com.cy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antoniadis.com.cy</span><span class="citation-popover-snippet">LEGO Education SPIKE Retirement: Important Update &amp;...15 Jan 2026 — June 30, 2031: Software Support will continue for 5 more years...</span><span class="citation-popover-meta">Published: June 30, 2031</span></span></span>
 * How long can schools plan around the platform?
-* What support obligations remain? <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-us/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[education.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowAfter company sales conclude, LEGO® Education will support the SPIKE™...</span></span></span>
+* What support obligations remain?<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-us/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[education.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowAfter company sales conclude, LEGO® Education will support the SPIKE™...</span></span></span>
 
 </div>
 
@@ -398,7 +398,7 @@ The retirement itself is not evidence of failure. Technology products retire rou
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://spike.legoeducation.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spike.legoeducation.com">[spike]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spike.legoeducation.com</span><span class="citation-popover-snippet">using Google Chrome on Chromebook, Windows or macOS...</span></span></span> sits at the centre of LEGO’s broader challenge with physical-[digital play]({{ 'digital-play/' | relative_url }}).
 
-The company cannot simply retreat into purely physical products. Coding, robotics and digital learning are now central parts of educational play. Ignoring them would leave LEGO disconnected from how many children learn and experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/129116/new-education-products-announced" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">new education products announced</span><span class="citation-popover-snippet">13 Jan 2026 — Last year, LEGO released a new set of educational products called LEGO Education Science that included new hubs, motors and...</span></span></span>
+The company cannot simply retreat into purely physical products. Coding, robotics and digital learning are now central parts of educational play. Ignoring them would leave LEGO disconnected from how many children learn and experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/129116/new-education-products-announced" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">new education products announced</span><span class="citation-popover-snippet">13 Jan 2026 — Last year, LEGO released a new set of educational products called LEGO Education Science that included new hubs, motors and...</span></span></span>
 
 At the same time, every software layer introduces new points of failure that traditional bricks never had.
 
@@ -406,197 +406,197 @@ The SPIKE retirement makes that trade-off visible. LEGO successfully created a c
 
 That does not mean digital LEGO is a mistake. It means digital LEGO carries an expiry risk that physical LEGO largely avoids.
 
-For a company seeking antifragility, the lesson is not to abandon connected play. The lesson is to recognise that software-supported products require a different kind of stewardship. SPIKE shows that LEGO can manage a sunset responsibly. It also shows that once a LEGO experience depends on software, the clock starts ticking in a way that a box of bricks never does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.lego.com/en-us/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[2LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowAfter company sales conclude, LEGO® Education will support the SPIKE™...</span></span></span>
+For a company seeking antifragility, the lesson is not to abandon connected play. The lesson is to recognise that software-supported products require a different kind of stewardship. SPIKE shows that LEGO can manage a sunset responsibly. It also shows that once a LEGO experience depends on software, the clock starts ticking in a way that a box of bricks never does.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-title">® Education SPIKE Portfolio Retirement</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.lego.com/en-us/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.lego.com">[2LEGO® Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.lego.com</span><span class="citation-popover-snippet">LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowAfter company sales conclude, LEGO® Education will support the SPIKE™...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a LEGO robot outlive its software?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a LEGO robot outlive its software?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly relevant to adaptation and long-term product resilience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to adaptation and long-term product resilience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains LEGO&#x27;s long-term system thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains LEGO&#x27;s long-term system thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H6x-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
-        </h4>
-        <p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H6x-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
+</h4>
+<p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
         
-        <p class="fr-book-desc">Highlights software maintenance and operational dependence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights software maintenance and operational dependence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Accelerate+by+Nicole+Forsgren%2C+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Accelerate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kax-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Accelerate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Accelerate+by+Nicole+Forsgren%2C+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accelerate">Accelerate</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Forsgren, PhD, Jez Humble et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Accelerate+by+Nicole+Forsgren%2C+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Accelerate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kax-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Accelerate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Accelerate+by+Nicole+Forsgren%2C+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accelerate">Accelerate</a>
+</h4>
+<p class="fr-book-author">By Nicole Forsgren, PhD, Jez Humble et al.</p>
         
-        <p class="fr-book-desc">Addresses sustainable software support and delivery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Accelerate+by+Nicole+Forsgren%2C+PhD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses sustainable software support and delivery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Accelerate+by+Nicole+Forsgren%2C+PhD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO EDUCATION SPIKE PRIME SET 45678 WITH MINI HUB 2000456 EDUCATIONAL"><img src="https://i.ebayimg.com/images/g/zmkAAeSwk2dpz2aq/s-l225.jpg" alt="Listing image for LEGO EDUCATION SPIKE PRIME SET 45678 WITH MINI HUB 2000456 EDUCATIONAL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">LEGO EDUCATION SPIKE PRIME SET 45678 WITH MINI HUB 2000456 EDUCATIONAL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO EDUCATION SPIKE PRIME SET 45678 WITH MINI HUB 2000456 EDUCATIONAL"><img src="https://i.ebayimg.com/images/g/zmkAAeSwk2dpz2aq/s-l225.jpg" alt="Listing image for LEGO EDUCATION SPIKE PRIME SET 45678 WITH MINI HUB 2000456 EDUCATIONAL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">LEGO EDUCATION SPIKE PRIME SET 45678 WITH MINI HUB 2000456 EDUCATIONAL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 2000456 Education Spike Prime Marketing Kit - Age 10+- Brand New and Sealed"><img src="https://i.ebayimg.com/images/g/CMQAAeSweGNp~HB1/s-l225.jpg" alt="Listing image for Lego 2000456 Education Spike Prime Marketing Kit - Age 10+- Brand New and Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">Lego 2000456 Education Spike Prime Marketing Kit - Age 10+- Brand New and Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 2000456 Education Spike Prime Marketing Kit - Age 10+- Brand New and Sealed"><img src="https://i.ebayimg.com/images/g/CMQAAeSweGNp~HB1/s-l225.jpg" alt="Listing image for Lego 2000456 Education Spike Prime Marketing Kit - Age 10+- Brand New and Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">Lego 2000456 Education Spike Prime Marketing Kit - Age 10+- Brand New and Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 2000456 Education Spike Prime Marketing Kit"><img src="https://i.ebayimg.com/images/g/CzYAAeSwsFtpf0WT/s-l225.jpg" alt="Listing image for Lego 2000456 Education Spike Prime Marketing Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">Lego 2000456 Education Spike Prime Marketing Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 2000456 Education Spike Prime Marketing Kit"><img src="https://i.ebayimg.com/images/g/CzYAAeSwsFtpf0WT/s-l225.jpg" alt="Listing image for Lego 2000456 Education Spike Prime Marketing Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">Lego 2000456 Education Spike Prime Marketing Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Education Spike Prime Marketing Kit- 2000456 NEW"><img src="https://i.ebayimg.com/images/g/CzAAAeSwX8Rp6hbj/s-l225.jpg" alt="Listing image for LEGO Education Spike Prime Marketing Kit- 2000456 NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">LEGO Education Spike Prime Marketing Kit- 2000456 NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Education Spike Prime Marketing Kit- 2000456 NEW"><img src="https://i.ebayimg.com/images/g/CzAAAeSwX8Rp6hbj/s-l225.jpg" alt="Listing image for LEGO Education Spike Prime Marketing Kit- 2000456 NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">LEGO Education Spike Prime Marketing Kit- 2000456 NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO SPIKE kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO SPIKE kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+SPIKE+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-lego-robot-outlive-its-software-lego-spike-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO SPIKE kit" data-ebay-reference="can-a-lego-robot-outlive-its-software-lego-spike-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ For a company seeking antifragility, the lesson is not to abandon connected play
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ For a company seeking antifragility, the lesson is not to abandon connected play
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ For a company seeking antifragility, the lesson is not to abandon connected play
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ For a company seeking antifragility, the lesson is not to abandon connected play
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ For a company seeking antifragility, the lesson is not to abandon connected play
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,264 +802,264 @@ For a company seeking antifragility, the lesson is not to abandon connected play
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: education.lego.com  
    Title: ® Education SPIKE Portfolio Retirement  
-   Link: <a href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-gb/spike-update-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</p></details>
+   Link:<a href="https://education.lego.com/en-gb/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-gb/spike-update-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowYou can continue to confidently teach STEAM skills and concepts with S...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: education.lego.com  
-   Link: <a href="https://education.lego.com/en-us/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/spike-update-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowAfter company sales conclude, LEGO® Education will support the SPIKE™...</p></details>
+   Link:<a href="https://education.lego.com/en-us/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/spike-update-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Portfolio Retirement - What Users Need to KnowAfter company sales conclude, LEGO® Education will support the SPIKE™...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: education.lego.com  
-   Link: <a href="https://education.lego.com/en-au/downloads/spike-app/software/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-au/downloads/spike-app/software/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Prime | Student App DownloadIf you have LEGO® Education SPIKE™ Prime / LEGO® Education SPIKE™ Essential, then you ne...</p></details>
+   Link:<a href="https://education.lego.com/en-au/downloads/spike-app/software/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-au/downloads/spike-app/software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Prime | Student App DownloadIf you have LEGO® Education SPIKE™ Prime / LEGO® Education SPIKE™ Essential, then you ne...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: education.lego.com  
-   Link: <a href="https://education.lego.com/en-us/product-resources/spike-prime/downloads/system-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/product-resources/spike-prime/downloads/system-requirements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationLEGO® Education SPIKE™ Prime ResourcesmacOS · 1.5 GHz Intel® Core Duo processor - or equivalent or better · 4 GB RAM · 2 G...</p></details>
+   Link:<a href="https://education.lego.com/en-us/product-resources/spike-prime/downloads/system-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/product-resources/spike-prime/downloads/system-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationLEGO® Education SPIKE™ Prime ResourcesmacOS · 1.5 GHz Intel® Core Duo processor - or equivalent or better · 4 GB RAM · 2 G...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: education.lego.com  
    Title: education spike prime support technical info get the lego education spiketm app  
-   Link: <a href="https://education.lego.com/en-us/teacher-resources/lego-education-spike-prime/support-technical-info/lego-education-spike-prime-support-technical-info-get-the-lego-education-spiketm-app/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/teacher-resources/lego-education-spike-prime/support-technical-info/lego-education-spike-prime-support-technical-info-get-the-lego-education-spiketm-app/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationGet the LEGO® Education SPIKE™ AppThe SPIKE App is available for Win10, Chrome OS, iOS, Android, and macOS.. Why isn&#x27;t SP...</p></details>
+   Link:<a href="https://education.lego.com/en-us/teacher-resources/lego-education-spike-prime/support-technical-info/lego-education-spike-prime-support-technical-info-get-the-lego-education-spiketm-app/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/teacher-resources/lego-education-spike-prime/support-technical-info/lego-education-spike-prime-support-technical-info-get-the-lego-education-spiketm-app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationGet the LEGO® Education SPIKE™ AppThe SPIKE App is available for Win10, Chrome OS, iOS, Android, and macOS.. Why isn&#x27;t SP...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: education.lego.com  
    Title: spike update 2026  
-   Link: <a href="https://education.lego.com/de-de/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/de-de/spike-update-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Portfolio-Einstellung – Was Nutzer wissen müssenNach Einstellung des Verkaufs wird LEGO Education die SPIKE App für...</p></details>
+   Link:<a href="https://education.lego.com/de-de/spike-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/de-de/spike-update-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® EducationSPIKE Portfolio-Einstellung – Was Nutzer wissen müssenNach Einstellung des Verkaufs wird LEGO Education die SPIKE App für...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: brickset.com  
    Title: new education products announced  
-   Link: <a href="https://brickset.com/article/129116/new-education-products-announced" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/129116/new-education-products-announced</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2026 — Last year, LEGO released a new set of educational products called LEGO Education Science that included new hubs, motors and...</p></details>
+   Link:<a href="https://brickset.com/article/129116/new-education-products-announced" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/129116/new-education-products-announced</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2026 — Last year, LEGO released a new set of educational products called LEGO Education Science that included new hubs, motors and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
+   Link:<a href="https://www.lego.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/pl-pl" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/pl-pl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, historii LEGO, konstrukcji fanów i centrum pomocy...</p></details>
+   Link:<a href="https://www.lego.com/pl-pl" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/pl-pl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, historii LEGO, konstrukcji fanów i centrum pomocy...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: education.lego.com  
    Title: system requirements  
-   Link: <a href="https://education.lego.com/ar-ae/product-resources/spike-prime/downloads/system-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/ar-ae/product-resources/spike-prime/downloads/system-requirements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prime Support | Everything You NeedWindows · 1.5 GHz Intel® Core i3 processor - or better · 4 GB RAM · 3 GB available storage space · Blu...</p></details>
+   Link:<a href="https://education.lego.com/ar-ae/product-resources/spike-prime/downloads/system-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/ar-ae/product-resources/spike-prime/downloads/system-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prime Support | Everything You NeedWindows · 1.5 GHz Intel® Core i3 processor - or better · 4 GB RAM · 3 GB available storage space · Blu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: education.lego.com  
-   Link: <a href="https://education.lego.com/en-us/downloads/spike-app/software/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/downloads/spike-app/software/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prime | Student App DownloadLEGO® Education SPIKE™ App v. 3.6.0 · 8&quot; display or larger · 3 GB RAM · 3 GB available storage space · Blueto...</p></details>
+   Link:<a href="https://education.lego.com/en-us/downloads/spike-app/software/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/downloads/spike-app/software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prime | Student App DownloadLEGO® Education SPIKE™ App v. 3.6.0 · 8&quot; display or larger · 3 GB RAM · 3 GB available storage space · Blueto...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: education.lego.com  
    Title: system requirements  
-   Link: <a href="https://education.lego.com/en-us/product-resources/45345-spike-essential-resource-page/downloads/system-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/product-resources/45345-spike-essential-resource-page/downloads/system-requirements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lego.comLEGO® Education SPIKE™ Essential ResourcesmacOS · 1.5 GHz Intel® Core Duo processor - or equivalent or better · 4 GB RAM · 2 GB a...</p></details>
+   Link:<a href="https://education.lego.com/en-us/product-resources/45345-spike-essential-resource-page/downloads/system-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/product-resources/45345-spike-essential-resource-page/downloads/system-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lego.comLEGO® Education SPIKE™ Essential ResourcesmacOS · 1.5 GHz Intel® Core Duo processor - or equivalent or better · 4 GB RAM · 2 GB a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: education.lego.com  
    Title: learning system start here the lego education spiketm app  
-   Link: <a href="https://education.lego.com/en-us/teacher-resources/lego-learning-system/start-here/lego-learning-system-start-here-the-lego-education-spiketm-app/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/teacher-resources/lego-learning-system/start-here/lego-learning-system-start-here-the-lego-education-spiketm-app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Education SPIKE™ AppLEGO® Education SPIKE™ App v. 3.6.0 · 8&quot; display or larger · 3 GB RAM · 3 GB available storage space · Bluetoot...</p></details>
+   Link:<a href="https://education.lego.com/en-us/teacher-resources/lego-learning-system/start-here/lego-learning-system-start-here-the-lego-education-spiketm-app/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/teacher-resources/lego-learning-system/start-here/lego-learning-system-start-here-the-lego-education-spiketm-app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Education SPIKE™ AppLEGO® Education SPIKE™ App v. 3.6.0 · 8&quot; display or larger · 3 GB RAM · 3 GB available storage space · Bluetoot...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: education.lego.com  
-   Link: <a href="https://education.lego.com/en-us/downloads/spike-legacy-app/software/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/downloads/spike-legacy-app/software/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legacy App | Student App Download1.5 GHz Intel® Core i3 processor - or better; 4 GB RAM; 3 GB available storage space; Bluetooth 4.0 or a...</p></details>
+   Link:<a href="https://education.lego.com/en-us/downloads/spike-legacy-app/software/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/en-us/downloads/spike-legacy-app/software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legacy App | Student App Download1.5 GHz Intel® Core i3 processor - or better; 4 GB RAM; 3 GB available storage space; Bluetooth 4.0 or a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: education.lego.com  
-   Link: <a href="https://education.lego.com/es-mx/teacher-resources/lego-education-spike-essential/support-technical-info/lego-education-spike-essential-support-technical-info-get-the-lego-education-spiketm-app/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/es-mx/teacher-resources/lego-education-spike-essential/support-technical-info/lego-education-spike-essential-support-technical-info-get-the-lego-education-spiketm-app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the LEGO® Education SPIKE™ AppLEGO® Education SPIKE™ App v. 3.6.0 · Pantalla de 8 pulgadas o más grande · 3 GB de RAM · 3 GB de espacio d...</p></details>
+   Link:<a href="https://education.lego.com/es-mx/teacher-resources/lego-education-spike-essential/support-technical-info/lego-education-spike-essential-support-technical-info-get-the-lego-education-spiketm-app/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/es-mx/teacher-resources/lego-education-spike-essential/support-technical-info/lego-education-spike-essential-support-technical-info-get-the-lego-education-spiketm-app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the LEGO® Education SPIKE™ AppLEGO® Education SPIKE™ App v. 3.6.0 · Pantalla de 8 pulgadas o más grande · 3 GB de RAM · 3 GB de espacio d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: education.lego.com  
    Title: häufig gestellte fragen  
-   Link: <a href="https://education.lego.com/de-de/product-resources/retired-products/moretomath/h%C3%A4ufig-gestellte-fragen/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/de-de/product-resources/retired-products/moretomath/h%C3%A4ufig-gestellte-fragen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Products Support|Everything You NeedFrom lesson plans to software downloads, solution support to technical advice, find everything you ne...</p></details>
+   Link:<a href="https://education.lego.com/de-de/product-resources/retired-products/moretomath/h%C3%A4ufig-gestellte-fragen/" target="_blank" rel="noopener noreferrer nofollow">https://education.lego.com/de-de/product-resources/retired-products/moretomath/h%C3%A4ufig-gestellte-fragen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Products Support|Everything You NeedFrom lesson plans to software downloads, solution support to technical advice, find everything you ne...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lego.com  
    Title: LEG O Education CS &AI  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/january/lego-education-cs-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/january/lego-education-cs-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education CS &amp;AI - About Us12 Jan 2026 — As part of this transition, the LEGO® Education SPIKE™ Portfolio will retire, including LEG...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2026/january/lego-education-cs-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/january/lego-education-cs-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education CS &amp;AI - About Us12 Jan 2026 — As part of this transition, the LEGO® Education SPIKE™ Portfolio will retire, including LEG...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/us/app/spike-lego-education/id6443545905" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/spike-lego-education/id6443545905</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comSpike™ LEGO® Education - App Store - AppleEngage every student in playful STEAM learning with the LEGO® Education SPIKE™ App. De...</p></details>
+   Link:<a href="https://apps.apple.com/us/app/spike-lego-education/id6443545905" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/spike-lego-education/id6443545905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comSpike™ LEGO® Education - App Store - AppleEngage every student in playful STEAM learning with the LEGO® Education SPIKE™ App. De...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/fr/app/spike-lego-education/id6443545905?l=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/fr/app/spike-lego-education/id6443545905?l=en-GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comSpike™ LEGO® Education - App StoreCompatibility: Requires iPadOS 14.0 or later.; Languages: English and 18 more; Age Rating: 4...</p></details>
+   Link:<a href="https://apps.apple.com/fr/app/spike-lego-education/id6443545905?l=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/fr/app/spike-lego-education/id6443545905?l=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comSpike™ LEGO® Education - App StoreCompatibility: Requires iPadOS 14.0 or later.; Languages: English and 18 more; Age Rating: 4...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: LEGO Education Retires SPIKE Portfolio  
-   Link: <a href="http://www.youtube.com/watch?v=kY31Wn584tY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kY31Wn584tY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education SPIKE Prime Review &amp; Coding...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kY31Wn584tY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kY31Wn584tY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education SPIKE Prime Review &amp; Coding...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: LEGO Education SPIKE Prime Review & Coding  
-   Link: <a href="http://www.youtube.com/watch?v=S2fF6bT-nZ0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S2fF6bT-nZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FIRST LEGO League Robotics Program Changes...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=S2fF6bT-nZ0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S2fF6bT-nZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FIRST LEGO League Robotics Program Changes...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spike.legoeducation.com  
-   Link: <a href="https://spike.legoeducation.com/" target="_blank" rel="noopener noreferrer nofollow">https://spike.legoeducation.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>using Google Chrome on Chromebook, Windows or macOS...</p></details>
+   Link:<a href="https://spike.legoeducation.com/" target="_blank" rel="noopener noreferrer nofollow">https://spike.legoeducation.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>using Google Chrome on Chromebook, Windows or macOS...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blocksmag.com  
-   Link: <a href="https://blocksmag.com/lego-education-retires-spike-portfolio/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/lego-education-retires-spike-portfolio/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education retires SPIKE portfolio - Blocks Magazine13 Jan 2026 — Through June 30, 2031, LEGO Education will continue to support the...</p></details>
+   Link:<a href="https://blocksmag.com/lego-education-retires-spike-portfolio/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/lego-education-retires-spike-portfolio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education retires SPIKE portfolio - Blocks Magazine13 Jan 2026 — Through June 30, 2031, LEGO Education will continue to support the...</p></details>
    Published: June 30, 2031  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cmu.edu  
    Title: lego spike support  
-   Link: <a href="https://www.cmu.edu/roboticsacademy/news/cmra-news-2026/lego_spike_support.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/roboticsacademy/news/cmra-news-2026/lego_spike_support.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityCMRA&#x27;s Ongoing Support for LEGO SPIKE Classrooms...Mar 23, 2026 — At the Carnegie Mellon Robotics Academy (CMR...</p></details>
+   Link:<a href="https://www.cmu.edu/roboticsacademy/news/cmra-news-2026/lego_spike_support.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/roboticsacademy/news/cmra-news-2026/lego_spike_support.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityCMRA&#x27;s Ongoing Support for LEGO SPIKE Classrooms...Mar 23, 2026 — At the Carnegie Mellon Robotics Academy (CMR...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/danielhacker_big-news-this-morning-lego-education-activity-7416522425749909504-OAGW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielhacker_big-news-this-morning-lego-education-activity-7416522425749909504-OAGW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Education SPIKE App will continue to be supported until June 30, 2031.&quot; First Inspires also shared the following information: Starting...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/danielhacker_big-news-this-morning-lego-education-activity-7416522425749909504-OAGW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielhacker_big-news-this-morning-lego-education-activity-7416522425749909504-OAGW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Education SPIKE App will continue to be supported until June 30, 2031.&quot; First Inspires also shared the following information: Starting...</p></details>
    Published: June 30, 2031  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blocksmag.com  
    Title: lego education to end partnership with first  
-   Link: <a href="https://blocksmag.com/lego-education-to-end-partnership-with-first/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/lego-education-to-end-partnership-with-first/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 days ago — All support for SPIKE is set to end in 2031. January 13, 2026. In &quot;News&quot;. What parents need to know about learn at home LEGO...</p></details>
+   Link:<a href="https://blocksmag.com/lego-education-to-end-partnership-with-first/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/lego-education-to-end-partnership-with-first/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 days ago — All support for SPIKE is set to end in 2031. January 13, 2026. In &quot;News&quot;. What parents need to know about learn at home LEGO...</p></details>
    Published: January 13, 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: antoniadis.com.cy  
-   Link: <a href="https://www.antoniadis.com.cy/en/blog/stem-technologies/lego-education/lego-education-spike-retirement-update-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.antoniadis.com.cy/en/blog/stem-technologies/lego-education/lego-education-spike-retirement-update-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education SPIKE Retirement: Important Update &amp;...15 Jan 2026 — June 30, 2031: Software Support will continue for 5 more years...</p></details>
+   Link:<a href="https://www.antoniadis.com.cy/en/blog/stem-technologies/lego-education/lego-education-spike-retirement-update-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.antoniadis.com.cy/en/blog/stem-technologies/lego-education/lego-education-spike-retirement-update-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education SPIKE Retirement: Important Update &amp;...15 Jan 2026 — June 30, 2031: Software Support will continue for 5 more years...</p></details>
    Published: June 30, 2031  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: d4iqe7beda780.cloudfront.net  
    Title: LEG O Education SPIKE App 1.0  
-   Link: <a href="https://d4iqe7beda780.cloudfront.net/resources/static/main/pdf/skipe_app_minimum_system_requirements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d4iqe7beda780.cloudfront.net/resources/static/main/pdf/skipe_app_minimum_system_requirements.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hardware. • 1.5GHz Intel® Core Duo processor - or equivalent or faster. • 1.5GB RAM or more (4GB RAM for Windows 10 64-bit).Read more...</p></details>
+   Link:<a href="https://d4iqe7beda780.cloudfront.net/resources/static/main/pdf/skipe_app_minimum_system_requirements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d4iqe7beda780.cloudfront.net/resources/static/main/pdf/skipe_app_minimum_system_requirements.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hardware. • 1.5GHz Intel® Core Duo processor - or equivalent or faster. • 1.5GB RAM or more (4GB RAM for Windows 10 64-bit).Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
    Title: LEG O Education Retires SPIKE Prime, Introduces New AI  
-   Link: <a href="https://www.linkedin.com/posts/tremblaydominic_computer-science-ai-learning-solutions-activity-7416513939234193408-kJ58" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tremblaydominic_computer-science-ai-learning-solutions-activity-7416513939234193408-kJ58</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>supported until June 30, 2031, providing advanced warning to adapt.... With LEGO Education announcing the retirement of SPIKE in June th...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tremblaydominic_computer-science-ai-learning-solutions-activity-7416513939234193408-kJ58" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tremblaydominic_computer-science-ai-learning-solutions-activity-7416513939234193408-kJ58</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>supported until June 30, 2031, providing advanced warning to adapt.... With LEGO Education announcing the retirement of SPIKE in June th...</p></details>
    Published: June 30, 2031  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: robocamp.eu  
    Title: SPIK E app: when to update and how to downgrade  
-   Link: <a href="https://www.robocamp.eu/en/blog/lego-spike-app-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.robocamp.eu/en/blog/lego-spike-app-update/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is why, sooner or later, every user will have to update the hub and start using the SPIKE...Read more...</p></details>
+   Link:<a href="https://www.robocamp.eu/en/blog/lego-spike-app-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.robocamp.eu/en/blog/lego-spike-app-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is why, sooner or later, every user will have to update the hub and start using the SPIKE...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: spike.legoeducation.com  
-   Link: <a href="https://spike.legoeducation.com/prime/lobby/" target="_blank" rel="noopener noreferrer nofollow">https://spike.legoeducation.com/prime/lobby/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>legoeducation.comLEGO® Education SPIKE™ PrimeUnit Plans. All of the SPIKE Prime lessons, grouped into themed units to actively engage mid...</p></details>
+   Link:<a href="https://spike.legoeducation.com/prime/lobby/" target="_blank" rel="noopener noreferrer nofollow">https://spike.legoeducation.com/prime/lobby/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>legoeducation.comLEGO® Education SPIKE™ PrimeUnit Plans. All of the SPIKE Prime lessons, grouped into themed units to actively engage mid...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
    Title: Just saw the FLL “announcing a new era” email and I  
-   Link: <a href="https://www.reddit.com/r/FLL/comments/1qawnt6/just_saw_the_fll_announcing_a_new_era_email_and_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FLL/comments/1qawnt6/just_saw_the_fll_announcing_a_new_era_email_and_i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;SPIKE being discontinued by LEGO Education. They will stop selling SPIKE hardware on June 30, 2026, and they are EOL in 2031. [https://edu...&quot;](https://edu...&quot;)...</p></details>
+   Link:<a href="https://www.reddit.com/r/FLL/comments/1qawnt6/just_saw_the_fll_announcing_a_new_era_email_and_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/FLL/comments/1qawnt6/just_saw_the_fll_announcing_a_new_era_email_and_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;SPIKE being discontinued by LEGO Education. They will stop selling SPIKE hardware on June 30, 2026, and they are EOL in 2031. [https://edu...&quot;](https://edu...&quot;)...</p></details>
    Published: June 30, 2026  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: brickora.com  
    Title: lego spike retirement what comes next  
-   Link: <a href="https://www.brickora.com/primary/lego-spike-retirement-what-comes-next" target="_blank" rel="noopener noreferrer nofollow">https://www.brickora.com/primary/lego-spike-retirement-what-comes-next</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education is retiring the entire SPIKE portfolio on June 30, 2026... SPIKE app will continue to work even after the official suppor...</p></details>
+   Link:<a href="https://www.brickora.com/primary/lego-spike-retirement-what-comes-next" target="_blank" rel="noopener noreferrer nofollow">https://www.brickora.com/primary/lego-spike-retirement-what-comes-next</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education is retiring the entire SPIKE portfolio on June 30, 2026... SPIKE app will continue to work even after the official suppor...</p></details>
    Published: June 30, 2026  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thebrickfan.com  
-   Link: <a href="https://www.thebrickfan.com/lego-education-computer-science-ai-announced-spike-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-education-computer-science-ai-announced-spike-discontinued/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education Computer Science &amp; AI Announced13 Jan 2026 — End of sales for the SPIKE Portfolio will be June 30, 2026 and at that time t...</p></details>
+   Link:<a href="https://www.thebrickfan.com/lego-education-computer-science-ai-announced-spike-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-education-computer-science-ai-announced-spike-discontinued/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education Computer Science &amp; AI Announced13 Jan 2026 — End of sales for the SPIKE Portfolio will be June 30, 2026 and at that time t...</p></details>
    Published: June 30, 2026  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: brickfanatics.com  
    Title: lego education retires spike launches ai kit  
-   Link: <a href="https://www.brickfanatics.com/lego-education-retires-spike-launches-ai-kit" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-education-retires-spike-launches-ai-kit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education retires SPIKE and launches Computer...13 Jan 2026 — LEGO Education Computer Science &amp; AI will begin shipping in April 202...</p></details>
+   Link:<a href="https://www.brickfanatics.com/lego-education-retires-spike-launches-ai-kit" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-education-retires-spike-launches-ai-kit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Education retires SPIKE and launches Computer...13 Jan 2026 — LEGO Education Computer Science &amp; AI will begin shipping in April 202...</p></details>
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: firstaustralia.org  
-   Link: <a href="https://www.firstaustralia.org/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.firstaustralia.org/frequently-asked-questions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked QuestionsAt this point, LEGO SPIKE Prime robots will retire and will no longer be supported or sold by any official reta...</p></details>
+   Link:<a href="https://www.firstaustralia.org/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.firstaustralia.org/frequently-asked-questions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked QuestionsAt this point, LEGO SPIKE Prime robots will retire and will no longer be supported or sold by any official reta...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cs2n.org  
-   Link: <a href="https://www.cs2n.org/u/mp/badge_pages/1406" target="_blank" rel="noopener noreferrer nofollow">https://www.cs2n.org/u/mp/badge_pages/1406</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Started with SPIKE PrimeThe LEGO Education SPIKE app is compatible with Mac OS, Windows 10, iPad, Android, and Chromebook. Downlo...</p></details>
+   Link:<a href="https://www.cs2n.org/u/mp/badge_pages/1406" target="_blank" rel="noopener noreferrer nofollow">https://www.cs2n.org/u/mp/badge_pages/1406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Started with SPIKE PrimeThe LEGO Education SPIKE app is compatible with Mac OS, Windows 10, iPad, Android, and Chromebook. Downlo...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/retired-lego-robotics-kits-still-valid-classroom-learning-ayitey--0rv1f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/retired-lego-robotics-kits-still-valid-classroom-learning-ayitey--0rv1f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired LEGO robotics kits are still valid for classroom...LEGO Education states that the SPIKE App will be supported until 30 June 2031...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/retired-lego-robotics-kits-still-valid-classroom-learning-ayitey--0rv1f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/retired-lego-robotics-kits-still-valid-classroom-learning-ayitey--0rv1f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired LEGO robotics kits are still valid for classroom...LEGO Education states that the SPIKE App will be supported until 30 June 2031...</p></details>
    Published: June 2031  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SPIKEcommunity/posts/2302364313475121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SPIKEcommunity/posts/2302364313475121/</a>  
+   Link:<a href="https://www.facebook.com/groups/SPIKEcommunity/posts/2302364313475121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SPIKEcommunity/posts/2302364313475121/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
    Title: lego just announced their retiring the spike robots we used for the 2025 2026 se  
-   Link: <a href="https://www.facebook.com/61574012963423/posts/lego-just-announced-their-retiring-the-spike-robots-we-used-for-the-2025-2026-se/122168156420800432/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61574012963423/posts/lego-just-announced-their-retiring-the-spike-robots-we-used-for-the-2025-2026-se/122168156420800432/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO just announced their retiring the SPIKE robots we...LEGO just announced their retiring the SPIKE robots we used for the 2025-2026 s...</p></details>
+   Link:<a href="https://www.facebook.com/61574012963423/posts/lego-just-announced-their-retiring-the-spike-robots-we-used-for-the-2025-2026-se/122168156420800432/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61574012963423/posts/lego-just-announced-their-retiring-the-spike-robots-we-used-for-the-2025-2026-se/122168156420800432/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO just announced their retiring the SPIKE robots we...LEGO just announced their retiring the SPIKE robots we used for the 2025-2026 s...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MnnDA0CeS7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnnDA0CeS7g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO SPIKE Is Retiring. So What Happens Next? FLL UpdatesLego Education has officially announced that Spike Prime and Spike Essential are...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MnnDA0CeS7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnnDA0CeS7g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO SPIKE Is Retiring. So What Happens Next? FLL UpdatesLego Education has officially announced that Spike Prime and Spike Essential are...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
+   Link:<a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/441808089926238/posts/1287993251974380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/441808089926238/posts/1287993251974380/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 and 2 (age 6/7). That&#x27;s not to say my level 5 and 6...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/441808089926238/posts/1287993251974380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/441808089926238/posts/1287993251974380/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 and 2 (age 6/7). That&#x27;s not to say my level 5 and 6...Read more...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/441808089926238/posts/2108907799882917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/441808089926238/posts/2108907799882917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not sure why you felt like downplaying...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/441808089926238/posts/2108907799882917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/441808089926238/posts/2108907799882917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not sure why you felt like downplaying...Read more...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: thestemworkbench.com  
    Title: lego spike discontinued  
-   Link: <a href="https://thestemworkbench.com/lego-spike-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://thestemworkbench.com/lego-spike-discontinued/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 30, 2031. SPIKE app support ends. Five years of continued software support for existing...Read more...</p></details>
+   Link:<a href="https://thestemworkbench.com/lego-spike-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://thestemworkbench.com/lego-spike-discontinued/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 30, 2031. SPIKE app support ends. Five years of continued software support for existing...Read more...</p></details>
    Published: June 30, 2031

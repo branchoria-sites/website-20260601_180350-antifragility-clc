@@ -274,14 +274,14 @@ image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_le
 
 ## Introduction
 
-LEGO’s early-2000s crisis is one of the clearest examples of how a company can use severe stress as a diagnostic tool. Before the collapse, LEGO still looked like a powerful global brand. It was expanding into theme parks, clothing, television projects, video games and new toy categories. Yet beneath that apparent strength sat growing operational [complexity]({{ 'complexity/' | relative_url }}), weak profitability and strategic drift. When sales fell sharply in 2003 and debt surged, the crisis exposed problems that years of growth had concealed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
+LEGO’s early-2000s crisis is one of the clearest examples of how a company can use severe stress as a diagnostic tool. Before the collapse, LEGO still looked like a powerful global brand. It was expanding into theme parks, clothing, television projects, video games and new toy categories. Yet beneath that apparent strength sat growing operational [complexity]({{ 'complexity/' | relative_url }}), weak profitability and strategic drift. When sales fell sharply in 2003 and debt surged, the crisis exposed problems that years of growth had concealed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-1-dark.svg" | relative_url }}" alt="Crisis Learning illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Viewed through Nassim Nicholas Taleb’s antifragility [framework]({{ 'framework/' | relative_url }}), the most important lesson is not that LEGO survived. Many companies survive crises. The more significant point is that the shock forced LEGO to identify hidden fragilities, remove them and build systems that learned from stress. The company emerged with a more disciplined operating model, stronger feedback loops and a clearer understanding of where innovation created value and where it merely created risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-title">How LEGO Revived Its Founder&#x27;s Mentality</span><span class="citation-popover-snippet">To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</span></span></span>
+Viewed through Nassim Nicholas Taleb’s antifragility [framework]({{ 'framework/' | relative_url }}), the most important lesson is not that LEGO survived. Many companies survive crises. The more significant point is that the shock forced LEGO to identify hidden fragilities, remove them and build systems that learned from stress. The company emerged with a more disciplined operating model, stronger feedback loops and a clearer understanding of where innovation created value and where it merely created risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-title">How LEGO Revived Its Founder&#x27;s Mentality</span><span class="citation-popover-snippet">To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</span></span></span>
 
 ## Why LEGO Looked Strong Before the Shock
 
-By the late 1990s, LEGO appeared to be doing what many successful brands are encouraged to do: expand aggressively. Executives sought growth beyond the traditional brick by moving into media, retail experiences and lifestyle products. The company opened LEGOLAND parks, launched clothing lines and experimented with entirely new toy concepts. The brand remained globally recognised and enjoyed intense customer loyalty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">how lego clicked the super brand that reinvented itself</span><span class="citation-popover-snippet">They advised diversification. The brick had been around since the 1950s, they said, it was obsolete.Read more...</span></span></span>
+By the late 1990s, LEGO appeared to be doing what many successful brands are encouraged to do: expand aggressively. Executives sought growth beyond the traditional brick by moving into media, retail experiences and lifestyle products. The company opened LEGOLAND parks, launched clothing lines and experimented with entirely new toy concepts. The brand remained globally recognised and enjoyed intense customer loyalty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">how lego clicked the super brand that reinvented itself</span><span class="citation-popover-snippet">They advised diversification. The brick had been around since the 1950s, they said, it was obsolete.Read more...</span></span></span>
 
 The problem was that brand strength created an illusion of security. Strong sales in some areas masked deeper structural weaknesses:
 
@@ -289,15 +289,15 @@ The problem was that brand strength created an illusion of security. Strong sale
 * Product development created thousands of specialised parts and colour variations.
 * Supply chains became increasingly difficult to manage.
 * Innovation was measured by novelty rather than economic value.
-* Management underestimated the cost of operating across many unrelated activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span>
+* Management underestimated the cost of operating across many unrelated activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span>
 
 In Taleb's terms, LEGO had accumulated hidden fragility. The organisation looked successful during relatively stable conditions, but its growing complexity made it vulnerable to disruption. The company was becoming harder to understand, harder to coordinate and more dependent on assumptions that had never been seriously tested under stress.
 
-A revealing example was the proliferation of products that moved away from LEGO’s core system of interlocking bricks. Themes such as Galidor attempted to compete in action figures and entertainment-driven toy markets. While some experiments succeeded, others consumed resources without strengthening the underlying business. The company was taking risks, but many of those risks lacked the upside that would justify their complexity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A revealing example was the proliferation of products that moved away from LEGO’s core system of interlocking bricks. Themes such as Galidor attempted to compete in action figures and entertainment-driven toy markets. While some experiments succeeded, others consumed resources without strengthening the underlying business. The company was taking risks, but many of those risks lacked the upside that would justify their complexity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What the Crisis Revealed About Hidden Fragility
 
-The financial shock of 2003–2004 exposed weaknesses that had accumulated over years. Sales fell dramatically, cash flow turned negative and debt reached roughly DKK 5 billion, around US$800 million at the time. Analysts openly questioned whether LEGO could survive as an independent company. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
+The financial shock of 2003–2004 exposed weaknesses that had accumulated over years. Sales fell dramatically, cash flow turned negative and debt reached roughly DKK 5 billion, around US$800 million at the time. Analysts openly questioned whether LEGO could survive as an independent company.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
 
 What made the crisis important from an antifragility perspective was not merely the scale of the losses. It was the information those losses revealed.
 
@@ -307,7 +307,7 @@ What made the crisis important from an antifragility perspective was not merely 
 
 One of the most damaging discoveries was the extent of operational complexity. LEGO had allowed innovation teams broad freedom to create new parts, colours and product variations. The result was a manufacturing and logistics system that became increasingly difficult to control.
 
-Research on the company's turnaround notes that LEGO was sourcing [materials]({{ 'materials/' | relative_url }}) from more than 11,000 suppliers and struggling to match inventory with demand. Popular products could be unavailable in one country while excess stock accumulated elsewhere. The organisation generated huge amounts of activity but lacked visibility into how efficiently the system worked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span>
+Research on the company's turnaround notes that LEGO was sourcing [materials]({{ 'materials/' | relative_url }}) from more than 11,000 suppliers and struggling to match inventory with demand. Popular products could be unavailable in one country while excess stock accumulated elsewhere. The organisation generated huge amounts of activity but lacked visibility into how efficiently the system worked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span>
 
 The crisis demonstrated that complexity itself can become a form of fragility. During periods of growth, complexity often appears manageable. Under financial pressure, however, it amplifies costs, slows decision-making and makes problems harder to identify.
 
@@ -315,30 +315,30 @@ The crisis demonstrated that complexity itself can become a form of fragility. D
 
 LEGO also learned that innovation and profitability were not the same thing.
 
-Before the crisis, management often treated expansion and experimentation as signs of strategic health. Yet many initiatives created excitement without producing durable returns. Theme parks demanded capital and operational expertise that LEGO did not possess. Several toy lines failed to build lasting consumer demand. Product designers introduced new components that increased manufacturing costs while adding little value for customers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">how lego clicked the super brand that reinvented itself</span><span class="citation-popover-snippet">They advised diversification. The brick had been around since the 1950s, they said, it was obsolete.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfocentre.com">[The CFO Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfocentre.com</span><span class="citation-popover-title">true toy story legos incredible turnaround tale 2</span><span class="citation-popover-snippet">The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleLEGO&#x27;s diversification saw it expand the number of theme parks it owned...</span></span></span>
+Before the crisis, management often treated expansion and experimentation as signs of strategic health. Yet many initiatives created excitement without producing durable returns. Theme parks demanded capital and operational expertise that LEGO did not possess. Several toy lines failed to build lasting consumer demand. Product designers introduced new components that increased manufacturing costs while adding little value for customers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">how lego clicked the super brand that reinvented itself</span><span class="citation-popover-snippet">They advised diversification. The brick had been around since the 1950s, they said, it was obsolete.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfocentre.com">[The CFO Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfocentre.com</span><span class="citation-popover-title">true toy story legos incredible turnaround tale 2</span><span class="citation-popover-snippet">The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleLEGO&#x27;s diversification saw it expand the number of theme parks it owned...</span></span></span>
 
 The crisis forced a difficult question: which innovations genuinely strengthened the company, and which merely increased exposure to failure?
 
-This distinction became central to the turnaround. Instead of assuming that more innovation was automatically better, LEGO began examining whether innovations reinforced the core [brick system]({{ 'brick-system/' | relative_url }}), customer value and economic performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This distinction became central to the turnaround. Instead of assuming that more innovation was automatically better, LEGO began examining whether innovations reinforced the core [brick system]({{ 'brick-system/' | relative_url }}), customer value and economic performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-2-dark.svg" | relative_url }}" alt="Crisis Learning illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Brand Was Stronger Than the Business System
 
 Perhaps the most important lesson was that LEGO’s brand remained valuable even while its operating model deteriorated.
 
-Customers still loved LEGO. The company still possessed a unique product system and a passionate fan community. The crisis showed that the core idea was not broken. What had become fragile was the way the business was organised around that idea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
+Customers still loved LEGO. The company still possessed a unique product system and a passionate fan community. The crisis showed that the core idea was not broken. What had become fragile was the way the business was organised around that idea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
 
 This distinction mattered because it prevented management from treating the collapse as a failure of the entire company. Instead, the crisis revealed which elements deserved protection and which required radical change.
 
 ## How Turnaround Choices Converted Stress Into Learning
 
-When Jørgen Vig Knudstorp became CEO in 2004, the company's response was notable because it did not focus solely on emergency cost reduction. Cost cutting mattered, but the deeper goal was organisational learning. LEGO tried to understand what the crisis had revealed and then redesign the business around those lessons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+When Jørgen Vig Knudstorp became CEO in 2004, the company's response was notable because it did not focus solely on emergency cost reduction. Cost cutting mattered, but the deeper goal was organisational learning. LEGO tried to understand what the crisis had revealed and then redesign the business around those lessons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ### Cutting Complexity to Increase Adaptability
 
 One of the earliest actions was reducing unnecessary complexity across products, manufacturing and supply chains.
 
-LEGO cut the number of unique components, simplified product portfolios and standardised processes. These moves lowered costs, but they also made the organisation easier to understand and manage. Instead of spending energy coordinating endless variations, managers could focus on improving the performance of the core system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northco.co.uk">[NorthCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northco.co.uk</span><span class="citation-popover-title">the lego turnaround how an iconic brand rebuilt itself and how you can too</span><span class="citation-popover-snippet">The Lego Turnaround: How They Fixed It. In 2004 Jørgen Vig Knudstorp, a former McKinsey consultant...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span>
+LEGO cut the number of unique components, simplified product portfolios and standardised processes. These moves lowered costs, but they also made the organisation easier to understand and manage. Instead of spending energy coordinating endless variations, managers could focus on improving the performance of the core system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northco.co.uk">[NorthCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northco.co.uk</span><span class="citation-popover-title">the lego turnaround how an iconic brand rebuilt itself and how you can too</span><span class="citation-popover-snippet">The Lego Turnaround: How They Fixed It. In 2004 Jørgen Vig Knudstorp, a former McKinsey consultant...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span>
 
 This is an important antifragile mechanism. Stress exposed hidden inefficiencies, and the company used that information to remove them. The organisation became leaner not because simplicity was fashionable, but because the crisis identified exactly where complexity was producing vulnerability.
 
@@ -347,7 +347,7 @@ This is an important antifragile mechanism. Stress exposed hidden inefficiencies
 
 Another major shift involved how LEGO listened to customers.
 
-The company increased its use of customer data, fan communities and direct feedback mechanisms. According to accounts of the turnaround, LEGO strengthened engagement with dedicated enthusiasts and adopted more systematic measures of customer experience. Product development became less dependent on internal assumptions and more connected to observable demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-title">How LEGO Revived Its Founder&#x27;s Mentality</span><span class="citation-popover-snippet">To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</span></span></span>
+The company increased its use of customer data, fan communities and direct feedback mechanisms. According to accounts of the turnaround, LEGO strengthened engagement with dedicated enthusiasts and adopted more systematic measures of customer experience. Product development became less dependent on internal assumptions and more connected to observable demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-title">How LEGO Revived Its Founder&#x27;s Mentality</span><span class="citation-popover-snippet">To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</span></span></span>
 
 This created a stronger feedback loop. In Taleb's framework, systems become more adaptive when they receive rapid signals about mistakes and can adjust accordingly. LEGO's crisis pushed it toward a structure where customer reactions informed decisions earlier and more consistently.
 
@@ -355,7 +355,7 @@ This created a stronger feedback loop. In Taleb's framework, systems become more
 
 The turnaround did not eliminate experimentation. Instead, LEGO became more selective about it.
 
-The company continued to innovate, launch new themes and pursue partnerships. However, those initiatives were increasingly anchored to the core LEGO system. Successful licensed franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}) complemented the brick ecosystem rather than replacing it. New products were evaluated with greater financial discipline and strategic coherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northco.co.uk">[NorthCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northco.co.uk</span><span class="citation-popover-title">the lego turnaround how an iconic brand rebuilt itself and how you can too</span><span class="citation-popover-snippet">The Lego Turnaround: How They Fixed It. In 2004 Jørgen Vig Knudstorp, a former McKinsey consultant...Read more...</span></span></span> LinkedIn This distinction matters because antifragility is not the absence of risk. It is the ability to expose oneself to risks with manageable downs <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/nadyazhexembayeva_lego-was-losing-1mday-in-2003-they-activity-7353755773866315779-d1cE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">How LEGO went from near-bankruptcy to $6B+ in annual...Now Lego learned from it&#x27;s past mistakes and made sure every new product delivere...</span></span></span> ides and meaningful upsides. LEGO's post-crisis approach moved closer to that principle by reducing catastrophic exposure while preserving opportunities for growth.
+The company continued to innovate, launch new themes and pursue partnerships. However, those initiatives were increasingly anchored to the core LEGO system. Successful licensed franchises such as [Star Wars]({{ 'star-wars/' | relative_url }}) complemented the brick ecosystem rather than replacing it. New products were evaluated with greater financial discipline and strategic coherence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northco.co.uk">[NorthCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northco.co.uk</span><span class="citation-popover-title">the lego turnaround how an iconic brand rebuilt itself and how you can too</span><span class="citation-popover-snippet">The Lego Turnaround: How They Fixed It. In 2004 Jørgen Vig Knudstorp, a former McKinsey consultant...Read more...</span></span></span> LinkedIn This distinction matters because antifragility is not the absence of risk. It is the ability to expose oneself to risks with manageable downs<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/nadyazhexembayeva_lego-was-losing-1mday-in-2003-they-activity-7353755773866315779-d1cE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">How LEGO went from near-bankruptcy to $6B+ in annual...Now Lego learned from it&#x27;s past mistakes and made sure every new product delivere...</span></span></span> ides and meaningful upsides. LEGO's post-crisis approach moved closer to that principle by reducing catastrophic exposure while preserving opportunities for growth.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSgN96DLtWU" title="Lego: An Outsourcing Journey | Harvard Business | Solved MBA Supply Chain Case Study &amp; Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer">Lego: An Outsourcing Journey | Harvard Business | Solved MBA Supply Chain Case Study &amp; Analysis</a></p><p class="youtube-embed-meta">Channel: 5 Minutes Learning &middot; Views: 3.3K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSgN96DLtWU">Open on YouTube</a></p></div></div></div>
 
@@ -363,201 +363,201 @@ The company continued to innovate, launch new themes and pursue partnerships. Ho
 
 The strongest antifragile element in LEGO's recovery was not a specific product or restructuring programme. It was the creation of a learning system that treated stress as information.
 
-Before the crisis, warning signals were often obscured by brand prestige, growth ambitions and organisational complexity. After the crisis, management paid much closer attention to operational data, customer behaviour, supply-chain performance and profitability at the product level. Problems became inputs for adaptation rather than issues to be ignored until they became existential threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-title">How LEGO Revived Its Founder&#x27;s Mentality</span><span class="citation-popover-snippet">To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</span></span></span>
+Before the crisis, warning signals were often obscured by brand prestige, growth ambitions and organisational complexity. After the crisis, management paid much closer attention to operational data, customer behaviour, supply-chain performance and profitability at the product level. Problems became inputs for adaptation rather than issues to be ignored until they became existential threats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Knudstorp knew there was no...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bain.com">[Bain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bain.com</span><span class="citation-popover-title">How LEGO Revived Its Founder&#x27;s Mentality</span><span class="citation-popover-snippet">To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</span></span></span>
 
 The result was not pure antifragility in Taleb's strict sense. LEGO could still be harmed by market disruptions, changing consumer behaviour or strategic mistakes. Yet the company became substantially less dependent on assumptions that had gone unchallenged before 2004.
 
-Its near-collapse functioned as a large-scale stress test. The shock revealed which parts of the business were genuinely valuable, which forms of innovation created hidden risks and which operating practices could not survive volatility. By converting those discoveries into permanent organisational changes, LEGO transformed a period of extreme fragility into a mechanism for continuous learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
+Its near-collapse functioned as a large-scale stress test. The shock revealed which parts of the business were genuinely valuable, which forms of innovation created hidden risks and which operating practices could not survive volatility. By converting those discoveries into permanent organisational changes, LEGO transformed a period of extreme fragility into a mechanism for continuous learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How LEGO&#x27;s Crisis Became a Learning System. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How LEGO&#x27;s Crisis Became a Learning System. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the framework for understanding LEGO&#x27;s post-crisis adaptation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the framework for understanding LEGO&#x27;s post-crisis adaptation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Centers on feedback loops and organizational learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Centers on feedback loops and organizational learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Discipline on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5jCLbnlmEuYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Fifth Discipline" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
-        </h4>
-        <p class="fr-book-author">By Peter M. Senge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Discipline on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5jCLbnlmEuYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Fifth Discipline" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
+</h4>
+<p class="fr-book-author">By Peter M. Senge</p>
         
-        <p class="fr-book-desc">Explains how organizations become learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how organizations become learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Examines disciplined improvement after periods of difficulty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines disciplined improvement after periods of difficulty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Discipline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Discipline</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Discipline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Discipline</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Harry Potter Dobby The House-Elf 76421 - Boxed New and Sealed Retired Set"><img src="https://i.ebayimg.com/images/g/ncQAAeSw0IlqKvu1/s-l225.jpg" alt="Listing image for LEGO Harry Potter Dobby The House-Elf 76421 - Boxed New and Sealed Retired Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Harry Potter Dobby The House-Elf 76421 - Boxed New and Sealed Retired Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Harry Potter Dobby The House-Elf 76421 - Boxed New and Sealed Retired Set"><img src="https://i.ebayimg.com/images/g/ncQAAeSw0IlqKvu1/s-l225.jpg" alt="Listing image for LEGO Harry Potter Dobby The House-Elf 76421 - Boxed New and Sealed Retired Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Harry Potter Dobby The House-Elf 76421 - Boxed New and Sealed Retired Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 71006 The Simpsons: The Simpsons House Brand New Rare Retired Set 2014"><img src="https://i.ebayimg.com/images/g/hnMAAeSwChhqJ9co/s-l225.jpg" alt="Listing image for LEGO 71006 The Simpsons: The Simpsons House Brand New Rare Retired Set 2014" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 71006 The Simpsons: The Simpsons House Brand New Rare Retired Set 2014</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 71006 The Simpsons: The Simpsons House Brand New Rare Retired Set 2014"><img src="https://i.ebayimg.com/images/g/hnMAAeSwChhqJ9co/s-l225.jpg" alt="Listing image for LEGO 71006 The Simpsons: The Simpsons House Brand New Rare Retired Set 2014" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 71006 The Simpsons: The Simpsons House Brand New Rare Retired Set 2014</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CITY: Ocean Mini-Submarine (60263) | BNIB Sealed | Retired | Box Damage"><img src="https://i.ebayimg.com/images/g/KP0AAeSwaYVqKpbb/s-l225.jpg" alt="Listing image for LEGO CITY: Ocean Mini-Submarine (60263) | BNIB Sealed | Retired | Box Damage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CITY: Ocean Mini-Submarine (60263) | BNIB Sealed | Retired | Box Damage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO CITY: Ocean Mini-Submarine (60263) | BNIB Sealed | Retired | Box Damage"><img src="https://i.ebayimg.com/images/g/KP0AAeSwaYVqKpbb/s-l225.jpg" alt="Listing image for LEGO CITY: Ocean Mini-Submarine (60263) | BNIB Sealed | Retired | Box Damage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO CITY: Ocean Mini-Submarine (60263) | BNIB Sealed | Retired | Box Damage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO SPEED CHAMPIONS 76911 ASTON MARTIN DB5 JAMES BOND New Boxed Now Retired Set"><img src="https://i.ebayimg.com/images/g/RhQAAeSwUuFpKxve/s-l225.jpg" alt="Listing image for LEGO SPEED CHAMPIONS 76911 ASTON MARTIN DB5 JAMES BOND New Boxed Now Retired Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO SPEED CHAMPIONS 76911 ASTON MARTIN DB5 JAMES BOND New Boxed Now Retired Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO SPEED CHAMPIONS 76911 ASTON MARTIN DB5 JAMES BOND New Boxed Now Retired Set"><img src="https://i.ebayimg.com/images/g/RhQAAeSwUuFpKxve/s-l225.jpg" alt="Listing image for LEGO SPEED CHAMPIONS 76911 ASTON MARTIN DB5 JAMES BOND New Boxed Now Retired Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO SPEED CHAMPIONS 76911 ASTON MARTIN DB5 JAMES BOND New Boxed Now Retired Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retired LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: retired LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retired+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lego-s-crisis-became-a-learning-system-retired-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retired LEGO set" data-ebay-reference="how-lego-s-crisis-became-a-learning-system-retired-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ Its near-collapse functioned as a large-scale stress test. The shock revealed wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ Its near-collapse functioned as a large-scale stress test. The shock revealed wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ Its near-collapse functioned as a large-scale stress test. The shock revealed wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Its near-collapse functioned as a large-scale stress test. The shock revealed wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ Its near-collapse functioned as a large-scale stress test. The shock revealed wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,138 +763,138 @@ Its near-collapse functioned as a large-scale stress test. The shock revealed wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: imd.org  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolThe LEGO group: Family business resilience (A)Sales fell around 30% in 2003, and the company was running a negative ca...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imd.org  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolIn 2003, the LEGO Group had a number of positive attributes: it...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolIn 2003, the LEGO Group had a number of positive attributes: it...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bain.com  
    Title: How LEGO Revived Its Founder's Mentality  
-   Link: <a href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</p></details>
+   Link:<a href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To succeed, LEGO had to radically reduce complexity and completely revamp its supply chain—all...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301370224.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Knudstorp knew there was no...Read more...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/301370224.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301370224.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knudstorp knew there was no...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galidor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Galidor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galidor</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Jørgen Vig Knudstorp  
-   Link: <a href="https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nadyazhexembayeva_lego-was-losing-1mday-in-2003-they-activity-7353755773866315779-d1cE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nadyazhexembayeva_lego-was-losing-1mday-in-2003-they-activity-7353755773866315779-d1cE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO went from near-bankruptcy to $6B+ in annual...Now Lego learned from it&#x27;s past mistakes and made sure every new product delivere...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nadyazhexembayeva_lego-was-losing-1mday-in-2003-they-activity-7353755773866315779-d1cE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nadyazhexembayeva_lego-was-losing-1mday-in-2003-they-activity-7353755773866315779-d1cE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO went from near-bankruptcy to $6B+ in annual...Now Lego learned from it&#x27;s past mistakes and made sure every new product delivere...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: imd.org  
-   Link: <a href="https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolLessons from LEGO Group: assembling the bricks to grow in a...In this exclusive video interview with IMD President Je...</p></details>
+   Link:<a href="https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/ibyimd/videos/ceo-dialogue-series/lessons-from-lego-group-assembling-the-bricks-to-grow-in-a-crisis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolLessons from LEGO Group: assembling the bricks to grow in a...In this exclusive video interview with IMD President Je...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s $800M Debt Crisis: How Focusing on the Core...What Jørgen Vig Knudstorp did at LEGO, and what Steve Jobs did upon returning to Ap...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lindstromcompany_everyone-knows-lego-but-the-part-nobody-activity-7434606595847864320-udqi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s $800M Debt Crisis: How Focusing on the Core...What Jørgen Vig Knudstorp did at LEGO, and what Steve Jobs did upon returning to Ap...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
    Title: lego crisis how unexpectedly bad nearly catastrophic became sethi hefqc  
-   Link: <a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;[Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;[Action Plan](&amp;#123;&amp;#123; &#x27;action-plan/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: how lego clicked the super brand that reinvented itself  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They advised diversification. The brick had been around since the 1950s, they said, it was obsolete.Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They advised diversification. The brick had been around since the 1950s, they said, it was obsolete.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cfocentre.com  
    Title: true toy story legos incredible turnaround tale 2  
-   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleLEGO&#x27;s diversification saw it expand the number of theme parks it owned...</p></details>
+   Link:<a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CFO CentreA True Toy Story: LEGO&#x27;s Incredible Turnaround TaleLEGO&#x27;s diversification saw it expand the number of theme parks it owned...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: northco.co.uk  
    Title: the lego turnaround how an iconic brand rebuilt itself and how you can too  
-   Link: <a href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow">https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego Turnaround: How They Fixed It. In 2004 Jørgen Vig Knudstorp, a former McKinsey consultant...Read more...</p></details>
+   Link:<a href="https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/" target="_blank" rel="noopener noreferrer nofollow">https://northco.co.uk/the-lego-turnaround-how-an-iconic-brand-rebuilt-itself-and-how-you-can-too/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego Turnaround: How They Fixed It. In 2004 Jørgen Vig Knudstorp, a former McKinsey consultant...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: secondactsbiz.substack.com  
    Title: lego the turnaround  
-   Link: <a href="https://secondactsbiz.substack.com/p/lego-the-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://secondactsbiz.substack.com/p/lego-the-turnaround</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround - Second ActsLego&#x27;s 2003 annual report indicates how bad things were. It&#x27;s one of the most self-critical annual reports yo...</p></details>
+   Link:<a href="https://secondactsbiz.substack.com/p/lego-the-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://secondactsbiz.substack.com/p/lego-the-turnaround</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround - Second ActsLego&#x27;s 2003 annual report indicates how bad things were. It&#x27;s one of the most self-critical annual reports yo...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Clicked Back Into PlaceKnudstorp also simplified the product line. He slashed the number of unique LEGO pieces by nearly 50%, al...</p></details>
+   Link:<a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Clicked Back Into PlaceKnudstorp also simplified the product line. He slashed the number of unique LEGO pieces by nearly 50%, al...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: strategyzer.com  
-   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
+   Link:<a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hbr.org  
    Title: innovation under constraint constructing a turnaround at lego  
-   Link: <a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Innovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Rivkin takes listeners be...</p></details>
+   Link:<a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Innovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Rivkin takes listeners be...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aiu.edu  
-   Link: <a href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he verge of bankruptcy into a global leader in creativity and innovation through...Read more...</p></details>
+   Link:<a href="https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiu.edu/innovative/from-the-brink-of-bankruptcy-how-lego-rebuilt-its-future-brick-by-brick/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he verge of bankruptcy into a global leader in creativity and innovation through...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: markhub24.com  
    Title: lego strategic turnaround through innovation and focus  
-   Link: <a href="https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025 — LEGO Group faced near-bankruptcy in 2003–2004 after years of uncontr...</p></details>
+   Link:<a href="https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025 — LEGO Group faced near-bankruptcy in 2003–2004 after years of uncontr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The process of sourcing back production began with the company taking control  
-   Link: <a href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSgN96DLtWU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: An Outsourcing Journey | Harvard Business | Solved...The Lego Group announced the phase out of collaboration with Flextronics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSgN96DLtWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSgN96DLtWU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: An Outsourcing Journey | Harvard Business | Solved...The Lego Group announced the phase out of collaboration with Flextronics...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/844890827/Case-study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/844890827/Case-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d approached the transformation holistically, which involved...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/844890827/Case-study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/844890827/Case-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d approached the transformation holistically, which involved...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: learningpeople.com  
    Title: project management post mortems lego  
-   Link: <a href="https://www.learningpeople.com/uk/resources/blog/project-management-post-mortems-lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.learningpeople.com/uk/resources/blog/project-management-post-mortems-lego/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project management post-mortems: LEGO9 Apr 2025 — Knudstorp locked in on the importance customer feedback and market research, backing pr...</p></details>
+   Link:<a href="https://www.learningpeople.com/uk/resources/blog/project-management-post-mortems-lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.learningpeople.com/uk/resources/blog/project-management-post-mortems-lego/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project management post-mortems: LEGO9 Apr 2025 — Knudstorp locked in on the importance customer feedback and market research, backing pr...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thestrategyinstitute.org  
-   Link: <a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — In 2003, Lego was hemorrhaging money at an alarming rate, los...</p></details>
+   Link:<a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — In 2003, Lego was hemorrhaging money at an alarming rate, los...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: advance-performance.co.uk  
    Title: lego become worlds powerful brand  
-   Link: <a href="https://advance-performance.co.uk/blog-leadership/lego-become-worlds-powerful-brand/" target="_blank" rel="noopener noreferrer nofollow">https://advance-performance.co.uk/blog-leadership/lego-become-worlds-powerful-brand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO has become the world&#x27;s most powerful brand11 Jul 2025 — LEGO&#x27;s turnaround as a brand to become profitable and more innovative ye...</p></details>
+   Link:<a href="https://advance-performance.co.uk/blog-leadership/lego-become-worlds-powerful-brand/" target="_blank" rel="noopener noreferrer nofollow">https://advance-performance.co.uk/blog-leadership/lego-become-worlds-powerful-brand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO has become the world&#x27;s most powerful brand11 Jul 2025 — LEGO&#x27;s turnaround as a brand to become profitable and more innovative ye...</p></details>

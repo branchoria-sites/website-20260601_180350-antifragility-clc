@@ -277,13 +277,13 @@ image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_su
 LEGO Super Mario is one of LEGO’s strongest examples of digital adaptation without surrendering the core logic of the brick. Instead of turning Mario into a video game that happens to include LEGO branding, the system reverses the direction of adaptation. The screen supports the play experience, but the main activity happens on a physical course built from bricks.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-1-dark.svg" | relative_url }}" alt="Super Mario illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters for LEGO’s antifragility. A purely digital product depends on software updates, platform rules and changing online habits. LEGO Super Mario uses digital technology to make physical construction more rewarding. Children build levels, rebuild them, test different routes, move characters through obstacles and change layouts to improve scores. The technology exists to amplify hands-on experimentation rather than replace it. In that sense, LEGO is not competing with Super Mario games directly. It is translating the design logic of Mario into a physical system that becomes more valuable when players keep rebuilding it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-ie/themes/super-mario/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What is LEGO® Super MarioLEGO® Super Mario™ turns digital gaming into physical play, perfect for family fun! With interactive bricks...</span></span></span>
+That distinction matters for LEGO’s antifragility. A purely digital product depends on software updates, platform rules and changing online habits. LEGO Super Mario uses digital technology to make physical construction more rewarding. Children build levels, rebuild them, test different routes, move characters through obstacles and change layouts to improve scores. The technology exists to amplify hands-on experimentation rather than replace it. In that sense, LEGO is not competing with Super Mario games directly. It is translating the design logic of Mario into a physical system that becomes more valuable when players keep rebuilding it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-ie/themes/super-mario/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What is LEGO® Super MarioLEGO® Super Mario™ turns digital gaming into physical play, perfect for family fun! With interactive bricks...</span></span></span>
 
 ## Why Super Mario makes digital LEGO sturdier
 
-Many physical-digital toys use an app as the main destination and the toy as an accessory. LEGO Super Mario follows a different pattern. The physical course is the centre of play. Children construct a level, start a timer by scanning a course element, guide the interactive character through obstacles and collect coins before reaching the goal. The “game” is not hidden inside a screen. It happens across a table, floor or bedroom built from LEGO pieces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/10l6vyq/how_does_the_game_with_the_mario_sets_work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">How does the &#x27;game&#x27; with the Mario sets work?</span><span class="citation-popover-snippet">r/legoJanuary 25, 2023 — Play to beat a level: By scanning the barcode in a pipe piece, a timer will begin on the Mario character (I&#x27;m pr...</span><span class="citation-popover-meta">Published: January 25, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-de/product/adventures-with-mario-starter-course-71360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">adventures with mario starter course 71360</span><span class="citation-popover-snippet">Real-life LEGO® Mario™ adventures! This set features LEGO Mario with instant expressive responses and iconic sounds for an exciting, new...</span></span></span>
+Many physical-digital toys use an app as the main destination and the toy as an accessory. LEGO Super Mario follows a different pattern. The physical course is the centre of play. Children construct a level, start a timer by scanning a course element, guide the interactive character through obstacles and collect coins before reaching the goal. The “game” is not hidden inside a screen. It happens across a table, floor or bedroom built from LEGO pieces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/10l6vyq/how_does_the_game_with_the_mario_sets_work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">How does the &#x27;game&#x27; with the Mario sets work?</span><span class="citation-popover-snippet">r/legoJanuary 25, 2023 — Play to beat a level: By scanning the barcode in a pipe piece, a timer will begin on the Mario character (I&#x27;m pr...</span><span class="citation-popover-meta">Published: January 25, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-de/product/adventures-with-mario-starter-course-71360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">adventures with mario starter course 71360</span><span class="citation-popover-snippet">Real-life LEGO® Mario™ adventures! This set features LEGO Mario with instant expressive responses and iconic sounds for an exciting, new...</span></span></span>
 
-The concept emerged from a long collaboration between Nintendo and LEGO. Designers repeatedly described the challenge as creating something that neither company could make alone. Rather than reproducing a Mario video game, they borrowed ideas from level design, especially the creativity associated with games such as Super Mario Maker, and converted them into a building activity. The result is a system where constructing the course becomes part of the gameplay itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span>
+The concept emerged from a long collaboration between Nintendo and LEGO. Designers repeatedly described the challenge as creating something that neither company could make alone. Rather than reproducing a Mario video game, they borrowed ideas from level design, especially the creativity associated with games such as Super Mario Maker, and converted them into a building activity. The result is a system where constructing the course becomes part of the gameplay itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span>
 
 This is strategically important because it keeps LEGO’s core strength intact. A child who owns LEGO Super Mario is still fundamentally engaging in construction play. The technology encourages more building rather than less.
 
@@ -291,7 +291,7 @@ This is strategically important because it keeps LEGO’s core strength intact. 
 
 ### The figure acts as the game engine
 
-The most unusual part of LEGO Super Mario is the electronic character figure. LEGO Mario, Luigi and Peach are not ordinary minifigures. They contain displays, speakers, sensors and Bluetooth connectivity. The characters react to colours, barcodes and movement, displaying expressions, sound effects and score information while travelling through a course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/article/lego-super-mario-characters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Meet the LEGO® Super Mario™ CharactersWith his signature red cap and overalls, our hero, LEGO Mario, is an interactive figure that re...</span></span></span>
+The most unusual part of LEGO Super Mario is the electronic character figure. LEGO Mario, Luigi and Peach are not ordinary minifigures. They contain displays, speakers, sensors and Bluetooth connectivity. The characters react to colours, barcodes and movement, displaying expressions, sound effects and score information while travelling through a course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/article/lego-super-mario-characters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Meet the LEGO® Super Mario™ CharactersWith his signature red cap and overalls, our hero, LEGO Mario, is an interactive figure that re...</span></span></span>
 
 This design choice solves a difficult problem. Traditional video games automatically track rules, points and progress. Physical toys do not. By placing sensors inside the character, LEGO effectively embeds part of the game system inside the toy itself rather than inside a separate screen.
 
@@ -303,7 +303,7 @@ For example:
 * Enemy encounters generate reactions and rewards.
 * Different colours represent hazards or environmental effects.
 * Goal elements end the course and calculate results.
-* Sound effects provide immediate feedback similar to a video game. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span> The child still has to move the character physically through the environment. The technology recognises actions, but the course remains tangible.
+* Sound effects provide immediate feedback similar to a video game. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span> The child still has to move the character physically through the environment. The technology recognises actions, but the course remains tangible.
 
 </div>
 
@@ -313,7 +313,7 @@ For example:
 
 The deeper innovation is that the level itself is not fixed.
 
-A video game level is usually designed by developers and consumed by players. LEGO Super Mario shifts part of that design work to the child. Obstacles can be rearranged, enemies repositioned and routes expanded with new sets. Designers explicitly described longevity as coming from creating new levels and inventing unusual layouts rather than repeatedly playing a fixed challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span>
+A video game level is usually designed by developers and consumed by players. LEGO Super Mario shifts part of that design work to the child. Obstacles can be rearranged, enemies repositioned and routes expanded with new sets. Designers explicitly described longevity as coming from creating new levels and inventing unusual layouts rather than repeatedly playing a fixed challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span>
 
 This makes the physical build more than scenery. The structure of the course directly affects the experience. Rebuilding is not separate from gameplay; rebuilding is gameplay.
 
@@ -323,9 +323,9 @@ That relationship is highly compatible with LEGO’s long-standing design philos
 
 ### The app helps explain and extend play
 
-The LEGO Super Mario app performs several important functions. It provides digital building instructions, tracks scores, stores collections, offers inspiration and supports Bluetooth connections with the interactive characters. It also includes videos and challenges that help players understand new mechanics. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play LEGO® Super Mario™</span><span class="citation-popover-snippet">Check out instructional Play Videos packed with tips and tricks...Read more...</span></span></span>
+The LEGO Super Mario app performs several important functions. It provides digital building instructions, tracks scores, stores collections, offers inspiration and supports Bluetooth connections with the interactive characters. It also includes videos and challenges that help players understand new mechanics. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play LEGO® Super Mario™</span><span class="citation-popover-snippet">Check out instructional Play Videos packed with tips and tricks...Read more...</span></span></span>
 
-The decision to use digital instructions was not merely a cost-saving measure. Lead designer Jonathan Bennink explained that the team struggled to communicate movement-based gameplay through printed pages. Short videos and interactive demonstrations could show actions such as jumping and course interactions much more effectively than static diagrams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span>
+The decision to use digital instructions was not merely a cost-saving measure. Lead designer Jonathan Bennink explained that the team struggled to communicate movement-based gameplay through printed pages. Short videos and interactive demonstrations could show actions such as jumping and course interactions much more effectively than static diagrams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Super Mario</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span>
 
 In this sense, the app acts as a translator between LEGO construction and Nintendo-style game mechanics.
 
@@ -334,7 +334,7 @@ In this sense, the app acts as a translator between LEGO construction and Ninten
 
 The more significant strategic point is what the app does not do.
 
-The app does not contain the main adventure. It does not replace the course with a digital version. It does not become the primary environment where players spend their time. Instead, it helps players build, understand and improve the physical experience. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play LEGO® Super Mario™</span><span class="citation-popover-snippet">Check out instructional Play Videos packed with tips and tricks...Read more...</span></span></span>
+The app does not contain the main adventure. It does not replace the course with a digital version. It does not become the primary environment where players spend their time. Instead, it helps players build, understand and improve the physical experience. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play LEGO® Super Mario™</span><span class="citation-popover-snippet">Check out instructional Play Videos packed with tips and tricks...Read more...</span></span></span>
 
 That distinction reduces a major adaptation risk. Many connected toys become vulnerable when software support ends because essential play functions live inside the application. LEGO Super Mario still relies on technology, but much of the play value remains embedded in the character, the bricks and the course design itself.
 
@@ -344,7 +344,7 @@ The app matters, yet the physical object retains meaning even when the screen is
 
 ### The limits remain visible
 
-The system is not completely free from digital dependence. Some building instructions are distributed digitally, and device [compatibility]({{ 'compatibility/' | relative_url }}) remains part of the experience. Parents and fans have noted that the theme depends more heavily on apps than traditional LEGO sets. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.littledayout.com/lego-super-mario-adventures-with-mario-starter-course-71360-fun-with-an-interactive-mario/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: littledayout.com">[Little Day Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">littledayout.com</span><span class="citation-popover-snippet">LEGO Super Mario – Adventures with Mario Starter Course...18 Dec 2022 — To begin (as there is no accompanying manual), players will need...</span></span></span>
+The system is not completely free from digital dependence. Some building instructions are distributed digitally, and device [compatibility]({{ 'compatibility/' | relative_url }}) remains part of the experience. Parents and fans have noted that the theme depends more heavily on apps than traditional LEGO sets. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.littledayout.com/lego-super-mario-adventures-with-mario-starter-course-71360-fun-with-an-interactive-mario/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: littledayout.com">[Little Day Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">littledayout.com</span><span class="citation-popover-snippet">LEGO Super Mario – Adventures with Mario Starter Course...18 Dec 2022 — To begin (as there is no accompanying manual), players will need...</span></span></span>
 
 This creates a genuine tension. LEGO gains new forms of interaction, but it also introduces software maintenance obligations that ordinary bricks do not have. The company has to keep balancing innovation against the durability that made LEGO valuable in the first place.
 
@@ -356,207 +356,207 @@ Antifragility is not simply resilience. A resilient system survives shocks. An a
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Lego Super Mario]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Super Mario</span></span></span> contains several features that push play in that direction.
 
-First, there is no single finished form. Even official sets are presented as starting points that can be rearranged into different courses. Players are encouraged to modify layouts rather than preserve them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/the-lego-group-and-nintendo-detail-new-super-mario-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[Toy World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-title">the lego group and nintendo detail new super mario range</span><span class="citation-popover-snippet">Toy WorldThe Lego Group and Nintendo detail new Super Mario range8 Apr 2020 — The new Lego Super Mario product line features an interacti...</span></span></span>
+First, there is no single finished form. Even official sets are presented as starting points that can be rearranged into different courses. Players are encouraged to modify layouts rather than preserve them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/the-lego-group-and-nintendo-detail-new-super-mario-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[Toy World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-title">the lego group and nintendo detail new super mario range</span><span class="citation-popover-snippet">Toy WorldThe Lego Group and Nintendo detail new Super Mario range8 Apr 2020 — The new Lego Super Mario product line features an interacti...</span></span></span>
 
 Second, the system rewards repeated experimentation. A poor course design can be rebuilt. A short route can become longer. An easy challenge can become difficult. Failure generates new construction ideas rather than ending play.
 
-Third, expansion sets increase combinatorial possibilities rather than replacing older purchases. New pieces become ingredients in a growing ecosystem of course designs. The value comes from interaction between components rather than from a single finished model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play LEGO® Super Mario™</span><span class="citation-popover-snippet">Check out instructional Play Videos packed with tips and tricks...Read more...</span></span></span>
+Third, expansion sets increase combinatorial possibilities rather than replacing older purchases. New pieces become ingredients in a growing ecosystem of course designs. The value comes from interaction between components rather than from a single finished model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play LEGO® Super Mario™</span><span class="citation-popover-snippet">Check out instructional Play Videos packed with tips and tricks...Read more...</span></span></span>
 
 This is where LEGO Super Mario differs from many licensed toy lines. A conventional licensed set often recreates a scene. Once built, much of the value comes from display, collection or role-play. LEGO Super Mario instead converts a famous digital world into a system for generating new physical challenges.
 
-The result is a hybrid model that absorbs digital influence while strengthening LEGO’s traditional strengths. Children arrive because they recognise Mario. They stay engaged because the experience continually pushes them back toward building, rebuilding and redesigning. That feedback loop makes the theme a notable example of how LEGO can adapt to digital culture without allowing digital systems to become the whole product. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/apps/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Super Mario™ AppEnjoy a different play experience with the LEGO® Super Mario™ app. Discover 3D building instructions and more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/de-de/service/device-guide/mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Super Mario™ appOb Ihr Gerät mit unserer LEGO® Super Mario™ App kompatibel ist, können Sie am einfachsten herausfinden indem Sie di...</span></span></span>
+The result is a hybrid model that absorbs digital influence while strengthening LEGO’s traditional strengths. Children arrive because they recognise Mario. They stay engaged because the experience continually pushes them back toward building, rebuilding and redesigning. That feedback loop makes the theme a notable example of how LEGO can adapt to digital culture without allowing digital systems to become the whole product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/apps/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Super Mario™ AppEnjoy a different play experience with the LEGO® Super Mario™ app. Discover 3D building instructions and more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/de-de/service/device-guide/mario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Super Mario™ appOb Ihr Gerät mit unserer LEGO® Super Mario™ App kompatibel ist, können Sie am einfachsten herausfinden indem Sie di...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-3-dark.svg" | relative_url }}" alt="Super Mario illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Super Mario makes digital LEGO sturdier. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Super Mario makes digital LEGO sturdier. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how LEGO adapts while keeping physical play central.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how LEGO adapts while keeping physical play central.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains why hands-on systems can remain durable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why hands-on systems can remain durable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America+Jeff+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Mario : How Nintendo Conquered America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12011475-M.jpg" alt="Cover for Super Mario : How Nintendo Conquered America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America+Jeff+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Mario : How Nintendo Conquered America">Super Mario : How Nintendo Conquered America</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Ryan, Ray Porter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America+Jeff+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Mario : How Nintendo Conquered America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12011475-M.jpg" alt="Cover for Super Mario : How Nintendo Conquered America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America+Jeff+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Mario : How Nintendo Conquered America">Super Mario : How Nintendo Conquered America</a>
+</h4>
+<p class="fr-book-author">By Jeff Ryan, Ray Porter</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America+Jeff+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America+Jeff+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reality+Is+Broken+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reality Is Broken on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6680781-M.jpg" alt="Cover for Reality Is Broken" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reality+Is+Broken+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reality Is Broken">Reality Is Broken</a>
-        </h4>
-        <p class="fr-book-author">By Jane McGonigal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reality+Is+Broken+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reality Is Broken on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6680781-M.jpg" alt="Cover for Reality Is Broken" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reality+Is+Broken+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reality Is Broken">Reality Is Broken</a>
+</h4>
+<p class="fr-book-author">By Jane McGonigal</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Social aspects, Computer games, Datorspel, Video games, Sociala aspekter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reality+Is+Broken+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Social aspects, Computer games, Datorspel, Video games, Sociala aspekter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reality+Is+Broken+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Mario : How Nintendo Conquered America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Mario+%3A+How+Nintendo+Conquered+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Mario : How Nintendo Conquered America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)"><img src="https://i.ebayimg.com/images/g/ldgAAeSwgZNpxVA8/s-l225.jpg" alt="Listing image for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)"><img src="https://i.ebayimg.com/images/g/ldgAAeSwgZNpxVA8/s-l225.jpg" alt="Listing image for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario Piranha Plant 71426"><img src="https://i.ebayimg.com/images/g/3CYAAeSwbMNqJArQ/s-l225.jpg" alt="Listing image for LEGO Super Mario Piranha Plant 71426" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario Piranha Plant 71426</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario Piranha Plant 71426"><img src="https://i.ebayimg.com/images/g/3CYAAeSwbMNqJArQ/s-l225.jpg" alt="Listing image for LEGO Super Mario Piranha Plant 71426" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario Piranha Plant 71426</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)"><img src="https://i.ebayimg.com/images/g/s6YAAeSw51dqJ-WL/s-l225.jpg" alt="Listing image for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)"><img src="https://i.ebayimg.com/images/g/s6YAAeSw51dqJ-WL/s-l225.jpg" alt="Listing image for LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario: Chain Chomp Jungle Encounter Expansion Set (71381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario 71366 Boomer Bill Barrage Expansion Set brand new"><img src="https://i.ebayimg.com/images/g/~kgAAeSw2ihqJ-Pa/s-l225.jpg" alt="Listing image for LEGO Super Mario 71366 Boomer Bill Barrage Expansion Set brand new" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario 71366 Boomer Bill Barrage Expansion Set brand new</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Super Mario 71366 Boomer Bill Barrage Expansion Set brand new"><img src="https://i.ebayimg.com/images/g/~kgAAeSw2ihqJ-Pa/s-l225.jpg" alt="Listing image for LEGO Super Mario 71366 Boomer Bill Barrage Expansion Set brand new" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Super Mario 71366 Boomer Bill Barrage Expansion Set brand new</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Super Mario set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Super Mario set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Super+Mario+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Super Mario set" data-ebay-reference="why-super-mario-makes-digital-lego-sturdier-lego-super-mario-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The result is a hybrid model that absorbs digital influence while strengthening 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The result is a hybrid model that absorbs digital influence while strengthening 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The result is a hybrid model that absorbs digital influence while strengthening 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The result is a hybrid model that absorbs digital influence while strengthening 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The result is a hybrid model that absorbs digital influence while strengthening 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,212 +762,212 @@ The result is a hybrid model that absorbs digital influence while strengthening 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-ie/themes/super-mario/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-ie/themes/super-mario/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is LEGO® Super MarioLEGO® Super Mario™ turns digital gaming into physical play, perfect for family fun! With interactive bricks...</p></details>
+   Link:<a href="https://www.lego.com/en-ie/themes/super-mario/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-ie/themes/super-mario/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is LEGO® Super MarioLEGO® Super Mario™ turns digital gaming into physical play, perfect for family fun! With interactive bricks...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: How does the 'game' with the Mario sets work?  
-   Link: <a href="https://www.reddit.com/r/lego/comments/10l6vyq/how_does_the_game_with_the_mario_sets_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/10l6vyq/how_does_the_game_with_the_mario_sets_work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/legoJanuary 25, 2023 — Play to beat a level: By scanning the barcode in a pipe piece, a timer will begin on the Mario character (I&#x27;m pr...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/10l6vyq/how_does_the_game_with_the_mario_sets_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/10l6vyq/how_does_the_game_with_the_mario_sets_work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/legoJanuary 25, 2023 — Play to beat a level: By scanning the barcode in a pipe piece, a timer will begin on the Mario character (I&#x27;m pr...</p></details>
    Published: January 25, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
    Title: adventures with mario starter course 71360  
-   Link: <a href="https://www.lego.com/en-de/product/adventures-with-mario-starter-course-71360" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-de/product/adventures-with-mario-starter-course-71360</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-life LEGO® Mario™ adventures! This set features LEGO Mario with instant expressive responses and iconic sounds for an exciting, new...</p></details>
+   Link:<a href="https://www.lego.com/en-de/product/adventures-with-mario-starter-course-71360" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-de/product/adventures-with-mario-starter-course-71360</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-life LEGO® Mario™ adventures! This set features LEGO Mario with instant expressive responses and iconic sounds for an exciting, new...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Lego Super Mario  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Super_Mario</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Super_Mario" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Super_Mario</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/article/lego-super-mario-characters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/article/lego-super-mario-characters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the LEGO® Super Mario™ CharactersWith his signature red cap and overalls, our hero, LEGO Mario, is an interactive figure that re...</p></details>
+   Link:<a href="https://www.lego.com/en-us/article/lego-super-mario-characters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/article/lego-super-mario-characters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the LEGO® Super Mario™ CharactersWith his signature red cap and overalls, our hero, LEGO Mario, is an interactive figure that re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/apps/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/apps/lego-super-mario</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ AppEnjoy a different play experience with the LEGO® Super Mario™ app. Discover 3D building instructions and more...</p></details>
+   Link:<a href="https://www.lego.com/en-us/apps/lego-super-mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/apps/lego-super-mario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ AppEnjoy a different play experience with the LEGO® Super Mario™ app. Discover 3D building instructions and more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: play.google.com  
    Title: Play LEGO® Super Mario™  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Check out instructional Play Videos packed with tips and tricks...Read more...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.supermario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Check out instructional Play Videos packed with tips and tricks...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: play.google.com  
    Title: Play LEGO® Super Mario™  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.lego.supermario</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayLEGO® Super Mario™ - Apps on Google PlayThe LEGO® Super Mario™ app is the official companion app for the ever-expanding range...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.lego.supermario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayLEGO® Super Mario™ - Apps on Google PlayThe LEGO® Super Mario™ app is the official companion app for the ever-expanding range...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: LEGO super Mario has only digital building instructions  
-   Link: <a href="https://www.reddit.com/r/lego/comments/i1t9ql/lego_super_mario_has_only_digital_building/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/i1t9ql/lego_super_mario_has_only_digital_building/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2020 — LEGO super Mario has only digital building instructions. The book is only a QR code and promotion for the rest of the LE...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/i1t9ql/lego_super_mario_has_only_digital_building/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/i1t9ql/lego_super_mario_has_only_digital_building/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2020 — LEGO super Mario has only digital building instructions. The book is only a QR code and promotion for the rest of the LE...</p></details>
    Published: August 1, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/de-de/service/device-guide/mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/de-de/service/device-guide/mario</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ appOb Ihr Gerät mit unserer LEGO® Super Mario™ App kompatibel ist, können Sie am einfachsten herausfinden indem Sie di...</p></details>
+   Link:<a href="https://www.lego.com/de-de/service/device-guide/mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/de-de/service/device-guide/mario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ appOb Ihr Gerät mit unserer LEGO® Super Mario™ App kompatibel ist, können Sie am einfachsten herausfinden indem Sie di...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.lego.supermario</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayLEGO® Super Mario™ – Apps on Google PlayBuild your sets, easily add them to your digital collection and expand your personaliz...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.lego.supermario" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.lego.supermario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayLEGO® Super Mario™ – Apps on Google PlayBuild your sets, easily add them to your digital collection and expand your personaliz...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
    Title: What is LEGO® Super Mario™?  
-   Link: <a href="https://www.lego.com/en-gb/themes/super-mario/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/super-mario/about</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official LEGO® Shop GBDesigned for kids, adults and fans of all ages, these interactive playsets let you build an exciting playtime wit...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/themes/super-mario/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/super-mario/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official LEGO® Shop GBDesigned for kids, adults and fans of all ages, these interactive playsets let you build an exciting playtime wit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/service/device-guide/mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/service/device-guide/mario</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ appFind building instructions · Common questions · Contact us · Replacement parts · 0... Devices that can download an...</p></details>
+   Link:<a href="https://www.lego.com/service/device-guide/mario" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/service/device-guide/mario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ appFind building instructions · Common questions · Contact us · Replacement parts · 0... Devices that can download an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/service/building-instructions" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/building-instructions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building instructions landing pageThe LEGO Builder app is a digital building tool that makes it easier than ever to follow instructions a...</p></details>
+   Link:<a href="https://www.lego.com/en-us/service/building-instructions" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/building-instructions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building instructions landing pageThe LEGO Builder app is a digital building tool that makes it easier than ever to follow instructions a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/article/lego-super-mario-parents-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/article/lego-super-mario-parents-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ Parents&#x27; GuideThe LEGO Super Mario experience features three interactive figures – LEGO Mario, LEGO Luigi and LEGO Pea...</p></details>
+   Link:<a href="https://www.lego.com/en-us/article/lego-super-mario-parents-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/article/lego-super-mario-parents-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Super Mario™ Parents&#x27; GuideThe LEGO Super Mario experience features three interactive figures – LEGO Mario, LEGO Luigi and LEGO Pea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/how-to-download-building-instructions-online" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/how-to-download-building-instructions-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Download the LEGO Builder app and get ready...Read more...</p></details>
+   Link:<a href="https://www.lego.com/en-us/service/help-topics/article/how-to-download-building-instructions-online" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/how-to-download-building-instructions-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Download the LEGO Builder app and get ready...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-nl/themes/super-mario/play-together" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/themes/super-mario/play-together</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Super Mario™ Play TogetherJoin forces with legendary characters from the Super Mario™ universe to tackle your LEGO® courses. Find out who...</p></details>
+   Link:<a href="https://www.lego.com/en-nl/themes/super-mario/play-together" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/themes/super-mario/play-together</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Super Mario™ Play TogetherJoin forces with legendary characters from the Super Mario™ universe to tackle your LEGO® courses. Find out who...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.legobuildinginstructions" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.legobuildinginstructions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comLEGO® Builder: 3D Instructions - Apps on Google PlayMay 5, 2026 — LEGO® Builder is the official building instructions app for L...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.legobuildinginstructions" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.lego.legobuildinginstructions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comLEGO® Builder: 3D Instructions - Apps on Google PlayMay 5, 2026 — LEGO® Builder is the official building instructions app for L...</p></details>
    Published: May 5, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: store.nintendo.nl  
-   Link: <a href="https://store.nintendo.nl/nl/merchandise/view-all-merchandise/shop-by-franchise-merchandise/lego-x-super-mario" target="_blank" rel="noopener noreferrer nofollow">https://store.nintendo.nl/nl/merchandise/view-all-merchandise/shop-by-franchise-merchandise/lego-x-super-mario</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>x Super Mario | My Nintendo StoreLEGO Super Mario is klaar om te rennen en springen in een nieuwe levensechte game. Bouw en creëer uitdag...</p></details>
+   Link:<a href="https://store.nintendo.nl/nl/merchandise/view-all-merchandise/shop-by-franchise-merchandise/lego-x-super-mario" target="_blank" rel="noopener noreferrer nofollow">https://store.nintendo.nl/nl/merchandise/view-all-merchandise/shop-by-franchise-merchandise/lego-x-super-mario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>x Super Mario | My Nintendo StoreLEGO Super Mario is klaar om te rennen en springen in een nieuwe levensechte game. Bouw en creëer uitdag...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=tuC97LtpaiM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tuC97LtpaiM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario: How To Play &amp; Level Tips...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=tuC97LtpaiM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tuC97LtpaiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario: How To Play &amp; Level Tips...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: LEGO Super Mario: How To Play & Level Tips  
-   Link: <a href="http://www.youtube.com/watch?v=8daE5MuK9Bc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8daE5MuK9Bc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario Adventures with Luigi Starter Course Build Review...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8daE5MuK9Bc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8daE5MuK9Bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario Adventures with Luigi Starter Course Build Review...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: LEGO Super Mario Adventures with Luigi Starter Course Build Review  
-   Link: <a href="http://www.youtube.com/watch?v=-z-aYSOnbQo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-z-aYSOnbQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario 71360 Starter Course Review...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-z-aYSOnbQo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-z-aYSOnbQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario 71360 Starter Course Review...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=MCUU-PF-hqM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MCUU-PF-hqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario in action...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MCUU-PF-hqM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MCUU-PF-hqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario in action...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: LEGO Super Mario in action  
-   Link: <a href="http://www.youtube.com/watch?v=kNuTtvFP62U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kNuTtvFP62U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Super Mario works physical play course building review LEGO Super Mario - Mario Starter Course Unboxing and Game Experience Alvi...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kNuTtvFP62U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kNuTtvFP62U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Super Mario works physical play course building review LEGO Super Mario - Mario Starter Course Unboxing and Game Experience Alvi...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: toyworldmag.co.uk  
    Title: the lego group and nintendo detail new super mario range  
-   Link: <a href="https://toyworldmag.co.uk/the-lego-group-and-nintendo-detail-new-super-mario-range/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/the-lego-group-and-nintendo-detail-new-super-mario-range/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy WorldThe Lego Group and Nintendo detail new Super Mario range8 Apr 2020 — The new Lego Super Mario product line features an interacti...</p></details>
+   Link:<a href="https://toyworldmag.co.uk/the-lego-group-and-nintendo-detail-new-super-mario-range/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/the-lego-group-and-nintendo-detail-new-super-mario-range/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toy WorldThe Lego Group and Nintendo detail new Super Mario range8 Apr 2020 — The new Lego Super Mario product line features an interacti...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: littledayout.com  
-   Link: <a href="https://www.littledayout.com/lego-super-mario-adventures-with-mario-starter-course-71360-fun-with-an-interactive-mario/" target="_blank" rel="noopener noreferrer nofollow">https://www.littledayout.com/lego-super-mario-adventures-with-mario-starter-course-71360-fun-with-an-interactive-mario/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario – Adventures with Mario Starter Course...18 Dec 2022 — To begin (as there is no accompanying manual), players will need...</p></details>
+   Link:<a href="https://www.littledayout.com/lego-super-mario-adventures-with-mario-starter-course-71360-fun-with-an-interactive-mario/" target="_blank" rel="noopener noreferrer nofollow">https://www.littledayout.com/lego-super-mario-adventures-with-mario-starter-course-71360-fun-with-an-interactive-mario/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario – Adventures with Mario Starter Course...18 Dec 2022 — To begin (as there is no accompanying manual), players will need...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MJDT3v4Mefs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJDT3v4Mefs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario App tour!Here&#x27;s a look into the LEGO Super Mario App. This is an early version I was allowed to have from LEGO and Nintendo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MJDT3v4Mefs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJDT3v4Mefs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario App tour!Here&#x27;s a look into the LEGO Super Mario App. This is an early version I was allowed to have from LEGO and Nintendo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gy9ISXklVVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gy9ISXklVVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario: Adventures with Mario Starter Course...Combine the fun of LEGO with the classic enjoyment of Nintendo&#x27;s Super Mario se...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gy9ISXklVVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gy9ISXklVVY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario: Adventures with Mario Starter Course...Combine the fun of LEGO with the classic enjoyment of Nintendo&#x27;s Super Mario se...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wyV2BtCz6YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wyV2BtCz6YM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario | Een toffe combi tussen game &amp; je favo...Wij weten wel wat er op de eerste plek staat op de verlanglijstjes voor Sinte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wyV2BtCz6YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wyV2BtCz6YM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario | Een toffe combi tussen game &amp; je favo...Wij weten wel wat er op de eerste plek staat op de verlanglijstjes voor Sinte...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/LEGO-Adventures-Building-Interactive-Featuring/dp/B085878WLK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/LEGO-Adventures-Building-Interactive-Featuring/dp/B085878WLK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario Adventures with Mario Starter Course...LEGO Super Mario Adventures Starter course toy features an interactive figure of...</p></details>
+   Link:<a href="https://www.amazon.com/LEGO-Adventures-Building-Interactive-Featuring/dp/B085878WLK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/LEGO-Adventures-Building-Interactive-Featuring/dp/B085878WLK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Super Mario Adventures with Mario Starter Course...LEGO Super Mario Adventures Starter course toy features an interactive figure of...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nerdist.com  
    Title: lego super mario interactive set preorder  
-   Link: <a href="https://nerdist.com/article/lego-super-mario-interactive-set-preorder/" target="_blank" rel="noopener noreferrer nofollow">https://nerdist.com/article/lego-super-mario-interactive-set-preorder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive LEGO SUPER MARIO Set will Launch in August7 Apr 2020 — It features an interactive LEGO Mario figure that collects coins in re...</p></details>
+   Link:<a href="https://nerdist.com/article/lego-super-mario-interactive-set-preorder/" target="_blank" rel="noopener noreferrer nofollow">https://nerdist.com/article/lego-super-mario-interactive-set-preorder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive LEGO SUPER MARIO Set will Launch in August7 Apr 2020 — It features an interactive LEGO Mario figure that collects coins in re...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: brothers-brick.com  
    Title: lego and nintendo reveal new super mario product line news  
-   Link: <a href="https://www.brothers-brick.com/2020/03/12/lego-and-nintendo-reveal-new-super-mario-product-line-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2020/03/12/lego-and-nintendo-reveal-new-super-mario-product-line-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickLEGO and Nintendo reveal new Super Mario product line...12 Mar 2020 — Designers from both companies join forces to cre...</p></details>
+   Link:<a href="https://www.brothers-brick.com/2020/03/12/lego-and-nintendo-reveal-new-super-mario-product-line-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2020/03/12/lego-and-nintendo-reveal-new-super-mario-product-line-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickLEGO and Nintendo reveal new Super Mario product line...12 Mar 2020 — Designers from both companies join forces to cre...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bricktastic.nl  
    Title: lego en nintendo presenteren interactieve super mario sets  
-   Link: <a href="https://www.bricktastic.nl/lego-super-mario/lego-en-nintendo-presenteren-interactieve-super-mario-sets/" target="_blank" rel="noopener noreferrer nofollow">https://www.bricktastic.nl/lego-super-mario/lego-en-nintendo-presenteren-interactieve-super-mario-sets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO en Nintendo presenteren interactieve Super Mario-...12 Mar 2020 — Uit de video blijkt dat het interactieve sets zijn waarbij speler...</p></details>
+   Link:<a href="https://www.bricktastic.nl/lego-super-mario/lego-en-nintendo-presenteren-interactieve-super-mario-sets/" target="_blank" rel="noopener noreferrer nofollow">https://www.bricktastic.nl/lego-super-mario/lego-en-nintendo-presenteren-interactieve-super-mario-sets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO en Nintendo presenteren interactieve Super Mario-...12 Mar 2020 — Uit de video blijkt dat het interactieve sets zijn waarbij speler...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: brickingaround.com  
    Title: getting started with lego mario  
-   Link: <a href="https://brickingaround.com/2020/08/03/getting-started-with-lego-mario/" target="_blank" rel="noopener noreferrer nofollow">https://brickingaround.com/2020/08/03/getting-started-with-lego-mario/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Aug 2020 — Like most modern Bluetooth devices, connection is easy. Open the app, tap the connect button and then press the button on th...</p></details>
+   Link:<a href="https://brickingaround.com/2020/08/03/getting-started-with-lego-mario/" target="_blank" rel="noopener noreferrer nofollow">https://brickingaround.com/2020/08/03/getting-started-with-lego-mario/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Aug 2020 — Like most modern Bluetooth devices, connection is easy. Open the app, tap the connect button and then press the button on th...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uwIbGwKCyrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uwIbGwKCyrA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>te wereld door levels springt. Ook Bowser en Koopa Troopa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uwIbGwKCyrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uwIbGwKCyrA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>te wereld door levels springt. Ook Bowser en Koopa Troopa...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/us/app/lego-super-mario/id1502406835" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/lego-super-mario/id1502406835</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comLEGO® Super Mario - App Store - Apple• Get easy-to-follow 3D building instructions for all of your LEGO® Super Mario™ building s...</p></details>
+   Link:<a href="https://apps.apple.com/us/app/lego-super-mario/id1502406835" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/lego-super-mario/id1502406835</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comLEGO® Super Mario - App Store - Apple• Get easy-to-follow 3D building instructions for all of your LEGO® Super Mario™ building s...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: geekwire.com  
    Title: pre orders start lego nintendo super mario set interacts physical world  
-   Link: <a href="https://www.geekwire.com/2020/pre-orders-start-lego-nintendo-super-mario-set-interacts-physical-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.geekwire.com/2020/pre-orders-start-lego-nintendo-super-mario-set-interacts-physical-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It keeps track of scores to encourage...</p></details>
+   Link:<a href="https://www.geekwire.com/2020/pre-orders-start-lego-nintendo-super-mario-set-interacts-physical-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.geekwire.com/2020/pre-orders-start-lego-nintendo-super-mario-set-interacts-physical-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It keeps track of scores to encourage...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=c_BeXq5jnBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c_BeXq5jnBI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Instructions LIVE | 71360 | Adventures with Mario...LEGO Instructions LIVE video from LEGO Super Mario App Today&#x27;s episode: LEGO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c_BeXq5jnBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c_BeXq5jnBI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Instructions LIVE | 71360 | Adventures with Mario...LEGO Instructions LIVE video from LEGO Super Mario App Today&#x27;s episode: LEGO...</p></details>

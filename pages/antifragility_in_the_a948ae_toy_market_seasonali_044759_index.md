@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-toy-market/
 description: Focused pages that expand on Seasonality.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_toy_market_seasonali_044759
 parent_title: Seasonality
@@ -16,7 +16,7 @@ parent_permalink: /seasonality/
 
 # Explore Topics in Seasonality
 
-The following pages expand on the main **[Seasonality]({{ '/seasonality/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Seasonality]({{ '/seasonality/' | relative_url }})** page and cover its key branches in.
 
 - [Adult Gifting]({{ '/adult-gifting/' | relative_url }})
 - [Holiday Risk]({{ '/holiday-risk/' | relative_url }})

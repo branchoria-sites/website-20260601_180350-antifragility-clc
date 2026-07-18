@@ -274,16 +274,16 @@ image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_le
 
 ## Introduction
 
-LEGO Ideas is one of the clearest examples of how LEGO turns outside creativity into a strengthening force rather than a source of disorder. The platform invites fans to propose almost any theme, subject, or model, yet it requires those ideas to be expressed through LEGO’s existing building language. Fans can be imaginative, but they must work within the constraints of real LEGO elements, building techniques, community rules, and a formal review process. The result is a governance system that captures unexpected ideas without weakening the underlying [brick system]({{ 'brick-system/' | relative_url }}). In antifragility terms, LEGO gains exposure to a much wider range of experiments while limiting the risk that those experiments pull the company away from its core strengths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Submitting your idea to LEGO® IdeasWe can only accept product suggestions when they&#x27;re submitted to LEGO® Ideas, built out of LEGO® b...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Ideas &#124; LEGO® History &#124; LEGO.com USThe LEGO Group set out to establish more community-based innovation initiatives. A great exa...</span></span></span>
+LEGO Ideas is one of the clearest examples of how LEGO turns outside creativity into a strengthening force rather than a source of disorder. The platform invites fans to propose almost any theme, subject, or model, yet it requires those ideas to be expressed through LEGO’s existing building language. Fans can be imaginative, but they must work within the constraints of real LEGO elements, building techniques, community rules, and a formal review process. The result is a governance system that captures unexpected ideas without weakening the underlying [brick system]({{ 'brick-system/' | relative_url }}). In antifragility terms, LEGO gains exposure to a much wider range of experiments while limiting the risk that those experiments pull the company away from its core strengths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Submitting your idea to LEGO® IdeasWe can only accept product suggestions when they&#x27;re submitted to LEGO® Ideas, built out of LEGO® b...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Ideas &#124; LEGO® History &#124; LEGO.com USThe LEGO Group set out to establish more community-based innovation initiatives. A great exa...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-1-dark.svg" | relative_url }}" alt="LEGO Ideas illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Fan Ideas Must Be Built from LEGO Bricks
 
-LEGO Ideas is not a general suggestion box. The platform only accepts product concepts that are built using LEGO bricks and that comply with project guidelines. A fan cannot simply describe a toy concept; they must demonstrate it as a LEGO model. This requirement is significant because it forces creativity to operate inside the same constraints that govern LEGO’s professional designers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+LEGO Ideas is not a general suggestion box. The platform only accepts product concepts that are built using LEGO bricks and that comply with project guidelines. A fan cannot simply describe a toy concept; they must demonstrate it as a LEGO model. This requirement is significant because it forces creativity to operate inside the same constraints that govern LEGO’s professional designers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
-That rule filters ideas before LEGO invests substantial resources in them. Proposals must already show that they can function within the geometry, connection standards, and visual language of the LEGO system. Fans are therefore not competing to invent entirely new toy formats. They are competing to discover new combinations, themes, and experiences that emerge from existing building possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO...</span></span></span>
+That rule filters ideas before LEGO invests substantial resources in them. Proposals must already show that they can function within the geometry, connection standards, and visual language of the LEGO system. Fans are therefore not competing to invent entirely new toy formats. They are competing to discover new combinations, themes, and experiences that emerge from existing building possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO...</span></span></span>
 
-The governance logic matters. An unrestricted crowdsourcing platform could generate thousands of suggestions that require new manufacturing systems, incompatible components, or business models outside LEGO’s expertise. LEGO Ideas instead channels creativity into a form that strengthens the existing platform. The company receives variety without sacrificing coherence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">You can read more about the LEGO review process in our Guidelines and House Rules...Read more...</span></span></span>
+The governance logic matters. An unrestricted crowdsourcing platform could generate thousands of suggestions that require new manufacturing systems, incompatible components, or business models outside LEGO’s expertise. LEGO Ideas instead channels creativity into a form that strengthens the existing platform. The company receives variety without sacrificing coherence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">You can read more about the LEGO review process in our Guidelines and House Rules...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KLSmmyN6mZ4" title="How LEGO IDEAS empowered FANS to build their best-selling sets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KLSmmyN6mZ4" target="_blank" rel="noopener noreferrer">How LEGO IDEAS empowered FANS to build their best-selling sets</a></p><p class="youtube-embed-meta">Channel: Jono Bacon &middot; Views: 1.8K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KLSmmyN6mZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KLSmmyN6mZ4">Open on YouTube</a></p></div></div></div>
 
@@ -291,23 +291,23 @@ The governance logic matters. An unrestricted crowdsourcing platform could gener
 
 The most important contribution of LEGO Ideas is not that it produces individual sets. It expands the range of subjects represented within the LEGO system while preserving the system itself.
 
-The platform emerged from LEGO’s effort to engage more closely with [adult fans]({{ 'adult-fans/' | relative_url }}) and recognise the innovation already taking place within fan communities. What began as the LEGO CUUSOO experiment evolved into LEGO Ideas, a formal mechanism through which community discoveries could enter the company's product-development pipeline. LEGO ResearchGate Because fans come from different countries <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) When Ideas Generate Value: How LEGO Profitably...In 2008, in partnership with the company Cuusoo System (Film), LEGO l...</span></span></span>, professions, hobbies, and fandoms, they often identify opportunities that LEGO's internal teams might not prioritise. As a result, the platform regularly surfaces unusual themes, niche cultural references, historical subjects, architectural projects, and display-oriented models. Yet every successful proposal still has to become a LEGO set rather than a departure from LEGO's building philosophy. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: managers.org.uk">[CMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">managers.org.uk</span><span class="citation-popover-title">how lego harnessed diversity to build an innovation culture</span><span class="citation-popover-snippet">CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+The platform emerged from LEGO’s effort to engage more closely with [adult fans]({{ 'adult-fans/' | relative_url }}) and recognise the innovation already taking place within fan communities. What began as the LEGO CUUSOO experiment evolved into LEGO Ideas, a formal mechanism through which community discoveries could enter the company's product-development pipeline. LEGO ResearchGate Because fans come from different countries<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) When Ideas Generate Value: How LEGO Profitably...In 2008, in partnership with the company Cuusoo System (Film), LEGO l...</span></span></span>, professions, hobbies, and fandoms, they often identify opportunities that LEGO's internal teams might not prioritise. As a result, the platform regularly surfaces unusual themes, niche cultural references, historical subjects, architectural projects, and display-oriented models. Yet every successful proposal still has to become a LEGO set rather than a departure from LEGO's building philosophy. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: managers.org.uk">[CMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">managers.org.uk</span><span class="citation-popover-title">how lego harnessed diversity to build an innovation culture</span><span class="citation-popover-snippet">CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
-This distinction is crucial. The platform increases thematic diversity without increasing architectural chaos. A successful fan proposal may introduce a new subject matter, but it still relies on the same reusable parts, instructions, building methods, and [compatibility]({{ 'compatibility/' | relative_url }}) standards that define the wider LEGO ecosystem. The system absorbs novelty while remaining recognisably LEGO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
+This distinction is crucial. The platform increases thematic diversity without increasing architectural chaos. A successful fan proposal may introduce a new subject matter, but it still relies on the same reusable parts, instructions, building methods, and [compatibility]({{ 'compatibility/' | relative_url }}) standards that define the wider LEGO ecosystem. The system absorbs novelty while remaining recognisably LEGO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-2-dark.svg" | relative_url }}" alt="LEGO Ideas illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 10,000-Supporter Threshold Matters
 
-LEGO does not move directly from submission to production. Fan projects must first gather substantial community support before entering official review. Today, reaching 10,000 supporters qualifies a project for consideration by LEGO's review board. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[ideas.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Rules GuidelinesGaining 10,000 supporters qualifies your Product Idea for review by our Review Board.... Every build on LEGO Ideas that...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/aboutus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">About Us - LEGO.comFounded in 1932 by Ole Kirk Kristiansen, and based on the iconic LEGO® brick, it is one of the world&#x27;s leading manufac...</span></span></span>
+LEGO does not move directly from submission to production. Fan projects must first gather substantial community support before entering official review. Today, reaching 10,000 supporters qualifies a project for consideration by LEGO's review board.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[ideas.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Rules GuidelinesGaining 10,000 supporters qualifies your Product Idea for review by our Review Board.... Every build on LEGO Ideas that...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/aboutus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">About Us - LEGO.comFounded in 1932 by Ole Kirk Kristiansen, and based on the iconic LEGO® brick, it is one of the world&#x27;s leading manufac...</span></span></span>
 
 This threshold serves several governance functions at once:
 
-* **Community filtering:** thousands of fans help identify concepts with broad appeal before LEGO commits internal resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business School AI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">lego ideas crowdsourcing the next big hit</span><span class="citation-popover-snippet">Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</span></span></span>
-* **Signal amplification:** unusual ideas can succeed if they attract genuine enthusiasm rather than merely fitting existing corporate assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business School AI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">lego ideas crowdsourcing the next big hit</span><span class="citation-popover-snippet">Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</span></span></span>
-* **Cost control:** LEGO reviews a smaller pool of validated concepts instead of evaluating every submission in depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Submitting your idea to LEGO® IdeasWe can only accept product suggestions when they&#x27;re submitted to LEGO® Ideas, built out of LEGO® b...</span></span></span>
-* **Market testing:** support levels provide evidence that a community exists around the concept before a commercial decision is made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: managers.org.uk">[CMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">managers.org.uk</span><span class="citation-popover-title">how lego harnessed diversity to build an innovation culture</span><span class="citation-popover-snippet">CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+* **Community filtering:** thousands of fans help identify concepts with broad appeal before LEGO commits internal resources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business School AI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">lego ideas crowdsourcing the next big hit</span><span class="citation-popover-snippet">Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</span></span></span>
+* **Signal amplification:** unusual ideas can succeed if they attract genuine enthusiasm rather than merely fitting existing corporate assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business School AI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">lego ideas crowdsourcing the next big hit</span><span class="citation-popover-snippet">Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</span></span></span>
+* **Cost control:** LEGO reviews a smaller pool of validated concepts instead of evaluating every submission in depth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Submitting your idea to LEGO® IdeasWe can only accept product suggestions when they&#x27;re submitted to LEGO® Ideas, built out of LEGO® b...</span></span></span>
+* **Market testing:** support levels provide evidence that a community exists around the concept before a commercial decision is made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: managers.org.uk">[CMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">managers.org.uk</span><span class="citation-popover-title">how lego harnessed diversity to build an innovation culture</span><span class="citation-popover-snippet">CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
-Importantly, reaching 10,000 supporters does not guarantee production. LEGO conducts additional review covering issues such as feasibility, brand fit, [licensing]({{ 'licensing/' | relative_url }}) considerations, commercial potential, and timing. The company therefore benefits from fan-generated discovery while retaining final decision-making authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Ideas &#124; LEGO® History &#124; LEGO.com USThe LEGO Group set out to establish more community-based innovation initiatives. A great exa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+Importantly, reaching 10,000 supporters does not guarantee production. LEGO conducts additional review covering issues such as feasibility, brand fit, [licensing]({{ 'licensing/' | relative_url }}) considerations, commercial potential, and timing. The company therefore benefits from fan-generated discovery while retaining final decision-making authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Ideas &#124; LEGO® History &#124; LEGO.com USThe LEGO Group set out to establish more community-based innovation initiatives. A great exa...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yF55tgP6zbc" title="LEGO Is NOT Supposed to Be Used Like This…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer">LEGO Is NOT Supposed to Be Used Like This…</a></p><p class="youtube-embed-meta">Channel: Brickcrafts &middot; Views: 763.7K &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yF55tgP6zbc">Open on YouTube</a></p></div></div></div>
 
@@ -315,213 +315,213 @@ Importantly, reaching 10,000 supporters does not guarantee production. LEGO cond
 
 From an antifragility perspective, LEGO Ideas increases the number of experiments occurring around the LEGO system without requiring LEGO itself to initiate every experiment.
 
-Researchers and commentators studying the platform have described it as a form of crowdsourced innovation in which fans contribute ideas, evaluate proposals, and help identify promising opportunities. The community effectively performs part of the search process, exploring possibilities that a centralised organisation could easily overlook. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) When Ideas Generate Value: How LEGO Profitably...In 2008, in partnership with the company Cuusoo System (Film), LEGO l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ink.library.smu.edu.sg">[2InK@SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ink.library.smu.edu.sg</span><span class="citation-popover-snippet">InK@SMUA case study of lego ideas platformby KMM ALHARBI · 2018 · Cited by 1 — This research identifies various factors which help to exp...</span></span></span>
+Researchers and commentators studying the platform have described it as a form of crowdsourced innovation in which fans contribute ideas, evaluate proposals, and help identify promising opportunities. The community effectively performs part of the search process, exploring possibilities that a centralised organisation could easily overlook.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) When Ideas Generate Value: How LEGO Profitably...In 2008, in partnership with the company Cuusoo System (Film), LEGO l...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ink.library.smu.edu.sg">[2InK@SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ink.library.smu.edu.sg</span><span class="citation-popover-snippet">InK@SMUA case study of lego ideas platformby KMM ALHARBI · 2018 · Cited by 1 — This research identifies various factors which help to exp...</span></span></span>
 
 LEGO gains several advantages:
 
-* **A larger innovation surface:** millions of fans can test concepts simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcma.org/lego-ideas-community-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcma.org">[PCMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcma.org</span><span class="citation-popover-title">lego ideas community crowdsourcing</span><span class="citation-popover-snippet">Taking a Lesson From Lego22 Sept 2023 — Lego transformed a 2008 crowdsourcing pilot into “Lego Ideas” — a website boasting a communit...</span></span></span>
-* **Direct insight into enthusiast demand:** support patterns reveal what dedicated builders actually want. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: managers.org.uk">[CMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">managers.org.uk</span><span class="citation-popover-title">how lego harnessed diversity to build an innovation culture</span><span class="citation-popover-snippet">CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
-* **Lower-cost experimentation:** many ideas fail at the community stage rather than after expensive product development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business School AI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">lego ideas crowdsourcing the next big hit</span><span class="citation-popover-snippet">Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</span></span></span>
-* **Stronger engagement:** fans become participants in the evolution of the brand rather than passive consumers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO...</span></span></span>
+* **A larger innovation surface:** millions of fans can test concepts simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcma.org/lego-ideas-community-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcma.org">[PCMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcma.org</span><span class="citation-popover-title">lego ideas community crowdsourcing</span><span class="citation-popover-snippet">Taking a Lesson From Lego22 Sept 2023 — Lego transformed a 2008 crowdsourcing pilot into “Lego Ideas” — a website boasting a communit...</span></span></span>
+* **Direct insight into enthusiast demand:** support patterns reveal what dedicated builders actually want.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: managers.org.uk">[CMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">managers.org.uk</span><span class="citation-popover-title">how lego harnessed diversity to build an innovation culture</span><span class="citation-popover-snippet">CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+* **Lower-cost experimentation:** many ideas fail at the community stage rather than after expensive product development.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business School AI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-title">lego ideas crowdsourcing the next big hit</span><span class="citation-popover-snippet">Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</span></span></span>
+* **Stronger engagement:** fans become participants in the evolution of the brand rather than passive consumers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO...</span></span></span>
 
-At the same time, LEGO protects itself through rules, review boards, intellectual-property controls, and submission guidelines. Open participation is balanced by structured oversight. The company welcomes variation, but only variation that can be translated into the LEGO system and evaluated against LEGO's standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[ideas.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Rules GuidelinesGaining 10,000 supporters qualifies your Product Idea for review by our Review Board.... Every build on LEGO Ideas that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profwurzer.com">[2IPBA® Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profwurzer.com</span><span class="citation-popover-snippet">LEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas while safegu...</span></span></span>
+At the same time, LEGO protects itself through rules, review boards, intellectual-property controls, and submission guidelines. Open participation is balanced by structured oversight. The company welcomes variation, but only variation that can be translated into the LEGO system and evaluated against LEGO's standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[ideas.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Rules GuidelinesGaining 10,000 supporters qualifies your Product Idea for review by our Review Board.... Every build on LEGO Ideas that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profwurzer.com">[2IPBA® Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profwurzer.com</span><span class="citation-popover-snippet">LEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas while safegu...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-3-dark.svg" | relative_url }}" alt="LEGO Ideas illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Governance Mechanism for Antifragility
 
-LEGO Ideas demonstrates that antifragility does not require unlimited openness. The platform succeeds because it combines exploration with constraint. Fans generate diversity, the community filters proposals, and LEGO retains final authority over what enters the product range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[ideas.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Rules GuidelinesGaining 10,000 supporters qualifies your Product Idea for review by our Review Board.... Every build on LEGO Ideas that...</span></span></span> LEGO The key governance achievement is that fan creativity is not treated as an external force acting on LEGO. Instead <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">LEGOLEGO® Gaming &#124; LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</span></span></span>, it is channelled through a structured pathway built around the brick system itself. Every proposal becomes a test of what can be achieved within LEGO's rules. Successful ideas broaden the system's reach, while unsuccessful ones still provide information about emerging interests and building trends. The company therefore gains from a constant flow of experiments without abandoning the compatibility, buildability, and system coherence that make LEGO resilient in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">You can read more about the LEGO review process in our Guidelines and House Rules...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
+LEGO Ideas demonstrates that antifragility does not require unlimited openness. The platform succeeds because it combines exploration with constraint. Fans generate diversity, the community filters proposals, and LEGO retains final authority over what enters the product range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[ideas.lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">Rules GuidelinesGaining 10,000 supporters qualifies your Product Idea for review by our Review Board.... Every build on LEGO Ideas that...</span></span></span> LEGO The key governance achievement is that fan creativity is not treated as an external force acting on LEGO. Instead<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">LEGOLEGO® Gaming &#124; LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</span></span></span>, it is channelled through a structured pathway built around the brick system itself. Every proposal becomes a test of what can be achieved within LEGO's rules. Successful ideas broaden the system's reach, while unsuccessful ones still provide information about emerging interests and building trends. The company therefore gains from a constant flow of experiments without abandoning the compatibility, buildability, and system coherence that make LEGO resilient in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">what happens to my product idea after i reach 10 000 supporters</span><span class="citation-popover-snippet">You can read more about the LEGO review process in our Guidelines and House Rules...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9g_XzFdM6Lg" title="What is LEGO Ideas? Your Guide to Submitting &amp; Supporting Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer">What is LEGO Ideas? Your Guide to Submitting &amp; Supporting Projects</a></p><p class="youtube-embed-meta">Channel: Woad Bricks &middot; Views: 1.9K &middot; Uploaded: August 2025 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9g_XzFdM6Lg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fans Build Inside LEGO&#x27;s Rules. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fans Build Inside LEGO&#x27;s Rules. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how LEGO channels external creativity while protecting the core system.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how LEGO channels external creativity while protecting the core system.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Relevant to enduring product systems and user-centered design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to enduring product systems and user-centered design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book+Daniel+Lipkowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The LEGO Ideas Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7901486-M.jpg" alt="Cover for The LEGO Ideas Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book+Daniel+Lipkowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The LEGO Ideas Book">The LEGO Ideas Book</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Lipkowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book+Daniel+Lipkowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The LEGO Ideas Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7901486-M.jpg" alt="Cover for The LEGO Ideas Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book+Daniel+Lipkowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The LEGO Ideas Book">The LEGO Ideas Book</a>
+</h4>
+<p class="fr-book-author">By Daniel Lipkowitz</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Juvenile literature, LEGO toys, Activity books, Models and modelmaking, Models (persons), juvenile litera...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book+Daniel+Lipkowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Juvenile literature, LEGO toys, Activity books, Models and modelmaking, Models (persons), juvenile litera...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book+Daniel+Lipkowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of LEGO Bricks: The Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of LEGO Bricks: The Story of a Design Icon">The Secret Life of LEGO Bricks: The Story of a Design Icon</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Konstanski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of LEGO Bricks: The Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of LEGO Bricks: The Story of a Design Icon">The Secret Life of LEGO Bricks: The Story of a Design Icon</a>
+</h4>
+<p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Explores the brick system and design rules underlying fan creations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the brick system and design rules underlying fan creations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The LEGO Ideas Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+LEGO+Ideas+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The LEGO Ideas Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO® - LEGO® Ideas - The Office - 21336"><img src="https://i.ebayimg.com/images/g/yGQAAeSwTNZqJ~wb/s-l225.jpg" alt="Listing image for LEGO® - LEGO® Ideas - The Office - 21336" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® - LEGO® Ideas - The Office - 21336</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO® - LEGO® Ideas - The Office - 21336"><img src="https://i.ebayimg.com/images/g/yGQAAeSwTNZqJ~wb/s-l225.jpg" alt="Listing image for LEGO® - LEGO® Ideas - The Office - 21336" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO® - LEGO® Ideas - The Office - 21336</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRAND NEW LEGO Ideas Jaws 21350 Set Sealed"><img src="https://i.ebayimg.com/images/g/bBIAAeSw0NhqJBLx/s-l225.jpg" alt="Listing image for BRAND NEW LEGO Ideas Jaws 21350 Set Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">BRAND NEW LEGO Ideas Jaws 21350 Set Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRAND NEW LEGO Ideas Jaws 21350 Set Sealed"><img src="https://i.ebayimg.com/images/g/bBIAAeSw0NhqJBLx/s-l225.jpg" alt="Listing image for BRAND NEW LEGO Ideas Jaws 21350 Set Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">BRAND NEW LEGO Ideas Jaws 21350 Set Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model"><img src="https://i.ebayimg.com/images/g/TQAAAeSwgjxqJs5P/s-l225.jpg" alt="Listing image for LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model"><img src="https://i.ebayimg.com/images/g/TQAAAeSwgjxqJs5P/s-l225.jpg" alt="Listing image for LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Snoopy’s Doghouse Peanuts Set 21368 Collectable Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-build-inside-lego-s-rules-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="how-fans-build-inside-lego-s-rules-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ LEGO Ideas demonstrates that antifragility does not require unlimited openness. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ LEGO Ideas demonstrates that antifragility does not require unlimited openness. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ LEGO Ideas demonstrates that antifragility does not require unlimited openness. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ LEGO Ideas demonstrates that antifragility does not require unlimited openness. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ LEGO Ideas demonstrates that antifragility does not require unlimited openness. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,193 +727,193 @@ LEGO Ideas demonstrates that antifragility does not require unlimited openness. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submitting your idea to LEGO® IdeasWe can only accept product suggestions when they&#x27;re submitted to LEGO® Ideas, built out of LEGO® b...</p></details>
+   Link:<a href="https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/submitting-your-idea-to-lego-ideas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submitting your idea to LEGO® IdeasWe can only accept product suggestions when they&#x27;re submitted to LEGO® Ideas, built out of LEGO® b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/j-lego-ideas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Ideas | LEGO® History | LEGO.com USThe LEGO Group set out to establish more community-based innovation initiatives. A great exa...</p></details>
+   Link:<a href="https://www.lego.com/en-us/history/articles/j-lego-ideas" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/history/articles/j-lego-ideas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Ideas | LEGO® History | LEGO.com USThe LEGO Group set out to establish more community-based innovation initiatives. A great exa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ideas.lego.com  
-   Link: <a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
+   Link:<a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) When Ideas Generate Value: How LEGO Profitably...In 2008, in partnership with the company Cuusoo System (Film), LEGO l...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/312823752_When_Ideas_Generate_Value_How_LEGO_Profitably_Democratized_Its_Relationship_with_Fans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) When Ideas Generate Value: How LEGO Profitably...In 2008, in partnership with the company Cuusoo System (Film), LEGO l...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: d3.harvard.edu  
    Title: lego ideas crowdsourcing the next big hit  
-   Link: <a href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-digit/submission/lego-ideas-crowdsourcing-the-next-big-hit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteLego Ideas: Crowdsourcing the Next Big Hit20 Mar 2017 — Lego Ideas invites users to post their ideas...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: managers.org.uk  
    Title: how lego harnessed diversity to build an innovation culture  
-   Link: <a href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow">https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</p></details>
+   Link:<a href="https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/" target="_blank" rel="noopener noreferrer nofollow">https://www.managers.org.uk/knowledge-and-insights/case-study/how-lego-harnessed-diversity-to-build-an-innovation-culture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMIHow LEGO harnessed diversity to build an innovation culture8 May 2015 — Through the “Lego Ideas” crowdsourcing platform, the company h...</p></details>
    Published: May 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: d3.harvard.edu  
    Title: open innovation at lego the back beat in everything is awesome  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteOpen Innovation at Lego – The Back Beat in “Everything is...13 Nov 2018 — LEGO is using open innovat...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteOpen Innovation at Lego – The Back Beat in “Everything is...13 Nov 2018 — LEGO is using open innovat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
    Title: what happens to my product idea after i reach 10 000 supporters  
-   Link: <a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO...</p></details>
+   Link:<a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
    Title: what happens to my product idea after i reach 10 000 supporters  
-   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You can read more about the LEGO review process in our Guidelines and House Rules...Read more...</p></details>
+   Link:<a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can read more about the LEGO review process in our Guidelines and House Rules...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pcma.org  
    Title: lego ideas community crowdsourcing  
-   Link: <a href="https://www.pcma.org/lego-ideas-community-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcma.org/lego-ideas-community-crowdsourcing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking a Lesson From Lego22 Sept 2023 — Lego transformed a 2008 crowdsourcing pilot into “Lego Ideas” — a website boasting a communit...</p></details>
+   Link:<a href="https://www.pcma.org/lego-ideas-community-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcma.org/lego-ideas-community-crowdsourcing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking a Lesson From Lego22 Sept 2023 — Lego transformed a 2008 crowdsourcing pilot into “Lego Ideas” — a website boasting a communit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
+   Link:<a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/aboutus" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/aboutus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comFounded in 1932 by Ole Kirk Kristiansen, and based on the iconic LEGO® brick, it is one of the world&#x27;s leading manufac...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/aboutus" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/aboutus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comFounded in 1932 by Ole Kirk Kristiansen, and based on the iconic LEGO® brick, it is one of the world&#x27;s leading manufac...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How LEGO Ideas Works  
-   Link: <a href="https://www.youtube.com/watch?v=SjB-V9O-8-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SjB-V9O-8-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story Behind the LEGO Ideas Platform...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SjB-V9O-8-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SjB-V9O-8-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Story Behind the LEGO Ideas Platform...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Story Behind the LEGO Ideas Platform  
-   Link: <a href="https://www.youtube.com/watch?v=xS5a7Cq2_8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xS5a7Cq2_8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the LEGO Ideas Design Process...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xS5a7Cq2_8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xS5a7Cq2_8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the LEGO Ideas Design Process...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Inside the LEGO Ideas Design Process  
-   Link: <a href="https://www.youtube.com/watch?v=R9Z5u16M4Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Z5u16M4Dk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why LEGO Uses Fan-Made Ideas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R9Z5u16M4Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Z5u16M4Dk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why LEGO Uses Fan-Made Ideas...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Why LEGO Uses Fan-Made Ideas  
-   Link: <a href="https://www.youtube.com/watch?v=kYv9G4M729s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv9G4M729s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Fan MOC to Official LEGO Set...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYv9G4M729s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv9G4M729s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Fan MOC to Official LEGO Set...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: From Fan MOC to Official LEGO Set  
-   Link: <a href="https://www.youtube.com/watch?v=P2k1eC9u9kQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2k1eC9u9kQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=P2k1eC9u9kQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2k1eC9u9kQ</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: profwurzer.com  
-   Link: <a href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow">https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas while safegu...</p></details>
+   Link:<a href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow">https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas while safegu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ink.library.smu.edu.sg  
-   Link: <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InK@SMUA case study of lego ideas platformby KMM ALHARBI · 2018 · Cited by 1 — This research identifies various factors which help to exp...</p></details>
+   Link:<a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll" target="_blank" rel="noopener noreferrer nofollow">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1163&amp;context=etd_coll</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InK@SMUA case study of lego ideas platformby KMM ALHARBI · 2018 · Cited by 1 — This research identifies various factors which help to exp...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g_XzFdM6Lg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>their own ideas for Lego sets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9g_XzFdM6Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g_XzFdM6Lg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>their own ideas for Lego sets...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KLSmmyN6mZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KLSmmyN6mZ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>creativity and letting your customers do the hard work for you...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KLSmmyN6mZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KLSmmyN6mZ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>creativity and letting your customers do the hard work for you...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
+   Link:<a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yF55tgP6zbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Is NOT Supposed to Be Used Like This…Time to continue with our LEGO Rome Project! In case you&#x27;re visiting Austria/southern Germany a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yF55tgP6zbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yF55tgP6zbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Is NOT Supposed to Be Used Like This…Time to continue with our LEGO Rome Project! In case you&#x27;re visiting Austria/southern Germany a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Lego Ideas  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Ideas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego IdeasAll eligible projects are collectively reviewed in the order of whichever projects hit 10,000 supporters... the names of th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Ideas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego IdeasAll eligible projects are collectively reviewed in the order of whichever projects hit 10,000 supporters... the names of th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: crowdsourcingweek.com  
-   Link: <a href="https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow">https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas is among top crowdsourcing examples of co-...Crowdsourcing examples such as LEGO show how corporates can gain ideas from peop...</p></details>
+   Link:<a href="https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/" target="_blank" rel="noopener noreferrer nofollow">https://crowdsourcingweek.com/blog/lego-success-through-crowdsourcing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas is among top crowdsourcing examples of co-...Crowdsourcing examples such as LEGO show how corporates can gain ideas from peop...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bricklink.com  
-   Link: <a href="https://www.bricklink.com/v3/designer-program/faq.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/faq.page</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designer Program FAQs [BrickLink]A fresh opportunity for LEGO fans to continue submitting digital designs to be realized as a BrickLink D...</p></details>
+   Link:<a href="https://www.bricklink.com/v3/designer-program/faq.page" target="_blank" rel="noopener noreferrer nofollow">https://www.bricklink.com/v3/designer-program/faq.page</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designer Program FAQs [BrickLink]A fresh opportunity for LEGO fans to continue submitting digital designs to be realized as a BrickLink D...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/lego/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/lego/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO (@lego) · BillundBuilding the future, one brick at a time. · Legends aren&#x27;t born – they&#x27;re built. LEGO®️ Batman: Legacy · nature can...</p></details>
+   Link:<a href="https://www.instagram.com/lego/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/lego/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO (@lego) · BillundBuilding the future, one brick at a time. · Legends aren&#x27;t born – they&#x27;re built. LEGO®️ Batman: Legacy · nature can...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
+   Link:<a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: toysnbricks.com  
-   Link: <a href="https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You can get your inspiration from an existing intellectual property, like a book, a film, a vehicle...Read more...</p></details>
+   Link:<a href="https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can get your inspiration from an existing intellectual property, like a book, a film, a vehicle...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: amazon.co.uk  
    Title: LEGOLEGO Editions Lionel Messi – Football Legend Toy  
-   Link: <a href="https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3D Figure Display Model Kit - DIY Kids&#x27; Room Decor - Gift for 12+ Year Old Boys, G...</p></details>
+   Link:<a href="https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/LEGO/page/D9C88092-4A20-477D-B239-BF23C6AF3C8D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3D Figure Display Model Kit - DIY Kids&#x27; Room Decor - Gift for 12+ Year Old Boys, G...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: medium.com  
    Title: co creation strategy ideas lego com case study 676a61ad54c  
-   Link: <a href="https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-creation strategy — Ideas.Lego.com Case StudyThe Lego Ideas platform was officially launched in 2014, it allows fans to submit their n...</p></details>
+   Link:<a href="https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40gloria_worlikar/co-creation-strategy-ideas-lego-com-case-study-676a61ad54c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Co-creation strategy — Ideas.Lego.com Case StudyThe Lego Ideas platform was officially launched in 2014, it allows fans to submit their n...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ad to Achieved Support, here is the data for the Ideas that were Approved.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ad to Achieved Support, here is the data for the Ideas that were Approved.Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: binodpanda66.medium.com  
    Title: crowdsourced creativity lego ideas case 703701e27b49  
-   Link: <a href="https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49" target="_blank" rel="noopener noreferrer nofollow">https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas Case Study: Crowdsourced CreativityIn simple terms, it&#x27;s the place for the LEGO community to submit their ideas, support others&#x27; i...</p></details>
+   Link:<a href="https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49" target="_blank" rel="noopener noreferrer nofollow">https://binodpanda66.medium.com/crowdsourced-creativity-lego-ideas-case-703701e27b49</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas Case Study: Crowdsourced CreativityIn simple terms, it&#x27;s the place for the LEGO community to submit their ideas, support others&#x27; i...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: idisplayit.co.uk  
    Title: the latest lego ideas sets with 10 000 supporters  
-   Link: <a href="https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOopJ6a4wKxN82o8xc0V_5ehEWWkmmJjXSr6BDIyTURXqNKL-aaKm" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOopJ6a4wKxN82o8xc0V_5ehEWWkmmJjXSr6BDIyTURXqNKL-aaKm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest LEGO Ideas Sets With 10000+ Supporters17 Feb 2025 — The first review stage in 2025 does not begin until May and will consider...</p></details>
+   Link:<a href="https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOopJ6a4wKxN82o8xc0V_5ehEWWkmmJjXSr6BDIyTURXqNKL-aaKm" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOopJ6a4wKxN82o8xc0V_5ehEWWkmmJjXSr6BDIyTURXqNKL-aaKm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest LEGO Ideas Sets With 10000+ Supporters17 Feb 2025 — The first review stage in 2025 does not begin until May and will consider...</p></details>

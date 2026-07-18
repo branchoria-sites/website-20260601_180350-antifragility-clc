@@ -271,7 +271,7 @@ image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premi
 Adult LEGO sets have widened the company’s price ladder without forcing LEGO to abandon its core product system. The same interlocking bricks can be sold as a small botanical gift, a mid-range display model or a flagship collector set costing several hundred pounds. That flexibility matters because it gives LEGO more ways to earn revenue from different budgets, interests and occasions while keeping customers inside the same ecosystem.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-1-dark.svg" | relative_url }}" alt="Price Ladder illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-From an antifragility perspective, this is more than a pricing tactic. It allows LEGO to absorb shifts in consumer demand by serving multiple spending levels at once. A buyer who would never spend £600 on a collector model might still buy a £45 Botanical set, while a dedicated fan might purchase both. The strength of the system is that LEGO does not need a completely different product category to reach those different customers. The risk is that as premium models become more important, the company becomes more exposed to affordability concerns, collector fatigue and the possibility that high-end demand proves less durable than expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
+From an antifragility perspective, this is more than a pricing tactic. It allows LEGO to absorb shifts in consumer demand by serving multiple spending levels at once. A buyer who would never spend £600 on a collector model might still buy a £45 Botanical set, while a dedicated fan might purchase both. The strength of the system is that LEGO does not need a completely different product category to reach those different customers. The risk is that as premium models become more important, the company becomes more exposed to affordability concerns, collector fatigue and the possibility that high-end demand proves less durable than expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
 ## From accessible gifts to flagship models
 
@@ -279,9 +279,9 @@ One reason adult LEGO has become such a powerful growth engine is that it stretc
 
 At the lower end are sets designed as approachable purchases or gifts. Botanical products, small architecture models and compact display builds often sit in price ranges that compete with flowers, books or home accessories rather than traditional toys. They act as entry points for adults who may never have considered themselves LEGO customers.
 
-In the middle are more ambitious display pieces. These models often target enthusiasts, film fans, car lovers or travellers who want a substantial building experience without committing to the largest collector releases. LEGO increasingly markets these sets around hobbies, décor and relaxation rather than childhood play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/product/eiffel-tower-10307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">eiffel tower 10307</span><span class="citation-popover-snippet">Eiffel tower 10307 &#124; LEGO® Icons &#124; Buy online at the Official...Build the ultimate version of one of the world&#x27;s best-loved landmark...</span></span></span>
+In the middle are more ambitious display pieces. These models often target enthusiasts, film fans, car lovers or travellers who want a substantial building experience without committing to the largest collector releases. LEGO increasingly markets these sets around hobbies, décor and relaxation rather than childhood play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/product/eiffel-tower-10307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">eiffel tower 10307</span><span class="citation-popover-snippet">Eiffel tower 10307 &#124; LEGO® Icons &#124; Buy online at the Official...Build the ultimate version of one of the world&#x27;s best-loved landmark...</span></span></span>
 
-At the top sits a category that barely existed at today’s scale a decade ago: ultra-premium collector models. Sets such as the Ultimate Collector Series Millennium Falcon, Rivendell, the Titanic and the Eiffel Tower occupy price points once associated with electronics or furniture rather than toys. The LEGO Eiffel Tower, for example, contains 10,001 pieces and launched at more than £550 in the UK. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickarchitect.com/2022/review-10307-lego-eiffel-tower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickarchitect.com">[2brickarchitect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickarchitect.com</span><span class="citation-popover-title">review 10307 lego eiffel tower</span><span class="citation-popover-snippet">Review: #10307 Eiffel Tower24 Nov 2022 — The massive set costs $629.99 (629.99€ / £554.99 / 799.99 CAD /999.99 AUD). It contains an eye-w...</span></span></span>
+At the top sits a category that barely existed at today’s scale a decade ago: ultra-premium collector models. Sets such as the Ultimate Collector Series Millennium Falcon, Rivendell, the Titanic and the Eiffel Tower occupy price points once associated with electronics or furniture rather than toys. The LEGO Eiffel Tower, for example, contains 10,001 pieces and launched at more than £550 in the UK. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickarchitect.com/2022/review-10307-lego-eiffel-tower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickarchitect.com">[2brickarchitect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickarchitect.com</span><span class="citation-popover-title">review 10307 lego eiffel tower</span><span class="citation-popover-snippet">Review: #10307 Eiffel Tower24 Nov 2022 — The massive set costs $629.99 (629.99€ / £554.99 / 799.99 CAD /999.99 AUD). It contains an eye-w...</span></span></span>
 
 What makes this ladder unusual is that the customer does not need to switch brands or learn a new system as spending rises. Someone who starts with a small Botanical set can later move into Architecture, Icons, Technic or [Star Wars]({{ 'star-wars/' | relative_url }}) collector models without leaving the LEGO ecosystem. The company effectively scales the same building language across different levels of commitment.
 
@@ -295,7 +295,7 @@ Premium LEGO sets succeed partly because buyers are not evaluating them as conve
 
 A child-focused set is usually judged by play value, features and character selection. Adult collector models are often evaluated differently. Buyers look at display presence, accuracy, engineering [complexity]({{ 'complexity/' | relative_url }}), building time and emotional attachment to the subject matter. A finished model may function as décor, a conversation piece or a fandom object long after construction is complete.
 
-The Eiffel Tower illustrates this shift. LEGO markets it as a flagship challenge, emphasising its scale, intricate construction techniques and display impact. The value proposition is not simply the plastic pieces. It includes dozens of hours of assembly, the satisfaction of completing a difficult project and ownership of a large display object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
+The Eiffel Tower illustrates this shift. LEGO markets it as a flagship challenge, emphasising its scale, intricate construction techniques and display impact. The value proposition is not simply the plastic pieces. It includes dozens of hours of assembly, the satisfaction of completing a difficult project and ownership of a large display object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
 This helps explain why LEGO can charge prices that appear high when measured only by raw [materials]({{ 'materials/' | relative_url }}). Buyers are paying for several layers of value at once:
 
@@ -307,7 +307,7 @@ This helps explain why LEGO can charge prices that appear high when measured onl
 * Nostalgia or fandom attachment.
 * Premium [packaging]({{ 'packaging/' | relative_url }}) and presentation.
 
-Many adult-oriented sets are also intentionally positioned as luxury hobby purchases. LEGO’s “Adults Welcome” platform repeatedly frames these products as immersive projects, collector pieces and ways to “unplug, unbox and unwind”. The company is effectively selling leisure time as well as bricks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/product/eiffel-tower-10307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">eiffel tower 10307</span><span class="citation-popover-snippet">Eiffel tower 10307 &#124; LEGO® Icons &#124; Buy online at the Official...Build the ultimate version of one of the world&#x27;s best-loved landmark...</span></span></span>
+Many adult-oriented sets are also intentionally positioned as luxury hobby purchases. LEGO’s “Adults Welcome” platform repeatedly frames these products as immersive projects, collector pieces and ways to “unplug, unbox and unwind”. The company is effectively selling leisure time as well as bricks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/product/eiffel-tower-10307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">eiffel tower 10307</span><span class="citation-popover-snippet">Eiffel tower 10307 &#124; LEGO® Icons &#124; Buy online at the Official...Build the ultimate version of one of the world&#x27;s best-loved landmark...</span></span></span>
 
 This strategy allows LEGO to extract more value from a mature customer than would be possible through traditional toy pricing alone. A child might receive one birthday set. An adult enthusiast may buy several display models each year and spend significantly more per purchase.
 
@@ -320,7 +320,7 @@ That matters because different economic conditions affect different buyers in di
 
 The approach also allows successful themes to expand vertically. A franchise such as Star Wars can exist simultaneously as a small impulse purchase, a mid-range display model and a flagship collector release. The intellectual property becomes more valuable because it can support multiple price points without requiring a different manufacturing system.
 
-This flexibility is particularly important in a toy market increasingly supported by older consumers. Circana and other industry observers have repeatedly highlighted the growth of the "kidult" segment, with adults and older buyers becoming a larger share of toy spending even as demographic pressures reduce the number of children in many markets. Building sets have been among the strongest beneficiaries of that shift. Circana <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spielwarenmesse.de/fileadmin/SWM_Dateien/Bilder/Seitenillustrationen/Kidults/PDF_Kidults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spielwarenmesse.de">[spielwarenmesse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spielwarenmesse.de</span><span class="citation-popover-snippet">KIDULTS: A MARKET FULL OF POTENTIALRecipients aged 12+ represent between 28% (Italy) and 35% (Germany) of toy sales. Data...</span></span></span> In antifragility terms, the price ladder gives LEGO more [options]({{ 'options/' | relative_url }}) when conditions change. Demand can migrate between price levels without necessarily leaving the brand altogether.
+This flexibility is particularly important in a toy market increasingly supported by older consumers. Circana and other industry observers have repeatedly highlighted the growth of the "kidult" segment, with adults and older buyers becoming a larger share of toy spending even as demographic pressures reduce the number of children in many markets. Building sets have been among the strongest beneficiaries of that shift. Circana<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spielwarenmesse.de/fileadmin/SWM_Dateien/Bilder/Seitenillustrationen/Kidults/PDF_Kidults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spielwarenmesse.de">[spielwarenmesse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spielwarenmesse.de</span><span class="citation-popover-snippet">KIDULTS: A MARKET FULL OF POTENTIALRecipients aged 12+ represent between 28% (Italy) and 35% (Germany) of toy sales. Data...</span></span></span> In antifragility terms, the price ladder gives LEGO more [options]({{ 'options/' | relative_url }}) when conditions change. Demand can migrate between price levels without necessarily leaving the brand altogether.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-NDz7tZ3hus" title="Lego - Adult Welcome Booklet/Catalog - New Look!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-NDz7tZ3hus" target="_blank" rel="noopener noreferrer">Lego - Adult Welcome Booklet/Catalog - New Look!</a></p><p class="youtube-embed-meta">Channel: Ramez Boudargham &middot; Views: 335 &middot; Uploaded: July 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-NDz7tZ3hus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-NDz7tZ3hus">Open on YouTube</a></p></div></div></div>
 
@@ -328,207 +328,207 @@ This flexibility is particularly important in a toy market increasingly supporte
 
 The same strategy that creates flexibility can also introduce new vulnerabilities.
 
-One concern is affordability. As more attention goes to large collector releases, some consumers perceive that LEGO pricing has drifted upwards. Discussions among enthusiasts frequently focus on rising costs and the feeling that sets once considered premium have become normalised at even higher price points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has pricing gotten out of hand? Do you buy less Lego...There’s absolutely no debating that Lego makes the best building blocks in...</span></span></span>
+One concern is affordability. As more attention goes to large collector releases, some consumers perceive that LEGO pricing has drifted upwards. Discussions among enthusiasts frequently focus on rising costs and the feeling that sets once considered premium have become normalised at even higher price points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has pricing gotten out of hand? Do you buy less Lego...There’s absolutely no debating that Lego makes the best building blocks in...</span></span></span>
 
 There is also a risk of over-reliance on collectors. Collectors often spend heavily, but their behaviour can be cyclical. If economic conditions worsen, discretionary purchases such as £500 display models may be delayed more easily than lower-cost entertainment purchases. Premium products can therefore create larger revenue swings if they become too central to growth.
 
-Another issue is expectation inflation. Once customers become accustomed to ever-larger releases, LEGO faces pressure to keep producing bigger, more complex and more expensive flagship sets. The Eiffel Tower's 10,001-piece scale demonstrates how far that escalation has already gone. Each new flagship must justify its place above earlier prestige products, which can gradually raise development costs and commercial risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=-NDz7tZ3hus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Adult Welcome Booklet/Catalog - New Look!I got in the mail today the latest edition of Lego Shopping Catalog/Booklet and I tell you it is...</span></span></span>
+Another issue is expectation inflation. Once customers become accustomed to ever-larger releases, LEGO faces pressure to keep producing bigger, more complex and more expensive flagship sets. The Eiffel Tower's 10,001-piece scale demonstrates how far that escalation has already gone. Each new flagship must justify its place above earlier prestige products, which can gradually raise development costs and commercial risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=-NDz7tZ3hus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Adult Welcome Booklet/Catalog - New Look!I got in the mail today the latest edition of Lego Shopping Catalog/Booklet and I tell you it is...</span></span></span>
 
-The collector market can also become crowded. Adult consumers are not choosing only between LEGO sets. They are balancing spending against video games, travel, streaming services, collectibles, hobby equipment and other premium leisure purchases. As more industries pursue adult nostalgia and fandom spending, competition for discretionary income intensifies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/unveiling-the-kidult-toy-market-in-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-title">Unveiling the Kidult Toy Market in Europe</span><span class="citation-popover-snippet">Unveiling the Kidult Toy Market in EuropeJune 1, 2023 — 1 Jun 2023 — While grilling, spirits, apparel, and fragrances remain stapl...</span><span class="citation-popover-meta">Published: June 1, 2023</span></span></span>
+The collector market can also become crowded. Adult consumers are not choosing only between LEGO sets. They are balancing spending against video games, travel, streaming services, collectibles, hobby equipment and other premium leisure purchases. As more industries pursue adult nostalgia and fandom spending, competition for discretionary income intensifies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/unveiling-the-kidult-toy-market-in-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-title">Unveiling the Kidult Toy Market in Europe</span><span class="citation-popover-snippet">Unveiling the Kidult Toy Market in EuropeJune 1, 2023 — 1 Jun 2023 — While grilling, spirits, apparel, and fragrances remain stapl...</span><span class="citation-popover-meta">Published: June 1, 2023</span></span></span>
 
 The strength of LEGO's position is that it has not abandoned the lower rungs of the ladder. Smaller gifts, mid-priced display models and flagship collector sets continue to coexist. That balance is what makes the strategy more resilient than a simple shift towards luxury products. The company gains the upside of premium demand while retaining multiple entry points into the same brick-based ecosystem.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-3-dark.svg" | relative_url }}" alt="Price Ladder illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why adults pay more for LEGO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why adults pay more for LEGO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how LEGO expanded into premium segments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how LEGO expanded into premium segments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Supports discussion of diversification across price tiers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports discussion of diversification across price tiers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Priceless+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Priceless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9101797-M.jpg" alt="Cover for Priceless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Priceless+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Priceless">Priceless</a>
-        </h4>
-        <p class="fr-book-author">By William Poundstone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Priceless+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Priceless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9101797-M.jpg" alt="Cover for Priceless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Priceless+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Priceless">Priceless</a>
+</h4>
+<p class="fr-book-author">By William Poundstone</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Pricing, Prices, Value, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Priceless+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Pricing, Prices, Value, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Priceless+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Experience Economy, With a New Preface by the Authors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10679746-M.jpg" alt="Cover for The Experience Economy, With a New Preface by the Authors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Experience Economy, With a New Preface by the Authors">The Experience Economy, With a New Preface by the Authors</a>
-        </h4>
-        <p class="fr-book-author">By B. Joseph Pine II, James H. Gilmore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Experience Economy, With a New Preface by the Authors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10679746-M.jpg" alt="Cover for The Experience Economy, With a New Preface by the Authors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Experience Economy, With a New Preface by the Authors">The Experience Economy, With a New Preface by the Authors</a>
+</h4>
+<p class="fr-book-author">By B. Joseph Pine II, James H. Gilmore</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Production management, Marketing, Diversification in industry, Customer services.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Production management, Marketing, Diversification in industry, Customer services.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Priceless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Priceless</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Priceless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Priceless</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Quality/Xbert Brand/ Fuel Tanker Building Brick Set. Truck/ Lego"><img src="https://i.ebayimg.com/images/g/dlsAAeSwQcxpzQ7U/s-l225.jpg" alt="Listing image for Premium Quality/Xbert Brand/ Fuel Tanker Building Brick Set. Truck/ Lego" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">Premium Quality/Xbert Brand/ Fuel Tanker Building Brick Set. Truck/ Lego</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Quality/Xbert Brand/ Fuel Tanker Building Brick Set. Truck/ Lego"><img src="https://i.ebayimg.com/images/g/dlsAAeSwQcxpzQ7U/s-l225.jpg" alt="Listing image for Premium Quality/Xbert Brand/ Fuel Tanker Building Brick Set. Truck/ Lego" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">Premium Quality/Xbert Brand/ Fuel Tanker Building Brick Set. Truck/ Lego</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost"><img src="https://i.ebayimg.com/images/g/xWEAAOSwvzdmC~d8/s-l225.jpg" alt="Listing image for Custom Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">Custom Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost"><img src="https://i.ebayimg.com/images/g/xWEAAOSwvzdmC~d8/s-l225.jpg" alt="Listing image for Custom Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">Custom Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Tyre Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost"><img src="https://i.ebayimg.com/images/g/WE8AAOSwgoJmC~d-/s-l225.jpg" alt="Listing image for Custom Tyre Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">Custom Tyre Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Tyre Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost"><img src="https://i.ebayimg.com/images/g/WE8AAOSwgoJmC~d-/s-l225.jpg" alt="Listing image for Custom Tyre Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">Custom Tyre Sticker Set For LEGO McLaren MP4/4 10330 Senna and Prost</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Speed Champions 76924 Mercedes-AMG G63 &amp; SL63 BNIB Premium Set"><img src="https://i.ebayimg.com/images/g/KV4AAeSwoAVpVtQX/s-l225.jpg" alt="Listing image for LEGO Speed Champions 76924 Mercedes-AMG G63 &amp; SL63 BNIB Premium Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Speed Champions 76924 Mercedes-AMG G63 &amp; SL63 BNIB Premium Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Speed Champions 76924 Mercedes-AMG G63 &amp; SL63 BNIB Premium Set"><img src="https://i.ebayimg.com/images/g/KV4AAeSwoAVpVtQX/s-l225.jpg" alt="Listing image for LEGO Speed Champions 76924 Mercedes-AMG G63 &amp; SL63 BNIB Premium Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Speed Champions 76924 Mercedes-AMG G63 &amp; SL63 BNIB Premium Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for premium LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: premium LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=premium+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-pay-more-for-lego-premium-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="premium LEGO set" data-ebay-reference="why-adults-pay-more-for-lego-premium-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ The strength of LEGO's position is that it has not abandoned the lower rungs of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ The strength of LEGO's position is that it has not abandoned the lower rungs of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ The strength of LEGO's position is that it has not abandoned the lower rungs of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ The strength of LEGO's position is that it has not abandoned the lower rungs of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ The strength of LEGO's position is that it has not abandoned the lower rungs of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,114 +734,114 @@ The strength of LEGO's position is that it has not abandoned the lower rungs of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/categories/adults-welcome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
+   Link:<a href="https://www.lego.com/en-nl/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-nl/categories/adults-welcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: eiffel tower 10307  
-   Link: <a href="https://www.lego.com/en-gb/product/eiffel-tower-10307" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/product/eiffel-tower-10307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eiffel tower 10307 | LEGO® Icons | Buy online at the Official...Build the ultimate version of one of the world&#x27;s best-loved landmark...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/product/eiffel-tower-10307" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/product/eiffel-tower-10307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eiffel tower 10307 | LEGO® Icons | Buy online at the Official...Build the ultimate version of one of the world&#x27;s best-loved landmark...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brickarchitect.com  
    Title: review 10307 lego eiffel tower  
-   Link: <a href="https://brickarchitect.com/2022/review-10307-lego-eiffel-tower/" target="_blank" rel="noopener noreferrer nofollow">https://brickarchitect.com/2022/review-10307-lego-eiffel-tower/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review: #10307 Eiffel Tower24 Nov 2022 — The massive set costs $629.99 (629.99€ / £554.99 / 799.99 CAD /999.99 AUD). It contains an eye-w...</p></details>
+   Link:<a href="https://brickarchitect.com/2022/review-10307-lego-eiffel-tower/" target="_blank" rel="noopener noreferrer nofollow">https://brickarchitect.com/2022/review-10307-lego-eiffel-tower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review: #10307 Eiffel Tower24 Nov 2022 — The massive set costs $629.99 (629.99€ / £554.99 / 799.99 CAD /999.99 AUD). It contains an eye-w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: circana.com  
    Title: Unveiling the Kidult Toy Market in Europe  
-   Link: <a href="https://www.circana.com/post/unveiling-the-kidult-toy-market-in-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/unveiling-the-kidult-toy-market-in-europe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Kidult Toy Market in EuropeJune 1, 2023 — 1 Jun 2023 — While grilling, spirits, apparel, and fragrances remain stapl...</p></details>
+   Link:<a href="https://www.circana.com/post/unveiling-the-kidult-toy-market-in-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/unveiling-the-kidult-toy-market-in-europe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Kidult Toy Market in EuropeJune 1, 2023 — 1 Jun 2023 — While grilling, spirits, apparel, and fragrances remain stapl...</p></details>
    Published: June 1, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spielwarenmesse.de  
-   Link: <a href="https://www.spielwarenmesse.de/fileadmin/SWM_Dateien/Bilder/Seitenillustrationen/Kidults/PDF_Kidults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.spielwarenmesse.de/fileadmin/SWM_Dateien/Bilder/Seitenillustrationen/Kidults/PDF_Kidults.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KIDULTS: A MARKET FULL OF POTENTIALRecipients aged 12+ represent between 28% (Italy) and 35% (Germany) of toy sales. Data...</p></details>
+   Link:<a href="https://www.spielwarenmesse.de/fileadmin/SWM_Dateien/Bilder/Seitenillustrationen/Kidults/PDF_Kidults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.spielwarenmesse.de/fileadmin/SWM_Dateien/Bilder/Seitenillustrationen/Kidults/PDF_Kidults.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KIDULTS: A MARKET FULL OF POTENTIALRecipients aged 12+ represent between 28% (Italy) and 35% (Germany) of toy sales. Data...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has pricing gotten out of hand? Do you buy less Lego...There’s absolutely no debating that Lego makes the best building blocks in...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/197bnfs/serious_discussion_has_pricing_gotten_out_of_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has pricing gotten out of hand? Do you buy less Lego...There’s absolutely no debating that Lego makes the best building blocks in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: $850 Millennium Falcons and $680 Titanics  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1c378qu/850_millennium_falcons_and_680_titanics_grownups/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1c378qu/850_millennium_falcons_and_680_titanics_grownups/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/legoThe 18+ sets include the Lego Icons range. Among its... A standard sized Millennium Falcon now costs nearly as much as a UCS set.R...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/1c378qu/850_millennium_falcons_and_680_titanics_grownups/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1c378qu/850_millennium_falcons_and_680_titanics_grownups/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/legoThe 18+ sets include the Lego Icons range. Among its... A standard sized Millennium Falcon now costs nearly as much as a UCS set.R...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: circana.com  
-   Link: <a href="https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collectible Figures: 2025 Toy Trend Driving [Kidult Demand](&amp;#123;&amp;#123; &#x27;kidult-demand/&#x27; | relative_url &amp;#125;&amp;#125;)...January 27, 2026 — 27 Jan 2026 — Global Toy Industry Rebounds in 2025...</p></details>
+   Link:<a href="https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collectible Figures: 2025 Toy Trend Driving [Kidult Demand](&amp;#123;&amp;#123; &#x27;kidult-demand/&#x27; | relative_url &amp;#125;&amp;#125;)...January 27, 2026 — 27 Jan 2026 — Global Toy Industry Rebounds in 2025...</p></details>
    Published: January 27, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brickwatch.net  
    Title: Adults Welcome  
-   Link: <a href="https://www.brickwatch.net/en-NL/sets/theme/141/Adults-Welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.brickwatch.net/en-NL/sets/theme/141/Adults-Welcome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All Lego sets with theme Adults WelcomeAll Lego sets with theme Adults Welcome and pricing information for LEGO sets on various sites, in...</p></details>
+   Link:<a href="https://www.brickwatch.net/en-NL/sets/theme/141/Adults-Welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.brickwatch.net/en-NL/sets/theme/141/Adults-Welcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Lego sets with theme Adults WelcomeAll Lego sets with theme Adults Welcome and pricing information for LEGO sets on various sites, in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-NDz7tZ3hus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-NDz7tZ3hus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult Welcome Booklet/Catalog - New Look!I got in the mail today the latest edition of Lego Shopping Catalog/Booklet and I tell you it is...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-NDz7tZ3hus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-NDz7tZ3hus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adult Welcome Booklet/Catalog - New Look!I got in the mail today the latest edition of Lego Shopping Catalog/Booklet and I tell you it is...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: proshop.nl  
-   Link: <a href="https://www.proshop.nl/LEGO-Adults-Welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.proshop.nl/LEGO-Adults-Welcome</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO AdultsMet LEGO® sets voor volwassenen kun je je creativiteit de vrije loop laten, je hoofd leegmaken en je volledig laten opgaan. Er...</p></details>
+   Link:<a href="https://www.proshop.nl/LEGO-Adults-Welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.proshop.nl/LEGO-Adults-Welcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO AdultsMet LEGO® sets voor volwassenen kun je je creativiteit de vrije loop laten, je hoofd leegmaken en je volledig laten opgaan. Er...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: coolblue.nl  
-   Link: <a href="https://www.coolblue.nl/en/lego/lego-for-adults?srsltid=AfmBOoo_kk_xbZwU2r0vg-sQU4gDdm-LsJyW9cYyjwfeU5YeVDBW3J0P" target="_blank" rel="noopener noreferrer nofollow">https://www.coolblue.nl/en/lego/lego-for-adults?srsltid=AfmBOoo_kk_xbZwU2r0vg-sQU4gDdm-LsJyW9cYyjwfeU5YeVDBW3J0P</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO sets for adultsWith LEGO for adults, you can build more than just a model. You can create an eye-catcher, such as a LEGO flower bouq...</p></details>
+   Link:<a href="https://www.coolblue.nl/en/lego/lego-for-adults?srsltid=AfmBOoo_kk_xbZwU2r0vg-sQU4gDdm-LsJyW9cYyjwfeU5YeVDBW3J0P" target="_blank" rel="noopener noreferrer nofollow">https://www.coolblue.nl/en/lego/lego-for-adults?srsltid=AfmBOoo_kk_xbZwU2r0vg-sQU4gDdm-LsJyW9cYyjwfeU5YeVDBW3J0P</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO sets for adultsWith LEGO for adults, you can build more than just a model. You can create an eye-catcher, such as a LEGO flower bouq...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/stores/LEGO/page/EF1D073A-9E6F-4310-B678-C2BDBDAF0C5C" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/LEGO/page/EF1D073A-9E6F-4310-B678-C2BDBDAF0C5C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: AdultsSpend quality time with premium LEGO® sets designed specifically for adults. From wonders of the world to movie magic, intrep...</p></details>
+   Link:<a href="https://www.amazon.com/stores/LEGO/page/EF1D073A-9E6F-4310-B678-C2BDBDAF0C5C" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/LEGO/page/EF1D073A-9E6F-4310-B678-C2BDBDAF0C5C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: AdultsSpend quality time with premium LEGO® sets designed specifically for adults. From wonders of the world to movie magic, intrep...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lemonde.fr  
-   Link: <a href="https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purchases by adults boost toy sales, as falling birth rates...15 Dec 2025 — Thanks to a 22% surge in toy purchases by teenagers and adul...</p></details>
+   Link:<a href="https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/economy/article/2025/12/15/purchases-by-adults-boost-toy-sales-as-falling-birth-rates-put-pressure-on-the-industry_6748496_19.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purchases by adults boost toy sales, as falling birth rates...15 Dec 2025 — Thanks to a 22% surge in toy purchases by teenagers and adul...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/gregg-katz_kidults-are-saving-the-toy-industry-by-spending-activity-7408491272841089024-rPZ3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gregg-katz_kidults-are-saving-the-toy-industry-by-spending-activity-7408491272841089024-rPZ3</a>  
+   Link:<a href="https://www.linkedin.com/posts/gregg-katz_kidults-are-saving-the-toy-industry-by-spending-activity-7408491272841089024-rPZ3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gregg-katz_kidults-are-saving-the-toy-industry-by-spending-activity-7408491272841089024-rPZ3</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brickfanatics.com  
    Title: lego icons 10307 eiffel tower full review  
-   Link: <a href="https://www.brickfanatics.com/lego-icons-10307-eiffel-tower-full-review" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-icons-10307-eiffel-tower-full-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO Icons 10307 Eiffel Tower review18 Nov 2022 — Coming in at £554.99 / $629.99 / €629.99, LEGO Icons 10307 Eiffel Tower i...</p></details>
+   Link:<a href="https://www.brickfanatics.com/lego-icons-10307-eiffel-tower-full-review" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-icons-10307-eiffel-tower-full-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO Icons 10307 Eiffel Tower review18 Nov 2022 — Coming in at £554.99 / $629.99 / €629.99, LEGO Icons 10307 Eiffel Tower i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: smythstoys.com  
-   Link: <a href="https://www.smythstoys.com/uk/en-gb/adult-lego-shop" target="_blank" rel="noopener noreferrer nofollow">https://www.smythstoys.com/uk/en-gb/adult-lego-shop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rated and designed specifically for adults. Shop All.Read more...</p></details>
+   Link:<a href="https://www.smythstoys.com/uk/en-gb/adult-lego-shop" target="_blank" rel="noopener noreferrer nofollow">https://www.smythstoys.com/uk/en-gb/adult-lego-shop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rated and designed specifically for adults. Shop All.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bricksfanz.com  
    Title: 10307 lego icons eiffel tower review  
-   Link: <a href="https://bricksfanz.com/10307-lego-icons-eiffel-tower-review/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/10307-lego-icons-eiffel-tower-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10307: LEGO ICONS Eiffel Tower Review24 Nov 2022 — Set Name: Eiffel Tower · Set Number: 10307 · Pieces: 10001 · RRP: £554.99/$629.99/629...</p></details>
+   Link:<a href="https://bricksfanz.com/10307-lego-icons-eiffel-tower-review/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/10307-lego-icons-eiffel-tower-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10307: LEGO ICONS Eiffel Tower Review24 Nov 2022 — Set Name: Eiffel Tower · Set Number: 10307 · Pieces: 10001 · RRP: £554.99/$629.99/629...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: brickfact.com  
    Title: lego icons eiffel tower paris 10307  
-   Link: <a href="https://brickfact.com/en-gb/sets/lego-icons-eiffel-tower-paris-10307" target="_blank" rel="noopener noreferrer nofollow">https://brickfact.com/en-gb/sets/lego-icons-eiffel-tower-paris-10307</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Eiffel Tower Paris 10307 | 🇬🇧 Price ComparisonAlready from £554.99 ✓ Buy Lego Icons Eiffel Tower Paris (10307) ✓ Save Money ✓ GB Pr...</p></details>
+   Link:<a href="https://brickfact.com/en-gb/sets/lego-icons-eiffel-tower-paris-10307" target="_blank" rel="noopener noreferrer nofollow">https://brickfact.com/en-gb/sets/lego-icons-eiffel-tower-paris-10307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Eiffel Tower Paris 10307 | 🇬🇧 Price ComparisonAlready from £554.99 ✓ Buy Lego Icons Eiffel Tower Paris (10307) ✓ Save Money ✓ GB Pr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fortune.com  
    Title: lego kids toys kidults sales  
-   Link: <a href="https://fortune.com/europe/article/lego-kids-toys-kidults-sales/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/europe/article/lego-kids-toys-kidults-sales/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego bricks have won over adults, growing its $10 billion...The “kidult” segment, for those age 12 and above, has outpaced the ch...</p></details>
+   Link:<a href="https://fortune.com/europe/article/lego-kids-toys-kidults-sales/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/europe/article/lego-kids-toys-kidults-sales/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego bricks have won over adults, growing its $10 billion...The “kidult” segment, for those age 12 and above, has outpaced the ch...</p></details>

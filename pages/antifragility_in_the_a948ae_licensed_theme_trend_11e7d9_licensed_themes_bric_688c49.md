@@ -271,7 +271,7 @@ image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_li
 Licensed LEGO themes succeed when they do not behave like imported merchandise pasted onto a toy. The LEGO Group has to translate a borrowed world into the logic of the [brick system]({{ 'brick-system/' | relative_url }}): a Star Wars fighter, a Hogwarts castle or a Minecraft biome must become something that can be built, rebuilt, connected to other sets and understood through LEGO’s design language. This translation process is one of the reasons licensed themes have strengthened rather than diluted the company over time. Instead of allowing outside intellectual property to redefine the product, LEGO forces that intellectual property through a set of constraints based on [compatibility]({{ 'compatibility/' | relative_url }}), modularity and construction.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_licensed_themes_bric_688c49-Illustration-1-dark.svg" | relative_url }}" alt="Brick Fit illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_licensed_themes_bric_688c49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_licensed_themes_bric_688c49-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In antifragility terms, this matters because it lets LEGO absorb cultural volatility without losing its identity. Popular franchises change, rise and fall, but the brick system remains the stable architecture underneath. Every successful licence therefore becomes a test: can an external world be converted into LEGO form without breaking the rules that make LEGO valuable in the first place? The answer determines whether a licence becomes part of the wider system or remains a temporary marketing tie-in. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creativereview.co.uk">[Creative Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creativereview.co.uk</span><span class="citation-popover-title">Creative Review Lego&#x27;s new design system is inspired by the humble brick</span><span class="citation-popover-snippet">Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
+In antifragility terms, this matters because it lets LEGO absorb cultural volatility without losing its identity. Popular franchises change, rise and fall, but the brick system remains the stable architecture underneath. Every successful licence therefore becomes a test: can an external world be converted into LEGO form without breaking the rules that make LEGO valuable in the first place? The answer determines whether a licence becomes part of the wider system or remains a temporary marketing tie-in.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creativereview.co.uk">[Creative Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creativereview.co.uk</span><span class="citation-popover-title">Creative Review Lego&#x27;s new design system is inspired by the humble brick</span><span class="citation-popover-snippet">Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
 
 ## The brick system as a filter for outside IP
 
@@ -281,7 +281,7 @@ When designers receive a licensed property, they do not simply reproduce it. The
 
 This requirement changes the source material. A film spaceship may contain shapes that are impossible to reproduce exactly in plastic bricks. A video-game environment may need to be reorganised into modules that can be assembled physically. Characters designed for animation must be simplified into minifigure proportions. Rather than being a weakness, these compromises create coherence.
 
-LEGO’s own design philosophy is rooted in the long-running “System in Play” concept, introduced in the 1950s. The principle is that bricks produced across different periods remain compatible and expandable. As LEGO has explained through its design history, bricks from different generations are expected to fit together and remain part of a common building language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creativereview.co.uk">[Creative Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creativereview.co.uk</span><span class="citation-popover-title">Creative Review Lego&#x27;s new design system is inspired by the humble brick</span><span class="citation-popover-snippet">Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
+LEGO’s own design philosophy is rooted in the long-running “System in Play” concept, introduced in the 1950s. The principle is that bricks produced across different periods remain compatible and expandable. As LEGO has explained through its design history, bricks from different generations are expected to fit together and remain part of a common building language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creativereview.co.uk">[Creative Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creativereview.co.uk</span><span class="citation-popover-title">Creative Review Lego&#x27;s new design system is inspired by the humble brick</span><span class="citation-popover-snippet">Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
 
 That means a licensed theme enters an existing ecosystem rather than creating a separate one. A LEGO [Star Wars]({{ 'star-wars/' | relative_url }}) vehicle is expected to use standard connection methods. A Harry Potter classroom must still function as a LEGO building. A Minecraft set must still reward construction and modification. The licence provides the imagery; the brick system determines the structure.
 
@@ -301,7 +301,7 @@ The result is that ownership remains centred on the LEGO platform rather than th
 
 This compatibility creates a subtle asymmetry in the relationship between LEGO and the licence holder. LEGO depends on external intellectual property for characters and stories, yet the franchise also becomes dependent on LEGO’s translation system if it wants to exist in brick form. The licence enters LEGO territory more than LEGO enters the licence's territory.
 
-Fan discussions often reveal this tension. Some enthusiasts worry that extensive licensing weakens LEGO’s original identity, while others argue that licensed sets remain creative because they still operate through the same building system and can be dismantled into reusable parts. The debate itself highlights how strongly compatibility functions as a boundary marker. Fans tend to judge a licensed set not only on franchise accuracy but also on whether it still “feels like LEGO”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
+Fan discussions often reveal this tension. Some enthusiasts worry that extensive licensing weakens LEGO’s original identity, while others argue that licensed sets remain creative because they still operate through the same building system and can be dismantled into reusable parts. The debate itself highlights how strongly compatibility functions as a boundary marker. Fans tend to judge a licensed set not only on franchise accuracy but also on whether it still “feels like LEGO”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
 That judgement would make little sense if the underlying system were irrelevant.
 
@@ -314,11 +314,11 @@ Every licence introduces design problems that LEGO designers must solve. How sho
 
 These problems generate reusable knowledge.
 
-The LEGO Ideas programme unintentionally demonstrates the importance of such constraints. Project guidelines strongly encourage designs built from existing LEGO elements rather than unlimited custom components. The challenge is not simply to imagine an object but to make it work inside the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stonewars.com">[StoneWars.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stonewars.com</span><span class="citation-popover-title">Stone Wars.com LEG O Ideas: Rules and Guidelines explained</span><span class="citation-popover-snippet">no new elements should be used. Existing elements in new colors are allowed. The...Read more...</span></span></span>
+The LEGO Ideas programme unintentionally demonstrates the importance of such constraints. Project guidelines strongly encourage designs built from existing LEGO elements rather than unlimited custom components. The challenge is not simply to imagine an object but to make it work inside the system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stonewars.com">[StoneWars.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stonewars.com</span><span class="citation-popover-title">Stone Wars.com LEG O Ideas: Rules and Guidelines explained</span><span class="citation-popover-snippet">no new elements should be used. Existing elements in new colors are allowed. The...Read more...</span></span></span>
 
 Licensed themes impose the same discipline on professional designers. A new franchise introduces unfamiliar shapes, colours and storytelling requirements, but solutions developed for one theme often become useful elsewhere. Techniques created for science-fiction vehicles can influence future original themes. Display methods developed for licensed collector sets can migrate into architecture or art products. The licence supplies a problem; the brick system produces a transferable solution.
 
-This pattern appears across LEGO’s history of theme evolution. New themes frequently emerge from experiments with existing design languages rather than from completely separate inventions. Designers absorb external influences, but those influences are reshaped by the same construction [framework]({{ 'framework/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://bricknerd.com/home/divergent-ideas-how-lego-themes-evolve-4-11-25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricknerd.com">[bricknerd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricknerd.com</span><span class="citation-popover-title">Divergent Ideas: How LEGO Themes Evolve</span><span class="citation-popover-snippet">They are sculpted over time by fans, designers, and a few corporate curveballs. From Art to Ideas, we explore how...</span></span></span>
+This pattern appears across LEGO’s history of theme evolution. New themes frequently emerge from experiments with existing design languages rather than from completely separate inventions. Designers absorb external influences, but those influences are reshaped by the same construction [framework]({{ 'framework/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://bricknerd.com/home/divergent-ideas-how-lego-themes-evolve" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bricknerd.com">[bricknerd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bricknerd.com</span><span class="citation-popover-title">Divergent Ideas: How LEGO Themes Evolve</span><span class="citation-popover-snippet">They are sculpted over time by fans, designers, and a few corporate curveballs. From Art to Ideas, we explore how...</span></span></span>
 
 From an antifragility perspective, this means external [complexity]({{ 'complexity/' | relative_url }}) strengthens internal capability. Each successful translation increases the organisation's library of techniques, part usages and design strategies.
 
@@ -329,7 +329,7 @@ One of the most revealing aspects of licensed design is that LEGO frequently acc
 
 A perfectly accurate recreation is not always the goal. The goal is a model that communicates the original object while remaining structurally stable, understandable and enjoyable to build.
 
-Recent discussions around LEGO Star Wars SMART Play sets illustrate this tension. Observers noted that some vehicles appeared more block-like and more visibly LEGO-shaped than highly detailed collector models. The changes were linked to new play requirements and interaction systems rather than pure visual fidelity. The sets remained recognisably Star Wars, but they also reflected LEGO's need to preserve functional building experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brickfanatics.com/lego-smart-play-new-design-star-wars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-snippet">Brick FanaticsLEGO SMART Play is debuting a new design language for...January 27, 2026 — 27 Jan 2026 — Obviously, the LEGO Star Wars SMA...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
+Recent discussions around LEGO Star Wars SMART Play sets illustrate this tension. Observers noted that some vehicles appeared more block-like and more visibly LEGO-shaped than highly detailed collector models. The changes were linked to new play requirements and interaction systems rather than pure visual fidelity. The sets remained recognisably Star Wars, but they also reflected LEGO's need to preserve functional building experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brickfanatics.com/lego-smart-play-new-design-star-wars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickfanatics.com">[Brick Fanatics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickfanatics.com</span><span class="citation-popover-snippet">Brick FanaticsLEGO SMART Play is debuting a new design language for...January 27, 2026 — 27 Jan 2026 — Obviously, the LEGO Star Wars SMA...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
 
 This trade-off appears throughout licensed themes. Designers continually balance three competing goals:
 
@@ -355,197 +355,197 @@ Star Wars, Harry Potter, Marvel, Minecraft and other franchises arrive with stor
 
 That mechanism explains why licensed themes can strengthen LEGO rather than overwhelm it. Every new franchise exposes the company to different cultural trends, audiences and aesthetic challenges. But those challenges are processed through a stable architecture that rewards compatibility and reuse. The more varied the incoming intellectual property becomes, the more opportunities LEGO gains to refine its design knowledge while keeping the same underlying platform.
 
-In that sense, the coherence of licensed LEGO themes is not an accidental by-product of branding. It is the result of a deliberate filtering system. Outside worlds change constantly. The brick system does not. And because it does not, LEGO can absorb those worlds without losing itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creativereview.co.uk">[Creative Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creativereview.co.uk</span><span class="citation-popover-title">Creative Review Lego&#x27;s new design system is inspired by the humble brick</span><span class="citation-popover-snippet">Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
+In that sense, the coherence of licensed LEGO themes is not an accidental by-product of branding. It is the result of a deliberate filtering system. Outside worlds change constantly. The brick system does not. And because it does not, LEGO can absorb those worlds without losing itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creativereview.co.uk">[Creative Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creativereview.co.uk</span><span class="citation-popover-title">Creative Review Lego&#x27;s new design system is inspired by the humble brick</span><span class="citation-popover-snippet">Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why licensed LEGO still feels like LEGO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why licensed LEGO still feels like LEGO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how LEGO uses constraints to strengthen innovation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how LEGO uses constraints to strengthen innovation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how LEGO preserved identity while expanding through licences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how LEGO preserved identity while expanding through licences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Relevant to translating ideas into a coherent design language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to translating ideas into a coherent design language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creative Confidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10534005-M.jpg" alt="Cover for Creative Confidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creative Confidence">Creative Confidence</a>
-        </h4>
-        <p class="fr-book-author">By Tom Kelley, David Kelley et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creative Confidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10534005-M.jpg" alt="Cover for Creative Confidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creative Confidence">Creative Confidence</a>
+</h4>
+<p class="fr-book-author">By Tom Kelley, David Kelley et al.</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Creative ability, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Problem Solving, BUSINESS &amp; ECONOMICS / Career...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Creative ability, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Problem Solving, BUSINESS &amp; ECONOMICS / Career...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Creative+Confidence+Tom+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LEGO 1999 Model Cards Complete Set x20 Rose Art LEGO Licensed"><img src="https://i.ebayimg.com/images/g/CyAAAeSwto1qECWs/s-l225.jpg" alt="Listing image for Vintage LEGO 1999 Model Cards Complete Set x20 Rose Art LEGO Licensed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">Vintage LEGO 1999 Model Cards Complete Set x20 Rose Art LEGO Licensed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LEGO 1999 Model Cards Complete Set x20 Rose Art LEGO Licensed"><img src="https://i.ebayimg.com/images/g/CyAAAeSwto1qECWs/s-l225.jpg" alt="Listing image for Vintage LEGO 1999 Model Cards Complete Set x20 Rose Art LEGO Licensed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">Vintage LEGO 1999 Model Cards Complete Set x20 Rose Art LEGO Licensed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic 42166 NEOM McLaren Extreme E Team - Complete with Instructions"><img src="https://i.ebayimg.com/images/g/sJEAAeSwvwppy~NT/s-l225.jpg" alt="Listing image for LEGO Technic 42166 NEOM McLaren Extreme E Team - Complete with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic 42166 NEOM McLaren Extreme E Team - Complete with Instructions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic 42166 NEOM McLaren Extreme E Team - Complete with Instructions"><img src="https://i.ebayimg.com/images/g/sJEAAeSwvwppy~NT/s-l225.jpg" alt="Listing image for LEGO Technic 42166 NEOM McLaren Extreme E Team - Complete with Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic 42166 NEOM McLaren Extreme E Team - Complete with Instructions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Animal Crossing Boxed Sets - 77046 to 77052 + 30662 Polybag - Brand New"><img src="https://i.ebayimg.com/images/g/I6IAAOSwDGlmIlel/s-l225.jpg" alt="Listing image for LEGO Animal Crossing Boxed Sets - 77046 to 77052 + 30662 Polybag - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Animal Crossing Boxed Sets - 77046 to 77052 + 30662 Polybag - Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Animal Crossing Boxed Sets - 77046 to 77052 + 30662 Polybag - Brand New"><img src="https://i.ebayimg.com/images/g/I6IAAOSwDGlmIlel/s-l225.jpg" alt="Listing image for LEGO Animal Crossing Boxed Sets - 77046 to 77052 + 30662 Polybag - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Animal Crossing Boxed Sets - 77046 to 77052 + 30662 Polybag - Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀"><img src="https://i.ebayimg.com/images/g/umgAAeSwzGVp9hgh/s-l225.jpg" alt="Listing image for LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀"><img src="https://i.ebayimg.com/images/g/umgAAeSwzGVp9hgh/s-l225.jpg" alt="Listing image for LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Tintin Moon Rocket 21367 New and Sealed 🚀</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for licensed LEGO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: licensed LEGO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=licensed+LEGO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-licensed-lego-still-feels-like-lego-licensed-lego-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="licensed LEGO set" data-ebay-reference="why-licensed-lego-still-feels-like-lego-licensed-lego-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ In that sense, the coherence of licensed LEGO themes is not an accidental by-pro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ In that sense, the coherence of licensed LEGO themes is not an accidental by-pro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ In that sense, the coherence of licensed LEGO themes is not an accidental by-pro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ In that sense, the coherence of licensed LEGO themes is not an accidental by-pro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ In that sense, the coherence of licensed LEGO themes is not an accidental by-pro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,103 +751,103 @@ In that sense, the coherence of licensed LEGO themes is not an accidental by-pro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/</a>  
+   Link:<a href="https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ozb91w/essay_on_legos_reliance_on_licensed_themes_at_the/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stonewars.com  
    Title: Stone Wars.com LEG O Ideas: Rules and Guidelines explained  
-   Link: <a href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow">https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>no new elements should be used. Existing elements in new colors are allowed. The...Read more...</p></details>
+   Link:<a href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow">https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no new elements should be used. Existing elements in new colors are allowed. The...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bricknerd.com  
    Title: Divergent Ideas: How LEGO Themes Evolve  
-   Link: <a href="https://bricknerd.com/home/divergent-ideas-how-lego-themes-evolve-4-11-25" target="_blank" rel="noopener noreferrer nofollow">https://bricknerd.com/home/divergent-ideas-how-lego-themes-evolve-4-11-25</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They are sculpted over time by fans, designers, and a few corporate curveballs. From Art to Ideas, we explore how...</p></details>
+   Link:<a href="https://bricknerd.com/home/divergent-ideas-how-lego-themes-evolve" target="_blank" rel="noopener noreferrer nofollow">https://bricknerd.com/home/divergent-ideas-how-lego-themes-evolve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They are sculpted over time by fans, designers, and a few corporate curveballs. From Art to Ideas, we explore how...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/17cxgel/what_are_some_other_ip_license_you_want_to_see/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/17cxgel/what_are_some_other_ip_license_you_want_to_see/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nd South East Asia, they should make a theme based on some Japanese...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/17cxgel/what_are_some_other_ip_license_you_want_to_see/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/17cxgel/what_are_some_other_ip_license_you_want_to_see/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd South East Asia, they should make a theme based on some Japanese...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: creativereview.co.uk  
    Title: Creative Review Lego's new design system is inspired by the humble brick  
-   Link: <a href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.creativereview.co.uk/lego-design-system/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</p></details>
+   Link:<a href="https://www.creativereview.co.uk/lego-design-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.creativereview.co.uk/lego-design-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creative ReviewLego&#x27;s new design system is inspired by the humble brickApril 9, 2024 — 9 Apr 2024 — The Lego System-in-Play framework, in...</p></details>
    Published: April 9, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brickfanatics.com  
-   Link: <a href="https://www.brickfanatics.com/lego-smart-play-new-design-star-wars" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-smart-play-new-design-star-wars</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO SMART Play is debuting a new design language for...January 27, 2026 — 27 Jan 2026 — Obviously, the LEGO Star Wars SMA...</p></details>
+   Link:<a href="https://www.brickfanatics.com/lego-smart-play-new-design-star-wars" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-smart-play-new-design-star-wars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brick FanaticsLEGO SMART Play is debuting a new design language for...January 27, 2026 — 27 Jan 2026 — Obviously, the LEGO Star Wars SMA...</p></details>
    Published: January 27, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: brickfanatics.com  
    Title: how smart play affect lego star wars design  
-   Link: <a href="https://www.brickfanatics.com/how-smart-play-affect-lego-star-wars-design" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/how-smart-play-affect-lego-star-wars-design</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How does SMART Play affect LEGO Star Wars set design?28 Jan 2026 — The first LEGO Star Wars SMART Play sets have been revealed, allowing...</p></details>
+   Link:<a href="https://www.brickfanatics.com/how-smart-play-affect-lego-star-wars-design" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/how-smart-play-affect-lego-star-wars-design</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does SMART Play affect LEGO Star Wars set design?28 Jan 2026 — The first LEGO Star Wars SMART Play sets have been revealed, allowing...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: brickipedia.fandom.com  
    Title: Licensed themes  
-   Link: <a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</p></details>
+   Link:<a href="https://brickipedia.fandom.com/wiki/Licensed_themes" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/Licensed_themes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>themes | Brickipedia - FandomLicensed themes are any themes which involve another license. Mainly based on TV series, movies or video gam...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: profwurzer.com  
-   Link: <a href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow">https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas while safegu...</p></details>
+   Link:<a href="https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/" target="_blank" rel="noopener noreferrer nofollow">https://profwurzer.com/harnessing-crowds-without-losing-control-legos-ip-playbook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Open Innovation: Balancing Creativity &amp; IPLEGO blends open innovation and IP protection, engaging fans via LEGO Ideas while safegu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVOmevujYAo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVOmevujYAo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Careers on Instagram: &quot;What is it like to be a LEGO...Join our film team as we capture what it takes to become a new LEGO Designer...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVOmevujYAo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVOmevujYAo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Careers on Instagram: &quot;What is it like to be a LEGO...Join our film team as we capture what it takes to become a new LEGO Designer...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wickedbrick.com  
-   Link: <a href="https://www.wickedbrick.com/de-eu/blogs/lego/unveiling-creativity-the-inspiration-behind-lego-star-wars-display-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.wickedbrick.com/de-eu/blogs/lego/unveiling-creativity-the-inspiration-behind-lego-star-wars-display-solutions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The inspiration behind LEGO Star Wars display solutionsHere at Wicked Brick, the passion for Star Wars and innovative product development...</p></details>
+   Link:<a href="https://www.wickedbrick.com/de-eu/blogs/lego/unveiling-creativity-the-inspiration-behind-lego-star-wars-display-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.wickedbrick.com/de-eu/blogs/lego/unveiling-creativity-the-inspiration-behind-lego-star-wars-display-solutions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The inspiration behind LEGO Star Wars display solutionsHere at Wicked Brick, the passion for Star Wars and innovative product development...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
+   Link:<a href="https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-legos-playbook-intellectual-property-leticia-caminero-hs8ze</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: lego introduces smart bricks with sound and light effects to new star wars sets  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2026/jan/06/lego-introduces-smart-bricks-with-sound-and-light-effects-to-new-star-wars-sets" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2026/jan/06/lego-introduces-smart-bricks-with-sound-and-light-effects-to-new-star-wars-sets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego introduces &#x27;smart bricks&#x27; with sound and light effects...7 Jan 2026 — The smart bricks – in the shape of a normal two-by-four Lego...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2026/jan/06/lego-introduces-smart-bricks-with-sound-and-light-effects-to-new-star-wars-sets" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2026/jan/06/lego-introduces-smart-bricks-with-sound-and-light-effects-to-new-star-wars-sets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego introduces &#x27;smart bricks&#x27; with sound and light effects...7 Jan 2026 — The smart bricks – in the shape of a normal two-by-four Lego...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U5U_JByTts4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U5U_JByTts4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A PowerPoint About LEGO&#x27;s LicensingI just wanted to make this video to sort of clear the air and set the record straight for how licensin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U5U_JByTts4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U5U_JByTts4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A PowerPoint About LEGO&#x27;s LicensingI just wanted to make this video to sort of clear the air and set the record straight for how licensin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: henryjenkins.org  
    Title: what makes lego lego an interview with jonathan ray lee part one  
-   Link: <a href="https://henryjenkins.org/blog/2021/4/21/what-makes-lego-lego-an-interview-with-jonathan-ray-lee-part-one" target="_blank" rel="noopener noreferrer nofollow">https://henryjenkins.org/blog/2021/4/21/what-makes-lego-lego-an-interview-with-jonathan-ray-lee-part-one</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes LEGO LEGO?: An Interview with Jonathan...26 Apr 2021 — Jonathan Rey Lee&#x27;s Deconstructing LEGO: The Medium and Messages of LEG...</p></details>
+   Link:<a href="https://henryjenkins.org/blog/2021/4/21/what-makes-lego-lego-an-interview-with-jonathan-ray-lee-part-one" target="_blank" rel="noopener noreferrer nofollow">https://henryjenkins.org/blog/2021/4/21/what-makes-lego-lego-an-interview-with-jonathan-ray-lee-part-one</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes LEGO LEGO?: An Interview with Jonathan...26 Apr 2021 — Jonathan Rey Lee&#x27;s Deconstructing LEGO: The Medium and Messages of LEG...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/lego-is-competing-with-home-decor-lately/968396412234043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/lego-is-competing-with-home-decor-lately/968396412234043/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO is competing with home decor lately.These include Batman, Indiana Jones, Star Wars, and Minecraft. Although some of the licensed the...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/lego-is-competing-with-home-decor-lately/968396412234043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/lego-is-competing-with-home-decor-lately/968396412234043/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO is competing with home decor lately.These include Batman, Indiana Jones, Star Wars, and Minecraft. Although some of the licensed the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mewburn.com  
    Title: design rights can build ip protection eu lego ruling shows  
-   Link: <a href="https://www.mewburn.com/forward/design-rights-can-build-ip-protection-eu-lego-ruling-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.mewburn.com/forward/design-rights-can-build-ip-protection-eu-lego-ruling-shows</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Design rights can build IP protection, EU Lego ruling shows28 Mar 2024 — Featuring in Law360, Christoph Moeller explores the recent EU Le...</p></details>
+   Link:<a href="https://www.mewburn.com/forward/design-rights-can-build-ip-protection-eu-lego-ruling-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.mewburn.com/forward/design-rights-can-build-ip-protection-eu-lego-ruling-shows</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Design rights can build IP protection, EU Lego ruling shows28 Mar 2024 — Featuring in Law360, Christoph Moeller explores the recent EU Le...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: markhub24.com  
    Title: lego business model reinvention through licensing  
-   Link: <a href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: Business Model Reinvention Through Licensing31 Jan 2026 — This case examines how Lego strategically employed licensing agreements—p...</p></details>
+   Link:<a href="https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-business-model-reinvention-through-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego: Business Model Reinvention Through Licensing31 Jan 2026 — This case examines how Lego strategically employed licensing agreements—p...</p></details>

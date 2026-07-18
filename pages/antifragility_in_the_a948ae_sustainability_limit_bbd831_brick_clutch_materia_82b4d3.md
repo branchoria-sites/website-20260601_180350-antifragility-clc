@@ -268,233 +268,233 @@ image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_br
 
 ## Introduction
 
-For **LEGO’s antifragile system to remain intact under [sustainability]({{ 'sustainability/' | relative_url }}) pressure**, one of the hardest barriers isn’t marketing, brand loyalty or production scale — it’s **the humble brick’s clutch**: the precise grip between studs and tubes that makes LEGO bricks reliably interlock and separate. That mechanical contact isn’t a trivial quality; it’s a *defining feature of the LEGO experience and product promise*. Attempts to swap [materials]({{ 'materials/' | relative_url }}) for greener alternatives repeatedly stall at this microscopic interface because most sustainable plastics either weaken the grip, distort tolerances or fail long‑term performance tests. Understanding *why clutch matters* sheds light on why sustainable plastic isn’t just another ingredient — it’s the material essence of LEGO’s antifragility limit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/recycled-lego-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">recycled lego brick</span><span class="citation-popover-snippet">How LEGO perfected the recycled plastic brick &#124; WIREDJuly 9, 2021...</span><span class="citation-popover-meta">Published: July 9, 2021</span></span></span>
+For **LEGO’s antifragile system to remain intact under [sustainability]({{ 'sustainability/' | relative_url }}) pressure**, one of the hardest barriers isn’t marketing, brand loyalty or production scale — it’s **the humble brick’s clutch**: the precise grip between studs and tubes that makes LEGO bricks reliably interlock and separate. That mechanical contact isn’t a trivial quality; it’s a *defining feature of the LEGO experience and product promise*. Attempts to swap [materials]({{ 'materials/' | relative_url }}) for greener alternatives repeatedly stall at this microscopic interface because most sustainable plastics either weaken the grip, distort tolerances or fail long‑term performance tests. Understanding *why clutch matters* sheds light on why sustainable plastic isn’t just another ingredient — it’s the material essence of LEGO’s antifragility limit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/recycled-lego-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">recycled lego brick</span><span class="citation-popover-snippet">How LEGO perfected the recycled plastic brick &#124; WIREDJuly 9, 2021...</span><span class="citation-popover-meta">Published: July 9, 2021</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-1-dark.svg" | relative_url }}" alt="Brick Clutch illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Clutch Means for Builders
 
-At its core, **clutch power** describes how strongly two LEGO elements hold together — firm enough to support complex models and withstand knocks, yet separable by hand without tools. It’s not marketing jargon; it’s a *mechanical specification driven by physics and engineering*. The studs on the top of a brick and the tubes inside a matching brick are moulded with tolerances often as fine as **1–2 microns** (fractions of a human hair), ensuring consistent frictional engagement across billions of bricks worldwide. When this balance shifts, the consequences are immediate: too much grip and pieces fuse or require tools to separate; too little and structures topple or lose integrity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tophighmachinery.com/the-ultimate-guide-to-lego-brick-moulding-machines-how-precision-engineering-creates-iconic-toys/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tophighmachinery.com">[tophighmachinery.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tophighmachinery.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At its core, **clutch power** describes how strongly two LEGO elements hold together — firm enough to support complex models and withstand knocks, yet separable by hand without tools. It’s not marketing jargon; it’s a *mechanical specification driven by physics and engineering*. The studs on the top of a brick and the tubes inside a matching brick are moulded with tolerances often as fine as **1–2 microns** (fractions of a human hair), ensuring consistent frictional engagement across billions of bricks worldwide. When this balance shifts, the consequences are immediate: too much grip and pieces fuse or require tools to separate; too little and structures topple or lose integrity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tophighmachinery.com/the-ultimate-guide-to-lego-brick-moulding-machines-how-precision-engineering-creates-iconic-toys/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tophighmachinery.com">[tophighmachinery.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tophighmachinery.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This interface doesn’t just matter in individual builds — it forms the **systemic backbone of decades‑long [compatibility]({{ 'compatibility/' | relative_url }})**. A brick made in 1963 must interlock with one made today. That continuity requires uniform, long‑term clutch performance that survives temperature swings, repeated use and storage over many years — a stringent requirement that goes far beyond what most consumer plastics face. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego recycled plastic brick</span><span class="citation-popover-snippet">How Lego Perfected the Recycled Plastic Brick &#124; WIREDJuly 11, 2021 — Jeremy White Gear Jul 11, 2021 9:00 AM HOW LEGO PERFECTED THE RECYCL...</span><span class="citation-popover-meta">Published: July 11, 2021</span></span></span>
+This interface doesn’t just matter in individual builds — it forms the **systemic backbone of decades‑long [compatibility]({{ 'compatibility/' | relative_url }})**. A brick made in 1963 must interlock with one made today. That continuity requires uniform, long‑term clutch performance that survives temperature swings, repeated use and storage over many years — a stringent requirement that goes far beyond what most consumer plastics face.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego recycled plastic brick</span><span class="citation-popover-snippet">How Lego Perfected the Recycled Plastic Brick &#124; WIREDJuly 11, 2021 — Jeremy White Gear Jul 11, 2021 9:00 AM HOW LEGO PERFECTED THE RECYCL...</span><span class="citation-popover-meta">Published: July 11, 2021</span></span></span>
 
 ## The Material Properties a Brick Must Preserve
 
-Clutch power flows directly from the **intrinsic mechanical properties** of the plastic used in LEGO bricks. The classic material — **acrylonitrile butadiene styrene (ABS)** — was chosen precisely because it blends **rigidity, toughness and dimensional stability**. These characteristics let molten plastic fill tiny mould cavities faithfully and cool with minimal shrinkage, producing studs and tubes that interact consistently. ABS also retains its shape and colour over decades, resists impact, and withstands repeated assembly without cracking or deforming — all essential for both clutch performance and safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Materials - Sustainability - LEGO.com...</span></span></span>
+Clutch power flows directly from the **intrinsic mechanical properties** of the plastic used in LEGO bricks. The classic material — **acrylonitrile butadiene styrene (ABS)** — was chosen precisely because it blends **rigidity, toughness and dimensional stability**. These characteristics let molten plastic fill tiny mould cavities faithfully and cool with minimal shrinkage, producing studs and tubes that interact consistently. ABS also retains its shape and colour over decades, resists impact, and withstands repeated assembly without cracking or deforming — all essential for both clutch performance and safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Materials - Sustainability - LEGO.com...</span></span></span>
 
 By contrast, most sustainable plastics — whether plant‑based, recycled or novel polymers — struggle to meet this set of properties as a package. Consider some common challenges:
 
-* **Rigidity vs. flexibility:** Many bio‑plastics or recycled resins are softer or less stiff than ABS, which undermines the *precise friction fit* needed between studs and tubes. If the material flexes too easily, the contact force drops and clutch fails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego sustainable bricks</span><span class="citation-popover-snippet">These New Lego Pieces Are Made of Sustainable Plastics &#124; WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</span><span class="citation-popover-meta">Published: March 11, 2018</span></span></span>
-* **Shrinkage and tolerances:** Sustainable polymers often shrink differently during cooling after moulding. Even tiny variations change the geometry of studs or tubes, leading to inconsistent clutch forces or gaps in the interface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/recycled-lego-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">recycled lego brick</span><span class="citation-popover-snippet">How LEGO perfected the recycled plastic brick &#124; WIREDJuly 9, 2021...</span><span class="citation-popover-meta">Published: July 9, 2021</span></span></span>
-* **Long‑term creep:** Many alternative plastic formulations exhibit time‑dependent deformation (“creep”), which means that even if a prototype brick initially clicks properly, it may loosen under load or heat over months and years — unacceptable for LEGO’s multi‑decade compatibility promise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego recycled plastic brick</span><span class="citation-popover-snippet">How Lego Perfected the Recycled Plastic Brick &#124; WIREDJuly 11, 2021 — Jeremy White Gear Jul 11, 2021 9:00 AM HOW LEGO PERFECTED THE RECYCL...</span><span class="citation-popover-meta">Published: July 11, 2021</span></span></span>
-* **Colour and surface finish:** Aside from mechanical fit, LEGO bricks must have a glossy surface and consistent colour. Some sustainable materials absorb pigments differently or degrade surface quality, with knock‑on effects on how elements slide and grip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newelementary.com/2021/06/sustainable-lego-elements-recycled-pet.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newelementary.com">[New Elementary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newelementary.com</span><span class="citation-popover-snippet">New ElementarySustainable LEGO® bricks: will Recycled PET be the end of ABS? &#124; New Elementary: LEGO® parts, sets and techniquesJune 23, 2021...</span><span class="citation-popover-meta">Published: June 23, 2021</span></span></span>
+* **Rigidity vs. flexibility:** Many bio‑plastics or recycled resins are softer or less stiff than ABS, which undermines the *precise friction fit* needed between studs and tubes. If the material flexes too easily, the contact force drops and clutch fails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego sustainable bricks</span><span class="citation-popover-snippet">These New Lego Pieces Are Made of Sustainable Plastics &#124; WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</span><span class="citation-popover-meta">Published: March 11, 2018</span></span></span>
+* **Shrinkage and tolerances:** Sustainable polymers often shrink differently during cooling after moulding. Even tiny variations change the geometry of studs or tubes, leading to inconsistent clutch forces or gaps in the interface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/recycled-lego-brick/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">recycled lego brick</span><span class="citation-popover-snippet">How LEGO perfected the recycled plastic brick &#124; WIREDJuly 9, 2021...</span><span class="citation-popover-meta">Published: July 9, 2021</span></span></span>
+* **Long‑term creep:** Many alternative plastic formulations exhibit time‑dependent deformation (“creep”), which means that even if a prototype brick initially clicks properly, it may loosen under load or heat over months and years — unacceptable for LEGO’s multi‑decade compatibility promise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego recycled plastic brick</span><span class="citation-popover-snippet">How Lego Perfected the Recycled Plastic Brick &#124; WIREDJuly 11, 2021 — Jeremy White Gear Jul 11, 2021 9:00 AM HOW LEGO PERFECTED THE RECYCL...</span><span class="citation-popover-meta">Published: July 11, 2021</span></span></span>
+* **Colour and surface finish:** Aside from mechanical fit, LEGO bricks must have a glossy surface and consistent colour. Some sustainable materials absorb pigments differently or degrade surface quality, with knock‑on effects on how elements slide and grip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newelementary.com/2021/06/sustainable-lego-elements-recycled-pet.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newelementary.com">[New Elementary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newelementary.com</span><span class="citation-popover-snippet">New ElementarySustainable LEGO® bricks: will Recycled PET be the end of ABS? &#124; New Elementary: LEGO® parts, sets and techniquesJune 23, 2021...</span><span class="citation-popover-meta">Published: June 23, 2021</span></span></span>
 
 Because clutch is such a tight coupling between geometry and material behaviour, even minor shifts in plastic properties can break it. It’s not enough for a new polymer to be “greener” — it must be comparable enough to ABS that the **mechanical interface stays within an extremely narrow band of performance**.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-2-dark.svg" | relative_url }}" alt="Brick Clutch illustration 2" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Compatibility with Old Bricks Raises the Bar
 
-LEGO’s sustainability challenge isn’t about making a brick that *works on its own* — it’s about making bricks that are **interchangeable** with 70+ years of existing inventory. A sustainable plastic that only clicks reliably with other [sustainable bricks]({{ 'materials/' | relative_url }}) would still fail by LEGO’s own standards, because the vast majority of bricks in circulation are **ABS made with legacy tolerances**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-cz/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Sustainable materials</span><span class="citation-popover-snippet">Sustainable materials - Sustainability - LEGO.com...</span></span></span>
+LEGO’s sustainability challenge isn’t about making a brick that *works on its own* — it’s about making bricks that are **interchangeable** with 70+ years of existing inventory. A sustainable plastic that only clicks reliably with other [sustainable bricks]({{ 'materials/' | relative_url }}) would still fail by LEGO’s own standards, because the vast majority of bricks in circulation are **ABS made with legacy tolerances**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-cz/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Sustainable materials</span><span class="citation-popover-snippet">Sustainable materials - Sustainability - LEGO.com...</span></span></span>
 
 This continuity requirement raises the threshold for any material switch. LEGO doesn’t just test new resins in isolation; it must evaluate how they interact *with billions of existing bricks*. That multiplies testing [complexity]({{ 'complexity/' | relative_url }}) and makes it much harder than typical product substitutions. It’s not simply a material change — it’s a *system‑wide compatibility requirement* set in stone by decades of design heritage.
 
-Even when LEGO momentarily cracked a major sustainability milestone — a prototype brick made from **recycled PET sourced from bottles that met clutch and safety criteria** — it still didn’t proceed to large‑scale production because the broader manufacturing and lifecycle emission impacts undercut the environmental promise. The prototype demonstrated the physics challenge where less‑rigid PET needed modifiers and careful tuning just to approximate ABS‑like clutch, and even then required more processing energy and factory changes that raised total emissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego sustainable bricks</span><span class="citation-popover-snippet">These New Lego Pieces Are Made of Sustainable Plastics &#124; WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</span><span class="citation-popover-meta">Published: March 11, 2018</span></span></span>
+Even when LEGO momentarily cracked a major sustainability milestone — a prototype brick made from **recycled PET sourced from bottles that met clutch and safety criteria** — it still didn’t proceed to large‑scale production because the broader manufacturing and lifecycle emission impacts undercut the environmental promise. The prototype demonstrated the physics challenge where less‑rigid PET needed modifiers and careful tuning just to approximate ABS‑like clutch, and even then required more processing energy and factory changes that raised total emissions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego sustainable bricks</span><span class="citation-popover-snippet">These New Lego Pieces Are Made of Sustainable Plastics &#124; WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</span><span class="citation-popover-meta">Published: March 11, 2018</span></span></span>
 
 In other words, **flipping the source feedstock (e.g. plant‑based or recycled) isn’t sufficient**; changing the *plastic chemistry and process behaviour* affects the clutch interface in deep ways that ripple into manufacturing, quality control, emissions and end‑of‑life performance. Those ripples are precisely why sustainability becomes a *material systems constraint* rather than a normal product innovation challenge.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-3-dark.svg" | relative_url }}" alt="Brick Clutch illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for LEGO’s Antifragile Limits
 
-Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url }}) — where modularity, legacy compatibility and iterative innovation are strengths — materials change is an exception. Unlike a theme that can be retired or redesigned, a foundational mechanical requirement like clutch must *hold across every product, market and decade*. Sustainable plastics must not only meet environmental criteria but also replicate or *approximate within razor‑tight [limits]({{ 'limits/' | relative_url }})* the mechanical behaviour of ABS. That coupling between sustainability and precision performance is where LEGO’s antifragile system meets a *material boundary condition*: you can tweak experiences and aesthetics far more easily than you can alter the microscopic mechanics that make the LEGO click both familiar and reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego sustainable bricks</span><span class="citation-popover-snippet">These New Lego Pieces Are Made of Sustainable Plastics &#124; WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</span><span class="citation-popover-meta">Published: March 11, 2018</span></span></span>
+Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url }}) — where modularity, legacy compatibility and iterative innovation are strengths — materials change is an exception. Unlike a theme that can be retired or redesigned, a foundational mechanical requirement like clutch must *hold across every product, market and decade*. Sustainable plastics must not only meet environmental criteria but also replicate or *approximate within razor‑tight [limits]({{ 'limits/' | relative_url }})* the mechanical behaviour of ABS. That coupling between sustainability and precision performance is where LEGO’s antifragile system meets a *material boundary condition*: you can tweak experiences and aesthetics far more easily than you can alter the microscopic mechanics that make the LEGO click both familiar and reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">lego sustainable bricks</span><span class="citation-popover-snippet">These New Lego Pieces Are Made of Sustainable Plastics &#124; WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</span><span class="citation-popover-meta">Published: March 11, 2018</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the LEGO Click Is Hard to Replace. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the LEGO Click Is Hard to Replace. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
-        </h4>
-        <p class="fr-book-author">By Mark Miodownik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
+</h4>
+<p class="fr-book-author">By Mark Miodownik</p>
         
-        <p class="fr-book-desc">Explains why material properties are difficult to replace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why material properties are difficult to replace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for LEGO quality standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for LEGO quality standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Materials+by+Christopher+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Materials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dEluBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Materials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Materials+by+Christopher+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Materials">Materials</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Materials+by+Christopher+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Materials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dEluBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Materials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Materials+by+Christopher+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Materials">Materials</a>
+</h4>
+<p class="fr-book-author">By Christopher Hall</p>
         
-        <p class="fr-book-desc">Introduces the science behind mechanical performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Materials+by+Christopher+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the science behind mechanical performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Materials+by+Christopher+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=15-Minute+Summary+of+Steven+Johnson%27s+How+We+Got+to+Now+Instaread+Summaries%2CSteven+Johnson%27s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 15-Minute Summary of Steven Johnson&#x27;s How We Got to Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=15-Minute+Summary+of+Steven+Johnson%27s+How+We+Got+to+Now+Instaread+Summaries%2CSteven+Johnson%27s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="15-Minute Summary of Steven Johnson&#x27;s How We Got to Now">15-Minute Summary of Steven Johnson&#x27;s How We Got to Now</a>
-        </h4>
-        <p class="fr-book-author">By Instaread Summaries,Steven Johnson&#x27;s</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=15-Minute+Summary+of+Steven+Johnson%27s+How+We+Got+to+Now+Instaread+Summaries%2CSteven+Johnson%27s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 15-Minute Summary of Steven Johnson&#x27;s How We Got to Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=15-Minute+Summary+of+Steven+Johnson%27s+How+We+Got+to+Now+Instaread+Summaries%2CSteven+Johnson%27s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="15-Minute Summary of Steven Johnson&#x27;s How We Got to Now">15-Minute Summary of Steven Johnson&#x27;s How We Got to Now</a>
+</h4>
+<p class="fr-book-author">By Instaread Summaries,Steven Johnson&#x27;s</p>
         
-        <p class="fr-book-desc">First published 2014.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=15-Minute+Summary+of+Steven+Johnson%27s+How+We+Got+to+Now+Instaread+Summaries%2CSteven+Johnson%27s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=15-Minute+Summary+of+Steven+Johnson%27s+How+We+Got+to+Now+Instaread+Summaries%2CSteven+Johnson%27s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Materials&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Materials</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Materials&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Materials</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Set 40763 - Missing Piece Replacement Parts Pick-A-Brick - SELECT PART /QTY"><img src="https://i.ebayimg.com/images/g/dE4AAeSwe1Np8HHj/s-l225.jpg" alt="Listing image for LEGO Set 40763 - Missing Piece Replacement Parts Pick-A-Brick - SELECT PART /QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Set 40763 - Missing Piece Replacement Parts Pick-A-Brick - SELECT PART /QTY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Set 40763 - Missing Piece Replacement Parts Pick-A-Brick - SELECT PART /QTY"><img src="https://i.ebayimg.com/images/g/dE4AAeSwe1Np8HHj/s-l225.jpg" alt="Listing image for LEGO Set 40763 - Missing Piece Replacement Parts Pick-A-Brick - SELECT PART /QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO Set 40763 - Missing Piece Replacement Parts Pick-A-Brick - SELECT PART /QTY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Donut Truck ( 60452 ) Replacement Parts Select Part / Qty NEW"><img src="https://i.ebayimg.com/images/g/yVYAAeSweCpqHznO/s-l225.jpg" alt="Listing image for LEGO City Donut Truck ( 60452 ) Replacement Parts Select Part / Qty NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO City Donut Truck ( 60452 ) Replacement Parts Select Part / Qty NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO City Donut Truck ( 60452 ) Replacement Parts Select Part / Qty NEW"><img src="https://i.ebayimg.com/images/g/yVYAAeSweCpqHznO/s-l225.jpg" alt="Listing image for LEGO City Donut Truck ( 60452 ) Replacement Parts Select Part / Qty NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO City Donut Truck ( 60452 ) Replacement Parts Select Part / Qty NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Red Pieces Bundle 50+ Bricks Pieces &amp; Plate Job Lot Spares Replacement VGC"><img src="https://i.ebayimg.com/images/g/4A4AAeSwOkppenS~/s-l225.jpg" alt="Listing image for Lego Red Pieces Bundle 50+ Bricks Pieces &amp; Plate Job Lot Spares Replacement VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">Lego Red Pieces Bundle 50+ Bricks Pieces &amp; Plate Job Lot Spares Replacement VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Red Pieces Bundle 50+ Bricks Pieces &amp; Plate Job Lot Spares Replacement VGC"><img src="https://i.ebayimg.com/images/g/4A4AAeSwOkppenS~/s-l225.jpg" alt="Listing image for Lego Red Pieces Bundle 50+ Bricks Pieces &amp; Plate Job Lot Spares Replacement VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">Lego Red Pieces Bundle 50+ Bricks Pieces &amp; Plate Job Lot Spares Replacement VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO DUPLO Frozen Replacement Parts With Light-Up Block Toy Bundle Joblot"><img src="https://i.ebayimg.com/images/g/Ai4AAeSwTrNqIvUk/s-l225.jpg" alt="Listing image for LEGO DUPLO Frozen Replacement Parts With Light-Up Block Toy Bundle Joblot" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO DUPLO Frozen Replacement Parts With Light-Up Block Toy Bundle Joblot</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO DUPLO Frozen Replacement Parts With Light-Up Block Toy Bundle Joblot"><img src="https://i.ebayimg.com/images/g/Ai4AAeSwTrNqIvUk/s-l225.jpg" alt="Listing image for LEGO DUPLO Frozen Replacement Parts With Light-Up Block Toy Bundle Joblot" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">LEGO DUPLO Frozen Replacement Parts With Light-Up Block Toy Bundle Joblot</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO replacement bricks">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO replacement bricks</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+replacement+bricks&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-lego-click-is-hard-to-replace-lego-replacement-bricks&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO replacement bricks" data-ebay-reference="why-the-lego-click-is-hard-to-replace-lego-replacement-bricks" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,122 +700,122 @@ Within LEGO’s broader antifragility [framework]({{ 'framework/' | relative_url
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: recycled lego brick  
-   Link: <a href="https://www.wired.com/story/recycled-lego-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/recycled-lego-brick/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO perfected the recycled plastic brick | WIREDJuly 9, 2021...</p></details>
+   Link:<a href="https://www.wired.com/story/recycled-lego-brick/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/recycled-lego-brick/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO perfected the recycled plastic brick | WIREDJuly 9, 2021...</p></details>
    Published: July 9, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tophighmachinery.com  
-   Link: <a href="https://tophighmachinery.com/the-ultimate-guide-to-lego-brick-moulding-machines-how-precision-engineering-creates-iconic-toys/" target="_blank" rel="noopener noreferrer nofollow">https://tophighmachinery.com/the-ultimate-guide-to-lego-brick-moulding-machines-how-precision-engineering-creates-iconic-toys/</a>  
+   Link:<a href="https://tophighmachinery.com/the-ultimate-guide-to-lego-brick-moulding-machines-how-precision-engineering-creates-iconic-toys/" target="_blank" rel="noopener noreferrer nofollow">https://tophighmachinery.com/the-ultimate-guide-to-lego-brick-moulding-machines-how-precision-engineering-creates-iconic-toys/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/product-safety/materials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials - Sustainability - LEGO.com...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/sustainability/product-safety/materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Materials - Sustainability - LEGO.com...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: Sustainable materials  
-   Link: <a href="https://www.lego.com/en-cz/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-cz/sustainability/sustainable-materials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainable materials - Sustainability - LEGO.com...</p></details>
+   Link:<a href="https://www.lego.com/en-cz/sustainability/sustainable-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-cz/sustainability/sustainable-materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainable materials - Sustainability - LEGO.com...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: lego recycled plastic brick  
-   Link: <a href="https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego Perfected the Recycled Plastic Brick | WIREDJuly 11, 2021 — Jeremy White Gear Jul 11, 2021 9:00 AM HOW LEGO PERFECTED THE RECYCL...</p></details>
+   Link:<a href="https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-recycled-plastic-brick/?ct=t%28RSS_EMAIL_CAMPAIGN%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego Perfected the Recycled Plastic Brick | WIREDJuly 11, 2021 — Jeremy White Gear Jul 11, 2021 9:00 AM HOW LEGO PERFECTED THE RECYCL...</p></details>
    Published: July 11, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: lego sustainable bricks  
-   Link: <a href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-sustainable-bricks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These New Lego Pieces Are Made of Sustainable Plastics | WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</p></details>
+   Link:<a href="https://www.wired.com/story/lego-sustainable-bricks/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-sustainable-bricks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These New Lego Pieces Are Made of Sustainable Plastics | WIREDMarch 11, 2018 — Brian Barrett Gear Mar 11, 2018 7:00 AM LEGO BUILDS A SUST...</p></details>
    Published: March 11, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-pt/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-pt/sustainability/product-safety/materials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But one thing they all have in common is the same high standards of quality and saf...</p></details>
+   Link:<a href="https://www.lego.com/en-pt/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-pt/sustainability/product-safety/materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But one thing they all have in common is the same high standards of quality and saf...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-at/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-at/sustainability/product-safety/materials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But one thing they all have in common is the same high standards of quality and saf...</p></details>
+   Link:<a href="https://www.lego.com/en-at/sustainability/product-safety/materials" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-at/sustainability/product-safety/materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But one thing they all have in common is the same high standards of quality and saf...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newelementary.com  
-   Link: <a href="https://www.newelementary.com/2021/06/sustainable-lego-elements-recycled-pet.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newelementary.com/2021/06/sustainable-lego-elements-recycled-pet.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New ElementarySustainable LEGO® bricks: will Recycled PET be the end of ABS? | New Elementary: LEGO® parts, sets and techniquesJune 23, 2021...</p></details>
+   Link:<a href="https://www.newelementary.com/2021/06/sustainable-lego-elements-recycled-pet.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newelementary.com/2021/06/sustainable-lego-elements-recycled-pet.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New ElementarySustainable LEGO® bricks: will Recycled PET be the end of ABS? | New Elementary: LEGO® parts, sets and techniquesJune 23, 2021...</p></details>
    Published: June 23, 2021  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencetimes.com  
-   Link: <a href="https://www.sciencetimes.com/articles/31934/20210627/lego-succeeds-creating-bricks-recycled-pet-plastic-will.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/31934/20210627/lego-succeeds-creating-bricks-recycled-pet-plastic-will.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Succeeds in Creating Recycled PET Plastic Bricks, But Will Take &quot;Some Time&quot; Before Hitting ShelvesJune 27, 2021 — LEGO SUCCEEDS IN C...</p></details>
+   Link:<a href="https://www.sciencetimes.com/articles/31934/20210627/lego-succeeds-creating-bricks-recycled-pet-plastic-will.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/31934/20210627/lego-succeeds-creating-bricks-recycled-pet-plastic-will.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Succeeds in Creating Recycled PET Plastic Bricks, But Will Take &quot;Some Time&quot; Before Hitting ShelvesJune 27, 2021 — LEGO SUCCEEDS IN C...</p></details>
    Published: June 27, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/news/tech/lego-ditches-recycled-plastic-plans-environment-b1109535.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/tech/lego-ditches-recycled-plastic-plans-environment-b1109535.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2023 — LEGO DITCHES RECYCLED PLASTIC PLANS, SAYS IT IS NOT BETTER FOR THE ENVIRONMENT Lego is still pledging to reach net z...</p></details>
+   Link:<a href="https://www.standard.co.uk/news/tech/lego-ditches-recycled-plastic-plans-environment-b1109535.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/tech/lego-ditches-recycled-plastic-plans-environment-b1109535.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2023 — LEGO DITCHES RECYCLED PLASTIC PLANS, SAYS IT IS NOT BETTER FOR THE ENVIRONMENT Lego is still pledging to reach net z...</p></details>
    Published: September 26, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambridgenetwork.co.uk  
-   Link: <a href="https://www.cambridgenetwork.co.uk/news/navigating-challenges-sustainability-lego-abandons-plan-sustainable-bricks" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgenetwork.co.uk/news/navigating-challenges-sustainability-lego-abandons-plan-sustainable-bricks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 20, 2023 — NAVIGATING THE CHALLENGES OF SUSTAINABILITY: LEGO ABANDONS PLAN FOR SUSTAINABLE BRICKS 20 October 2023 Flynn Product D...</p></details>
+   Link:<a href="https://www.cambridgenetwork.co.uk/news/navigating-challenges-sustainability-lego-abandons-plan-sustainable-bricks" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgenetwork.co.uk/news/navigating-challenges-sustainability-lego-abandons-plan-sustainable-bricks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 20, 2023 — NAVIGATING THE CHALLENGES OF SUSTAINABILITY: LEGO ABANDONS PLAN FOR SUSTAINABLE BRICKS 20 October 2023 Flynn Product D...</p></details>
    Published: October 20, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alibaba.com  
-   Link: <a href="https://www.alibaba.com/product-insights/why-are-legos-so-expensive-manufacturing-precision-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/why-are-legos-so-expensive-manufacturing-precision-explained.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Legos So Expensive Manufacturing Precision ExplainedMarch 8, 2026 — MATERIAL QUALITY: BEYOND ORDINARY PLASTIC Lego doesn’t use st...</p></details>
+   Link:<a href="https://www.alibaba.com/product-insights/why-are-legos-so-expensive-manufacturing-precision-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/why-are-legos-so-expensive-manufacturing-precision-explained.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Legos So Expensive Manufacturing Precision ExplainedMarch 8, 2026 — MATERIAL QUALITY: BEYOND ORDINARY PLASTIC Lego doesn’t use st...</p></details>
    Published: March 8, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forbes.com  
    Title: contributors publish independent expert analyses and insights. Nanochemist l  
-   Link: <a href="https://www.forbes.com/sites/sujatakundu/2019/10/30/lego-challenge-to-find-a-strong-sustainable-alternative-plastic/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/sujatakundu/2019/10/30/lego-challenge-to-find-a-strong-sustainable-alternative-plastic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Takes On The Challenge To Find A Strong, Sustainable Alternative PlasticOctober 30, 2019 — LEGO TAKES ON THE CHALLENGE TO FIND A STR...</p></details>
+   Link:<a href="https://www.forbes.com/sites/sujatakundu/2019/10/30/lego-challenge-to-find-a-strong-sustainable-alternative-plastic/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/sujatakundu/2019/10/30/lego-challenge-to-find-a-strong-sustainable-alternative-plastic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Takes On The Challenge To Find A Strong, Sustainable Alternative PlasticOctober 30, 2019 — LEGO TAKES ON THE CHALLENGE TO FIND A STR...</p></details>
    Published: October 30, 2019  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: alibaba.com  
    Title: Why Are Legos So Expensive Explaining Precision Molding And Plastic Quality  
-   Link: <a href="https://www.alibaba.com/product-insights/why-are-legos-so-expensive-explaining-precision-molding-and-plastic-quality.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/why-are-legos-so-expensive-explaining-precision-molding-and-plastic-quality.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2026 — WHY ARE LEGOS SO EXPENSIVE EXPLAINING PRECISION MOLDING AND PLASTIC QUALITY Image: Clara Davis Clara Davis • January 2...</p></details>
+   Link:<a href="https://www.alibaba.com/product-insights/why-are-legos-so-expensive-explaining-precision-molding-and-plastic-quality.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/why-are-legos-so-expensive-explaining-precision-molding-and-plastic-quality.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2026 — WHY ARE LEGOS SO EXPENSIVE EXPLAINING PRECISION MOLDING AND PLASTIC QUALITY Image: Clara Davis Clara Davis • January 2...</p></details>
    Published: January 28, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: keele.ac.uk  
    Title: Lego Sharon George, Keele University and Deirdre Mc Kay, Keele Universi  
-   Link: <a href="https://www.keele.ac.uk/about/news/2018/march/sustainablelegoplasticsfromplantswontsolveapollutioncrisis/lego-plastics-solution.php" target="_blank" rel="noopener noreferrer nofollow">https://www.keele.ac.uk/about/news/2018/march/sustainablelegoplasticsfromplantswontsolveapollutioncrisis/lego-plastics-solution.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>‘Sustainable’ Lego: plastics from plants won’t solve a pollution crisis - Keele UniversityMarch 13, 2018 — 13 March 2018 ‘SUSTAINABLE’ LE...</p></details>
+   Link:<a href="https://www.keele.ac.uk/about/news/2018/march/sustainablelegoplasticsfromplantswontsolveapollutioncrisis/lego-plastics-solution.php" target="_blank" rel="noopener noreferrer nofollow">https://www.keele.ac.uk/about/news/2018/march/sustainablelegoplasticsfromplantswontsolveapollutioncrisis/lego-plastics-solution.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>‘Sustainable’ Lego: plastics from plants won’t solve a pollution crisis - Keele UniversityMarch 13, 2018 — 13 March 2018 ‘SUSTAINABLE’ LE...</p></details>
    Published: March 13, 2018  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsendip.com  
    Title: Lego will not produce bricks entirely made from recycled plastic  
-   Link: <a href="https://www.newsendip.com/lego-will-not-produce-bricks-entirely-made-from-recycled-plastic/" target="_blank" rel="noopener noreferrer nofollow">https://www.newsendip.com/lego-will-not-produce-bricks-entirely-made-from-recycled-plastic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 25, 2023 — Environment LEGO WILL NOT PRODUCE BRICKS ENTIRELY MADE FROM RECYCLED PLASTIC 2 mins read September 25, 2023 by Cléme...</p></details>
+   Link:<a href="https://www.newsendip.com/lego-will-not-produce-bricks-entirely-made-from-recycled-plastic/" target="_blank" rel="noopener noreferrer nofollow">https://www.newsendip.com/lego-will-not-produce-bricks-entirely-made-from-recycled-plastic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 25, 2023 — Environment LEGO WILL NOT PRODUCE BRICKS ENTIRELY MADE FROM RECYCLED PLASTIC 2 mins read September 25, 2023 by Cléme...</p></details>
    Published: September 25, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: alibaba.com  
    Title: Why Are Legos So Expensive Plastic Manufacturing Costs Explained  
-   Link: <a href="https://www.alibaba.com/product-insights/why-are-legos-so-expensive-plastic-manufacturing-costs-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/why-are-legos-so-expensive-plastic-manufacturing-costs-explained.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2026 — WHY ARE LEGOS SO EXPENSIVE PLASTIC MANUFACTURING COSTS EXPLAINED Image: Clara Davis Clara Davis • February 21, 2026 •...</p></details>
+   Link:<a href="https://www.alibaba.com/product-insights/why-are-legos-so-expensive-plastic-manufacturing-costs-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/why-are-legos-so-expensive-plastic-manufacturing-costs-explained.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2026 — WHY ARE LEGOS SO EXPENSIVE PLASTIC MANUFACTURING COSTS EXPLAINED Image: Clara Davis Clara Davis • February 21, 2026 •...</p></details>
    Published: February 21, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dpaonthenet.net  
    Title: LEGO reveals first prototype brick made from recycled plastic  
-   Link: <a href="https://www.dpaonthenet.net/article/186006/LEGO-reveals-first-prototype-brick-made-from-recycled-plastic.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.dpaonthenet.net/article/186006/LEGO-reveals-first-prototype-brick-made-from-recycled-plastic.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2021 — LEGO REVEALS FIRST PROTOTYPE BRICK MADE FROM RECYCLED PLASTIC 07 July 2021 THE LEGO GROUP UNVEILED A PROTOTYPE LEGO BRICK...</p></details>
+   Link:<a href="https://www.dpaonthenet.net/article/186006/LEGO-reveals-first-prototype-brick-made-from-recycled-plastic.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.dpaonthenet.net/article/186006/LEGO-reveals-first-prototype-brick-made-from-recycled-plastic.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2021 — LEGO REVEALS FIRST PROTOTYPE BRICK MADE FROM RECYCLED PLASTIC 07 July 2021 THE LEGO GROUP UNVEILED A PROTOTYPE LEGO BRICK...</p></details>
    Published: July 7, 2021

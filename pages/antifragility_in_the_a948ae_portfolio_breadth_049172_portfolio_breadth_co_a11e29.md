@@ -274,12 +274,12 @@ image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portf
 
 ## Introduction
 
-A broad product portfolio helps LEGO absorb market shocks because weakness in one theme, age group or customer segment can be offset by strength elsewhere. However, the same breadth that creates resilience can also create a different kind of vulnerability: operational [complexity]({{ 'complexity/' | relative_url }}). The more sets LEGO launches, the more forecasts it must make, the more components it must manufacture and move, and the more inventory it must manage across factories, warehouses and retailers. In antifragility terms, [portfolio breadth]({{ 'portfolio/' | relative_url }}) is beneficial only while the underlying system can handle the complexity it generates. Once complexity grows faster than operational discipline, variety can become a source of fragility rather than protection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
+A broad product portfolio helps LEGO absorb market shocks because weakness in one theme, age group or customer segment can be offset by strength elsewhere. However, the same breadth that creates resilience can also create a different kind of vulnerability: operational [complexity]({{ 'complexity/' | relative_url }}). The more sets LEGO launches, the more forecasts it must make, the more components it must manufacture and move, and the more inventory it must manage across factories, warehouses and retailers. In antifragility terms, [portfolio breadth]({{ 'portfolio/' | relative_url }}) is beneficial only while the underlying system can handle the complexity it generates. Once complexity grows faster than operational discipline, variety can become a source of fragility rather than protection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-1-dark.svg" | relative_url }}" alt="Complexity Risk illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a Larger Catalogue Raises Operational Demands
 
-LEGO's portfolio has expanded dramatically. The company reported its largest-ever range in 2024 with 840 products, following a record portfolio in 2023 in which nearly half of products were new. By 2025 the assortment had grown further, exceeding 860 products. Such variety creates more opportunities to reach different customers, but it also multiplies planning challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webwire.com/ViewPressRel.asp?aId=335499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webwire.com">[Webwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webwire.com</span><span class="citation-popover-snippet">The LEGO Group delivers record top- and bottom-line...11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 84...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
+LEGO's portfolio has expanded dramatically. The company reported its largest-ever range in 2024 with 840 products, following a record portfolio in 2023 in which nearly half of products were new. By 2025 the assortment had grown further, exceeding 860 products. Such variety creates more opportunities to reach different customers, but it also multiplies planning challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webwire.com/ViewPressRel.asp?aId=335499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webwire.com">[Webwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webwire.com</span><span class="citation-popover-snippet">The LEGO Group delivers record top- and bottom-line...11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 84...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
 
 Each new set creates several operational questions:
 
@@ -295,7 +295,7 @@ Each new set creates several operational questions:
 
 Errors become more likely as the number of active stock-keeping units increases. A forecasting mistake on one product may be manageable, but hundreds of simultaneous forecasting decisions can create significant overstock or shortages.
 
-This risk is particularly relevant because LEGO intentionally refreshes its portfolio at a high rate. Around half of the assortment is typically new each year. Constant innovation helps keep the brand relevant, yet it also reduces the amount of historical sales data available for forecasting. A recurring City fire station can be modelled from previous releases; a completely new licensed set or adult-oriented product often cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
+This risk is particularly relevant because LEGO intentionally refreshes its portfolio at a high rate. Around half of the assortment is typically new each year. Constant innovation helps keep the brand relevant, yet it also reduces the amount of historical sales data available for forecasting. A recurring City fire station can be modelled from previous releases; a completely new licensed set or adult-oriented product often cannot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
 
 For antifragility, the lesson is that diversity only strengthens the company when information systems, planning processes and operational coordination improve alongside portfolio growth. Otherwise, the organisation becomes harder to predict and control.
 
@@ -303,13 +303,13 @@ For antifragility, the lesson is that diversity only strengthens the company whe
 
 ## How Licences Add Partner and Release-Cycle Exposure
 
-Licensed themes are among LEGO's most successful products. [Star Wars]({{ 'star-wars/' | relative_url }}), Harry Potter and other entertainment properties repeatedly appear among the company's strongest-performing themes. These licences broaden demand and reduce dependence on any single in-house concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webwire.com/ViewPressRel.asp?aId=335499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webwire.com">[Webwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webwire.com</span><span class="citation-popover-snippet">The LEGO Group delivers record top- and bottom-line...11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 84...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebrickfan.com/the-lego-group-2023-annual-results-report-small-but-steady-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebrickfan.com">[The Brick Fan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebrickfan.com</span><span class="citation-popover-title">the lego group 2023 annual results report small but steady growth</span><span class="citation-popover-snippet">Revenue was up 2% compared to 2022 while consumer...</span></span></span>
+Licensed themes are among LEGO's most successful products. [Star Wars]({{ 'star-wars/' | relative_url }}), Harry Potter and other entertainment properties repeatedly appear among the company's strongest-performing themes. These licences broaden demand and reduce dependence on any single in-house concept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webwire.com/ViewPressRel.asp?aId=335499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webwire.com">[Webwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webwire.com</span><span class="citation-popover-snippet">The LEGO Group delivers record top- and bottom-line...11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 84...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebrickfan.com/the-lego-group-2023-annual-results-report-small-but-steady-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebrickfan.com">[The Brick Fan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebrickfan.com</span><span class="citation-popover-title">the lego group 2023 annual results report small but steady growth</span><span class="citation-popover-snippet">Revenue was up 2% compared to 2022 while consumer...</span></span></span>
 
 Yet [licensing]({{ 'licensing/' | relative_url }}) introduces a second layer of complexity beyond normal product management.
 
 Unlike wholly owned themes, licensed products are linked to external organisations, intellectual-property agreements and media release schedules. A delay in a film, television series or game can affect launch timing. Marketing plans often need coordination with partners. Product confidentiality requirements can complicate supply-chain planning and retailer communication.
 
-Licensing also increases portfolio interdependence. A homegrown theme can be adjusted entirely within LEGO's control. A licensed range depends partly on decisions made elsewhere. Even when sales remain strong, the company must manage approvals, contractual obligations and brand-alignment requirements that do not exist for internally owned themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.untaylored.com/post/how-lego-makes-money-the-business-and-revenue-model-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: untaylored.com">[Untaylored]</a><span class="citation-popover" role="note"><span class="citation-popover-source">untaylored.com</span><span class="citation-popover-title">Its revenue streams encompass product sales, licensing</span><span class="citation-popover-snippet">How Lego Makes Money: The Business and Revenue Model...February 22, 2024 — Lego&#x27;s business model thrives on innovation, strong...</span><span class="citation-popover-meta">Published: February 22, 2024</span></span></span>
+Licensing also increases portfolio interdependence. A homegrown theme can be adjusted entirely within LEGO's control. A licensed range depends partly on decisions made elsewhere. Even when sales remain strong, the company must manage approvals, contractual obligations and brand-alignment requirements that do not exist for internally owned themes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.untaylored.com/post/how-lego-makes-money-the-business-and-revenue-model-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: untaylored.com">[Untaylored]</a><span class="citation-popover" role="note"><span class="citation-popover-source">untaylored.com</span><span class="citation-popover-title">Its revenue streams encompass product sales, licensing</span><span class="citation-popover-snippet">How Lego Makes Money: The Business and Revenue Model...February 22, 2024 — Lego&#x27;s business model thrives on innovation, strong...</span><span class="citation-popover-meta">Published: February 22, 2024</span></span></span>
 
 From an antifragility perspective, licences are valuable because they diversify demand sources. However, they also create additional pathways through which disruption can enter the system. The benefit comes from balancing licensed and non-licensed themes rather than allowing the portfolio to become overly dependent on external intellectual property.
 
@@ -318,7 +318,7 @@ From an antifragility perspective, licences are valuable because they diversify 
 
 The practical constraint on portfolio breadth is not design creativity but operational capacity.
 
-LEGO has responded to growing demand by investing heavily in factories, distribution centres and regional production capacity. The company has expanded facilities in Hungary, Mexico and China, opened a new factory in Vietnam, and continued building additional production and distribution infrastructure closer to major markets. These investments are partly a response to growth, but they also reflect the need to support an increasingly large and diverse product portfolio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://manufacturingdigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manufacturingdigital.com">[Manufacturing Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manufacturingdigital.com</span><span class="citation-popover-title">lego group supply chain expansion</span><span class="citation-popover-snippet">LEGO Expands Global Footprint as Demand and Profits RiseSep 4, 2025 — LEGO strengthens global leadership with record growth, expanding ma...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://supplychaindigital.com/[sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supplychaindigital.com">[Supply Chain Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supplychaindigital.com</span><span class="citation-popover-title">lego h1 2024 results growth</span><span class="citation-popover-snippet">Supply Chain Provides Building Blocks for LEGO&#x27;s Growth3 Sept 2024 — LEGO has continued to expand its global supply chain and operations...</span></span></span>
+LEGO has responded to growing demand by investing heavily in factories, distribution centres and regional production capacity. The company has expanded facilities in Hungary, Mexico and China, opened a new factory in Vietnam, and continued building additional production and distribution infrastructure closer to major markets. These investments are partly a response to growth, but they also reflect the need to support an increasingly large and diverse product portfolio.<span class="citation-chip-wrap"><a class="citation-chip" href="https://manufacturingdigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manufacturingdigital.com">[Manufacturing Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manufacturingdigital.com</span><span class="citation-popover-title">lego group supply chain expansion</span><span class="citation-popover-snippet">LEGO Expands Global Footprint as Demand and Profits RiseSep 4, 2025 — LEGO strengthens global leadership with record growth, expanding ma...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://supplychaindigital.com/[sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supplychaindigital.com">[Supply Chain Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supplychaindigital.com</span><span class="citation-popover-title">lego h1 2024 results growth</span><span class="citation-popover-snippet">Supply Chain Provides Building Blocks for LEGO&#x27;s Growth3 Sept 2024 — LEGO has continued to expand its global supply chain and operations...</span></span></span>
 
 A broad catalogue affects operations in several ways:
 
@@ -328,9 +328,9 @@ A broad catalogue affects operations in several ways:
 
 **Distribution complexity.** Thousands of products must reach different regions, channels and retailers at the right time. Seasonal launches and limited-release products increase the difficulty.
 
-**Capital requirements.** Supporting a wider portfolio often requires [investment]({{ 'investment/' | relative_url }}) in warehouses, factories, software and logistics networks. LEGO's recent reports show continued spending on factories and long-term capacity expansion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
+**Capital requirements.** Supporting a wider portfolio often requires [investment]({{ 'investment/' | relative_url }}) in warehouses, factories, software and logistics networks. LEGO's recent reports show continued spending on factories and long-term capacity expansion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
 
-This is why portfolio breadth cannot be evaluated independently from supply-chain capability. A company that doubles its assortment without strengthening operations may become more fragile. LEGO's recent performance suggests it has largely avoided that outcome by investing aggressively in manufacturing and distribution while expanding its range. The company's own 2024 results highlighted both a large and diverse portfolio and a resilient supply chain as contributors to growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
+This is why portfolio breadth cannot be evaluated independently from supply-chain capability. A company that doubles its assortment without strengthening operations may become more fragile. LEGO's recent performance suggests it has largely avoided that outcome by investing aggressively in manufacturing and distribution while expanding its range. The company's own 2024 results highlighted both a large and diverse portfolio and a resilient supply chain as contributors to growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-3-dark.svg" | relative_url }}" alt="Complexity Risk illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Antifragile Balance: Variety Without Overextension
@@ -339,199 +339,199 @@ The key tension is not whether LEGO should have many themes and sets, but how ma
 
 Too little variety would leave the company exposed to shifts in consumer tastes. Too much variety could create forecasting errors, inventory inefficiencies, organisational complexity and dependence on increasingly intricate supply-chain coordination. The optimal position lies between those extremes.
 
-LEGO's recent history suggests that breadth has remained an asset because it has been accompanied by investment in factories, distribution networks, planning systems and operational capacity. The company has expanded its portfolio while simultaneously expanding the infrastructure needed to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://supplychaindigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supplychaindigital.com">[Supply Chain Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supplychaindigital.com</span><span class="citation-popover-snippet">Supply Chain DigitalThe LEGO Group: Consumer Demand &amp;...Sep 3, 2025 — The LEGO Group has achieved double-digit top-and bottom-line growt...</span></span></span>
+LEGO's recent history suggests that breadth has remained an asset because it has been accompanied by investment in factories, distribution networks, planning systems and operational capacity. The company has expanded its portfolio while simultaneously expanding the infrastructure needed to support it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group 2023 Financial Highlights</span><span class="citation-popover-snippet">LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://supplychaindigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supplychaindigital.com">[Supply Chain Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supplychaindigital.com</span><span class="citation-popover-snippet">Supply Chain DigitalThe LEGO Group: Consumer Demand &amp;...Sep 3, 2025 — The LEGO Group has achieved double-digit top-and bottom-line growt...</span></span></span>
 
 For understanding antifragility, this distinction is crucial. Portfolio breadth is not automatically protective. It becomes protective only when the organisation can absorb the additional complexity. LEGO's challenge is therefore not simply creating more sets, but ensuring that every increase in variety is matched by the operational discipline required to make that variety manageable.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When More LEGO Sets Become a Risk. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When More LEGO Sets Become a Risk. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n81SEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
-        </h4>
-        <p class="fr-book-author">By Donella Meadows</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n81SEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
+</h4>
+<p class="fr-book-author">By Donella Meadows</p>
         
-        <p class="fr-book-desc">Explains how complexity grows as systems expand.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how complexity grows as systems expand.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal (Excellence In Manufacturing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14969992-M.jpg" alt="Cover for The Goal (Excellence In Manufacturing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal (Excellence In Manufacturing)">The Goal (Excellence In Manufacturing)</a>
-        </h4>
-        <p class="fr-book-author">By Eliyahu M. Goldratt and Jeff Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal (Excellence In Manufacturing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14969992-M.jpg" alt="Cover for The Goal (Excellence In Manufacturing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal (Excellence In Manufacturing)">The Goal (Excellence In Manufacturing)</a>
+</h4>
+<p class="fr-book-author">By Eliyahu M. Goldratt and Jeff Cox</p>
         
-        <p class="fr-book-desc">First published 1984.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1984.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick">Brick by Brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick">Brick by Brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly covers portfolio expansion, complexity and LEGO&#x27;s recovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers portfolio expansion, complexity and LEGO&#x27;s recovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
         
-        <p class="fr-book-desc">Provides the core antifragility framework behind portfolio breadth and fragility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the core antifragility framework behind portfolio breadth and fragility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Goal (Excellence In Manufacturing)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by Brick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Goal (Excellence In Manufacturing)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by Brick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic Ford GT 42154 Built DISPLAY Model No Box With Instructions"><img src="https://i.ebayimg.com/images/g/IbUAAeSw3AdqJC4b/s-l225.jpg" alt="Listing image for LEGO Technic Ford GT 42154 Built DISPLAY Model No Box With Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic Ford GT 42154 Built DISPLAY Model No Box With Instructions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic Ford GT 42154 Built DISPLAY Model No Box With Instructions"><img src="https://i.ebayimg.com/images/g/IbUAAeSw3AdqJC4b/s-l225.jpg" alt="Listing image for LEGO Technic Ford GT 42154 Built DISPLAY Model No Box With Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic Ford GT 42154 Built DISPLAY Model No Box With Instructions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Nintendo Game Boy Display Model Kit with Zelda &amp; Mario Cartridges - 72046"><img src="https://i.ebayimg.com/images/g/N0gAAeSwauBpdTdq/s-l225.jpg" alt="Listing image for LEGO Nintendo Game Boy Display Model Kit with Zelda &amp; Mario Cartridges - 72046" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Nintendo Game Boy Display Model Kit with Zelda &amp; Mario Cartridges - 72046</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Nintendo Game Boy Display Model Kit with Zelda &amp; Mario Cartridges - 72046"><img src="https://i.ebayimg.com/images/g/N0gAAeSwauBpdTdq/s-l225.jpg" alt="Listing image for LEGO Nintendo Game Boy Display Model Kit with Zelda &amp; Mario Cartridges - 72046" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Nintendo Game Boy Display Model Kit with Zelda &amp; Mario Cartridges - 72046</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Baby Elephant in the Sky Gift Set 40814 Creative Display Model"><img src="https://i.ebayimg.com/images/g/aCkAAeSwev1qJ-mO/s-l225.jpg" alt="Listing image for LEGO Baby Elephant in the Sky Gift Set 40814 Creative Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Baby Elephant in the Sky Gift Set 40814 Creative Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Baby Elephant in the Sky Gift Set 40814 Creative Display Model"><img src="https://i.ebayimg.com/images/g/aCkAAeSwev1qJ-mO/s-l225.jpg" alt="Listing image for LEGO Baby Elephant in the Sky Gift Set 40814 Creative Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Baby Elephant in the Sky Gift Set 40814 Creative Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney 43300 Winnie the Pooh Display Model Kit"><img src="https://i.ebayimg.com/images/g/yUEAAeSwqBVp5KlL/s-l225.jpg" alt="Listing image for LEGO Disney 43300 Winnie the Pooh Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney 43300 Winnie the Pooh Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney 43300 Winnie the Pooh Display Model Kit"><img src="https://i.ebayimg.com/images/g/yUEAAeSwqBVp5KlL/s-l225.jpg" alt="Listing image for LEGO Disney 43300 Winnie the Pooh Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney 43300 Winnie the Pooh Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-more-lego-sets-become-a-risk-lego-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display model" data-ebay-reference="when-more-lego-sets-become-a-risk-lego-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ For understanding antifragility, this distinction is crucial. Portfolio breadth 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ For understanding antifragility, this distinction is crucial. Portfolio breadth 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ For understanding antifragility, this distinction is crucial. Portfolio breadth 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ For understanding antifragility, this distinction is crucial. Portfolio breadth 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ For understanding antifragility, this distinction is crucial. Portfolio breadth 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,170 +737,170 @@ For understanding antifragility, this distinction is crucial. Portfolio breadth 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report12 Mar 2024 — Largest portfolio ever. 47% of products were new. LEGO® Insiders membership programme launched in Au...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report12 Mar 2024 — Largest portfolio ever. 47% of products were new. LEGO® Insiders membership programme launched in Au...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The company achieved record revenue and operating profit, outpacing the toy market with significant...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company achieved record revenue and operating profit, outpacing the toy market with significant...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: webwire.com  
-   Link: <a href="https://www.webwire.com/ViewPressRel.asp?aId=335499" target="_blank" rel="noopener noreferrer nofollow">https://www.webwire.com/ViewPressRel.asp?aId=335499</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group delivers record top- and bottom-line...11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 84...</p></details>
+   Link:<a href="https://www.webwire.com/ViewPressRel.asp?aId=335499" target="_blank" rel="noopener noreferrer nofollow">https://www.webwire.com/ViewPressRel.asp?aId=335499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group delivers record top- and bottom-line...11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 84...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group 2025 Full Year Results - About UsMarch 10, 2026 — The LEGO Group today reported earnings for the full year of 2025, achiev...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group 2025 Full Year Results - About UsMarch 10, 2026 — The LEGO Group today reported earnings for the full year of 2025, achiev...</p></details>
    Published: March 10, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: untaylored.com  
    Title: Its revenue streams encompass product sales, licensing  
-   Link: <a href="https://www.untaylored.com/post/how-lego-makes-money-the-business-and-revenue-model-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.untaylored.com/post/how-lego-makes-money-the-business-and-revenue-model-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego Makes Money: The Business and Revenue Model...February 22, 2024 — Lego&#x27;s business model thrives on innovation, strong...</p></details>
+   Link:<a href="https://www.untaylored.com/post/how-lego-makes-money-the-business-and-revenue-model-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.untaylored.com/post/how-lego-makes-money-the-business-and-revenue-model-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego Makes Money: The Business and Revenue Model...February 22, 2024 — Lego&#x27;s business model thrives on innovation, strong...</p></details>
    Published: February 22, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
    Title: Store Annual Report  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual ReportMarch 10, 2026 — Investments for the future. To support our long-term growth, we continued expansions at factories...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual ReportMarch 10, 2026 — Investments for the future. To support our long-term growth, we continued expansions at factories...</p></details>
    Published: March 10, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
    Title: LEGO Group 2023 Financial Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltae284fd27d06ccb4/LEGO_Group_2023_Financial_Highlights.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Store2023 Financial Highlights of the LEGO GroupMarch 6, 2024 — Cash flow from operating activities increased one percent. Investmen...</p></details>
    Published: March 6, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
    Title: 2022 annual results  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2023/march/2022-annual-results" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/march/2022-annual-results</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comMarch 6, 2023 — The LEGO Group today reported strong earnings for the full year of 2022, significantly outpacing the t...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2023/march/2022-annual-results" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2023/march/2022-annual-results</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comMarch 6, 2023 — The LEGO Group today reported strong earnings for the full year of 2022, significantly outpacing the t...</p></details>
    Published: March 6, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Performance Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Performance Highlights of the LEGO Group840. Expanded. LEGO® Botanical Collection products, 46% were new in 2024. 5+ million downloa...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Performance Highlights of the LEGO Group840. Expanded. LEGO® Botanical Collection products, 46% were new in 2024. 5+ million downloa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comOur Responsibility Report accounts for the LEGO Group&#x27;s development and activities and serves as our annual Communicat...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comOur Responsibility Report accounts for the LEGO Group&#x27;s development and activities and serves as our annual Communicat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: the lego group achieves double digit top and bottom line growth in h1 2025  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group H1 2025 - About Us27 Aug 2025 — LEGO Group reports H1 2025 revenue up 12% to DKK 34.6B, profit up 10%, driven by innovatio...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group H1 2025 - About Us27 Aug 2025 — LEGO Group reports H1 2025 revenue up 12% to DKK 34.6B, profit up 10%, driven by innovatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — The majority of the LEGO Group&#x27;s sales are in foreign currencies, and the risks relating to currency fluctuati...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — The majority of the LEGO Group&#x27;s sales are in foreign currencies, and the risks relating to currency fluctuati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
    Title: lego delivered topline growth and outpaced market in 2023  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Mar 2024 — The LEGO Group today reported earnings for full year 2023 showing that the company grew two percent to DKK 65.9 billion...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Mar 2024 — The LEGO Group today reported earnings for full year 2023 showing that the company grew two percent to DKK 65.9 billion...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thebrickfan.com  
    Title: the lego group 2023 annual results report small but steady growth  
-   Link: <a href="https://www.thebrickfan.com/the-lego-group-2023-annual-results-report-small-but-steady-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/the-lego-group-2023-annual-results-report-small-but-steady-growth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue was up 2% compared to 2022 while consumer...</p></details>
+   Link:<a href="https://www.thebrickfan.com/the-lego-group-2023-annual-results-report-small-but-steady-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/the-lego-group-2023-annual-results-report-small-but-steady-growth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue was up 2% compared to 2022 while consumer...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: supplychaindigital.com  
    Title: lego h1 2024 results growth  
-   Link: <a href="https://supplychaindigital.com/[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/[sustainability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supply Chain Provides Building Blocks for LEGO&#x27;s Growth3 Sept 2024 — LEGO has continued to expand its global supply chain and operations...</p></details>
+   Link:<a href="https://supplychaindigital.com/[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/[sustainability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supply Chain Provides Building Blocks for LEGO&#x27;s Growth3 Sept 2024 — LEGO has continued to expand its global supply chain and operations...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: supplychaindigital.com  
-   Link: <a href="https://supplychaindigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/news/lego-group-supply-chain-expansion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supply Chain DigitalThe LEGO Group: Consumer Demand &amp;...Sep 3, 2025 — The LEGO Group has achieved double-digit top-and bottom-line growt...</p></details>
+   Link:<a href="https://supplychaindigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/news/lego-group-supply-chain-expansion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supply Chain DigitalThe LEGO Group: Consumer Demand &amp;...Sep 3, 2025 — The LEGO Group has achieved double-digit top-and bottom-line growt...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: manufacturingdigital.com  
    Title: lego group supply chain expansion  
-   Link: <a href="https://manufacturingdigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow">https://manufacturingdigital.com/news/lego-group-supply-chain-expansion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Expands Global Footprint as Demand and Profits RiseSep 4, 2025 — LEGO strengthens global leadership with record growth, expanding ma...</p></details>
+   Link:<a href="https://manufacturingdigital.com/news/lego-group-supply-chain-expansion" target="_blank" rel="noopener noreferrer nofollow">https://manufacturingdigital.com/news/lego-group-supply-chain-expansion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Expands Global Footprint as Demand and Profits RiseSep 4, 2025 — LEGO strengthens global leadership with record growth, expanding ma...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: supplychaindigital.com  
    Title: lego scaling production and sustainability  
-   Link: <a href="https://supplychaindigital.com/news/lego-scaling-production-and-sustainability" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/news/lego-scaling-production-and-sustainability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Impact: Scaling Production and Sustainability23 Mar 2026 — The LEGO Group&#x27;s 2025 Annual Results navigate supply chain complexiti...</p></details>
+   Link:<a href="https://supplychaindigital.com/news/lego-scaling-production-and-sustainability" target="_blank" rel="noopener noreferrer nofollow">https://supplychaindigital.com/news/lego-scaling-production-and-sustainability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Impact: Scaling Production and Sustainability23 Mar 2026 — The LEGO Group&#x27;s 2025 Annual Results navigate supply chain complexiti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: annualreports.com  
-   Link: <a href="https://www.annualreports.com/Company/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreports.com/Company/lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most Recent Annual Report. LEGO. MOST RECENT 2024 Annual Report. View PDF. View 2024 Sustainability Statement. This company has a Sustain...</p></details>
+   Link:<a href="https://www.annualreports.com/Company/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreports.com/Company/lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most Recent Annual Report. LEGO. MOST RECENT 2024 Annual Report. View PDF. View 2024 Sustainability Statement. This company has a Sustain...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: learningthroughplay.com  
-   Link: <a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportsIn the LEGO Foundation annual reports you can find our management reviews and financial statements. Part of this is our sus...</p></details>
+   Link:<a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportsIn the LEGO Foundation annual reports you can find our management reviews and financial statements. Part of this is our sus...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/procurement-commercial-recruiter-interim-management_consumer-retail-procurement-activity-7437111993506983936-K690" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/procurement-commercial-recruiter-interim-management_consumer-retail-procurement-activity-7437111993506983936-K690</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group Reports Record Year with Double-Digit GrowthDemand for Lego products was high in all market groups and among both children and...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/procurement-commercial-recruiter-interim-management_consumer-retail-procurement-activity-7437111993506983936-K690" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/procurement-commercial-recruiter-interim-management_consumer-retail-procurement-activity-7437111993506983936-K690</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group Reports Record Year with Double-Digit GrowthDemand for Lego products was high in all market groups and among both children and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/18r6416/lego_financial_health_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/18r6416/lego_financial_health_question/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego financial health question: r/legoLicensed IPs keep sales strong. Adult collectors are a massive part of the market. They finally ha...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/18r6416/lego_financial_health_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/18r6416/lego_financial_health_question/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego financial health question: r/legoLicensed IPs keep sales strong. Adult collectors are a massive part of the market. They finally ha...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jaysbrickblog.com  
-   Link: <a href="https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s first half of 2023 financial performance slows down...30 Aug 2023 — The bad news continues with net profit declining to 5.1 billi...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s first half of 2023 financial performance slows down...30 Aug 2023 — The bad news continues with net profit declining to 5.1 billi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tina-kuroki-95a2a726a_lego-2024-annual-report-showcases-manufacturing-activity-7306111954484400129-axip" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tina-kuroki-95a2a726a_lego-2024-annual-report-showcases-manufacturing-activity-7306111954484400129-axip</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tina Kuroki&#x27;s Post13 Mar 2025 — the LEGO Group is stacking up both profits and sustainability wins! In 2024, their revenue clicked up by...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tina-kuroki-95a2a726a_lego-2024-annual-report-showcases-manufacturing-activity-7306111954484400129-axip" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tina-kuroki-95a2a726a_lego-2024-annual-report-showcases-manufacturing-activity-7306111954484400129-axip</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tina Kuroki&#x27;s Post13 Mar 2025 — the LEGO Group is stacking up both profits and sustainability wins! In 2024, their revenue clicked up by...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Shay&#x27;s Post11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 840 products designed for builders of all ages a...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ryan-shay_tremendous-news-today-the-lego-group-issued-activity-7305216922671853568-3xHA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Shay&#x27;s Post11 Mar 2025 — The 2024 portfolio was the LEGO Group&#x27;s largest ever, with 840 products designed for builders of all ages a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: productsofchange.com  
-   Link: <a href="https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-[materials" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-[materials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group grows revenue and sustainable materials...28 Aug 2024 — The LEGO Group grow its revenue to DKK 31bn (€4.1bn), so too has...</p></details>
+   Link:<a href="https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-[materials" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/the-lego-group-grows-revenue-and-sustainable-[materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group grows revenue and sustainable materials...28 Aug 2024 — The LEGO Group grow its revenue to DKK 31bn (€4.1bn), so too has...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jaysbrickblog.com  
-   Link: <a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group posts stellar 2024 financial results with...11 Mar 2025 — The LEGO Group has announced the full year financial results fo...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group posts stellar 2024 financial results with...11 Mar 2025 — The LEGO Group has announced the full year financial results fo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
    Title: lego group the lego group fy 2024 results activity 7305136564492247040 NYuV  
-   Link: <a href="https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group FY 2024 resultsExciting news from all of us at the LEGO Group! We&#x27;re thrilled to share our record annual results for 2024...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lego-group_the-lego-group-fy-2024-results-activity-7305136564492247040-NYuV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group FY 2024 resultsExciting news from all of us at the LEGO Group! We&#x27;re thrilled to share our record annual results for 2024...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: regnskaber.cvrapi.dk  
-   Link: <a href="https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzLzhlLzQ1LzE4Lzc5LzYzYzMtNGZmNC1iNDIwLWMyYWI2OWY2MWUxYQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzLzhlLzQ1LzE4Lzc5LzYzYzMtNGZmNC1iNDIwLWMyYWI2OWY2MWUxYQ.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AS21 May 2026 — Investments for the future. To support our long-term growth, we continued expansions at factories and offices We celebrat...</p></details>
+   Link:<a href="https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzLzhlLzQ1LzE4Lzc5LzYzYzMtNGZmNC1iNDIwLWMyYWI2OWY2MWUxYQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regnskaber.cvrapi.dk/xhtml/91526545/amNsb3VkczovLzAzLzhlLzQ1LzE4Lzc5LzYzYzMtNGZmNC1iNDIwLWMyYWI2OWY2MWUxYQ.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AS21 May 2026 — Investments for the future. To support our long-term growth, we continued expansions at factories and offices We celebrat...</p></details>
    Published: May 2026

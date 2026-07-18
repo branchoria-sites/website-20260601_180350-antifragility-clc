@@ -274,18 +274,18 @@ image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_le
 
 ## Introduction
 
-LEGO’s performance in 2023 and 2024 is often cited as evidence of resilience because the company continued to grow while much of the toy industry weakened. An equally important signal, however, is that LEGO did not respond to market pressure by retreating. Instead, it continued to invest heavily in [sustainability]({{ 'sustainability/' | relative_url }}), digital initiatives, manufacturing capacity, logistics and retail expansion. Those investments reduced short-term profitability in some cases, but they expanded the company’s future [options]({{ 'options/' | relative_url }}) and strengthened its ability to adapt to future shocks. From an antifragility perspective, the key question is not whether LEGO survived a difficult market. It is whether the company used that difficult period to become stronger than it would have been otherwise. The evidence from 2023 and 2024 suggests that it did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+LEGO’s performance in 2023 and 2024 is often cited as evidence of resilience because the company continued to grow while much of the toy industry weakened. An equally important signal, however, is that LEGO did not respond to market pressure by retreating. Instead, it continued to invest heavily in [sustainability]({{ 'sustainability/' | relative_url }}), digital initiatives, manufacturing capacity, logistics and retail expansion. Those investments reduced short-term profitability in some cases, but they expanded the company’s future [options]({{ 'options/' | relative_url }}) and strengthened its ability to adapt to future shocks. From an antifragility perspective, the key question is not whether LEGO survived a difficult market. It is whether the company used that difficult period to become stronger than it would have been otherwise. The evidence from 2023 and 2024 suggests that it did.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-1-dark.svg" | relative_url }}" alt="Investment illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Sustainability and digital spending in the results
 
-One of the clearest features of LEGO’s recent financial results is that management repeatedly chose investment over short-term profit maximisation. In 2023, revenue rose to DKK 65.9 billion and consumer sales increased 4% despite a declining toy market. Yet operating profit fell compared with the previous year because LEGO accelerated spending on strategic initiatives intended to support future growth. The company explicitly linked lower profitability to increased investment rather than to a collapse in underlying demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+One of the clearest features of LEGO’s recent financial results is that management repeatedly chose investment over short-term profit maximisation. In 2023, revenue rose to DKK 65.9 billion and consumer sales increased 4% despite a declining toy market. Yet operating profit fell compared with the previous year because LEGO accelerated spending on strategic initiatives intended to support future growth. The company explicitly linked lower profitability to increased investment rather than to a collapse in underlying demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
-Those strategic initiatives included sustainability programmes, digital capabilities and new forms of play. During the period, LEGO continued work on reducing the environmental impact of its products and supply chain while also investing in digital experiences such as its collaboration with Epic Games around LEGO Fortnite. These initiatives required spending before generating clear financial returns, but they expanded the company's future growth possibilities beyond its traditional toy business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego outplays wobbly game market</span><span class="citation-popover-snippet">The Danish toy manufacturer reported a 4% growth in consumer sales, against a 7% overall market decline, with significant growth in the U...</span></span></span>
+Those strategic initiatives included sustainability programmes, digital capabilities and new forms of play. During the period, LEGO continued work on reducing the environmental impact of its products and supply chain while also investing in digital experiences such as its collaboration with Epic Games around LEGO Fortnite. These initiatives required spending before generating clear financial returns, but they expanded the company's future growth possibilities beyond its traditional toy business.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Lego outplays wobbly game market</span><span class="citation-popover-snippet">The Danish toy manufacturer reported a 4% growth in consumer sales, against a 7% overall market decline, with significant growth in the U...</span></span></span>
 
-The same pattern appeared in 2024. Revenue increased 13% to DKK 74.3 billion and operating profit rose to DKK 18.7 billion, yet LEGO still increased spending on strategic priorities. The company highlighted greater investment in sustainability and digital technology and reported that half of the [materials]({{ 'materials/' | relative_url }}) it purchased during 2024 came from sustainable sources, more than doubling its mass-balance sustainable material purchases compared with the previous year. Rather than waiting for ideal market conditions, LEGO used its strong cash generation to continue funding long-term transformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+The same pattern appeared in 2024. Revenue increased 13% to DKK 74.3 billion and operating profit rose to DKK 18.7 billion, yet LEGO still increased spending on strategic priorities. The company highlighted greater investment in sustainability and digital technology and reported that half of the [materials]({{ 'materials/' | relative_url }}) it purchased during 2024 came from sustainable sources, more than doubling its mass-balance sustainable material purchases compared with the previous year. Rather than waiting for ideal market conditions, LEGO used its strong cash generation to continue funding long-term transformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
-This matters because many companies facing a weak industry cycle choose to cut discretionary spending. LEGO largely did the opposite. Its leadership argued that a strong financial position allowed it to continue investing in digital capabilities, sustainability and manufacturing even when the wider toy market was under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbrains.com">[Brick Brains]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbrains.com</span><span class="citation-popover-title">Brick Brains The LEGO Group Outpaced Declining Toy Industry in H1</span><span class="citation-popover-snippet">Brick BrainsThe LEGO Group Outpaced Declining Toy Industry in H1...August 30, 2023 — 30 Aug 2023 — “Our strong financial position allows...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+This matters because many companies facing a weak industry cycle choose to cut discretionary spending. LEGO largely did the opposite. Its leadership argued that a strong financial position allowed it to continue investing in digital capabilities, sustainability and manufacturing even when the wider toy market was under pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbrains.com">[Brick Brains]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbrains.com</span><span class="citation-popover-title">Brick Brains The LEGO Group Outpaced Declining Toy Industry in H1</span><span class="citation-popover-snippet">Brick BrainsThe LEGO Group Outpaced Declining Toy Industry in H1...August 30, 2023 — 30 Aug 2023 — “Our strong financial position allows...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xflhulapdf8" title="Lego grabs bigger share of the declining toy market" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xflhulapdf8" target="_blank" rel="noopener noreferrer">Lego grabs bigger share of the declining toy market</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 1.1K &middot; Uploaded: August 2023 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xflhulapdf8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xflhulapdf8">Open on YouTube</a></p></div></div></div>
 
@@ -293,13 +293,13 @@ This matters because many companies facing a weak industry cycle choose to cut d
 
 The most visible evidence of LEGO’s willingness to invest through weakness was its expansion of physical capacity.
 
-In 2023, while the global toy market declined sharply, LEGO continued investing in manufacturing facilities, offices and retail stores. The company opened 147 branded stores during the year, pushing its global network beyond 1,000 locations. More than half of those openings were in China, even though China itself had become a more challenging market. This was a long-term capacity decision rather than a short-term response to current demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</span></span></span>
+In 2023, while the global toy market declined sharply, LEGO continued investing in manufacturing facilities, offices and retail stores. The company opened 147 branded stores during the year, pushing its global network beyond 1,000 locations. More than half of those openings were in China, even though China itself had become a more challenging market. This was a long-term capacity decision rather than a short-term response to current demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</span></span></span>
 
-The manufacturing strategy followed the same logic. LEGO continued expanding production capacity in existing facilities while developing new factories closer to major customer markets. The company had already committed to large projects in Vietnam and Virginia in the United States, reflecting a broader strategy of regionalising production and reducing dependence on long global supply chains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbrains.com">[Brick Brains]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbrains.com</span><span class="citation-popover-title">Brick Brains The LEGO Group Outpaced Declining Toy Industry in H1</span><span class="citation-popover-snippet">Brick BrainsThe LEGO Group Outpaced Declining Toy Industry in H1...August 30, 2023 — 30 Aug 2023 — “Our strong financial position allows...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+The manufacturing strategy followed the same logic. LEGO continued expanding production capacity in existing facilities while developing new factories closer to major customer markets. The company had already committed to large projects in Vietnam and Virginia in the United States, reflecting a broader strategy of regionalising production and reducing dependence on long global supply chains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbrains.com">[Brick Brains]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbrains.com</span><span class="citation-popover-title">Brick Brains The LEGO Group Outpaced Declining Toy Industry in H1</span><span class="citation-popover-snippet">Brick BrainsThe LEGO Group Outpaced Declining Toy Industry in H1...August 30, 2023 — 30 Aug 2023 — “Our strong financial position allows...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
-These investments carried costs. Building factories, expanding distribution networks and opening stores increase expenses long before they contribute fully to revenue. Yet LEGO’s management viewed them as preparation for future growth rather than optional spending that could be postponed until conditions improved. Reuters reported that the company’s long-term approach involved placing production closer to consumers, improving supply-chain flexibility and reducing vulnerability to disruptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The Danish company invested $1 billion in this initiative, aligning with its strategy of situating facilities near major markets to contr...</span></span></span>
+These investments carried costs. Building factories, expanding distribution networks and opening stores increase expenses long before they contribute fully to revenue. Yet LEGO’s management viewed them as preparation for future growth rather than optional spending that could be postponed until conditions improved. Reuters reported that the company’s long-term approach involved placing production closer to consumers, improving supply-chain flexibility and reducing vulnerability to disruptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The Danish company invested $1 billion in this initiative, aligning with its strategy of situating facilities near major markets to contr...</span></span></span>
 
-The distribution network was expanded alongside manufacturing. The Vietnam project, for example, included not only a factory but also a regional distribution centre designed to improve agility across Asia-Pacific markets. The objective was not merely greater scale but greater adaptability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — COPENHAGEN, Aug 28 (Reuters) - Lego&#x27;s sales of its colorful...</span></span></span>
+The distribution network was expanded alongside manufacturing. The Vietnam project, for example, included not only a factory but also a regional distribution centre designed to improve agility across Asia-Pacific markets. The objective was not merely greater scale but greater adaptability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — COPENHAGEN, Aug 28 (Reuters) - Lego&#x27;s sales of its colorful...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-3-dark.svg" | relative_url }}" alt="Investment illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -308,212 +308,212 @@ The distribution network was expanded alongside manufacturing. The Vietnam proje
 
 Resilience means absorbing a shock and continuing to function. Antifragility goes further: it means using stress, disruption or volatility to emerge in a stronger position.
 
-LEGO’s investment decisions during 2023 and 2024 fit that logic because they transformed industry weakness into an opportunity for relative strengthening. While competitors such as Mattel and Hasbro faced stagnant or declining sales, LEGO continued to gain [market share]({{ 'market-share/' | relative_url }}) and fund future capabilities. The result was not simply survival but an expansion of competitive advantages. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</span></span></span>
+LEGO’s investment decisions during 2023 and 2024 fit that logic because they transformed industry weakness into an opportunity for relative strengthening. While competitors such as Mattel and Hasbro faced stagnant or declining sales, LEGO continued to gain [market share]({{ 'market-share/' | relative_url }}) and fund future capabilities. The result was not simply survival but an expansion of competitive advantages. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</span></span></span>
 
 Several mechanisms are visible:
 
-* **Market-share capture:** Continued investment allowed LEGO to strengthen its position while weaker competitors reduced activity or struggled with declining demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego grabs bigger share declining toy market 2023 08 30</span><span class="citation-popover-snippet">Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</span></span></span>
-* **Future-option creation:** Sustainability programmes, digital platforms and new play experiences created additional paths for growth beyond traditional brick sales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
-* **Supply-chain flexibility:** New factories and distribution centres reduced dependence on distant production and increased responsiveness to regional demand changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Lego sales rise as bricks click with more shoppers11 Mar 2025 — Lego keeps growing in struggling toy market; Revenue up 13...</span></span></span>
-* **Retail reach:** Store expansion increased direct customer access and reduced reliance on third-party retailers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</span></span></span>
+* **Market-share capture:** Continued investment allowed LEGO to strengthen its position while weaker competitors reduced activity or struggled with declining demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">lego grabs bigger share declining toy market</span><span class="citation-popover-snippet">Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</span></span></span>
+* **Future-option creation:** Sustainability programmes, digital platforms and new play experiences created additional paths for growth beyond traditional brick sales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+* **Supply-chain flexibility:** New factories and distribution centres reduced dependence on distant production and increased responsiveness to regional demand changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Lego sales rise as bricks click with more shoppers11 Mar 2025 — Lego keeps growing in struggling toy market; Revenue up 13...</span></span></span>
+* **Retail reach:** Store expansion increased direct customer access and reduced reliance on third-party retailers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</span></span></span>
 
-The trade-off was real. Profit margins faced pressure in 2023 because investment spending rose faster than earnings. A company focused only on quarterly performance might have avoided those costs. LEGO instead accepted lower near-term profitability in exchange for a stronger strategic position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+The trade-off was real. Profit margins faced pressure in 2023 because investment spending rose faster than earnings. A company focused only on quarterly performance might have avoided those costs. LEGO instead accepted lower near-term profitability in exchange for a stronger strategic position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
-Viewed through the lens of antifragility, this is the most significant lesson from LEGO’s 2023 and 2024 results. The company did not merely endure a weak toy market. It used a period of industry stress to expand capabilities, strengthen infrastructure and increase future flexibility. Those investments gave LEGO more ways to grow when conditions improved, making the company stronger after the downturn than before it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+Viewed through the lens of antifragility, this is the most significant lesson from LEGO’s 2023 and 2024 results. The company did not merely endure a weak toy market. It used a period of industry stress to expand capabilities, strengthen infrastructure and increase future flexibility. Those investments gave LEGO more ways to grow when conditions improved, making the company stronger after the downturn than before it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Fl6aQO0ZY0" title="How Lego Keeps Beating The Rest Of The Toy Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Fl6aQO0ZY0" target="_blank" rel="noopener noreferrer">How Lego Keeps Beating The Rest Of The Toy Industry</a></p><p class="youtube-embed-meta">Channel: CNBC &middot; Views: 31.5K &middot; Uploaded: March 2026 &middot; Length: 3 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Fl6aQO0ZY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Fl6aQO0ZY0">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ACyIRd2hc_w" title="Lego outplays wobbly game market | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ACyIRd2hc_w" target="_blank" rel="noopener noreferrer">Lego outplays wobbly game market | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 768 &middot; Uploaded: March 2024 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ACyIRd2hc_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ACyIRd2hc_w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why LEGO kept spending during pressure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why LEGO kept spending during pressure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains LEGO&#x27;s long-term investment philosophy and growth decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains LEGO&#x27;s long-term investment philosophy and growth decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great+Jim+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/53111-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+to+Great+Jim+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
-        </h4>
-        <p class="fr-book-author">By Jim Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great+Jim+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/53111-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+to+Great+Jim+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
+</h4>
+<p class="fr-book-author">By Jim Collins</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: business, Leadership, Technological innovations, Management, Strategic planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+to+Great+Jim+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: business, Leadership, Technological innovations, Management, Strategic planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+to+Great+Jim+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Built to Last on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/684195-M.jpg" alt="Cover for Built to Last" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Built to Last">Built to Last</a>
-        </h4>
-        <p class="fr-book-author">By Collins, James C., Jim Collins et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Built to Last on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/684195-M.jpg" alt="Cover for Built to Last" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Built to Last">Built to Last</a>
+</h4>
+<p class="fr-book-author">By Collins, James C., Jim Collins et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Success in business, Industrial management, Entrepreneurship, Success in business -- United States, Busin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Success in business, Industrial management, Entrepreneurship, Success in business -- United States, Busin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the antifragility framework used to interpret LEGO&#x27;s investment choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the antifragility framework used to interpret LEGO&#x27;s investment choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good to Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Built+to+Last&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Built to Last</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good to Great</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Built+to+Last&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Built to Last</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Galaxy Explorer Icons Set 10497 | BNSIB | FAST DISPATCH 📦💨"><img src="https://i.ebayimg.com/images/g/jRAAAeSwTFBp~hzK/s-l225.jpg" alt="Listing image for LEGO Galaxy Explorer Icons Set 10497 | BNSIB | FAST DISPATCH 📦💨" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Galaxy Explorer Icons Set 10497 | BNSIB | FAST DISPATCH 📦💨</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Galaxy Explorer Icons Set 10497 | BNSIB | FAST DISPATCH 📦💨"><img src="https://i.ebayimg.com/images/g/jRAAAeSwTFBp~hzK/s-l225.jpg" alt="Listing image for LEGO Galaxy Explorer Icons Set 10497 | BNSIB | FAST DISPATCH 📦💨" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Galaxy Explorer Icons Set 10497 | BNSIB | FAST DISPATCH 📦💨</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons: Vintage Taxi (40532) Sealed. Retired Set."><img src="https://i.ebayimg.com/images/g/IbAAAeSwbGpqG2Lc/s-l225.jpg" alt="Listing image for LEGO Icons: Vintage Taxi (40532) Sealed. Retired Set." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons: Vintage Taxi (40532) Sealed. Retired Set.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons: Vintage Taxi (40532) Sealed. Retired Set."><img src="https://i.ebayimg.com/images/g/IbAAAeSwbGpqG2Lc/s-l225.jpg" alt="Listing image for LEGO Icons: Vintage Taxi (40532) Sealed. Retired Set." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons: Vintage Taxi (40532) Sealed. Retired Set.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10359 Gardens of the World Fountain Garden Building Set"><img src="https://i.ebayimg.com/images/g/U-wAAeSwYbtqKpwZ/s-l225.jpg" alt="Listing image for LEGO Icons 10359 Gardens of the World Fountain Garden Building Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10359 Gardens of the World Fountain Garden Building Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons 10359 Gardens of the World Fountain Garden Building Set"><img src="https://i.ebayimg.com/images/g/U-wAAeSwYbtqKpwZ/s-l225.jpg" alt="Listing image for LEGO Icons 10359 Gardens of the World Fountain Garden Building Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons 10359 Gardens of the World Fountain Garden Building Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons: Medieval Town Square (10332) Rare Retired Set"><img src="https://i.ebayimg.com/images/g/jkMAAeSw5spqCg0O/s-l225.jpg" alt="Listing image for LEGO Icons: Medieval Town Square (10332) Rare Retired Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons: Medieval Town Square (10332) Rare Retired Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Icons: Medieval Town Square (10332) Rare Retired Set"><img src="https://i.ebayimg.com/images/g/jkMAAeSw5spqCg0O/s-l225.jpg" alt="Listing image for LEGO Icons: Medieval Town Square (10332) Rare Retired Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Icons: Medieval Town Square (10332) Rare Retired Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Icons set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Icons set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Icons+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-kept-spending-during-pressure-lego-icons-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Icons set" data-ebay-reference="why-lego-kept-spending-during-pressure-lego-icons-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ Viewed through the lens of antifragility, this is the most significant lesson fr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ Viewed through the lens of antifragility, this is the most significant lesson fr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ Viewed through the lens of antifragility, this is the most significant lesson fr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ Viewed through the lens of antifragility, this is the most significant lesson fr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ Viewed through the lens of antifragility, this is the most significant lesson fr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,149 +719,149 @@ Viewed through the lens of antifragility, this is the most significant lesson fr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: lego delivered topline growth and outpaced market in 2023  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreLEGO delivered topline growth and outpaced market in 2023February 17, 2025 — 12 Mar 2024 — The LEGO Group delivered topline gro...</p></details>
    Published: February 17, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreLEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group delivers record top- and bottom-line results...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreLEGO Group delivers record results in 2024 - About Us11 Mar 2025 — The LEGO Group delivers record top- and bottom-line results...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report12 Mar 2024 — The LEGO Group delivered top line growth in 2023, which is a satisfactory result given the declining...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: Lego outplays wobbly game market  
-   Link: <a href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish toy manufacturer reported a 4% growth in consumer sales, against a 7% overall market decline, with significant growth in the U...</p></details>
+   Link:<a href="https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/europe/lego-outplays-wobbly-game-market-2024-03-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish toy manufacturer reported a 4% growth in consumer sales, against a 7% overall market decline, with significant growth in the U...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report10 Mar 2025 — Half of the materials purchased in 2024 were produced with sustainable sources: we more than doubled...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO StoreAnnual Report10 Mar 2025 — Half of the materials purchased in 2024 were produced with sustainable sources: we more than doubled...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish company invested $1 billion in this initiative, aligning with its strategy of situating facilities near major markets to contr...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish company invested $1 billion in this initiative, aligning with its strategy of situating facilities near major markets to contr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — COPENHAGEN, Aug 28 (Reuters) - Lego&#x27;s sales of its colorful...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-outperforms-toy-market-with-robust-sales-europe-north-america-2024-08-28/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego outperforms toy market with robust sales in Europe...28 Aug 2024 — COPENHAGEN, Aug 28 (Reuters) - Lego&#x27;s sales of its colorful...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: lego grabs bigger share declining toy market 2023 08 30  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-grabs-bigger-share-declining-toy-market-2023-08-30/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego grabs bigger share of declining toy market30 Aug 2023 — Lego continued to take market share in the first six months of the year even...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
    Title: The LEGO Group 2025 Annual Report  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report31 Dec 2025 — Investments for the future. To support our long-term growth, we continued expansions at factories and offices...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report31 Dec 2025 — Investments for the future. To support our long-term growth, we continued expansions at factories and offices...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comFrom 2025, the Sustainability Statement is included in the Annual Report which you can find above. 2018 - 2024.Read more...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us - LEGO.comFrom 2025, the Sustainability Statement is included in the Annual Report which you can find above. 2018 - 2024.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group 2025 Full Year Results - About Us10 Mar 2026 — The LEGO Group delivers record results in 2025 driven by strong brand and i...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group 2025 Full Year Results - About Us10 Mar 2026 — The LEGO Group delivers record results in 2025 driven by strong brand and i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
    Title: 2025 Performance Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>* See footnote on page 9 of the 2025 Annual Report. Significantly outperformed the toy market. Strong demand in all market groups and aud...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>* See footnote on page 9 of the 2025 Annual Report. Significantly outperformed the toy market. Strong demand in all market groups and aud...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego sales rise as bricks click with more shoppers11 Mar 2025 — Lego keeps growing in struggling toy market; Revenue up 13...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-sales-rise-bricks-click-with-more-shoppers-2025-03-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego sales rise as bricks click with more shoppers11 Mar 2025 — Lego keeps growing in struggling toy market; Revenue up 13...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
    Title: helped by brand tie ups legos first half sales hit record 2025 08 27  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helped by brand tie-ups, Lego&#x27;s first-half sales hit a record27 Aug 2025 — Lego outpaces global toy market with 12% sales growth; Success...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helped by brand tie-ups, Lego&#x27;s first-half sales hit a record27 Aug 2025 — Lego outpaces global toy market with 12% sales growth; Success...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: brickbrains.com  
    Title: Brick Brains The LEGO Group Outpaced Declining Toy Industry in H1  
-   Link: <a href="https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/" target="_blank" rel="noopener noreferrer nofollow">https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brick BrainsThe LEGO Group Outpaced Declining Toy Industry in H1...August 30, 2023 — 30 Aug 2023 — “Our strong financial position allows...</p></details>
+   Link:<a href="https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/" target="_blank" rel="noopener noreferrer nofollow">https://brickbrains.com/2023/08/the-lego-group-outpaced-declining-toy-industry-in-h1-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brick BrainsThe LEGO Group Outpaced Declining Toy Industry in H1...August 30, 2023 — 30 Aug 2023 — “Our strong financial position allows...</p></details>
    Published: August 30, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</p></details>
+   Link:<a href="https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/retail/lego-builds-market-share-as-ever-popular-toy-bricks-defy-demand-drop-31af4249</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Danish toy giant&#x27;s Harry Potter-themed sets and the Fortnite video game contributed significantly to its strong performance, particul...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: learningthroughplay.com  
-   Link: <a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportsIn the LEGO Foundation annual reports you can find our management reviews and financial statements. Part of this is our sus...</p></details>
+   Link:<a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReportsIn the LEGO Foundation annual reports you can find our management reviews and financial statements. Part of this is our sus...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/erichjoachimsthaler_2025-annual-results-announcement-activity-7437389193653321728-oEvt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/erichjoachimsthaler_2025-annual-results-announcement-activity-7437389193653321728-oEvt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Reports 12% Revenue Growth, 18% Operating Profit...LEGO just reported results yesterday. Revenue up 12%. Consumer sales up 16%. Ope...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/erichjoachimsthaler_2025-annual-results-announcement-activity-7437389193653321728-oEvt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/erichjoachimsthaler_2025-annual-results-announcement-activity-7437389193653321728-oEvt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Reports 12% Revenue Growth, 18% Operating Profit...LEGO just reported results yesterday. Revenue up 12%. Consumer sales up 16%. Ope...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/edlewin_i-am-pleased-to-share-the-lego-group-annual-activity-7173316164050231296-o6Uu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/edlewin_i-am-pleased-to-share-the-lego-group-annual-activity-7173316164050231296-o6Uu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I am pleased to share the LEGO Group annual results and...At the same time, we invested in our future and made good progress on manufact...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/edlewin_i-am-pleased-to-share-the-lego-group-annual-activity-7173316164050231296-o6Uu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/edlewin_i-am-pleased-to-share-the-lego-group-annual-activity-7173316164050231296-o6Uu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I am pleased to share the LEGO Group annual results and...At the same time, we invested in our future and made good progress on manufact...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company reported a 2 per cent increase in annual revenues to DKr65.9 billion (£7.55 billion), but net profits fell by 5 per cent to D...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/lego-profits-hit-by-negative-toy-market-59sxdf2jp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company reported a 2 per cent increase in annual revenues to DKr65.9 billion (£7.55 billion), but net profits fell by 5 per cent to D...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blocksmag.com  
-   Link: <a href="https://blocksmag.com/the-lego-groups-growth-slowed-and-profits-declined-in-2023-as-the-company-continued-to-invest/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/the-lego-groups-growth-slowed-and-profits-declined-in-2023-as-the-company-continued-to-invest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group&#x27;s growth slowed and profits declined in 2023...12 Mar 2024 — The LEGO Group has announced the company&#x27;s 2023 results, wit...</p></details>
+   Link:<a href="https://blocksmag.com/the-lego-groups-growth-slowed-and-profits-declined-in-2023-as-the-company-continued-to-invest/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/the-lego-groups-growth-slowed-and-profits-declined-in-2023-as-the-company-continued-to-invest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group&#x27;s growth slowed and profits declined in 2023...12 Mar 2024 — The LEGO Group has announced the company&#x27;s 2023 results, wit...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/federico-berruto_2025-annual-results-announcement-activity-7437148107668172800-SbvK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/federico-berruto_2025-annual-results-announcement-activity-7437148107668172800-SbvK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Reports 12% Revenue Growth in 2025LEGO delivered exceptional results in 2025, generating roughly $13 billion in revenue and $2.6 bil...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/federico-berruto_2025-annual-results-announcement-activity-7437148107668172800-SbvK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/federico-berruto_2025-annual-results-announcement-activity-7437148107668172800-SbvK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Reports 12% Revenue Growth in 2025LEGO delivered exceptional results in 2025, generating roughly $13 billion in revenue and $2.6 bil...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: esgnews.com  
    Title: lego revenue hits 12 2b as sustainable materials reach 52 of brick production  
-   Link: <a href="https://esgnews.com/lego-revenue-hits-12-2b-as-sustainable-materials-reach-52-of-brick-production/" target="_blank" rel="noopener noreferrer nofollow">https://esgnews.com/lego-revenue-hits-12-2b-as-sustainable-materials-reach-52-of-brick-production/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Revenue Hits $12.2B As Sustainable Materials...16 Mar 2026 — LEGO revenue rose 12% to $12.2 Billion in 2025, with operating profit...</p></details>
+   Link:<a href="https://esgnews.com/lego-revenue-hits-12-2b-as-sustainable-materials-reach-52-of-brick-production/" target="_blank" rel="noopener noreferrer nofollow">https://esgnews.com/lego-revenue-hits-12-2b-as-sustainable-materials-reach-52-of-brick-production/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Revenue Hits $12.2B As Sustainable Materials...16 Mar 2026 — LEGO revenue rose 12% to $12.2 Billion in 2025, with operating profit...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jaysbrickblog.com  
    Title: the lego groups 2025 financial results deliver its most profitable year ever  
-   Link: <a href="https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group&#x27;s 2025 financial results deliver its most...10 Mar 2026 — Revenue increased 12% to DKK 83.5 billion (US$13.02 billion), d...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-groups-2025-financial-results-deliver-its-most-profitable-year-ever/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Group&#x27;s 2025 financial results deliver its most...10 Mar 2026 — Revenue increased 12% to DKK 83.5 billion (US$13.02 billion), d...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xflhulapdf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xflhulapdf8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego grabs bigger share of the declining toy marketLego continued to take market share in the first six months of the year even as the to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xflhulapdf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xflhulapdf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego grabs bigger share of the declining toy marketLego continued to take market share in the first six months of the year even as the to...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blocksmag.com  
    Title: the lego group reports massive increase in revenue and profits for 2025  
-   Link: <a href="https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group&#x27;s Record Revenue and Profits Grow in 202510 Mar 2026 — Once again, the LEGO Group has reported increased revenue and profits f...</p></details>
+   Link:<a href="https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/" target="_blank" rel="noopener noreferrer nofollow">https://blocksmag.com/the-lego-group-reports-massive-increase-in-revenue-and-profits-for-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group&#x27;s Record Revenue and Profits Grow in 202510 Mar 2026 — Once again, the LEGO Group has reported increased revenue and profits f...</p></details>

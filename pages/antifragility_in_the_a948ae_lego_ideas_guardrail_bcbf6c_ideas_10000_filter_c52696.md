@@ -271,7 +271,7 @@ image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_id
 A LEGO Ideas project that reaches 10,000 supporters has cleared an important hurdle, but it has not won a production contract. The supporter milestone functions as a demand signal: it proves that a community of fans is interested enough to back a concept. What it does not prove is that the concept can become a safe, legally viable, manufacturable and commercially sustainable LEGO product.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_10000_filter_c52696-Illustration-1-dark.svg" | relative_url }}" alt="10 000 Votes illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_10000_filter_c52696-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_10000_filter_c52696-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to how LEGO Ideas works as an open innovation system with guardrails. LEGO allows fans to generate a large pool of experiments, but it reserves the final decision for an internal review process. That review acts as a filter against risks that a public vote cannot evaluate. In antifragility terms, the company benefits from external creativity and unexpected demand while limiting the cost of bad bets, [licensing]({{ 'licensing/' | relative_url }}) conflicts and brand damage. Official LEGO documentation repeatedly states that 10,000 supporters only qualify a project for review, not for production. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
+This distinction is central to how LEGO Ideas works as an open innovation system with guardrails. LEGO allows fans to generate a large pool of experiments, but it reserves the final decision for an internal review process. That review acts as a filter against risks that a public vote cannot evaluate. In antifragility terms, the company benefits from external creativity and unexpected demand while limiting the cost of bad bets, [licensing]({{ 'licensing/' | relative_url }}) conflicts and brand damage. Official LEGO documentation repeatedly states that 10,000 supporters only qualify a project for review, not for production.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
 
 ## What the supporter threshold actually measures
 
@@ -281,7 +281,7 @@ A successful Ideas project demonstrates that people are willing to click a suppo
 
 However, supporter counts are an imperfect proxy for actual retail demand. A fan may support dozens of projects without ever intending to purchase them. Some projects attract highly motivated niche communities that are excellent at online mobilisation but relatively small as paying customer groups. Others gain momentum because of a popular intellectual property rather than because the model itself would work well as a LEGO set.
 
-LEGO's own process reflects this distinction. After a project reaches 10,000 supporters, creators must provide additional technical material, including model files or reconstruction information, before the review begins. That requirement exists because community enthusiasm alone does not reveal whether the design can survive product development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">LEGO IdeasRules Guidelines16 Apr 2026 — Every build on LEGO Ideas that clocks up 10,000 supporters qualifies for an official review. Ther...</span></span></span>
+LEGO's own process reflects this distinction. After a project reaches 10,000 supporters, creators must provide additional technical material, including model files or reconstruction information, before the review begins. That requirement exists because community enthusiasm alone does not reveal whether the design can survive product development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.lego.com</span><span class="citation-popover-snippet">LEGO IdeasRules Guidelines16 Apr 2026 — Every build on LEGO Ideas that clocks up 10,000 supporters qualifies for an official review. Ther...</span></span></span>
 
 The threshold therefore answers one question very well:
 
@@ -308,13 +308,13 @@ Those unanswered questions are where many projects fail.
 
 The review stage exists because LEGO is not simply selecting fan favourites. It is deciding whether a concept can enter a global product system.
 
-According to LEGO's published guidelines and review explanations, projects that reach 10,000 supporters undergo evaluation by teams that consider design quality, brand alignment, legal issues and commercial viability. The review can take months because the company is testing much more than popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What happens to my product idea after I reach...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Ideas...</span></span></span>
+According to LEGO's published guidelines and review explanations, projects that reach 10,000 supporters undergo evaluation by teams that consider design quality, brand alignment, legal issues and commercial viability. The review can take months because the company is testing much more than popularity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[LEGO Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lego Ideas</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">What happens to my product idea after I reach...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Ideas...</span></span></span>
 
 ### Brand fit matters more than supporters
 
 Some fan concepts attract strong support precisely because they appeal to dedicated audiences. Yet LEGO has long maintained restrictions around certain themes, including mature content, controversial subject matter and topics that conflict with the company's family-oriented image.
 
-Historically, projects linked to properties such as *Firefly* or *Shaun of the Dead* reached major support milestones but encountered problems because of content concerns. LEGO Ideas has gradually refined its rules to reduce submissions that are unlikely to fit company standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
+Historically, projects linked to properties such as *Firefly* or *Shaun of the Dead* reached major support milestones but encountered problems because of content concerns. LEGO Ideas has gradually refined its rules to reduce submissions that are unlikely to fit company standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Ideas</span><span class="citation-popover-snippet">Lego Ideas</span></span></span>
 
 This creates a deliberate tension. The crowd is encouraged to generate variation, but LEGO keeps authority over what enters the brand ecosystem. The platform remains open enough to discover unexpected ideas while staying closed enough to protect brand identity.
 
@@ -322,7 +322,7 @@ This creates a deliberate tension. The crowd is encouraged to generate variation
 
 Many Ideas submissions depend on intellectual property owned by third parties. A project may attract enormous fan interest and still fail because the rights are unavailable, too expensive or strategically unattractive.
 
-Licensing problems appear repeatedly in community discussions and in documented cases of rejected projects. Even when a licence is theoretically available, LEGO must determine whether the expected sales justify the cost and [complexity]({{ 'complexity/' | relative_url }}) of negotiating rights agreements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1mkwvyi/lego_ideas_where_theres_an_ip_involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego ideas where there&#x27;s an IP involved?</span><span class="citation-popover-snippet">Lego ideas where there&#x27;s an IP involved?August 8, 2025 — LEGO apparently does reject all ideas that involve an IP they already have...</span><span class="citation-popover-meta">Published: August 8, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</span></span></span>
+Licensing problems appear repeatedly in community discussions and in documented cases of rejected projects. Even when a licence is theoretically available, LEGO must determine whether the expected sales justify the cost and [complexity]({{ 'complexity/' | relative_url }}) of negotiating rights agreements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1mkwvyi/lego_ideas_where_theres_an_ip_involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego ideas where there&#x27;s an IP involved?</span><span class="citation-popover-snippet">Lego ideas where there&#x27;s an IP involved?August 8, 2025 — LEGO apparently does reject all ideas that involve an IP they already have...</span><span class="citation-popover-meta">Published: August 8, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</span></span></span>
 
 This is one reason supporters cannot guarantee success. Voters are evaluating a concept they would like to see. LEGO is evaluating a business relationship that may not even be possible.
 
@@ -331,7 +331,7 @@ This is one reason supporters cannot guarantee success. Voters are evaluating a 
 
 A fan model can look spectacular in photographs while containing structural weaknesses, rare parts or building techniques unsuitable for a retail set.
 
-LEGO's review process examines whether a model can be rebuilt, redesigned, packaged and produced at scale. Official guidance requires additional model information because visual presentation alone is insufficient for that assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-au" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
+LEGO's review process examines whether a model can be rebuilt, redesigned, packaged and produced at scale. Official guidance requires additional model information because visual presentation alone is insufficient for that assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-au" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">ick sets and find the perfect gift for your kid...</span></span></span>
 
 The company must also consider:
 
@@ -356,7 +356,7 @@ The meaning of 10,000 supporters has changed as LEGO Ideas has grown.
 
 When the platform was smaller, reaching the threshold automatically placed a project in a relatively limited field of competitors. As participation expanded, review rounds became increasingly crowded. The result is that the supporter milestone now functions more like qualification for a tournament than a final victory.
 
-Recent review rounds illustrate the problem. In 2025, one review period accumulated 146 qualifying projects, a record for the platform. Yet only a small fraction could realistically become commercial products. Reports on the review results showed that the overwhelming majority were rejected despite achieving the same supporter milestone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">146 projects qualify for second 2025 lego ideas review</span><span class="citation-popover-snippet">Sep 2, 2025 — A whopping 146 projects have qualified for the Second 2025 LEGO Ideas Review...</span></span></span> Facebook This creates a structural bottleneck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the latest review qualification round has just closed and wow was it a big one 1</span><span class="citation-popover-snippet">LEGO Ideas146 submissions reached the 10,000 supporter milestone, and qualified for the Second 2025 Review. With 146 projects in this rev...</span></span></span>
+Recent review rounds illustrate the problem. In 2025, one review period accumulated 146 qualifying projects, a record for the platform. Yet only a small fraction could realistically become commercial products. Reports on the review results showed that the overwhelming majority were rejected despite achieving the same supporter milestone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">146 projects qualify for second 2025 lego ideas review</span><span class="citation-popover-snippet">Sep 2, 2025 — A whopping 146 projects have qualified for the Second 2025 LEGO Ideas Review...</span></span></span> Facebook This creates a structural bottleneck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the latest review qualification round has just closed and wow was it a big one 1</span><span class="citation-popover-snippet">LEGO Ideas146 submissions reached the 10,000 supporter milestone, and qualified for the Second 2025 Review. With 146 projects in this rev...</span></span></span>
 
 If dozens or even more than a hundred projects enter review simultaneously, LEGO is no longer asking whether a project is good enough to deserve production. It is asking which few projects are the strongest candidates among many qualified [options]({{ 'options/' | relative_url }}).
 
@@ -365,7 +365,7 @@ The distinction is crucial:
 * **Supporters determine eligibility.**
 * **LEGO determines selection.**
 
-Community discussions frequently note that many review rounds reject most qualifying projects and that some rounds have produced very few winners compared with the number of entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/s1rkta/what_are_the_chances_that_a_lego_idea_that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What are the chances that a Lego Idea that achieves 10k</span><span class="citation-popover-snippet">10,000 supporters, only a small number of them are selected for production. On one occasion, none of the sets in a review were selected...</span></span></span>
+Community discussions frequently note that many review rounds reject most qualifying projects and that some rounds have produced very few winners compared with the number of entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/s1rkta/what_are_the_chances_that_a_lego_idea_that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What are the chances that a Lego Idea that achieves 10k</span><span class="citation-popover-snippet">10,000 supporters, only a small number of them are selected for production. On one occasion, none of the sets in a review were selected...</span></span></span>
 
 For creators, this can feel frustrating because the public milestone appears definitive. In reality, growing participation has made the threshold less like a finish line and more like admission to a highly competitive review queue.
 
@@ -384,194 +384,194 @@ The company therefore gains from experimentation without being forced to accept 
 That is why 10,000 votes matter and why they are not enough. The threshold identifies possibilities. The review decides which possibilities can survive contact with the realities of a global toy business.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why 10,000 Votes Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why 10,000 Votes Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how LEGO balances fan input with governance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how LEGO balances fan input with governance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Shows why demand signals are only one part of validation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Shows why demand signals are only one part of validation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Useful for understanding voting behavior and decision errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding voting behavior and decision errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/213263-M.jpg" alt="Cover for The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations">The Wisdom of Crowds:Why the Many Are Smarter Than the Few an...</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/213263-M.jpg" alt="Cover for The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations">The Wisdom of Crowds:Why the Many Are Smarter Than the Few an...</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Sociology, Common good, Business, Group decision making, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Sociology, Common good, Business, Group decision making, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21376 Orange Cat NEW 2026"><img src="https://i.ebayimg.com/images/g/lmEAAeSwdDpqHfOp/s-l225.jpg" alt="Listing image for LEGO Ideas 21376 Orange Cat NEW 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21376 Orange Cat NEW 2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21376 Orange Cat NEW 2026"><img src="https://i.ebayimg.com/images/g/lmEAAeSwdDpqHfOp/s-l225.jpg" alt="Listing image for LEGO Ideas 21376 Orange Cat NEW 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21376 Orange Cat NEW 2026</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595"><img src="https://i.ebayimg.com/images/g/R-4AAeSwizRqHuLN/s-l225.jpg" alt="Listing image for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595"><img src="https://i.ebayimg.com/images/g/R-4AAeSwizRqHuLN/s-l225.jpg" alt="Listing image for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED"><img src="https://i.ebayimg.com/images/g/lHYAAeSwFW1qKAkj/s-l225.jpg" alt="Listing image for Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED"><img src="https://i.ebayimg.com/images/g/lHYAAeSwFW1qKAkj/s-l225.jpg" alt="Listing image for Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">Lego Ideas 21342 The Insect Collection - BRAND NEW &amp; FACTORY SEALED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-10-000-votes-are-not-enough-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="why-10-000-votes-are-not-enough-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,190 +777,190 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ideas.lego.com  
-   Link: <a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IdeasRules Guidelines16 Apr 2026 — Every build on LEGO Ideas that clocks up 10,000 supporters qualifies for an official review. Ther...</p></details>
+   Link:<a href="https://ideas.lego.com/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO IdeasRules Guidelines16 Apr 2026 — Every build on LEGO Ideas that clocks up 10,000 supporters qualifies for an official review. Ther...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Ideas...</p></details>
+   Link:<a href="https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Ideas...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Lego Ideas  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Ideas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Ideas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Ideas</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Lego ideas where there's an IP involved?  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1mkwvyi/lego_ideas_where_theres_an_ip_involved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1mkwvyi/lego_ideas_where_theres_an_ip_involved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego ideas where there&#x27;s an IP involved?August 8, 2025 — LEGO apparently does reject all ideas that involve an IP they already have...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/1mkwvyi/lego_ideas_where_theres_an_ip_involved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1mkwvyi/lego_ideas_where_theres_an_ip_involved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego ideas where there&#x27;s an IP involved?August 8, 2025 — LEGO apparently does reject all ideas that involve an IP they already have...</p></details>
    Published: August 8, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1i1oh9i/some_of_the_ideas_sets_that_gained_10k_votes_but/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sure, they are amazing and awesome sets. But Lego couldn&#x27;t legally do so without a partnership.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brickset.com  
    Title: 146 projects qualify for second 2025 lego ideas review  
-   Link: <a href="https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 2, 2025 — A whopping 146 projects have qualified for the Second 2025 LEGO Ideas Review...</p></details>
+   Link:<a href="https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/124571/146-projects-qualify-for-second-2025-lego-ideas-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 2, 2025 — A whopping 146 projects have qualified for the Second 2025 LEGO Ideas Review...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: the latest review qualification round has just closed and wow was it a big one 1  
-   Link: <a href="https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas146 submissions reached the 10,000 supporter milestone, and qualified for the Second 2025 Review. With 146 projects in this rev...</p></details>
+   Link:<a href="https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGOIdeas/posts/the-latest-review-qualification-round-has-just-closed-and-wow-was-it-a-big-one-1/1212636977571682/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas146 submissions reached the 10,000 supporter milestone, and qualified for the Second 2025 Review. With 146 projects in this rev...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: What are the chances that a Lego Idea that achieves 10k  
-   Link: <a href="https://www.reddit.com/r/lego/comments/s1rkta/what_are_the_chances_that_a_lego_idea_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/s1rkta/what_are_the_chances_that_a_lego_idea_that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10,000 supporters, only a small number of them are selected for production. On one occasion, none of the sets in a review were selected...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/s1rkta/what_are_the_chances_that_a_lego_idea_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/s1rkta/what_are_the_chances_that_a_lego_idea_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10,000 supporters, only a small number of them are selected for production. On one occasion, none of the sets in a review were selected...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-au" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-au</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
+   Link:<a href="https://www.lego.com/en-au" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-au</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
+   Link:<a href="https://www.lego.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ick sets and find the perfect gift for your kid...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: what happens to my product idea after i reach 10 000 supporters  
-   Link: <a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Idea...</p></details>
+   Link:<a href="https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-lu/service/help-topics/article/what-happens-to-my-product-idea-after-i-reach-10-000-supporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happens to my product idea after I reach 10000...After reaching this special milestone, you&#x27;ll receive a message from the LEGO Idea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ideas.lego.com  
    Title: agree policies  
-   Link: <a href="https://ideas.lego.com/agree_policies" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/agree_policies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Policies Have ChangedYour submissions must be your own work and no one else&#x27;s, unless you are formally collaborating with another person...</p></details>
+   Link:<a href="https://ideas.lego.com/agree_policies" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/agree_policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Policies Have ChangedYour submissions must be your own work and no one else&#x27;s, unless you are formally collaborating with another person...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/998154171559369/posts/1566803628027751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/998154171559369/posts/1566803628027751/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et goes through an internal review process to see...</p></details>
+   Link:<a href="https://www.facebook.com/groups/998154171559369/posts/1566803628027751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/998154171559369/posts/1566803628027751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et goes through an internal review process to see...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LEGO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoThe new LEGO® Store Oxford opens at 10am on Thursday 7th May and we can&#x27;t wait to celebrate with you! Join us at our new store in Wes...</p></details>
+   Link:<a href="https://www.facebook.com/LEGO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LEGO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegoThe new LEGO® Store Oxford opens at 10am on Thursday 7th May and we can&#x27;t wait to celebrate with you! Join us at our new store in Wes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO - News from a Studded Worldr/lego · Feed · Community Info Section. LEGO - News from a Studded World. Reports, news, pics, videos, di...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO - News from a Studded Worldr/lego · Feed · Community Info Section. LEGO - News from a Studded World. Reports, news, pics, videos, di...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/legoideas/comments/1otbzcd/have_the_fan_creators_of_the_10k_projects_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legoideas/comments/1otbzcd/have_the_fan_creators_of_the_10k_projects_that/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>them yet regarding the free sets...</p></details>
+   Link:<a href="https://www.reddit.com/r/legoideas/comments/1otbzcd/have_the_fan_creators_of_the_10k_projects_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legoideas/comments/1otbzcd/have_the_fan_creators_of_the_10k_projects_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>them yet regarding the free sets...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ad to Achieved Support, here is the data for the Ideas that were Approved.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/12aj3ve/how_long_did_approved_lego_ideas_submissions_take/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ad to Achieved Support, here is the data for the Ideas that were Approved.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: lego ideas set gets 10000 votes lego rejects it  
-   Link: <a href="https://www.reddit.com/r/lego/comments/3rq27e/lego_ideas_set_gets_10000_votes_lego_rejects_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/3rq27e/lego_ideas_set_gets_10000_votes_lego_rejects_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Ideas set gets 10000 votes, Lego rejects it, then...The guy is getting a $350 set for free and though that&#x27;s no where near the 1% h...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/3rq27e/lego_ideas_set_gets_10000_votes_lego_rejects_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/3rq27e/lego_ideas_set_gets_10000_votes_lego_rejects_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Ideas set gets 10000 votes, Lego rejects it, then...The guy is getting a $350 set for free and though that&#x27;s no where near the 1% h...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegoLego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an ar...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stonewars.com  
-   Link: <a href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow">https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: Rules and Guidelines explained - StoneWars.comJan 22, 2021 — The decision is also based on playability, stability and safety...</p></details>
+   Link:<a href="https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/" target="_blank" rel="noopener noreferrer nofollow">https://stonewars.com/features/lego-ideas-rules-and-guidelines-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: Rules and Guidelines explained - StoneWars.comJan 22, 2021 — The decision is also based on playability, stability and safety...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: toysnbricks.com  
-   Link: <a href="https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: How It Works, Fan Voting, and How to Submit...7 Dec 2025 — I&#x27;ll guide you through this process and also share tips that will...</p></details>
+   Link:<a href="https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.toysnbricks.com/lego-ideas-how-it-works-fan-voting-and-how-to-submit-your-design-full-guide-to-lego-ideas-platform-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas: How It Works, Fan Voting, and How to Submit...7 Dec 2025 — I&#x27;ll guide you through this process and also share tips that will...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: brickfanatics.com  
-   Link: <a href="https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas hits unprecented levels of growth – can it last?14 Jul 2025 — LEGO Ideas projects need to hit 10,000 supporters on the fan-bas...</p></details>
+   Link:<a href="https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-ideas-fan-platform-new-milestone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas hits unprecented levels of growth – can it last?14 Jul 2025 — LEGO Ideas projects need to hit 10,000 supporters on the fan-bas...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amazon.com.au  
-   Link: <a href="https://www.amazon.com.au/stores/LEGO/page/949B966A-748D-4509-B1D7-9356052A3F78" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com.au/stores/LEGO/page/949B966A-748D-4509-B1D7-9356052A3F78</a>  
+   Link:<a href="https://www.amazon.com.au/stores/LEGO/page/949B966A-748D-4509-B1D7-9356052A3F78" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com.au/stores/LEGO/page/949B966A-748D-4509-B1D7-9356052A3F78</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jaysbrickblog.com  
    Title: lego ideas is no longer an affordable theme proven by graphs and data  
-   Link: <a href="https://jaysbrickblog.com/editorial/lego-ideas-is-no-longer-an-affordable-theme-proven-by-graphs-and-data/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/editorial/lego-ideas-is-no-longer-an-affordable-theme-proven-by-graphs-and-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas is no longer an affordable themeAug 24, 2022 — LEGO Ideas sets have become bigger, and more expensive, which makes me quite un...</p></details>
+   Link:<a href="https://jaysbrickblog.com/editorial/lego-ideas-is-no-longer-an-affordable-theme-proven-by-graphs-and-data/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/editorial/lego-ideas-is-no-longer-an-affordable-theme-proven-by-graphs-and-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Ideas is no longer an affordable themeAug 24, 2022 — LEGO Ideas sets have become bigger, and more expensive, which makes me quite un...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: brickipedia.fandom.com  
    Title: Rejected Projects  
-   Link: <a href="https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas/Rejected Projects - Brickipedia - FandomDoctor Who) – Rejected due to a similar project reaching 10,000 in the same review period a...</p></details>
+   Link:<a href="https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects" target="_blank" rel="noopener noreferrer nofollow">https://brickipedia.fandom.com/wiki/LEGO_Ideas/Rejected_Projects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas/Rejected Projects - Brickipedia - FandomDoctor Who) – Rejected due to a similar project reaching 10,000 in the same review period a...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
+   Link:<a href="https://www.youtube.com/user/LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/LEGO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGOLEGO® Gaming | LEGO · The best videos from the LEGO Gaming world! · LIVE LEGO FORTNITE! Mastering Fire &amp; Flight in LEGO Fortnite Odys...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: idisplayit.co.uk  
    Title: the latest lego ideas sets with 10 000 supporters  
-   Link: <a href="https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooz2fw_jha4Z31LWEWTqDmP8L0hBBzxSdwJiICb1FSa3_pJblXq" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooz2fw_jha4Z31LWEWTqDmP8L0hBBzxSdwJiICb1FSa3_pJblXq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest LEGO Ideas Sets With 10000+ Supporters17 Feb 2025 — The first review stage in 2025 does not begin until May and will consider...</p></details>
+   Link:<a href="https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooz2fw_jha4Z31LWEWTqDmP8L0hBBzxSdwJiICb1FSa3_pJblXq" target="_blank" rel="noopener noreferrer nofollow">https://www.idisplayit.co.uk/news/lego-releases/the-latest-lego-ideas-sets-with-10-000-supporters/?srsltid=AfmBOooz2fw_jha4Z31LWEWTqDmP8L0hBBzxSdwJiICb1FSa3_pJblXq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest LEGO Ideas Sets With 10000+ Supporters17 Feb 2025 — The first review stage in 2025 does not begin until May and will consider...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: brickfanatics.com  
    Title: record lego ideas rejected 2nd 2025 review  
-   Link: <a href="https://www.brickfanatics.com/record-lego-ideas-rejected-2nd-2025-review" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/record-lego-ideas-rejected-2nd-2025-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record number of LEGO Ideas projects rejected in 2025...27 Apr 2026 — No fewer than 146 potential LEGO Ideas sets were up for considerat...</p></details>
+   Link:<a href="https://www.brickfanatics.com/record-lego-ideas-rejected-2nd-2025-review" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/record-lego-ideas-rejected-2nd-2025-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record number of LEGO Ideas projects rejected in 2025...27 Apr 2026 — No fewer than 146 potential LEGO Ideas sets were up for considerat...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thebrickblogger.com  
    Title: updated guidelines for lego ideas projects  
-   Link: <a href="https://thebrickblogger.com/2016/06/updated-guidelines-for-lego-ideas-projects/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2016/06/updated-guidelines-for-lego-ideas-projects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 29, 2016 — Rules for LEGO Ideas submissions are changing! See the updated guidelines! This will have major impact on current and futu...</p></details>
+   Link:<a href="https://thebrickblogger.com/2016/06/updated-guidelines-for-lego-ideas-projects/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2016/06/updated-guidelines-for-lego-ideas-projects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 29, 2016 — Rules for LEGO Ideas submissions are changing! See the updated guidelines! This will have major impact on current and futu...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: brickfanatics.com  
    Title: first lego ideas 2026 review 60 projects  
-   Link: <a href="https://www.brickfanatics.com/first-lego-ideas-2026-review-60-projects/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/first-lego-ideas-2026-review-60-projects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First LEGO Ideas 2026 review hits 60 with puppets and petals18 Mar 2026 — Three more LEGO Ideas projects have gained 10000 supporters, br...</p></details>
+   Link:<a href="https://www.brickfanatics.com/first-lego-ideas-2026-review-60-projects/" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/first-lego-ideas-2026-review-60-projects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First LEGO Ideas 2026 review hits 60 with puppets and petals18 Mar 2026 — Three more LEGO Ideas projects have gained 10000 supporters, br...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: brickfanatics.com  
    Title: every lego ideas approved rejected 2025  
-   Link: <a href="https://www.brickfanatics.com/every-lego-ideas-approved-rejected-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/every-lego-ideas-approved-rejected-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every LEGO Ideas project approved and rejected in 202521 Dec 2025 — After a huge year for LEGO Ideas, there were over a dozen projects ap...</p></details>
+   Link:<a href="https://www.brickfanatics.com/every-lego-ideas-approved-rejected-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/every-lego-ideas-approved-rejected-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every LEGO Ideas project approved and rejected in 202521 Dec 2025 — After a huge year for LEGO Ideas, there were over a dozen projects ap...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: galaxus.ch  
    Title: become a lego designer 23062  
-   Link: <a href="https://www.galaxus.ch/en/page/become-a-lego-designer-23062" target="_blank" rel="noopener noreferrer nofollow">https://www.galaxus.ch/en/page/become-a-lego-designer-23062</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Lego designer30 Mar 2022 — You need to be at least 13 years old to submit a product idea to «Lego Ideas».... If you make it to...</p></details>
+   Link:<a href="https://www.galaxus.ch/en/page/become-a-lego-designer-23062" target="_blank" rel="noopener noreferrer nofollow">https://www.galaxus.ch/en/page/become-a-lego-designer-23062</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Lego designer30 Mar 2022 — You need to be at least 13 years old to submit a product idea to «Lego Ideas».... If you make it to...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: lego.bricksmegastore.com  
-   Link: <a href="https://lego.bricksmegastore.com/?srsltid=AfmBOorKM-pI0N_uDN0DcWDDCqg3EiY-eMypfc2oumcG_osWzlMq9y59" target="_blank" rel="noopener noreferrer nofollow">https://lego.bricksmegastore.com/?srsltid=AfmBOorKM-pI0N_uDN0DcWDDCqg3EiY-eMypfc2oumcG_osWzlMq9y59</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Certified Stores: HomeWe offer exclusive and hard to find LEGO sets not available in most retail shops. Shop online with multiple p...</p></details>
+   Link:<a href="https://lego.bricksmegastore.com/?srsltid=AfmBOorKM-pI0N_uDN0DcWDDCqg3EiY-eMypfc2oumcG_osWzlMq9y59" target="_blank" rel="noopener noreferrer nofollow">https://lego.bricksmegastore.com/?srsltid=AfmBOorKM-pI0N_uDN0DcWDDCqg3EiY-eMypfc2oumcG_osWzlMq9y59</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Certified Stores: HomeWe offer exclusive and hard to find LEGO sets not available in most retail shops. Shop online with multiple p...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: harrisbricks.com  
    Title: the lego ideas process  
-   Link: <a href="https://harrisbricks.com/2022/the-lego-ideas-process/" target="_blank" rel="noopener noreferrer nofollow">https://harrisbricks.com/2022/the-lego-ideas-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2022 — The first thing you need to do (if your idea is based on a licensed property/IP) is make sure your idea is able to be a LE...</p></details>
+   Link:<a href="https://harrisbricks.com/2022/the-lego-ideas-process/" target="_blank" rel="noopener noreferrer nofollow">https://harrisbricks.com/2022/the-lego-ideas-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2022 — The first thing you need to do (if your idea is based on a licensed property/IP) is make sure your idea is able to be a LE...</p></details>

@@ -435,194 +435,194 @@ LEGO’s turnaround is best characterised as a **learning transformation trigger
 Applying Taleb’s antifragility framework to LEGO highlights how **stress can catalyse structural improvement** when a company uses volatility as a feedback mechanism to strip away fragilities and build stronger routines. LEGO’s crisis revealed latent weaknesses; its disciplined refocusing and adaptive innovations reduced fragility and increased resilience. While LEGO exhibits select antifragile traits with respect to product‑system volatility and innovation feedback, it is not universally antifragile in Taleb’s strict sense. Its story is strongest as a **case of resilience enhanced by stress‑driven learning**, rather than an unqualified example of antifragility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrategyinstitute.org">[The Strategy Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrategyinstitute.org</span><span class="citation-popover-snippet">The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company simplified its product rang...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is LEGO Really Antifragile or Just Resilient?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is LEGO Really Antifragile or Just Resilient?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R79HVyegzoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R79HVyegzoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
         
-        <p class="fr-book-desc">Provides the uncertainty framework underpinning antifragility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the uncertainty framework underpinning antifragility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kaTP9Ju99u8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kaTP9Ju99u8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
         
-        <p class="fr-book-desc">Introduces randomness and risk concepts relevant to resilience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces randomness and risk concepts relevant to resilience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skin+in+the+Game+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skin in the Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10856868-M.jpg" alt="Cover for Skin in the Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skin+in+the+Game+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skin in the Game">Skin in the Game</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skin+in+the+Game+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skin in the Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10856868-M.jpg" alt="Cover for Skin in the Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skin+in+the+Game+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skin in the Game">Skin in the Game</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Risk, sociological aspects, Uncertainty (information theory), Complexity (philosophy), nyt:combined-print...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skin+in+the+Game+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Risk, sociological aspects, Uncertainty (information theory), Complexity (philosophy), nyt:combined-print...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skin+in+the+Game+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Defines fragile, resilient and antifragile systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Defines fragile, resilient and antifragile systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skin+in+the+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skin in the Game</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skin+in+the+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skin in the Game</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display"><img src="https://i.ebayimg.com/images/g/75EAAeSwulZqJ6U4/s-l225.jpg" alt="Listing image for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display"><img src="https://i.ebayimg.com/images/g/75EAAeSwulZqJ6U4/s-l225.jpg" alt="Listing image for LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Creator 3 in 1 Floral Decor Perfume Bottle Set 31383 Room Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars"><img src="https://i.ebayimg.com/images/g/BXEAAeSwSqlpzEyM/s-l225.jpg" alt="Listing image for Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">Horizontal Wall Mount Display Rack for Lego Speed Champions F1 Formula 1 Cars</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing"><img src="https://i.ebayimg.com/images/g/VdAAAeSwiG1pdUHq/s-l225.jpg" alt="Listing image for LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Wednesday Thing’s Apartment 76785 Play &amp; Display Set 828pcs Enid &amp; Thing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/KMEAAeSwiwRqDrU6/s-l225.jpg" alt="Listing image for LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Disney Toy Story - Slinky Dog Bookends Display Set (43301) New &amp; Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO display set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO display set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+display+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-lego-really-antifragile-or-just-resilient-lego-display-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO display set" data-ebay-reference="is-lego-really-antifragile-or-just-resilient-lego-display-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,105 +828,105 @@ Applying Taleb’s antifragility framework to LEGO highlights how **stress can c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Antifragility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antifragility</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Antifragility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antifragility</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imd.org  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolThe LEGO group: Family business resilience (A)October 1, 2014 — The family-owned and family-run global toy firm LEGO h...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolThe LEGO group: Family business resilience (A)October 1, 2014 — The family-owned and family-run global toy firm LEGO h...</p></details>
    Published: October 1, 2014  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: History of Lego  
-   Link: <a href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Lego</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/History_of_Lego" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Lego</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Jørgen Vig Knudstorp  
-   Link: <a href="https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J%C3%B8rgen_Vig_Knudstorp</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: imd.org  
    Title: The LEGO group: Family business resilience (B)  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenyon-Rouvinez, Anne-Catrin Glemser and Philip Whiteley 2 pages October 2014 Order this case study Reference: IMD-7-1623...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenyon-Rouvinez, Anne-Catrin Glemser and Philip Whiteley 2 pages October 2014 Order this case study Reference: IMD-7-1623...</p></details>
    Published: October 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: imd.org  
    Title: New business in the LEGO group: LEGO mindstorms  
-   Link: <a href="https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD business school for management and leadership coursesSeptember 22, 2023 — Case Study NEW BUSINESS IN THE LEGO GROUP: LEGO MINDSTORMS...</p></details>
+   Link:<a href="https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/case-study/new-business-in-the-lego-group-lego-mindstorms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMD business school for management and leadership coursesSeptember 22, 2023 — Case Study NEW BUSINESS IN THE LEGO GROUP: LEGO MINDSTORMS...</p></details>
    Published: September 22, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thestrategyinstitute.org  
-   Link: <a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company simplified its product rang...</p></details>
+   Link:<a href="https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thestrategyinstitute.org/insights/from-bankruptcy-to-billions-legos-blueprint-for-business-transformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategy InstituteFrom Bankruptcy to Billions: Lego&#x27;s Blueprint for Business...11 Nov 2025 — The company simplified its product rang...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: decision-intel.com  
-   Link: <a href="https://www.decision-intel.com/case-studies/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.decision-intel.com/case-studies/lego</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2004): LEGO Near-Bankruptcy Turnaround | Decision Intel Case StudyExceptional success Manufacturing 2004 LEGO LEGO Near-Bankruptcy Turna...</p></details>
+   Link:<a href="https://www.decision-intel.com/case-studies/lego" target="_blank" rel="noopener noreferrer nofollow">https://www.decision-intel.com/case-studies/lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2004): LEGO Near-Bankruptcy Turnaround | Decision Intel Case StudyExceptional success Manufacturing 2004 LEGO LEGO Near-Bankruptcy Turna...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2024 — Chapter PDF Available TOWARD ANTIFRAGILE MANUFACTURING: CONCEPTS FROM NATURE AND COMPLEX HUMAN-MADE SYSTEMS TO GAIN FRO...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380537853_Toward_Antifragile_Manufacturing_Concepts_from_Nature_and_Complex_Human-Made_Systems_to_Gain_from_Stressors_and_Volatility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2024 — Chapter PDF Available TOWARD ANTIFRAGILE MANUFACTURING: CONCEPTS FROM NATURE AND COMPLEX HUMAN-MADE SYSTEMS TO GAIN FRO...</p></details>
    Published: January 1, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cfocentre.com  
-   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
+   Link:<a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forconstructionpros.com  
-   Link: <a href="https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies" target="_blank" rel="noopener noreferrer nofollow">https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 5, 2023 — ANTIFRAGILITY EXPLAINED: 5 WAYS TO BUILD AGILE CONSTRUCTION COMPANIES In this article, we break down antifragility theo...</p></details>
+   Link:<a href="https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies" target="_blank" rel="noopener noreferrer nofollow">https://www.forconstructionpros.com/business/article/22872527/milwaukee-tool-corp-antifragility-explained-5-ways-to-build-agile-construction-companies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 5, 2023 — ANTIFRAGILITY EXPLAINED: 5 WAYS TO BUILD AGILE CONSTRUCTION COMPANIES In this article, we break down antifragility theo...</p></details>
    Published: October 5, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Clicked Back Into PlaceLEGO sold off its theme parks to focus on its core toy business. It also outsourced much of its manufactu...</p></details>
+   Link:<a href="https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40anshi.gupta2002/how-lego-clicked-back-into-place-1185e3c2a09c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Clicked Back Into PlaceLEGO sold off its theme parks to focus on its core toy business. It also outsourced much of its manufactu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1756669X22000187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1756669X22000187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2022 — INTERNATIONAL JOURNAL OF QUALITY AND SERVICE SCIENCES Volume 14, Issue 3, 4 May 2022, Pages 465-485 Quality, r...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1756669X22000187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1756669X22000187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2022 — INTERNATIONAL JOURNAL OF QUALITY AND SERVICE SCIENCES Volume 14, Issue 3, 4 May 2022, Pages 465-485 Quality, r...</p></details>
    Published: May 4, 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: publica.fraunhofer.de  
-   Link: <a href="https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antifragile Manufacturing: Concepts from Nature and Complex Human-Made Systems to Gain from Stressors and VolatilityMay 14, 2024 — May 14...</p></details>
+   Link:<a href="https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/ac2ab410-4129-42a9-8f3d-68b3e4eb2452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antifragile Manufacturing: Concepts from Nature and Complex Human-Made Systems to Gain from Stressors and VolatilityMay 14, 2024 — May 14...</p></details>
    Published: May 14, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bain.com  
-   Link: <a href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/</a>  
+   Link:<a href="https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-lego-revived-its-founders-mentality-fm-blog/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: strategyzer.com  
-   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
+   Link:<a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: Approaches for resilience and antifragility in collaborative business ecosystems  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 151, February 2020, 119846 APPROACHES FOR RESILIENCE AND ANTIFRAGILITY IN...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162519304494</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 151, February 2020, 119846 APPROACHES FOR RESILIENCE AND ANTIFRAGILITY IN...</p></details>
    Published: February 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gitcoin.co  
    Title: Antifragile by Design: Lessons from Decentralized Resilience Building | Gitcoin  
-   Link: <a href="https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience" target="_blank" rel="noopener noreferrer nofollow">https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 5, 2026 — HomeResearchReportAntifragile by Design: Lessons from Decentralized Resilience Building Mar 5, 2026 ANTIFRAGILE BY DESIGN...</p></details>
+   Link:<a href="https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience" target="_blank" rel="noopener noreferrer nofollow">https://gitcoin.co/research/antifragile-by-design-lessons-from-decentralized-resilience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 5, 2026 — HomeResearchReportAntifragile by Design: Lessons from Decentralized Resilience Building Mar 5, 2026 ANTIFRAGILE BY DESIGN...</p></details>
    Published: March 5, 2026

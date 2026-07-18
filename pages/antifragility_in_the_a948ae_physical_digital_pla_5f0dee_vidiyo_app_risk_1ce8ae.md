@@ -268,18 +268,18 @@ image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_vi
 
 ## Introduction
 
-LEGO VIDIYO is one of the clearest examples of the risk that appears when a LEGO product depends on software more than the brick. Launched in 2021 as a partnership between LEGO and Universal Music Group, VIDIYO combined minifigures, collectible BeatBits tiles and an augmented reality app that let children create short music videos. The concept was ambitious: physical LEGO models would become performers inside a digital music platform. Yet the theme was discontinued within a year, and the app itself later lost support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
+LEGO VIDIYO is one of the clearest examples of the risk that appears when a LEGO product depends on software more than the brick. Launched in 2021 as a partnership between LEGO and Universal Music Group, VIDIYO combined minifigures, collectible BeatBits tiles and an augmented reality app that let children create short music videos. The concept was ambitious: physical LEGO models would become performers inside a digital music platform. Yet the theme was discontinued within a year, and the app itself later lost support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_vidiyo_app_risk_1ce8ae-Illustration-1-dark.svg" | relative_url }}" alt="VIDIYO illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_vidiyo_app_risk_1ce8ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_vidiyo_app_risk_1ce8ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For a company interested in long-term resilience, VIDIYO matters because it exposed a tension at the centre of physical-digital LEGO play. Traditional LEGO sets remain usable decades after purchase. VIDIYO showed what happens when a large part of the intended experience depends on software, content [licensing]({{ 'licensing/' | relative_url }}), operating-system [compatibility]({{ 'compatibility/' | relative_url }}) and ongoing platform maintenance. When those layers disappear, the value of the physical product can change dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® VIDIYO™ &#124; Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the...</span></span></span>
+For a company interested in long-term resilience, VIDIYO matters because it exposed a tension at the centre of physical-digital LEGO play. Traditional LEGO sets remain usable decades after purchase. VIDIYO showed what happens when a large part of the intended experience depends on software, content [licensing]({{ 'licensing/' | relative_url }}), operating-system [compatibility]({{ 'compatibility/' | relative_url }}) and ongoing platform maintenance. When those layers disappear, the value of the physical product can change dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® VIDIYO™ &#124; Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the...</span></span></span>
 
 ## What happens when a LEGO app disappears?
 
 The basic promise of LEGO has always been unusually durable. A child can open a box from the 1980s and still connect those bricks to a set released today. That durability is one reason the LEGO system has remained strong across generations.
 
-VIDIYO worked differently. The app was not merely an optional enhancement. It was the place where the central fantasy happened. Children scanned minifigures and BeatBits, unlocked visual effects, selected licensed music and produced augmented reality performances. The physical elements provided inputs into a digital experience rather than acting as a complete play system on their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
+VIDIYO worked differently. The app was not merely an optional enhancement. It was the place where the central fantasy happened. Children scanned minifigures and BeatBits, unlocked visual effects, selected licensed music and produced augmented reality performances. The physical elements provided inputs into a digital experience rather than acting as a complete play system on their own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
 
-When LEGO eventually retired app support, it publicly acknowledged that the VIDIYO app would no longer be supported after January 2024. LEGO's own retirement pages describe the app as the place where VIDIYO sets "came to life" through augmented reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-dk/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® VIDIYO™ &#124; Music Video MakerLEGO® VIDIYO™ &#124; Music Video Maker. Bye-bye, LEGO® VIDIYO app. It&#x27;s been So! Much! Fun! But after Jan...</span></span></span>
+When LEGO eventually retired app support, it publicly acknowledged that the VIDIYO app would no longer be supported after January 2024. LEGO's own retirement pages describe the app as the place where VIDIYO sets "came to life" through augmented reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-dk/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® VIDIYO™ &#124; Music Video MakerLEGO® VIDIYO™ &#124; Music Video Maker. Bye-bye, LEGO® VIDIYO app. It&#x27;s been So! Much! Fun! But after Jan...</span></span></span>
 
 That wording unintentionally highlights the strategic problem. If a product "comes to life" primarily through software, then the lifespan of the experience is no longer determined by the physical object. It is determined by the software ecosystem around it.
 
@@ -304,11 +304,11 @@ A brick survives these changes. An app-dependent play loop may not.
 
 VIDIYO was not simply a LEGO music theme. It was designed around the interaction between physical and digital components.
 
-The BeatBits tiles are a useful example. On their own, they were printed pieces with unusual artwork. Their real function was to unlock digital effects inside the app. Similarly, many of the BeatBox products contained relatively small physical builds because the intended reward was what happened after scanning them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
+The BeatBits tiles are a useful example. On their own, they were printed pieces with unusual artwork. Their real function was to unlock digital effects inside the app. Similarly, many of the BeatBox products contained relatively small physical builds because the intended reward was what happened after scanning them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
 
 This shifted the role of construction. In many successful LEGO themes, building is the primary activity and digital content acts as an extension. With VIDIYO, building often felt secondary to recording videos, applying effects and interacting with music tracks.
 
-Some reviewers and LEGO fans argued that this imbalance weakened the product's appeal. Several post-mortems noted that the first wave offered limited building value relative to the emphasis placed on the app experience. Observers also pointed to confusion around the product concept and uncertainty about whether children were buying a construction toy, a music platform or an augmented reality game. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jaysbrickblog.com/news/lego-vidiyo-in-its-current-form-is-dead-rip-l-l-a-m-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jaysbrickblog.com">[Jay&#x27;s Brick Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jaysbrickblog.com</span><span class="citation-popover-snippet">Jay&#x27;s Brick BlogLEGO Vidiyo in its current form is dead. RIP L.L.A.M.A25 Jul 2021 — LEGO Vidiyo is all but cancelled, as The LEGO Group h...</span></span></span>
+Some reviewers and LEGO fans argued that this imbalance weakened the product's appeal. Several post-mortems noted that the first wave offered limited building value relative to the emphasis placed on the app experience. Observers also pointed to confusion around the product concept and uncertainty about whether children were buying a construction toy, a music platform or an augmented reality game.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jaysbrickblog.com/news/lego-vidiyo-in-its-current-form-is-dead-rip-l-l-a-m-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jaysbrickblog.com">[Jay&#x27;s Brick Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jaysbrickblog.com</span><span class="citation-popover-snippet">Jay&#x27;s Brick BlogLEGO Vidiyo in its current form is dead. RIP L.L.A.M.A25 Jul 2021 — LEGO Vidiyo is all but cancelled, as The LEGO Group h...</span></span></span>
 
 The problem was not that LEGO experimented with [digital play]({{ 'digital-play/' | relative_url }}). The problem was that the digital layer carried too much of the product's meaning.
 
@@ -319,13 +319,13 @@ An antifragile system can absorb the loss of one component without collapsing. V
 
 The most revealing question about VIDIYO is what remains once the software disappears.
 
-The minifigures remain. In fact, many collectors still praise them. The theme produced distinctive characters, costumes and printed elements that can easily be reused in wider LEGO collections. Fans frequently highlighted the creativity of the minifigure designs even while criticising the broader theme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/lego/comments/s9cx52/lego_vidiyo_officially_discontinued/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego Vidiyo Officially Discontinued</span><span class="citation-popover-snippet">Lego Vidiyo Officially Discontinued</span></span></span>
+The minifigures remain. In fact, many collectors still praise them. The theme produced distinctive characters, costumes and printed elements that can easily be reused in wider LEGO collections. Fans frequently highlighted the creativity of the minifigure designs even while criticising the broader theme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/lego/comments/s9cx52/lego_vidiyo_officially_discontinued/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Lego Vidiyo Officially Discontinued</span><span class="citation-popover-snippet">Lego Vidiyo Officially Discontinued</span></span></span>
 
 The bricks also remain. Stage models, decorative parts and accessories can be integrated into other builds.
 
 But the intended play loop largely vanishes.
 
-The BeatBits no longer unlock new effects. The augmented reality performances no longer function as originally designed. The connection between physical objects and digital music creation becomes largely historical rather than active. LEGO's own retirement notices make clear that the app support has ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-it/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® VIDIYO™ &#124; Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the Musi...</span></span></span>
+The BeatBits no longer unlock new effects. The augmented reality performances no longer function as originally designed. The connection between physical objects and digital music creation becomes largely historical rather than active. LEGO's own retirement notices make clear that the app support has ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-it/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® VIDIYO™ &#124; Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the Musi...</span></span></span>
 
 This creates an unusual outcome. The physical products still exist, but the experience they were designed to deliver exists only partially.
 
@@ -337,7 +337,7 @@ That is very different from a conventional LEGO set. If a LEGO Castle set loses 
 
 From an antifragility perspective, failure is not automatically a problem. A company becomes stronger when experiments generate useful information at a manageable cost.
 
-LEGO itself framed the end of VIDIYO in these terms. When discontinuing the theme, the company said it had gained extensive learnings about music, content creation, the play experience and what would be required to build a sustainable business around the concept. It also stated that it still saw potential in music as a play category and would apply lessons from VIDIYO to future experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebrickblogger.com/2022/01/lego-vidiyo-sets-discontinued-app-still-supported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebrickblogger.com">[The Brick Blogger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebrickblogger.com</span><span class="citation-popover-title">lego vidiyo sets discontinued app still supported</span><span class="citation-popover-snippet">LEGO VIDIYO Sets Discontinued &amp; App Still Supported24 Jan 2022 — We have decided to discontinue the physical VIDIYO products from January...</span></span></span>
+LEGO itself framed the end of VIDIYO in these terms. When discontinuing the theme, the company said it had gained extensive learnings about music, content creation, the play experience and what would be required to build a sustainable business around the concept. It also stated that it still saw potential in music as a play category and would apply lessons from VIDIYO to future experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thebrickblogger.com/2022/01/lego-vidiyo-sets-discontinued-app-still-supported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebrickblogger.com">[The Brick Blogger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebrickblogger.com</span><span class="citation-popover-title">lego vidiyo sets discontinued app still supported</span><span class="citation-popover-snippet">LEGO VIDIYO Sets Discontinued &amp; App Still Supported24 Jan 2022 — We have decided to discontinue the physical VIDIYO products from January...</span></span></span>
 
 That response is important because it shows a distinction between product failure and organisational failure.
 
@@ -345,7 +345,7 @@ A fragile company would either avoid experimentation entirely or become locked i
 
 The more interesting lesson is not that digital play should be avoided. It is that digital features should be designed so that the physical product retains value even if the software layer weakens.
 
-VIDIYO exposed several questions that future LEGO projects must answer: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
+VIDIYO exposed several questions that future LEGO projects must answer:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Vidiyo</span><span class="citation-popover-snippet">Lego Vidiyo</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,7 +364,7 @@ These questions apply not only to VIDIYO but to every future attempt to merge LE
 
 The most useful outcome of VIDIYO may be that it failed early enough to remain a contained lesson.
 
-The project explored music creation, moderated social sharing, augmented reality and licensed entertainment partnerships. It demonstrated that children were interested in creative digital expression, but it also revealed how difficult it is to sustain a play system that depends on continuous software support, content updates and platform management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/lego-vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">This app allows kids to create dance videos using their real-world Lego constructions. By selecting from a variety of Vidiyo minifigs, wh...</span></span></span>
+The project explored music creation, moderated social sharing, augmented reality and licensed entertainment partnerships. It demonstrated that children were interested in creative digital expression, but it also revealed how difficult it is to sustain a play system that depends on continuous software support, content updates and platform management.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/lego-vidiyo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">This app allows kids to create dance videos using their real-world Lego constructions. By selecting from a variety of Vidiyo minifigs, wh...</span></span></span>
 
 Later LEGO digital projects have often leaned more heavily on preserving a clear physical core. The broader strategic lesson is that digital layers work best when they amplify the strengths of the brick rather than becoming the main product themselves.
 
@@ -375,194 +375,194 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2SasDlVua0Y" title="LEGO VIDIYO IS CANCELLED IN 2022! - The LEGO Group&#x27;s Response." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2SasDlVua0Y" target="_blank" rel="noopener noreferrer">LEGO VIDIYO IS CANCELLED IN 2022! - The LEGO Group&#x27;s Response.</a></p><p class="youtube-embed-meta">Channel: TheBrickWiz &middot; Views: 2.5K &middot; Uploaded: January 2022 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2SasDlVua0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2SasDlVua0Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What happens when a LEGO app disappears?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What happens when a LEGO app disappears?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Frames experimentation, success and failure in innovation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames experimentation, success and failure in innovation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for LEGO&#x27;s digital initiatives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for LEGO&#x27;s digital initiatives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
+</h4>
+<p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
         
-        <p class="fr-book-desc">Addresses dependence on digital platforms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses dependence on digital platforms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Explains app-centric product engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains app-centric product engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego VIDIYO Series 1 Full Set of 12 Minifigures New"><img src="https://i.ebayimg.com/images/g/daEAAeSwl8lpnyEx/s-l225.jpg" alt="Listing image for Lego VIDIYO Series 1 Full Set of 12 Minifigures New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">Lego VIDIYO Series 1 Full Set of 12 Minifigures New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego VIDIYO Series 1 Full Set of 12 Minifigures New"><img src="https://i.ebayimg.com/images/g/daEAAeSwl8lpnyEx/s-l225.jpg" alt="Listing image for Lego VIDIYO Series 1 Full Set of 12 Minifigures New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">Lego VIDIYO Series 1 Full Set of 12 Minifigures New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Vidiyo Various"><img src="https://i.ebayimg.com/images/g/A6EAAeSwu-dqA40i/s-l225.jpg" alt="Listing image for Lego Vidiyo Various" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">Lego Vidiyo Various</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Vidiyo Various"><img src="https://i.ebayimg.com/images/g/A6EAAeSwu-dqA40i/s-l225.jpg" alt="Listing image for Lego Vidiyo Various" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">Lego Vidiyo Various</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Vidiyo set 43102, Candy Mermaid Beatbox, BNIB"><img src="https://i.ebayimg.com/images/g/EdwAAeSwzyppxn1j/s-l225.jpg" alt="Listing image for Lego Vidiyo set 43102, Candy Mermaid Beatbox, BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">Lego Vidiyo set 43102, Candy Mermaid Beatbox, BNIB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Vidiyo set 43102, Candy Mermaid Beatbox, BNIB"><img src="https://i.ebayimg.com/images/g/EdwAAeSwzyppxn1j/s-l225.jpg" alt="Listing image for Lego Vidiyo set 43102, Candy Mermaid Beatbox, BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">Lego Vidiyo set 43102, Candy Mermaid Beatbox, BNIB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO VIDIYO Brand New - 5 Sets – 43102, 43104, 43107, 43109 &amp; 43110"><img src="https://i.ebayimg.com/images/g/K1EAAeSwLYRpkiCz/s-l225.jpg" alt="Listing image for LEGO VIDIYO Brand New - 5 Sets – 43102, 43104, 43107, 43109 &amp; 43110" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">LEGO VIDIYO Brand New - 5 Sets – 43102, 43104, 43107, 43109 &amp; 43110</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO VIDIYO Brand New - 5 Sets – 43102, 43104, 43107, 43109 &amp; 43110"><img src="https://i.ebayimg.com/images/g/K1EAAeSwLYRpkiCz/s-l225.jpg" alt="Listing image for LEGO VIDIYO Brand New - 5 Sets – 43102, 43104, 43107, 43109 &amp; 43110" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">LEGO VIDIYO Brand New - 5 Sets – 43102, 43104, 43107, 43109 &amp; 43110</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO VIDIYO set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO VIDIYO set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+VIDIYO+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-a-lego-app-disappears-lego-vidiyo-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO VIDIYO set" data-ebay-reference="what-happens-when-a-lego-app-disappears-lego-vidiyo-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,120 +768,120 @@ For a company seeking antifragility, that may be the most valuable lesson VIDIYO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lego Vidiyo  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Vidiyo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Vidiyo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Vidiyo</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: brickset.com  
    Title: vidiyo officially discontinued  
-   Link: <a href="https://brickset.com/article/70217/vidiyo-officially-discontinued" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/70217/vidiyo-officially-discontinued</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2022 — Lego said, &quot;we have decided to discontinue the physical VIDIYO products from January 31st 2022 but will continue to support...</p></details>
+   Link:<a href="https://brickset.com/article/70217/vidiyo-officially-discontinued" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/70217/vidiyo-officially-discontinued</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2022 — Lego said, &quot;we have decided to discontinue the physical VIDIYO products from January 31st 2022 but will continue to support...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/vidiyo/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® VIDIYO™ | Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/vidiyo/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® VIDIYO™ | Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-dk/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-dk/themes/vidiyo/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® VIDIYO™ | Music Video MakerLEGO® VIDIYO™ | Music Video Maker. Bye-bye, LEGO® VIDIYO app. It&#x27;s been So! Much! Fun! But after Jan...</p></details>
+   Link:<a href="https://www.lego.com/en-dk/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-dk/themes/vidiyo/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® VIDIYO™ | Music Video MakerLEGO® VIDIYO™ | Music Video Maker. Bye-bye, LEGO® VIDIYO app. It&#x27;s been So! Much! Fun! But after Jan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/lego-vidiyo" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-vidiyo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This app allows kids to create dance videos using their real-world Lego constructions. By selecting from a variety of Vidiyo minifigs, wh...</p></details>
+   Link:<a href="https://www.wired.com/story/lego-vidiyo" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lego-vidiyo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This app allows kids to create dance videos using their real-world Lego constructions. By selecting from a variety of Vidiyo minifigs, wh...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Lego Vidiyo Officially Discontinued  
-   Link: <a href="https://www.reddit.com/r/lego/comments/s9cx52/lego_vidiyo_officially_discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/s9cx52/lego_vidiyo_officially_discontinued/</a>  
+   Link:<a href="https://www.reddit.com/r/lego/comments/s9cx52/lego_vidiyo_officially_discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/s9cx52/lego_vidiyo_officially_discontinued/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-it/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-it/themes/vidiyo/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® VIDIYO™ | Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the Musi...</p></details>
+   Link:<a href="https://www.lego.com/en-it/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-it/themes/vidiyo/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® VIDIYO™ | Music Video MakerLEGO® VIDIYO™ is now retired as of 2024 and the app is no longer supported. Discover more about the Musi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/nl-nl/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/nl-nl/themes/vidiyo/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaarwel, LEGO® VIDIYO appLEGO® VIDIYO™ is sinds 2024 gestopt en de app wordt niet langer ondersteund. Ontdek hier meer over de Muziekvide...</p></details>
+   Link:<a href="https://www.lego.com/nl-nl/themes/vidiyo/about" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/nl-nl/themes/vidiyo/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaarwel, LEGO® VIDIYO appLEGO® VIDIYO™ is sinds 2024 gestopt en de app wordt niet langer ondersteund. Ontdek hier meer over de Muziekvide...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brickset.com  
    Title: official statement regarding vidiyo  
-   Link: <a href="https://brickset.com/article/60698/official-statement-regarding-vidiyo" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/60698/official-statement-regarding-vidiyo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2021 — Following rumours about the demise of VIDIYO, LEGO has published an official statement which clarifies the theme&#x27;s future...</p></details>
+   Link:<a href="https://brickset.com/article/60698/official-statement-regarding-vidiyo" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/60698/official-statement-regarding-vidiyo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2021 — Following rumours about the demise of VIDIYO, LEGO has published an official statement which clarifies the theme&#x27;s future...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jaysbrickblog.com  
-   Link: <a href="https://jaysbrickblog.com/news/lego-vidiyo-in-its-current-form-is-dead-rip-l-l-a-m-a/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-vidiyo-in-its-current-form-is-dead-rip-l-l-a-m-a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jay&#x27;s Brick BlogLEGO Vidiyo in its current form is dead. RIP L.L.A.M.A25 Jul 2021 — LEGO Vidiyo is all but cancelled, as The LEGO Group h...</p></details>
+   Link:<a href="https://jaysbrickblog.com/news/lego-vidiyo-in-its-current-form-is-dead-rip-l-l-a-m-a/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/lego-vidiyo-in-its-current-form-is-dead-rip-l-l-a-m-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jay&#x27;s Brick BlogLEGO Vidiyo in its current form is dead. RIP L.L.A.M.A25 Jul 2021 — LEGO Vidiyo is all but cancelled, as The LEGO Group h...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thebrickblogger.com  
    Title: lego vidiyo sets discontinued app still supported  
-   Link: <a href="https://thebrickblogger.com/2022/01/lego-vidiyo-sets-discontinued-app-still-supported/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2022/01/lego-vidiyo-sets-discontinued-app-still-supported/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO Sets Discontinued &amp; App Still Supported24 Jan 2022 — We have decided to discontinue the physical VIDIYO products from January...</p></details>
+   Link:<a href="https://thebrickblogger.com/2022/01/lego-vidiyo-sets-discontinued-app-still-supported/" target="_blank" rel="noopener noreferrer nofollow">https://thebrickblogger.com/2022/01/lego-vidiyo-sets-discontinued-app-still-supported/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO Sets Discontinued &amp; App Still Supported24 Jan 2022 — We have decided to discontinue the physical VIDIYO products from January...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sagittariusdolly.wordpress.com  
-   Link: <a href="https://sagittariusdolly.wordpress.com/2021/03/29/lego-vidiyo-including-how-i-found-a-workaround-to-legos-own-restrictions-on-its-app/" target="_blank" rel="noopener noreferrer nofollow">https://sagittariusdolly.wordpress.com/2021/03/29/lego-vidiyo-including-how-i-found-a-workaround-to-legos-own-restrictions-on-its-app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDIYO (Including How I Found a Workaround to...29 Mar 2021 — I shot a music video with the band where I used the BLACKPINK song “Kill T...</p></details>
+   Link:<a href="https://sagittariusdolly.wordpress.com/2021/03/29/lego-vidiyo-including-how-i-found-a-workaround-to-legos-own-restrictions-on-its-app/" target="_blank" rel="noopener noreferrer nofollow">https://sagittariusdolly.wordpress.com/2021/03/29/lego-vidiyo-including-how-i-found-a-workaround-to-legos-own-restrictions-on-its-app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIDIYO (Including How I Found a Workaround to...29 Mar 2021 — I shot a music video with the band where I used the BLACKPINK song “Kill T...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: this wont come as much of a surprise but the lego group has opted to discontinue  
-   Link: <a href="https://www.facebook.com/blocksmag/posts/this-wont-come-as-much-of-a-surprise-but-the-lego-group-has-opted-to-discontinue/5152465598124776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/blocksmag/posts/this-wont-come-as-much-of-a-surprise-but-the-lego-group-has-opted-to-discontinue/5152465598124776/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2021 we decided to pause the LEGO VIDIYO roll-...21 Jan 2022 — Based on these insights we have decided to discontinue the physic...</p></details>
+   Link:<a href="https://www.facebook.com/blocksmag/posts/this-wont-come-as-much-of-a-surprise-but-the-lego-group-has-opted-to-discontinue/5152465598124776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/blocksmag/posts/this-wont-come-as-much-of-a-surprise-but-the-lego-group-has-opted-to-discontinue/5152465598124776/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2021 we decided to pause the LEGO VIDIYO roll-...21 Jan 2022 — Based on these insights we have decided to discontinue the physic...</p></details>
    Published: July 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thebrickfan.com  
    Title: lego releases statement regarding lego vidiyo cancellation rumors  
-   Link: <a href="https://www.thebrickfan.com/lego-releases-statement-regarding-lego-vidiyo-cancellation-rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-releases-statement-regarding-lego-vidiyo-cancellation-rumors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Releases Statement Regarding LEGO VIDIYO...23 Jul 2021 — LEGO VIDIYO is very much still available, the current products will contin...</p></details>
+   Link:<a href="https://www.thebrickfan.com/lego-releases-statement-regarding-lego-vidiyo-cancellation-rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrickfan.com/lego-releases-statement-regarding-lego-vidiyo-cancellation-rumors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Releases Statement Regarding LEGO VIDIYO...23 Jul 2021 — LEGO VIDIYO is very much still available, the current products will contin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: brickfanatics.com  
    Title: lego vidiyo is officially being discontinued  
-   Link: <a href="https://www.brickfanatics.com/lego-vidiyo-is-officially-being-discontinued" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-vidiyo-is-officially-being-discontinued</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO sets are officially being discontinued soon21 Jan 2022 — LEGO VIDIYO is being discontinued with the production of the sets st...</p></details>
+   Link:<a href="https://www.brickfanatics.com/lego-vidiyo-is-officially-being-discontinued" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-vidiyo-is-officially-being-discontinued</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO sets are officially being discontinued soon21 Jan 2022 — LEGO VIDIYO is being discontinued with the production of the sets st...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: truenorthbricks.com  
    Title: True North Bricks Vidiyo's Discontinuation  
-   Link: <a href="https://truenorthbricks.com/2022/01/22/vidiyos-discontinuation/" target="_blank" rel="noopener noreferrer nofollow">https://truenorthbricks.com/2022/01/22/vidiyos-discontinuation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vidiyo&#x27;s Discontinuation - True North...22 Jan 2022 — The LEGO Group announced Vidiyo is discontinued after less than one year on store...</p></details>
+   Link:<a href="https://truenorthbricks.com/2022/01/22/vidiyos-discontinuation/" target="_blank" rel="noopener noreferrer nofollow">https://truenorthbricks.com/2022/01/22/vidiyos-discontinuation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vidiyo&#x27;s Discontinuation - True North...22 Jan 2022 — The LEGO Group announced Vidiyo is discontinued after less than one year on store...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/991442004640863/posts/1976777969440590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/991442004640863/posts/1976777969440590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sets are officially being discontinued soon. Benny...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/991442004640863/posts/1976777969440590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/991442004640863/posts/1976777969440590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sets are officially being discontinued soon. Benny...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brothers-brick.com  
-   Link: <a href="https://www.brothers-brick.com/2021/07/24/lego-clarifies-the-future-of-vidiyo-in-a-official-statement-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2021/07/24/lego-clarifies-the-future-of-vidiyo-in-a-official-statement-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO clarifies the future of VIDIYO in a official statement...24 Jul 2021 — Yesterday, a number of LEGO fan blogs reported the cancelati...</p></details>
+   Link:<a href="https://www.brothers-brick.com/2021/07/24/lego-clarifies-the-future-of-vidiyo-in-a-official-statement-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2021/07/24/lego-clarifies-the-future-of-vidiyo-in-a-official-statement-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO clarifies the future of VIDIYO in a official statement...24 Jul 2021 — Yesterday, a number of LEGO fan blogs reported the cancelati...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bricksfanz.com  
    Title: lego vidiyo official discontinued  
-   Link: <a href="https://bricksfanz.com/lego-vidiyo-official-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/lego-vidiyo-official-discontinued/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO Officially Discontinued21 Jan 2022 — Its official LEGO® VIDIYO is no more. Today the LEGO Group have released a short stateme...</p></details>
+   Link:<a href="https://bricksfanz.com/lego-vidiyo-official-discontinued/" target="_blank" rel="noopener noreferrer nofollow">https://bricksfanz.com/lego-vidiyo-official-discontinued/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO Officially Discontinued21 Jan 2022 — Its official LEGO® VIDIYO is no more. Today the LEGO Group have released a short stateme...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bouwsteentjes.info  
    Title: lego vidiyo stopgezet en redesign  
-   Link: <a href="https://bouwsteentjes.info/lego-vidiyo-stopgezet-en-redesign/" target="_blank" rel="noopener noreferrer nofollow">https://bouwsteentjes.info/lego-vidiyo-stopgezet-en-redesign/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO is officieel geannuleerd21 Jan 2022 — LEGO heeft aangekondigd dat LEGO Vidiyo volledig geannuleerd wordt. Er is gekeken naar...</p></details>
+   Link:<a href="https://bouwsteentjes.info/lego-vidiyo-stopgezet-en-redesign/" target="_blank" rel="noopener noreferrer nofollow">https://bouwsteentjes.info/lego-vidiyo-stopgezet-en-redesign/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO is officieel geannuleerd21 Jan 2022 — LEGO heeft aangekondigd dat LEGO Vidiyo volledig geannuleerd wordt. Er is gekeken naar...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: LEGO Sets That Got Cancelled  
-   Link: <a href="http://www.youtube.com/watch?v=KIwygK-Se38" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KIwygK-Se38</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO failure review analysis LEGO VIDIYO Review: So much potential... 😕 Solid Brix Studios...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KIwygK-Se38" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KIwygK-Se38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO VIDIYO failure review analysis LEGO VIDIYO Review: So much potential... 😕 Solid Brix Studios...</p></details>

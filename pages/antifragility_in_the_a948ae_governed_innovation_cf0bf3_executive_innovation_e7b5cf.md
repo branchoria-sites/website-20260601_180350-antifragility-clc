@@ -277,7 +277,7 @@ image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_exe
 LEGO’s recovery from its early-2000s crisis depended on more than cutting costs or cancelling failed products. The deeper change was deciding who had the authority to judge innovation before it became expensive. The company had learned that creative ideas were not dangerous because they were new; they were dangerous when nobody could clearly decide whether they fit LEGO’s strategy, deserved resources, or should be stopped.
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-1-dark.svg" | relative_url }}" alt="Innovation Board illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Executive Innovation Governance Group, sometimes described as the Executive Innovation Group in accounts of the turnaround, was created to solve that problem. Instead of allowing separate divisions to pursue growth opportunities with limited coordination, the group made innovation answer to a common set of strategic and financial tests. That shift changed LEGO’s bets. Experiments became smaller, more connected to the core business, and easier to abandon when evidence turned against them. In antifragile terms, LEGO moved from absorbing large, uncontrolled shocks to learning from contained risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[2designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+The Executive Innovation Governance Group, sometimes described as the Executive Innovation Group in accounts of the turnaround, was created to solve that problem. Instead of allowing separate divisions to pursue growth opportunities with limited coordination, the group made innovation answer to a common set of strategic and financial tests. That shift changed LEGO’s bets. Experiments became smaller, more connected to the core business, and easier to abandon when evidence turned against them. In antifragile terms, LEGO moved from absorbing large, uncontrolled shocks to learning from contained risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[2designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1LrcY9i7nTk" title="Jørgen Vig Knudstorp - Crisis to Creativity How LEGOs CEO Turned Around a Broken Business" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1LrcY9i7nTk" target="_blank" rel="noopener noreferrer">Jørgen Vig Knudstorp - Crisis to Creativity How LEGOs CEO Turned Around a Broken Business</a></p><p class="youtube-embed-meta">Channel: Transformer CEOs &middot; Views: 487 &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1LrcY9i7nTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1LrcY9i7nTk">Open on YouTube</a></p></div></div></div>
 
@@ -285,11 +285,11 @@ The Executive Innovation Governance Group, sometimes described as the Executive 
 
 LEGO’s crisis revealed that its innovation problem was not a lack of ideas. It was a lack of governance over ideas.
 
-Before the turnaround, different parts of the company pursued growth in multiple directions at once. Theme parks, media ventures, lifestyle products, digital projects and entirely new product categories were often justified by the belief that the LEGO brand could stretch into almost any market. Some initiatives generated excitement, but the organisation lacked a strong mechanism for comparing them against one another or against the company’s long-term strengths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolThe case tells the story of a company where innovation is tremen...</span></span></span>
+Before the turnaround, different parts of the company pursued growth in multiple directions at once. Theme parks, media ventures, lifestyle products, digital projects and entirely new product categories were often justified by the belief that the LEGO brand could stretch into almost any market. Some initiatives generated excitement, but the organisation lacked a strong mechanism for comparing them against one another or against the company’s long-term strengths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imd.org">[IMD Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imd.org</span><span class="citation-popover-snippet">IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolThe case tells the story of a company where innovation is tremen...</span></span></span>
 
-The result was that innovation became difficult to prioritise. A new venture could consume management attention, manufacturing resources and marketing [investment]({{ 'investment/' | relative_url }}) without a clear process for determining whether it strengthened the broader LEGO system. Products such as Galidor and Clikits became symbols of this problem because they represented substantial commitments outside the traditional construction experience. Their struggles suggested that novelty alone was not a reliable guide for investment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span>
+The result was that innovation became difficult to prioritise. A new venture could consume management attention, manufacturing resources and marketing [investment]({{ 'investment/' | relative_url }}) without a clear process for determining whether it strengthened the broader LEGO system. Products such as Galidor and Clikits became symbols of this problem because they represented substantial commitments outside the traditional construction experience. Their struggles suggested that novelty alone was not a reliable guide for investment decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span>
 
-LEGO’s 2004 [Action Plan]({{ 'action-plan/' | relative_url }}) described the need to set a clearer direction, restore competitiveness and reduce risk by resizing activities and assets. That language reflected a recognition that innovation choices had become connected to the company’s financial survival. A failed product was no longer an isolated mistake; it could increase operational [complexity]({{ 'complexity/' | relative_url }}) across the entire business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO Group14 Feb 2006 — The future strategy. The overall objective of the Action Plan was to return the LEGO Group to...</span></span></span>
+LEGO’s 2004 [Action Plan]({{ 'action-plan/' | relative_url }}) described the need to set a clearer direction, restore competitiveness and reduce risk by resizing activities and assets. That language reflected a recognition that innovation choices had become connected to the company’s financial survival. A failed product was no longer an isolated mistake; it could increase operational [complexity]({{ 'complexity/' | relative_url }}) across the entire business.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO Group14 Feb 2006 — The future strategy. The overall objective of the Action Plan was to return the LEGO Group to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kh8Id_x269s" title="Writing the Case of a Company Coming Back From the Brink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kh8Id_x269s" target="_blank" rel="noopener noreferrer">Writing the Case of a Company Coming Back From the Brink</a></p><p class="youtube-embed-meta">Channel: Harvard Business School &middot; Views: 5.2K &middot; Uploaded: February 2017 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kh8Id_x269s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kh8Id_x269s">Open on YouTube</a></p></div></div></div>
 
@@ -297,14 +297,14 @@ LEGO’s 2004 [Action Plan]({{ 'action-plan/' | relative_url }}) described the n
 
 The Executive Innovation Governance Group was designed to make innovation a managed portfolio rather than a collection of independent ambitions.
 
-According to Harvard Business Review’s analysis of the turnaround, the group coordinated innovation activities across the company, defined the new-product portfolio, allocated resources, delegated authority and evaluated results. Those responsibilities mattered because they concentrated decision-making around a single strategic view rather than allowing innovation projects to compete without common standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+According to Harvard Business Review’s analysis of the turnaround, the group coordinated innovation activities across the company, defined the new-product portfolio, allocated resources, delegated authority and evaluated results. Those responsibilities mattered because they concentrated decision-making around a single strategic view rather than allowing innovation projects to compete without common standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
 
 Several important changes followed from that structure:
 
-* **Innovation became visible at executive level.** Major initiatives no longer advanced simply because a business unit supported them. Senior leadership could compare opportunities directly and decide which projects deserved investment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
-* **Resources became strategic rather than political.** Funding, talent and manufacturing capacity were allocated according to company priorities instead of being spread across disconnected experiments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
-* **Projects had to fit a portfolio.** The question shifted from “Is this idea interesting?” to “Does this improve the overall innovation portfolio?” That distinction encouraged balance between safer core products and more exploratory initiatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
-* **Performance could be reviewed systematically.** Innovation efforts became subject to evaluation rather than protected by enthusiasm alone. This made it easier to identify weak projects before losses escalated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+* **Innovation became visible at executive level.** Major initiatives no longer advanced simply because a business unit supported them. Senior leadership could compare opportunities directly and decide which projects deserved investment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+* **Resources became strategic rather than political.** Funding, talent and manufacturing capacity were allocated according to company priorities instead of being spread across disconnected experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+* **Projects had to fit a portfolio.** The question shifted from “Is this idea interesting?” to “Does this improve the overall innovation portfolio?” That distinction encouraged balance between safer core products and more exploratory initiatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+* **Performance could be reviewed systematically.** Innovation efforts became subject to evaluation rather than protected by enthusiasm alone. This made it easier to identify weak projects before losses escalated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
 
 The significance of the group was therefore organisational as much as strategic. It created a place where risk could be compared, discussed and controlled. Instead of every experiment becoming a separate bet on LEGO’s future, innovation became part of a governed system.
 
@@ -313,13 +313,13 @@ The significance of the group was therefore organisational as much as strategic.
 
 One of the most important effects of the Executive Innovation Group was that it changed the politics of failure.
 
-In many companies, projects survive because nobody wants to admit that an earlier decision was wrong. Teams become attached to initiatives, managers defend budgets, and investments continue long after warning signs appear. LEGO’s governance reforms reduced this tendency by giving strategic ownership to a cross-functional executive body rather than leaving decisions solely with project champions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+In many companies, projects survive because nobody wants to admit that an earlier decision was wrong. Teams become attached to initiatives, managers defend budgets, and investments continue long after warning signs appear. LEGO’s governance reforms reduced this tendency by giving strategic ownership to a cross-functional executive body rather than leaving decisions solely with project champions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
 
 Because the group evaluated innovation against company-wide goals, a project could be stopped without treating the decision as a personal defeat. The question became whether the initiative strengthened LEGO’s strategic position, not whether a particular manager had worked hard on it.
 
-This mattered especially after the company’s experience with expensive diversification. The turnaround leadership increasingly asked whether a new idea reinforced LEGO’s distinctive assets: the [brick system]({{ 'brick-system/' | relative_url }}), building play, strong themes, loyal fan communities and retailer relationships. Projects that failed this test became harder to justify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategyzer.com">[2strategyzer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategyzer.com</span><span class="citation-popover-snippet">LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</span></span></span>
+This mattered especially after the company’s experience with expensive diversification. The turnaround leadership increasingly asked whether a new idea reinforced LEGO’s distinctive assets: the [brick system]({{ 'brick-system/' | relative_url }}), building play, strong themes, loyal fan communities and retailer relationships. Projects that failed this test became harder to justify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategyzer.com">[2strategyzer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategyzer.com</span><span class="citation-popover-snippet">LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</span></span></span>
 
-That discipline did not eliminate experimentation. LEGO continued to innovate through licensed themes, digital experiences, community participation and new product formats. The difference was that experiments were expected to demonstrate strategic value before receiving larger commitments. Governance created a mechanism for scaling successful ideas while containing unsuccessful ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-snippet">Harvard Business School AI InstituteHarnessing Open Innovation at The LEGO Group13 Nov 2018 — In the short term, Lego wants to focus on d...</span></span></span>
+That discipline did not eliminate experimentation. LEGO continued to innovate through licensed themes, digital experiences, community participation and new product formats. The difference was that experiments were expected to demonstrate strategic value before receiving larger commitments. Governance created a mechanism for scaling successful ideas while containing unsuccessful ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[Harvard Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-snippet">Harvard Business School AI InstituteHarnessing Open Innovation at The LEGO Group13 Nov 2018 — In the short term, Lego wants to focus on d...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-CiwT2ZTKc" title="The Man Who Rescued Lego - Full Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-CiwT2ZTKc" target="_blank" rel="noopener noreferrer">The Man Who Rescued Lego - Full Version</a></p><p class="youtube-embed-meta">Channel: Meet the Boss &middot; Views: 75.9K &middot; Uploaded: May 2014 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-CiwT2ZTKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-CiwT2ZTKc">Open on YouTube</a></p></div></div></div>
 
@@ -327,201 +327,201 @@ That discipline did not eliminate experimentation. LEGO continued to innovate th
 
 The Executive Innovation Group changed LEGO’s bets because it changed the size and visibility of failure.
 
-Before the turnaround, innovation often produced complexity first and learning later. By the time an idea proved weak, it could already be tied to manufacturing systems, marketing plans and large financial commitments. After governance reforms, the company increasingly treated innovation as a portfolio that required strategic ownership, resource discipline and measurable outcomes. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[2designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+Before the turnaround, innovation often produced complexity first and learning later. By the time an idea proved weak, it could already be tied to manufacturing systems, marketing plans and large financial commitments. After governance reforms, the company increasingly treated innovation as a portfolio that required strategic ownership, resource discipline and measurable outcomes. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[2designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
 
-That shift made LEGO more antifragile. The company did not stop taking risks. Instead, it built a structure that allowed risks to generate information before they generated existential damage. The Executive Innovation Group served as the mechanism that connected creativity to accountability, ensuring that new ideas strengthened the business before they became large enough to threaten it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[2designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
+That shift made LEGO more antifragile. The company did not stop taking risks. Instead, it built a structure that allowed risks to generate information before they generated existential damage. The Executive Innovation Group served as the mechanism that connected creativity to accountability, ensuring that new ideas strengthened the business before they became large enough to threaten it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designblog.uniandes.edu.co">[2designblog.uniandes.edu.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designblog.uniandes.edu.co</span><span class="citation-popover-snippet">oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-3-dark.svg" | relative_url }}" alt="Innovation Board illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Decided Which LEGO Ideas Survived?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Decided Which LEGO Ideas Survived?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses innovation governance during LEGO&#x27;s turnaround.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses innovation governance during LEGO&#x27;s turnaround.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Demonstrates how governance can contain experimental risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Demonstrates how governance can contain experimental risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Strategy, Bad Strategy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954850-M.jpg" alt="Cover for Good Strategy, Bad Strategy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Strategy, Bad Strategy">Good Strategy, Bad Strategy</a>
-        </h4>
-        <p class="fr-book-author">By Richard P. Rumelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Strategy, Bad Strategy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954850-M.jpg" alt="Cover for Good Strategy, Bad Strategy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Strategy, Bad Strategy">Good Strategy, Bad Strategy</a>
+</h4>
+<p class="fr-book-author">By Richard P. Rumelt</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Planning, Strategic planning, Strategy, management, Hd30.28 .r854 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Planning, Strategic planning, Strategy, management, Hd30.28 .r854 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the theoretical basis for controlled experimentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the theoretical basis for controlled experimentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good Strategy, Bad Strategy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good Strategy, Bad Strategy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set 21318 Tree House - 100% Complete With Box"><img src="https://i.ebayimg.com/images/g/fXQAAeSwhCtqJD0A/s-l225.jpg" alt="Listing image for LEGO Ideas Set 21318 Tree House - 100% Complete With Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set 21318 Tree House - 100% Complete With Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces"><img src="https://i.ebayimg.com/images/g/P7EAAeSwnVVqJbLo/s-l225.jpg" alt="Listing image for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces"><img src="https://i.ebayimg.com/images/g/P7EAAeSwnVVqJbLo/s-l225.jpg" alt="Listing image for LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas 21335 Motorized Lighthouse Building Set 2065 Pieces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595"><img src="https://i.ebayimg.com/images/g/R-4AAeSwizRqHuLN/s-l225.jpg" alt="Listing image for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595"><img src="https://i.ebayimg.com/images/g/R-4AAeSwizRqHuLN/s-l225.jpg" alt="Listing image for LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Set - Tribute to Galileo Galilei GWP - 40595</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+"><img src="https://i.ebayimg.com/images/g/7vYAAeSwLqJqJmb2/s-l225.jpg" alt="Listing image for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+"><img src="https://i.ebayimg.com/images/g/7vYAAeSwLqJqJmb2/s-l225.jpg" alt="Listing image for LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Ideas Promotional Books Are My Passion 40698 Complete Set 285pcs 18+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Ideas set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Ideas set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Ideas+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-decided-which-lego-ideas-survived-lego-ideas-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Ideas set" data-ebay-reference="who-decided-which-lego-ideas-survived-lego-ideas-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That shift made LEGO more antifragile. The company did not stop taking risks. In
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That shift made LEGO more antifragile. The company did not stop taking risks. In
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That shift made LEGO more antifragile. The company did not stop taking risks. In
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That shift made LEGO more antifragile. The company did not stop taking risks. In
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That shift made LEGO more antifragile. The company did not stop taking risks. In
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,154 +727,154 @@ That shift made LEGO more antifragile. The company did not stop taking risks. In
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: designblog.uniandes.edu.co  
-   Link: <a href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</p></details>
+   Link:<a href="https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://designblog.uniandes.edu.co/blogs/dise2102pc/files/2013/08/harvardbusinessreview_lego.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oducts but pricing plans, com- munity building, business processes, and channels to...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imd.org  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolThe case tells the story of a company where innovation is tremen...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/innovation-at-the-lego-group-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMD Business SchoolInnovation at the LEGO Group (A) - IMD Business SchoolThe case tells the story of a company where innovation is tremen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO Group14 Feb 2006 — The future strategy. The overall objective of the Action Plan was to return the LEGO Group to...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO Group14 Feb 2006 — The future strategy. The overall objective of the Action Plan was to return the LEGO Group to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupReduce the level of risk by right sizing our activities, cost base and assets to a lower revenue base. A...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupReduce the level of risk by right sizing our activities, cost base and assets to a lower revenue base. A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: strategyzer.com  
-   Link: <a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
+   Link:<a href="https://www.strategyzer.com/library/legos-great-business-model-turnaround-story" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/library/legos-great-business-model-turnaround-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Great Business Model Turnaround StoryLearn how LEGO pulled off a spectacular business turnaround, quadrupled its revenues in less...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: d3.harvard.edu  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteHarnessing Open Innovation at The LEGO Group13 Nov 2018 — In the short term, Lego wants to focus on d...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/block-by-block-harnessing-open-innovation-at-the-lego-group/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteHarnessing Open Innovation at The LEGO Group13 Nov 2018 — In the short term, Lego wants to focus on d...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: d3.harvard.edu  
    Title: open innovation at lego the back beat in everything is awesome  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteOpen Innovation at Lego – The Back Beat in “Everything is...13 Nov 2018 — LEGO is using open innovat...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/open-innovation-at-lego-the-back-beat-in-everything-is-awesome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteOpen Innovation at Lego – The Back Beat in “Everything is...13 Nov 2018 — LEGO is using open innovat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO - Technology and Operations ManagementDec 9, 2015 — After being on the brink of disaster in 2004, LEGO made a number of critical dec...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO - Technology and Operations ManagementDec 9, 2015 — After being on the brink of disaster in 2004, LEGO made a number of critical dec...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: d3.harvard.edu  
    Title: the missing piece how lego found open innovation at a critical time  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-missing-piece-how-lego-found-open-innovation-at-a-critical-time/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-missing-piece-how-lego-found-open-innovation-at-a-critical-time/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Found Open Innovation at a Critical Time13 Nov 2018 — Lego was facing financial distress in the mid-2000s. In this time of turmoil...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/the-missing-piece-how-lego-found-open-innovation-at-a-critical-time/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-missing-piece-how-lego-found-open-innovation-at-a-critical-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Found Open Innovation at a Critical Time13 Nov 2018 — Lego was facing financial distress in the mid-2000s. In this time of turmoil...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: d3.harvard.edu  
    Title: the lego success story getting everything to awesome  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — The secret sauce of LEGO&#x27;s financial turnaround has been successfully twe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — Financial Review. The LEGO Group&#x27;s main activities are the development, manufacturing, sales and distribution...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report10 Mar 2025 — Financial Review. The LEGO Group&#x27;s main activities are the development, manufacturing, sales and distribution...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt4ee78e0776fce92f/LEGO_Company_Profile.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: imd.org  
-   Link: <a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>itself, launching new products, committing to continual innovation.Read more...</p></details>
+   Link:<a href="https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/research-knowledge/strategy/case-studies/the-lego-group-family-business-resilience-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>itself, launching new products, committing to continual innovation.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</p></details>
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOToday, as the overall toy market declines, LEGO&#x27;s revenues and profits are climbing...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hbr.org  
    Title: innovation under constraint constructing a turnaround at lego  
-   Link: <a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Ri...</p></details>
+   Link:<a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Ri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hbr.org  
    Title: turn your customers into your community  
-   Link: <a href="https://hbr.org/2020/01/turn-your-customers-into-your-community" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2020/01/turn-your-customers-into-your-community</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewTurn Your Customers into Your Community16 Jan 2020 — For more than 75 years of its history, LEGO made toys exclusi...</p></details>
+   Link:<a href="https://hbr.org/2020/01/turn-your-customers-into-your-community" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2020/01/turn-your-customers-into-your-community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewTurn Your Customers into Your Community16 Jan 2020 — For more than 75 years of its history, LEGO made toys exclusi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: strategosinstitute.com  
-   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® - Strategy and Value CreationTo support this growth, LEGO® will continue to focus on product innovation, to growth in established a...</p></details>
+   Link:<a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® - Strategy and Value CreationTo support this growth, LEGO® will continue to focus on product innovation, to growth in established a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bartleby.com  
    Title: Lego Group  
-   Link: <a href="https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3549 WordsThis Action Plan was emphasizing three main themes: Set clear direction for the LEGO Group and fundamentally change the way the...</p></details>
+   Link:<a href="https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/Lego-Group-PKEBYJCEKRZYS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3549 WordsThis Action Plan was emphasizing three main themes: Set clear direction for the LEGO Group and fundamentally change the way the...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 LEGO: Redefining the boundariesFrom a financial perspective, the turnaround plan was successful. Following a 40 percent decline in sale...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/4C2324E95C4210F55FFA3224CB8C299A/9780511820434c3_p41-71_CBO.pdf/lego.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 LEGO: Redefining the boundariesFrom a financial perspective, the turnaround plan was successful. Following a 40 percent decline in sale...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cfocentre.com  
-   Link: <a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
+   Link:<a href="https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfocentre.com/sg/true-toy-story-legos-incredible-turnaround-tale-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A True Toy Story: LEGO&#x27;s Incredible Turnaround TaleThe story of how LEGO, the family-owned toy company went from teetering on the brink o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years_2000-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years_2000-2019</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise development through business model innovationThe purpose of this work is to understand business models and their importance. T...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363885574_Enterprise_development_through_business_model_innovation_the_case_of_The_LEGO_Group_in_the_years</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise development through business model innovationThe purpose of this work is to understand business models and their importance. T...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/56383613/IM-Final-Report-LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/56383613/IM-Final-Report-LEGO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IM Final Report LEGO | PDF | InnovationIn this report, the author analyse innovation strategy and management of LEGO and how its responds...</p></details>
+   Link:<a href="https://www.scribd.com/doc/56383613/IM-Final-Report-LEGO" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/56383613/IM-Final-Report-LEGO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IM Final Report LEGO | PDF | InnovationIn this report, the author analyse innovation strategy and management of LEGO and how its responds...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thelensjournal.com  
-   Link: <a href="https://thelensjournal.com/wp-content/uploads/2024/01/Lens-Shambhavi-Nair.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thelensjournal.com/wp-content/uploads/2024/01/Lens-Shambhavi-Nair.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of LEGO&#x27;s Corporate Culture on InnovationThe research will be looking into the different aspects of their culture which enable the...</p></details>
+   Link:<a href="https://thelensjournal.com/wp-content/uploads/2024/01/Lens-Shambhavi-Nair.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thelensjournal.com/wp-content/uploads/2024/01/Lens-Shambhavi-Nair.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of LEGO&#x27;s Corporate Culture on InnovationThe research will be looking into the different aspects of their culture which enable the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/433575031/LEGO-Case-Study-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/433575031/LEGO-Case-Study-Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Business Turnaround Analysis | PDFAn Analysis on the LEGO Case Study conducted in Harvard Business School · Factors that aﬀected the...</p></details>
+   Link:<a href="https://www.scribd.com/document/433575031/LEGO-Case-Study-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/433575031/LEGO-Case-Study-Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Business Turnaround Analysis | PDFAn Analysis on the LEGO Case Study conducted in Harvard Business School · Factors that aﬀected the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/946402250/LEGO-Innovation-Case-Study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/946402250/LEGO-Innovation-Case-Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Innovation Turnaround Strategy | PDFThis case study explores the LEGO Group&#x27;s transformation from a struggling wooden toy manufact...</p></details>
+   Link:<a href="https://www.scribd.com/document/946402250/LEGO-Innovation-Case-Study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/946402250/LEGO-Innovation-Case-Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Innovation Turnaround Strategy | PDFThis case study explores the LEGO Group&#x27;s transformation from a struggling wooden toy manufact...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 IE Business School THE TURNAROUND OF LEGO… DE1-213-I. Despite these efforts, sales remained stagnant and...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730770212/The-Turnaround-of-Lego-Continued-Growth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 IE Business School THE TURNAROUND OF LEGO… DE1-213-I. Despite these efforts, sales remained stagnant and...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Kh8Id_x269s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kh8Id_x269s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing the Case of a Company Coming Back From the BrinkProfessor Jan Rivkin discusses his passion for case writing and how the LEGO case...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kh8Id_x269s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kh8Id_x269s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing the Case of a Company Coming Back From the BrinkProfessor Jan Rivkin discusses his passion for case writing and how the LEGO case...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
    Title: lego crisis how unexpectedly bad nearly catastrophic became sethi hefqc  
-   Link: <a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;Action Plan&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lego-crisis-how-unexpectedly-bad-nearly-catastrophic-became-sethi-hefqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29% drop in global sales. Their own &quot;Action Plan&quot; called the situation &quot;unexpectedly bad, nearly catastrophic.&quot; Then one memo...Read more...</p></details>

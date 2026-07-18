@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae/
 description: Focused pages that expand on Sustainability.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_sustainability_limit_bbd831
 parent_title: Sustainability
@@ -16,7 +16,7 @@ parent_permalink: /sustainability/
 
 # Explore Topics in Sustainability
 
-The following pages expand on the main **[Sustainability]({{ '/sustainability/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sustainability]({{ '/sustainability/' | relative_url }})** page and cover its key branches in.
 
 - [Brick Clutch]({{ '/brick-clutch/' | relative_url }})
 - [Mass Balance]({{ '/mass-balance/' | relative_url }})

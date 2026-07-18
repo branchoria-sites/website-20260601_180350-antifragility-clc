@@ -274,18 +274,18 @@ image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_mindf
 
 ## Introduction
 
-Adult LEGO building became a growth engine for the company not only because adults wanted display models, but because LEGO successfully repositioned the act of building itself as a form of relaxation. The company increasingly markets construction as a quiet, focused ritual that sits somewhere between a hobby, a craft project and a mindfulness exercise. For many buyers, the attraction is no longer just the finished model on a shelf. It is the experience of spending an hour or two concentrating on something physical, structured and screen-light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more...</span></span></span>
+Adult LEGO building became a growth engine for the company not only because adults wanted display models, but because LEGO successfully repositioned the act of building itself as a form of relaxation. The company increasingly markets construction as a quiet, focused ritual that sits somewhere between a hobby, a craft project and a mindfulness exercise. For many buyers, the attraction is no longer just the finished model on a shelf. It is the experience of spending an hour or two concentrating on something physical, structured and screen-light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_mindful_building_rit_b7115a-Illustration-1-dark.svg" | relative_url }}" alt="Mindful Build illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_mindful_building_rit_b7115a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_mindful_building_rit_b7115a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That shift matters in the broader story of LEGO’s antifragility. When a toy becomes associated with stress relief, self-care and everyday routines, demand is no longer tied only to childhood play cycles. LEGO gains customers who return not because they need another toy, but because they want another building experience. The result is a more resilient form of demand that can survive changes in age demographics, entertainment habits and consumer trends.
 
 ## Why adults build LEGO to unwind
 
-The appeal of adult LEGO building is rooted in a simple psychological mechanism: focused attention crowds out distraction. When builders sort pieces, follow instructions and assemble hundreds or thousands of components, their attention narrows onto a manageable task. Many [adult fans]({{ 'adult-fans/' | relative_url }}) describe the process as calming precisely because it replaces open-ended stress with a sequence of small, solvable actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/177v42c/mental_health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mental health: r/lego</span><span class="citation-popover-snippet">Mental health: r/legoOctober 14, 2023 — I&#x27;m in my mid 30s, and I find focusing on the build and creating the sets step by step rea...</span><span class="citation-popover-meta">Published: October 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/13ni2cv/does_lego_help_anyone_elses_mental_health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ing something fulfilling...</span></span></span>
+The appeal of adult LEGO building is rooted in a simple psychological mechanism: focused attention crowds out distraction. When builders sort pieces, follow instructions and assemble hundreds or thousands of components, their attention narrows onto a manageable task. Many [adult fans]({{ 'adult-fans/' | relative_url }}) describe the process as calming precisely because it replaces open-ended stress with a sequence of small, solvable actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/177v42c/mental_health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mental health: r/lego</span><span class="citation-popover-snippet">Mental health: r/legoOctober 14, 2023 — I&#x27;m in my mid 30s, and I find focusing on the build and creating the sets step by step rea...</span><span class="citation-popover-meta">Published: October 14, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/13ni2cv/does_lego_help_anyone_elses_mental_health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ing something fulfilling...</span></span></span>
 
-Unlike many digital activities, LEGO construction also creates a physical feedback loop. Pieces click together, progress becomes visible and the builder can see tangible results emerging from accumulated effort. That combination of concentration and visible achievement helps explain why many adults describe building sessions as restorative rather than exhausting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://happiful.com/what-are-the-wonderful-wellbeing-benefits-of-lego-play-as-an-adult" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: happiful.com">[happiful.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">happiful.com</span><span class="citation-popover-title">what are the wonderful wellbeing benefits of lego play as an adult</span><span class="citation-popover-snippet">What are the wonderful wellbeing benefits of Lego play as...Jan 6, 2023 — According to the Lego Play Report 2018, 95% of parents claimed...</span></span></span>
+Unlike many digital activities, LEGO construction also creates a physical feedback loop. Pieces click together, progress becomes visible and the builder can see tangible results emerging from accumulated effort. That combination of concentration and visible achievement helps explain why many adults describe building sessions as restorative rather than exhausting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://happiful.com/what-are-the-wonderful-wellbeing-benefits-of-lego-play-as-an-adult" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: happiful.com">[happiful.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">happiful.com</span><span class="citation-popover-title">what are the wonderful wellbeing benefits of lego play as an adult</span><span class="citation-popover-snippet">What are the wonderful wellbeing benefits of Lego play as...Jan 6, 2023 — According to the Lego Play Report 2018, 95% of parents claimed...</span></span></span>
 
-The appeal is especially strong in an environment dominated by screens. Many adult hobbies now involve constant notifications, social feeds or online competition. LEGO building offers a contrasting experience. It is tactile, finite and largely self-paced. A builder can stop after ten minutes or spend an entire evening immersed in a project without needing to remain connected to a device. LEGO explicitly leans into this contrast, encouraging adults to “unplug, unbox and unwind”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
+The appeal is especially strong in an environment dominated by screens. Many adult hobbies now involve constant notifications, social feeds or online competition. LEGO building offers a contrasting experience. It is tactile, finite and largely self-paced. A builder can stop after ten minutes or spend an entire evening immersed in a project without needing to remain connected to a device. LEGO explicitly leans into this contrast, encouraging adults to “unplug, unbox and unwind”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Sets for Adults &#124; Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hSqSJ6uoWrg" title="LEGO Find Your Flow Ad Reviewed By Beam Suntory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hSqSJ6uoWrg" target="_blank" rel="noopener noreferrer">LEGO Find Your Flow Ad Reviewed By Beam Suntory</a></p><p class="youtube-embed-meta">Channel: Automated Creative &middot; Views: 389 &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hSqSJ6uoWrg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hSqSJ6uoWrg">Open on YouTube</a></p></div></div></div>
 
@@ -293,11 +293,11 @@ The appeal is especially strong in an environment dominated by screens. Many adu
 
 One reason LEGO fits naturally into stress-relief culture is that the activity rewards patience rather than speed.
 
-Many modern forms of entertainment are built around rapid stimulation. Streaming services encourage continuous viewing, social platforms reward constant checking and games often depend on fast reaction loops. LEGO works differently. Progress is intentionally incremental. Builders move from one instruction step to the next, often spending hours completing a single model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">9 relaxing LEGO® sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring togethe...</span></span></span>
+Many modern forms of entertainment are built around rapid stimulation. Streaming services encourage continuous viewing, social platforms reward constant checking and games often depend on fast reaction loops. LEGO works differently. Progress is intentionally incremental. Builders move from one instruction step to the next, often spending hours completing a single model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">9 relaxing LEGO® sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring togethe...</span></span></span>
 
-That slower pace creates conditions similar to what psychologists often describe as a flow state: a period of deep involvement where attention becomes absorbed in the task at hand. LEGO’s own adult-focused marketing repeatedly uses the language of “finding your flow”, directly linking construction with concentration and mental calm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-fr/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Adults Welcome &#124; Articles &#124; LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at m...</span></span></span>
+That slower pace creates conditions similar to what psychologists often describe as a flow state: a period of deep involvement where attention becomes absorbed in the task at hand. LEGO’s own adult-focused marketing repeatedly uses the language of “finding your flow”, directly linking construction with concentration and mental calm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-fr/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Adults Welcome &#124; Articles &#124; LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at m...</span></span></span>
 
-The physical nature of the activity matters as well. LEGO’s mindfulness material encourages builders to notice sensory details such as the feel of bricks, the sound of pieces connecting and the process of arranging elements. Rather than treating construction as merely a route to a finished object, the company encourages attention to the building experience itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Adults Welcome &#124; Articles &#124; LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at medit...</span></span></span>
+The physical nature of the activity matters as well. LEGO’s mindfulness material encourages builders to notice sensory details such as the feel of bricks, the sound of pieces connecting and the process of arranging elements. Rather than treating construction as merely a route to a finished object, the company encourages attention to the building experience itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">LEGO® Adults Welcome &#124; Articles &#124; LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at medit...</span></span></span>
 
 This is a subtle but important shift. Traditional toy marketing often emphasises what the product becomes. Adult LEGO marketing increasingly emphasises what the user feels while creating it.
 
@@ -306,13 +306,13 @@ This is a subtle but important shift. Traditional toy marketing often emphasises
 
 LEGO did not simply discover that adults found building relaxing. It actively built a marketing [framework]({{ 'framework/' | relative_url }}) around that idea.
 
-The clearest example is the company’s “Find Your Flow” platform. Adult LEGO pages invite customers to “release the stresses of the day”, “recharge and refresh” and use building as a route to calm. Rather than focusing solely on product features, LEGO frames the experience as a personal wellness activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
+The clearest example is the company’s “Find Your Flow” platform. Adult LEGO pages invite customers to “release the stresses of the day”, “recharge and refresh” and use building as a route to calm. Rather than focusing solely on product features, LEGO frames the experience as a personal wellness activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
 
-The campaign extends beyond advertising language. LEGO introduced “Rhythm & Bricks”, a collection of audio tracks designed around the sounds of LEGO construction. The concept resembles white-noise or ambient-focus products commonly associated with relaxation and mindfulness. By creating dedicated soundscapes for building sessions, LEGO effectively positioned construction as a ritual rather than a simple purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-dk/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
+The campaign extends beyond advertising language. LEGO introduced “Rhythm & Bricks”, a collection of audio tracks designed around the sounds of LEGO construction. The concept resembles white-noise or ambient-focus products commonly associated with relaxation and mindfulness. By creating dedicated soundscapes for building sessions, LEGO effectively positioned construction as a ritual rather than a simple purchase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-dk/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
 
-Advertising also reflects this shift. Industry observers noted that LEGO’s adult campaigns increasingly emphasise relaxation, mental focus and creative wellbeing rather than nostalgia alone. The message is that building can function as a break from daily pressures, whether those pressures come from work, screens or information overload. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contagious.com">[Contagious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contagious.com</span><span class="citation-popover-title">campaign of the week lego targets grown ups with appeal to mindfulness</span><span class="citation-popover-snippet">This is the latest ad in the Find Your Flow...Read more...</span></span></span>
+Advertising also reflects this shift. Industry observers noted that LEGO’s adult campaigns increasingly emphasise relaxation, mental focus and creative wellbeing rather than nostalgia alone. The message is that building can function as a break from daily pressures, whether those pressures come from work, screens or information overload.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contagious.com">[Contagious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contagious.com</span><span class="citation-popover-title">campaign of the week lego targets grown ups with appeal to mindfulness</span><span class="citation-popover-snippet">This is the latest ad in the Find Your Flow...Read more...</span></span></span>
 
-Even the product portfolio reinforces the message. Botanical collections, art sets, architecture models and display-focused builds are frequently photographed in calm domestic settings. The imagery resembles home décor and lifestyle advertising as much as traditional toy promotion. The build becomes part of a relaxing evening routine rather than a play session. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-de/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
+Even the product portfolio reinforces the message. Botanical collections, art sets, architecture models and display-focused builds are frequently photographed in calm domestic settings. The imagery resembles home décor and lifestyle advertising as much as traditional toy promotion. The build becomes part of a relaxing evening routine rather than a play session.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-de/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fzDLPQfgmuE" title="Lego , the best hobby for your mental health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fzDLPQfgmuE" target="_blank" rel="noopener noreferrer">Lego , the best hobby for your mental health</a></p><p class="youtube-embed-meta">Channel: TS13 fpv , rc and other hobbies &middot; Views: 633 &middot; Uploaded: February 2026 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fzDLPQfgmuE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fzDLPQfgmuE">Open on YouTube</a></p></div></div></div>
 
@@ -320,9 +320,9 @@ Even the product portfolio reinforces the message. Botanical collections, art se
 
 LEGO's mindfulness positioning arrived at a moment when many consumers were actively seeking low-pressure ways to manage stress.
 
-Research and mental-health commentary increasingly connect creative activities with improved wellbeing, focus and emotional regulation. While LEGO is not marketed as a medical treatment, many discussions of adult building describe benefits that overlap with mindfulness practices: sustained attention, reduced rumination and immersion in the present moment. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickdrop.co">[BrickDrop Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickdrop.co</span><span class="citation-popover-snippet">Mindfulness Through Building &#124; Mental Health BenefitsExplore how LEGO building offers surprising mental health benefits, from st...</span></span></span>, LEGO offers these experiences without requiring people to identify as meditators or wellness enthusiasts. Some adults find traditional mindfulness exercises intimidating, abstract or difficult to maintain. Building a model feels more concrete. The relaxation emerges through doing something rather than consciously attempting to relax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickdrop.co">[BrickDrop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickdrop.co</span><span class="citation-popover-snippet">Mindfulness Through Building &#124; Mental Health BenefitsExplore how LEGO building offers surprising mental health benefits, from st...</span></span></span>
+Research and mental-health commentary increasingly connect creative activities with improved wellbeing, focus and emotional regulation. While LEGO is not marketed as a medical treatment, many discussions of adult building describe benefits that overlap with mindfulness practices: sustained attention, reduced rumination and immersion in the present moment. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickdrop.co">[BrickDrop Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickdrop.co</span><span class="citation-popover-snippet">Mindfulness Through Building &#124; Mental Health BenefitsExplore how LEGO building offers surprising mental health benefits, from st...</span></span></span>, LEGO offers these experiences without requiring people to identify as meditators or wellness enthusiasts. Some adults find traditional mindfulness exercises intimidating, abstract or difficult to maintain. Building a model feels more concrete. The relaxation emerges through doing something rather than consciously attempting to relax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickdrop.co">[BrickDrop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickdrop.co</span><span class="citation-popover-snippet">Mindfulness Through Building &#124; Mental Health BenefitsExplore how LEGO building offers surprising mental health benefits, from st...</span></span></span>
 
-Community discussions reveal how strongly this resonates. Adult builders frequently describe using LEGO during periods of grief, anxiety, depression or burnout. While these accounts are anecdotal rather than clinical evidence, they show how many consumers interpret the hobby: not merely as collecting, but as a coping mechanism and emotional outlet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/177v42c/mental_health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mental health: r/lego</span><span class="citation-popover-snippet">Mental health: r/legoOctober 14, 2023 — I&#x27;m in my mid 30s, and I find focusing on the build and creating the sets step by step rea...</span><span class="citation-popover-meta">Published: October 14, 2023</span></span></span>
+Community discussions reveal how strongly this resonates. Adult builders frequently describe using LEGO during periods of grief, anxiety, depression or burnout. While these accounts are anecdotal rather than clinical evidence, they show how many consumers interpret the hobby: not merely as collecting, but as a coping mechanism and emotional outlet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/lego/comments/177v42c/mental_health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mental health: r/lego</span><span class="citation-popover-snippet">Mental health: r/legoOctober 14, 2023 — I&#x27;m in my mid 30s, and I find focusing on the build and creating the sets step by step rea...</span><span class="citation-popover-meta">Published: October 14, 2023</span></span></span>
 
 That perception broadens LEGO’s relevance. Instead of competing only with toys, the company increasingly competes for the same leisure time that might otherwise go to streaming, scrolling social media, colouring books, puzzles or other self-care activities.
 
@@ -331,205 +331,205 @@ That perception broadens LEGO’s relevance. Instead of competing only with toys
 
 The most important business consequence of mindful building is not a single sale. It is repetition.
 
-A display model can be bought once and admired for years. A relaxation ritual creates reasons to return. When customers associate LEGO with a feeling rather than only an object, they become more likely to seek new building experiences after completing previous projects. This shifts value from ownership to process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-it/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
+A display model can be bought once and admired for years. A relaxation ritual creates reasons to return. When customers associate LEGO with a feeling rather than only an object, they become more likely to seek new building experiences after completing previous projects. This shifts value from ownership to process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-it/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</span></span></span>
 
 The structure of LEGO sets supports this cycle. Every new build promises a familiar emotional experience: opening the box, sorting pieces, progressing through instructions and reaching completion. The ritual remains consistent even when themes change from flowers to spacecraft to architecture. Because the underlying [brick system]({{ 'brick-system/' | relative_url }}) stays the same, LEGO can serve multiple interests while preserving the same calming building experience.
 
 This gives the company a powerful form of resilience. Demand no longer depends entirely on whether a specific franchise remains popular or whether a particular age group is buying toys. A customer who builds LEGO to relax may purchase across themes and categories because the emotional benefit remains constant. The brick system becomes a platform for recurring wellbeing-oriented consumption.
 
-In antifragility terms, that is significant. LEGO transformed a construction toy into a repeatable ritual that gains relevance in a world of digital overload, workplace stress and fragmented attention. The more consumers seek activities that help them slow down and focus, the more valuable the mindful-building proposition becomes. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contagious.com">[Contagious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contagious.com</span><span class="citation-popover-title">campaign of the week lego targets grown ups with appeal to mindfulness</span><span class="citation-popover-snippet">This is the latest ad in the Find Your Flow...Read more...</span></span></span>
+In antifragility terms, that is significant. LEGO transformed a construction toy into a repeatable ritual that gains relevance in a world of digital overload, workplace stress and fragmented attention. The more consumers seek activities that help them slow down and focus, the more valuable the mindful-building proposition becomes. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contagious.com">[Contagious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contagious.com</span><span class="citation-popover-title">campaign of the week lego targets grown ups with appeal to mindfulness</span><span class="citation-popover-snippet">This is the latest ad in the Find Your Flow...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EOiAlYf1lhM" title="LEGO『Find Your Flow』" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EOiAlYf1lhM" target="_blank" rel="noopener noreferrer">LEGO『Find Your Flow』</a></p><p class="youtube-embed-meta">Channel: Dose of Good Ads &middot; Views: 2.6K &middot; Uploaded: March 2023 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EOiAlYf1lhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EOiAlYf1lhM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why adults build LEGO to unwind. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why adults build LEGO to unwind. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Supports the idea of beneficial stress and adaptive routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the idea of beneficial stress and adaptive routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Relates to why physical building activities feel restorative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relates to why physical building activities feel restorative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/767930-M.jpg" alt="Cover for Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed">Cram101 textbook outlines to accompany Flow, the psychology o...</a>
-        </h4>
-        <p class="fr-book-author">By Mihaly Csikszentmihalyi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/767930-M.jpg" alt="Cover for Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed">Cram101 textbook outlines to accompany Flow, the psychology o...</a>
+</h4>
+<p class="fr-book-author">By Mihaly Csikszentmihalyi</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Happiness, Outlines, syllabi, Attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Happiness, Outlines, syllabi, Attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Joy of Missing Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12075189-M.jpg" alt="Cover for Joy of Missing Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Joy of Missing Out">Joy of Missing Out</a>
-        </h4>
-        <p class="fr-book-author">By Tanya Dalton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Joy of Missing Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12075189-M.jpg" alt="Cover for Joy of Missing Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Joy of Missing Out">Joy of Missing Out</a>
+</h4>
+<p class="fr-book-author">By Tanya Dalton</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanical Sets | BRAND NEW &amp; SEALED | Great Condition Boxes!"><img src="https://i.ebayimg.com/images/g/lSAAAeSwT2ppVqRz/s-l225.jpg" alt="Listing image for LEGO Botanical Sets | BRAND NEW &amp; SEALED | Great Condition Boxes!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanical Sets | BRAND NEW &amp; SEALED | Great Condition Boxes!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanical Sets | BRAND NEW &amp; SEALED | Great Condition Boxes!"><img src="https://i.ebayimg.com/images/g/lSAAAeSwT2ppVqRz/s-l225.jpg" alt="Listing image for LEGO Botanical Sets | BRAND NEW &amp; SEALED | Great Condition Boxes!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanical Sets | BRAND NEW &amp; SEALED | Great Condition Boxes!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanicals: Plum Blossom (10369) - NEW"><img src="https://i.ebayimg.com/images/g/dgkAAeSw4BpqJ9GE/s-l225.jpg" alt="Listing image for LEGO Botanicals: Plum Blossom (10369) - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanicals: Plum Blossom (10369) - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Botanicals: Plum Blossom (10369) - NEW"><img src="https://i.ebayimg.com/images/g/dgkAAeSw4BpqJ9GE/s-l225.jpg" alt="Listing image for LEGO Botanicals: Plum Blossom (10369) - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Botanicals: Plum Blossom (10369) - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bird of Paradise Botanical Collection Set 10289 Sealed BNIB RARE"><img src="https://i.ebayimg.com/images/g/fOMAAeSwJMZqJ7vH/s-l225.jpg" alt="Listing image for LEGO Bird of Paradise Botanical Collection Set 10289 Sealed BNIB RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Bird of Paradise Botanical Collection Set 10289 Sealed BNIB RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Bird of Paradise Botanical Collection Set 10289 Sealed BNIB RARE"><img src="https://i.ebayimg.com/images/g/fOMAAeSwJMZqJ7vH/s-l225.jpg" alt="Listing image for LEGO Bird of Paradise Botanical Collection Set 10289 Sealed BNIB RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Bird of Paradise Botanical Collection Set 10289 Sealed BNIB RARE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO BOTANICALS PEACE LILY ARTIFICIAL FLOWER POTTED PLANTS SET FOR ADULTS NEW"><img src="https://i.ebayimg.com/images/g/XL0AAeSw9aBpfOFK/s-l225.jpg" alt="Listing image for LEGO BOTANICALS PEACE LILY ARTIFICIAL FLOWER POTTED PLANTS SET FOR ADULTS NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO BOTANICALS PEACE LILY ARTIFICIAL FLOWER POTTED PLANTS SET FOR ADULTS NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO BOTANICALS PEACE LILY ARTIFICIAL FLOWER POTTED PLANTS SET FOR ADULTS NEW"><img src="https://i.ebayimg.com/images/g/XL0AAeSw9aBpfOFK/s-l225.jpg" alt="Listing image for LEGO BOTANICALS PEACE LILY ARTIFICIAL FLOWER POTTED PLANTS SET FOR ADULTS NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">LEGO BOTANICALS PEACE LILY ARTIFICIAL FLOWER POTTED PLANTS SET FOR ADULTS NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO botanical set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO botanical set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+botanical+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-adults-build-lego-to-unwind-lego-botanical-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO botanical set" data-ebay-reference="why-adults-build-lego-to-unwind-lego-botanical-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,137 +735,137 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/find-your-flow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/categories/adults-welcome" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Sets for Adults | Adults WelcomeHere are some of our most complex LEGO® sets designed exclusively for grown-ups. From sport to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Mental health: r/lego  
-   Link: <a href="https://www.reddit.com/r/lego/comments/177v42c/mental_health/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/177v42c/mental_health/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental health: r/legoOctober 14, 2023 — I&#x27;m in my mid 30s, and I find focusing on the build and creating the sets step by step rea...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/177v42c/mental_health/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/177v42c/mental_health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental health: r/legoOctober 14, 2023 — I&#x27;m in my mid 30s, and I find focusing on the build and creating the sets step by step rea...</p></details>
    Published: October 14, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/13ni2cv/does_lego_help_anyone_elses_mental_health/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/13ni2cv/does_lego_help_anyone_elses_mental_health/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing something fulfilling...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/13ni2cv/does_lego_help_anyone_elses_mental_health/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/13ni2cv/does_lego_help_anyone_elses_mental_health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing something fulfilling...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: happiful.com  
    Title: what are the wonderful wellbeing benefits of lego play as an adult  
-   Link: <a href="https://happiful.com/what-are-the-wonderful-wellbeing-benefits-of-lego-play-as-an-adult" target="_blank" rel="noopener noreferrer nofollow">https://happiful.com/what-are-the-wonderful-wellbeing-benefits-of-lego-play-as-an-adult</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the wonderful wellbeing benefits of Lego play as...Jan 6, 2023 — According to the Lego Play Report 2018, 95% of parents claimed...</p></details>
+   Link:<a href="https://happiful.com/what-are-the-wonderful-wellbeing-benefits-of-lego-play-as-an-adult" target="_blank" rel="noopener noreferrer nofollow">https://happiful.com/what-are-the-wonderful-wellbeing-benefits-of-lego-play-as-an-adult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the wonderful wellbeing benefits of Lego play as...Jan 6, 2023 — According to the Lego Play Report 2018, 95% of parents claimed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 relaxing LEGO® sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring togethe...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/relaxing-lego-sets-to-build-for-adults</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 relaxing LEGO® sets to build for adultsIf you&#x27;re looking for calming activities, then this is the list for you, as we bring togethe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: contagious.com  
    Title: campaign of the week lego targets grown ups with appeal to mindfulness  
-   Link: <a href="https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the latest ad in the Find Your Flow...Read more...</p></details>
+   Link:<a href="https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-lego-targets-grown-ups-with-appeal-to-mindfulness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is the latest ad in the Find Your Flow...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-fr/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-fr/categories/adults-welcome/article/mindfulness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Adults Welcome | Articles | LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at m...</p></details>
+   Link:<a href="https://www.lego.com/en-fr/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-fr/categories/adults-welcome/article/mindfulness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Adults Welcome | Articles | LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at m...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Adults Welcome | Articles | LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at medit...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/adults-welcome/article/mindfulness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Adults Welcome | Articles | LEGO MindfulnessFind out why experts suggest playing with LEGO® bricks can help you get better at medit...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/categories/adults-welcome/find-your-flow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
+   Link:<a href="https://www.lego.com/en-us/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/categories/adults-welcome/find-your-flow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-dk/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-dk/categories/adults-welcome/find-your-flow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
+   Link:<a href="https://www.lego.com/en-dk/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-dk/categories/adults-welcome/find-your-flow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brickdrop.co  
-   Link: <a href="https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits" target="_blank" rel="noopener noreferrer nofollow">https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mindfulness Through Building | Mental Health BenefitsExplore how LEGO building offers surprising mental health benefits, from st...</p></details>
+   Link:<a href="https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits" target="_blank" rel="noopener noreferrer nofollow">https://brickdrop.co/stories/mindfulness-lego-therapeutic-benefits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mindfulness Through Building | Mental Health BenefitsExplore how LEGO building offers surprising mental health benefits, from st...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-de/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-de/categories/adults-welcome/find-your-flow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
+   Link:<a href="https://www.lego.com/en-de/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-de/categories/adults-welcome/find-your-flow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-it/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-it/categories/adults-welcome/find-your-flow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
+   Link:<a href="https://www.lego.com/en-it/categories/adults-welcome/find-your-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-it/categories/adults-welcome/find-your-flow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relax, Build and Find Your FlowLet go of your stress. Feel the calm. Find your flow. Did you know LEGO® sets can help you become more rel...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lego.me  
    Title: A creative recharge. A zone of zen. A place to find your flow.Read more  
-   Link: <a href="https://www.lego.me/en-bh/about-adults-welcome?srsltid=AfmBOoq03xueHfqZFRPwH8zb5rEOFmEPM8Lj2ABl8iqUuIh7T-1zfF5E" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.me/en-bh/about-adults-welcome?srsltid=AfmBOoq03xueHfqZFRPwH8zb5rEOFmEPM8Lj2ABl8iqUuIh7T-1zfF5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover More About the LEGO® Adults Welcome RangeIn a world of distractions, LEGO Sets for Adults offer a focused, hands-on, mindful act...</p></details>
+   Link:<a href="https://www.lego.me/en-bh/about-adults-welcome?srsltid=AfmBOoq03xueHfqZFRPwH8zb5rEOFmEPM8Lj2ABl8iqUuIh7T-1zfF5E" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.me/en-bh/about-adults-welcome?srsltid=AfmBOoq03xueHfqZFRPwH8zb5rEOFmEPM8Lj2ABl8iqUuIh7T-1zfF5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover More About the LEGO® Adults Welcome RangeIn a world of distractions, LEGO Sets for Adults offer a focused, hands-on, mindful act...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cigna.com.sg  
-   Link: <a href="https://www.cigna.com.sg/health-content-hub/lifestyle-health/your-mental-health-stress-buster-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.cigna.com.sg/health-content-hub/lifestyle-health/your-mental-health-stress-buster-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego became a Stress-Buster for AdultsLego is far from just child&#x27;s play, as it can help fight stress, encourage creativity, and just...</p></details>
+   Link:<a href="https://www.cigna.com.sg/health-content-hub/lifestyle-health/your-mental-health-stress-buster-lego" target="_blank" rel="noopener noreferrer nofollow">https://www.cigna.com.sg/health-content-hub/lifestyle-health/your-mental-health-stress-buster-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego became a Stress-Buster for AdultsLego is far from just child&#x27;s play, as it can help fight stress, encourage creativity, and just...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: johnvsgbm.shop  
-   Link: <a href="https://johnvsgbm.shop/blogs/johnvsgbm-blog/building-bricks-rebuilding-focus-how-lego-play-supports-cognitive-health-and-emotional-calm?srsltid=AfmBOookwkFt8FLtaXYcZpPH7eULON-AJnpqVDMeZL7tbC3IUhwwJ1XG" target="_blank" rel="noopener noreferrer nofollow">https://johnvsgbm.shop/blogs/johnvsgbm-blog/building-bricks-rebuilding-focus-how-lego-play-supports-cognitive-health-and-emotional-calm?srsltid=AfmBOookwkFt8FLtaXYcZpPH7eULON-AJnpqVDMeZL7tbC3IUhwwJ1XG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Supports Brain Health and Focus6 Feb 2026 — Building with LEGO bricks activates multiple cognitive systems at once while also re...</p></details>
+   Link:<a href="https://johnvsgbm.shop/blogs/johnvsgbm-blog/building-bricks-rebuilding-focus-how-lego-play-supports-cognitive-health-and-emotional-calm?srsltid=AfmBOookwkFt8FLtaXYcZpPH7eULON-AJnpqVDMeZL7tbC3IUhwwJ1XG" target="_blank" rel="noopener noreferrer nofollow">https://johnvsgbm.shop/blogs/johnvsgbm-blog/building-bricks-rebuilding-focus-how-lego-play-supports-cognitive-health-and-emotional-calm?srsltid=AfmBOookwkFt8FLtaXYcZpPH7eULON-AJnpqVDMeZL7tbC3IUhwwJ1XG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How LEGO Supports Brain Health and Focus6 Feb 2026 — Building with LEGO bricks activates multiple cognitive systems at once while also re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rewiredbrain.co.uk  
    Title: building calm through creation the neuroscience of lego for adult mental health  
-   Link: <a href="https://www.rewiredbrain.co.uk/post/building-calm-through-creation-the-neuroscience-of-lego-for-adult-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.rewiredbrain.co.uk/post/building-calm-through-creation-the-neuroscience-of-lego-for-adult-mental-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of LEGO for Adult Mental Health28 Aug 2025 — By engaging in creative, mindful building, adults can harness the brain&#x27;s n...</p></details>
+   Link:<a href="https://www.rewiredbrain.co.uk/post/building-calm-through-creation-the-neuroscience-of-lego-for-adult-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.rewiredbrain.co.uk/post/building-calm-through-creation-the-neuroscience-of-lego-for-adult-mental-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of LEGO for Adult Mental Health28 Aug 2025 — By engaging in creative, mindful building, adults can harness the brain&#x27;s n...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: michelsutyadi.medium.com  
    Title: how building lego has helped me with mindfulness and mental health a4d93513ea8a  
-   Link: <a href="https://michelsutyadi.medium.com/how-building-lego-has-helped-me-with-mindfulness-and-mental-health-a4d93513ea8a" target="_blank" rel="noopener noreferrer nofollow">https://michelsutyadi.medium.com/how-building-lego-has-helped-me-with-mindfulness-and-mental-health-a4d93513ea8a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>building LEGO has helped me with mindfulness and...Research has shown that doing creative activities, even for a short time each day, ca...</p></details>
+   Link:<a href="https://michelsutyadi.medium.com/how-building-lego-has-helped-me-with-mindfulness-and-mental-health-a4d93513ea8a" target="_blank" rel="noopener noreferrer nofollow">https://michelsutyadi.medium.com/how-building-lego-has-helped-me-with-mindfulness-and-mental-health-a4d93513ea8a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>building LEGO has helped me with mindfulness and...Research has shown that doing creative activities, even for a short time each day, ca...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.arizona.edu  
    Title: building flexible and creative mindset u experts discuss legos impact adults  
-   Link: <a href="https://news.arizona.edu/employee-news/building-flexible-and-creative-mindset-u-experts-discuss-legos-impact-adults" target="_blank" rel="noopener noreferrer nofollow">https://news.arizona.edu/employee-news/building-flexible-and-creative-mindset-u-experts-discuss-legos-impact-adults</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Arizona NewsU of A experts discuss LEGO&#x27;s impact on adultsJan 27, 2025 — Engaging in creative play like LEGO encourages the...</p></details>
+   Link:<a href="https://news.arizona.edu/employee-news/building-flexible-and-creative-mindset-u-experts-discuss-legos-impact-adults" target="_blank" rel="noopener noreferrer nofollow">https://news.arizona.edu/employee-news/building-flexible-and-creative-mindset-u-experts-discuss-legos-impact-adults</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Arizona NewsU of A experts discuss LEGO&#x27;s impact on adultsJan 27, 2025 — Engaging in creative play like LEGO encourages the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fzDLPQfgmuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fzDLPQfgmuE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego, the best hobby for your mental healthToday we&#x27;re going to be talking about Lego and why I think it might be one of the best hobbie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fzDLPQfgmuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fzDLPQfgmuE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego, the best hobby for your mental healthToday we&#x27;re going to be talking about Lego and why I think it might be one of the best hobbie...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hSqSJ6uoWrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hSqSJ6uoWrg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Find Your Flow Ad Reviewed By Beam SuntoryIt targets the idea of &#x27;finding your flow&#x27; - or in other words, relaxing and unwinding to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hSqSJ6uoWrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hSqSJ6uoWrg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Find Your Flow Ad Reviewed By Beam SuntoryIt targets the idea of &#x27;finding your flow&#x27; - or in other words, relaxing and unwinding to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EOiAlYf1lhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EOiAlYf1lhM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=EOiAlYf1lhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EOiAlYf1lhM</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: creeksidetherapeutics.com  
    Title: building well being the therapeutic benefits of lego  
-   Link: <a href="https://creeksidetherapeutics.com/blog/f/building-well-being-the-therapeutic-benefits-of-lego" target="_blank" rel="noopener noreferrer nofollow">https://creeksidetherapeutics.com/blog/f/building-well-being-the-therapeutic-benefits-of-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Well-being: The Therapeutic Benefits of LEGO19 Mar 2024 — Building with LEGO bricks provides a hands-on, immersive experience th...</p></details>
+   Link:<a href="https://creeksidetherapeutics.com/blog/f/building-well-being-the-therapeutic-benefits-of-lego" target="_blank" rel="noopener noreferrer nofollow">https://creeksidetherapeutics.com/blog/f/building-well-being-the-therapeutic-benefits-of-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Well-being: The Therapeutic Benefits of LEGO19 Mar 2024 — Building with LEGO bricks provides a hands-on, immersive experience th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/business/2020/01/16/legos-toys-for-stressed-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/business/2020/01/16/legos-toys-for-stressed-adults/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostLego sets its sights on a growing market: Stressed-out adults16 Jan 2020 — “Building with Lego bricks reduces stress a...</p></details>
+   Link:<a href="https://www.washingtonpost.com/business/2020/01/16/legos-toys-for-stressed-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/business/2020/01/16/legos-toys-for-stressed-adults/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostLego sets its sights on a growing market: Stressed-out adults16 Jan 2020 — “Building with Lego bricks reduces stress a...</p></details>

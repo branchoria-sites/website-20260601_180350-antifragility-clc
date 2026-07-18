@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-taleb/
 description: Focused pages that expand on Framework.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_taleb_framework_lego_340c78
 parent_title: Framework
@@ -16,7 +16,7 @@ parent_permalink: /framework/
 
 # Explore Topics in Framework
 
-The following pages expand on the main **[Framework]({{ '/framework/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Framework]({{ '/framework/' | relative_url }})** page and cover its key branches in.
 
 - [Limits]({{ '/limits/' | relative_url }})
 - [Brick Optionality]({{ '/brick-optionality/' | relative_url }})

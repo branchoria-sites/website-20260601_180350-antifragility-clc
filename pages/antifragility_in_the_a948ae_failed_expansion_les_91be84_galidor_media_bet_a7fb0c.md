@@ -274,7 +274,7 @@ image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_ga
 
 ## Introduction
 
-Galidor became one of LEGO’s clearest examples of fragile growth because the toy line depended on several outside systems succeeding at the same time. The company was not simply launching a new construction set. It was launching a television series, new characters, a merchandising strategy and an action-figure format that sat far from the traditional LEGO brick. When those pieces failed to reinforce one another, the entire project weakened. Later accounts of LEGO’s early-2000s crisis repeatedly grouped Galidor with other unsuccessful diversification efforts that pulled the company away from its strongest capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... Galidor supporte...</span></span></span>
+Galidor became one of LEGO’s clearest examples of fragile growth because the toy line depended on several outside systems succeeding at the same time. The company was not simply launching a new construction set. It was launching a television series, new characters, a merchandising strategy and an action-figure format that sat far from the traditional LEGO brick. When those pieces failed to reinforce one another, the entire project weakened. Later accounts of LEGO’s early-2000s crisis repeatedly grouped Galidor with other unsuccessful diversification efforts that pulled the company away from its strongest capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... Galidor supporte...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-1-dark.svg" | relative_url }}" alt="Galidor Media illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In antifragility terms, Galidor was vulnerable because its success required coordinated execution across media, retail, storytelling and toy sales. Traditional LEGO themes could survive weak storytelling because the building system itself generated value. Galidor needed the television programme, characters and marketing campaign to carry much more of the load.
@@ -283,17 +283,17 @@ In antifragility terms, Galidor was vulnerable because its success required coor
 
 ### The television-first launch logic
 
-Galidor was designed during a period when LEGO was searching for growth beyond its classic construction-toy model. The company created a science-fiction property centred on interchangeable action figures and then commissioned a television series to establish the world, characters and narrative. The show premiered in 2002 on Fox Kids in the United States and YTV in Canada, with the toy line launched as part of the same broader franchise effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Galidor: Defenders of the Outer Dimension</span><span class="citation-popover-snippet">Galidor: Defenders of the Outer Dimension</span></span></span>
+Galidor was designed during a period when LEGO was searching for growth beyond its classic construction-toy model. The company created a science-fiction property centred on interchangeable action figures and then commissioned a television series to establish the world, characters and narrative. The show premiered in 2002 on Fox Kids in the United States and YTV in Canada, with the toy line launched as part of the same broader franchise effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Galidor: Defenders of the Outer Dimension</span><span class="citation-popover-snippet">Galidor: Defenders of the Outer Dimension</span></span></span>
 
 This approach reflected a wider industry belief that successful children's brands increasingly emerged from entertainment ecosystems rather than from toys alone. Instead of children discovering a toy and inventing stories around it, Galidor expected viewers to become invested in a television narrative and then buy products connected to that narrative.
 
-The strategic problem was that this made toy demand dependent on media performance. If the programme failed to attract a large audience, toy sales suffered immediately. If broadcasters changed schedules, if marketing underperformed or if children did not connect with the characters, the physical product lost much of its appeal. Reports on the series later noted that LEGO believed the programme failed to reach the expected level of popularity in the United States and that publicity problems also hurt awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Galidor: Defenders of the Outer Dimension</span><span class="citation-popover-snippet">Galidor: Defenders of the Outer Dimension</span></span></span>
+The strategic problem was that this made toy demand dependent on media performance. If the programme failed to attract a large audience, toy sales suffered immediately. If broadcasters changed schedules, if marketing underperformed or if children did not connect with the characters, the physical product lost much of its appeal. Reports on the series later noted that LEGO believed the programme failed to reach the expected level of popularity in the United States and that publicity problems also hurt awareness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Galidor: Defenders of the Outer Dimension</span><span class="citation-popover-snippet">Galidor: Defenders of the Outer Dimension</span></span></span>
 
 A conventional LEGO set did not face the same dependency chain. A Castle, City or Space set could succeed because the building experience itself generated play value. Galidor required attention first and construction second.
 
 ### Why action figures weakened the building loop
 
-The second source of fragility came from the toys themselves. Galidor figures featured interchangeable limbs and body parts, but they largely abandoned the familiar studs-and-tubes system that made LEGO products part of a wider construction ecosystem. LEGO later acknowledged that the line did not use the iconic brick connection system associated with the brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/LEGOBitsNBricks-s03e37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveBits N&#x27; Bricks #37 - The Surreal History of the LEGO Galidor...3 Jun 2022 — How a LEGO game console, sci-fi TV show, and...</span></span></span>
+The second source of fragility came from the toys themselves. Galidor figures featured interchangeable limbs and body parts, but they largely abandoned the familiar studs-and-tubes system that made LEGO products part of a wider construction ecosystem. LEGO later acknowledged that the line did not use the iconic brick connection system associated with the brand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/LEGOBitsNBricks-s03e37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveBits N&#x27; Bricks #37 - The Surreal History of the LEGO Galidor...3 Jun 2022 — How a LEGO game console, sci-fi TV show, and...</span></span></span>
 
 This mattered because LEGO's strongest products historically benefited from a reinforcing play loop:
 
@@ -308,7 +308,7 @@ This mattered because LEGO's strongest products historically benefited from a re
 
 </div>
 
-Galidor interrupted that cycle. Swapping limbs offered a form of customisation, but it was narrower than open-ended building. The figures behaved more like action figures with modular body parts than like components in a growing construction system. Critics and fans frequently described the line as feeling insufficiently "LEGO" because it lacked the depth and flexibility associated with brick-based play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">galidor was it all bad</span><span class="citation-popover-snippet">Galidor: was it all bad?2 Apr 2015 — The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</span></span></span>
+Galidor interrupted that cycle. Swapping limbs offered a form of customisation, but it was narrower than open-ended building. The figures behaved more like action figures with modular body parts than like components in a growing construction system. Critics and fans frequently described the line as feeling insufficiently "LEGO" because it lacked the depth and flexibility associated with brick-based play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">galidor was it all bad</span><span class="citation-popover-snippet">Galidor: was it all bad?2 Apr 2015 — The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</span></span></span>
 
 From an antifragility perspective, this was crucial. Traditional LEGO products gain resilience because each set strengthens a larger network of compatible parts. Galidor products were comparatively isolated. A disappointing set generated less learning, less reuse and fewer opportunities for children to create value independently of the official story.
 
@@ -334,7 +334,7 @@ The result was a stack of interlocking risks:
 
 If any one layer weakened, pressure spread through the rest of the system.
 
-The problem became especially visible internationally. Retrospectives on Galidor have noted that broadcasting and promotional complications reduced the synchronisation between television exposure and toy availability in some markets. When the media engine and retail engine stopped moving together, the franchise lost momentum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego fails galidor</span><span class="citation-popover-snippet">LEGO Fails: Galidor10 Dec 2016 — Another big failure of Galidor was failing to adequately account for UK broadcasting laws, which prohibi...</span></span></span>
+The problem became especially visible internationally. Retrospectives on Galidor have noted that broadcasting and promotional complications reduced the synchronisation between television exposure and toy availability in some markets. When the media engine and retail engine stopped moving together, the franchise lost momentum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickset.com">[Brickset.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickset.com</span><span class="citation-popover-title">lego fails galidor</span><span class="citation-popover-snippet">LEGO Fails: Galidor10 Dec 2016 — Another big failure of Galidor was failing to adequately account for UK broadcasting laws, which prohibi...</span></span></span>
 
 This is the opposite of an antifragile structure. Antifragile systems benefit from small failures because the failures generate feedback without threatening the whole system. Galidor concentrated risk instead. Weak television performance did not merely damage the show; it damaged toy demand, retailer confidence and the broader franchise strategy simultaneously.
 
@@ -357,7 +357,7 @@ That distinction became important in LEGO's later recovery. The company did not 
 
 Galidor exposed a broader misunderstanding that existed inside LEGO before its turnaround. Management was searching for growth through entertainment, licensing and lifestyle expansion, but some experiments weakened the connection between innovation and the company's core system.
 
-Harvard Business Review's account of LEGO's recovery later cited Galidor as one of several innovation efforts that were unprofitable or failed outright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... Galidor supporte...</span></span></span>
+Harvard Business Review's account of LEGO's recovery later cited Galidor as one of several innovation efforts that were unprofitable or failed outright.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... Galidor supporte...</span></span></span>
 
 The deeper problem was not that LEGO invested in television. The company would later use films, games and television very successfully. The problem was that Galidor relied on external attention more than on the self-reinforcing qualities of the LEGO building experience.
 
@@ -368,194 +368,194 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-3-dark.svg" | relative_url }}" alt="Galidor Media illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Galidor Needed Too Many Things to Work. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Galidor Needed Too Many Things to Work. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores multi‑channel risks and strategic missteps relevant to Galidor.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores multi‑channel risks and strategic missteps relevant to Galidor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Broad insights into strategic discipline relevant across experiments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad insights into strategic discipline relevant across experiments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9035664-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9035664-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Useful framework for understanding complex product ecosystem failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for understanding complex product ecosystem failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of Lego Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of Lego Bricks: The Inside Story of a Design Icon">The Secret Life of Lego Bricks: The Inside Story of a Design...</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Konstanski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of Lego Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of Lego Bricks: The Inside Story of a Design Icon">The Secret Life of Lego Bricks: The Inside Story of a Design...</a>
+</h4>
+<p class="fr-book-author">By Daniel Konstanski</p>
         
-        <p class="fr-book-desc">Contextualises LEGO product design and brand evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualises LEGO product design and brand evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good to Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good to Great</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE"><img src="https://i.ebayimg.com/images/g/d10AAeSw1aZpLFHY/s-l225.jpg" alt="Listing image for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE"><img src="https://i.ebayimg.com/images/g/d10AAeSw1aZpLFHY/s-l225.jpg" alt="Listing image for Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">Lego Galidor Hek Powerizer 8136, Interactive talking figure, 2002 VINTAGE, RARE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GALIDOR LEGO FIGURE 2002"><img src="https://i.ebayimg.com/images/g/Em0AAOSwTvFaqAGe/s-l225.jpg" alt="Listing image for GALIDOR LEGO FIGURE 2002" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">GALIDOR LEGO FIGURE 2002</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GALIDOR LEGO FIGURE 2002"><img src="https://i.ebayimg.com/images/g/Em0AAOSwTvFaqAGe/s-l225.jpg" alt="Listing image for GALIDOR LEGO FIGURE 2002" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">GALIDOR LEGO FIGURE 2002</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Galidor Defender Figure &amp; Robot 2002 Incomplete Vintage Lego"><img src="https://i.ebayimg.com/images/g/v~4AAeSwVqBqB2vO/s-l225.jpg" alt="Listing image for LEGO Galidor Defender Figure &amp; Robot 2002 Incomplete Vintage Lego" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO Galidor Defender Figure &amp; Robot 2002 Incomplete Vintage Lego</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Galidor Defender Figure &amp; Robot 2002 Incomplete Vintage Lego"><img src="https://i.ebayimg.com/images/g/v~4AAeSwVqBqB2vO/s-l225.jpg" alt="Listing image for LEGO Galidor Defender Figure &amp; Robot 2002 Incomplete Vintage Lego" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">LEGO Galidor Defender Figure &amp; Robot 2002 Incomplete Vintage Lego</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension"><img src="https://i.ebayimg.com/images/g/i9IAAOSwGBNiwNFP/s-l225.jpg" alt="Listing image for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension"><img src="https://i.ebayimg.com/images/g/i9IAAOSwGBNiwNFP/s-l225.jpg" alt="Listing image for 2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">2002 Lego Galidor Euripides Action Figure Defenders of the Outer Dimension</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Galidor figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Galidor figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Galidor+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-galidor-needed-too-many-things-to-work-galidor-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Galidor figure" data-ebay-reference="why-galidor-needed-too-many-things-to-work-galidor-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,108 +761,108 @@ For LEGO's later leadership, Galidor became a cautionary example of expansion th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Galidor: Defenders of the Outer Dimension  
-   Link: <a href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galidor%3A_Defenders_of_the_Outer_Dimension</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/LEGOBitsNBricks-s03e37" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/LEGOBitsNBricks-s03e37</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveBits N&#x27; Bricks #37 - The Surreal History of the LEGO Galidor...3 Jun 2022 — How a LEGO game console, sci-fi TV show, and...</p></details>
+   Link:<a href="https://archive.org/details/LEGOBitsNBricks-s03e37" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/LEGOBitsNBricks-s03e37</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveBits N&#x27; Bricks #37 - The Surreal History of the LEGO Galidor...3 Jun 2022 — How a LEGO game console, sci-fi TV show, and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brickset.com  
    Title: galidor was it all bad  
-   Link: <a href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/14936/galidor-was-it-all-bad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galidor: was it all bad?2 Apr 2015 — The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</p></details>
+   Link:<a href="https://brickset.com/article/14936/galidor-was-it-all-bad" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/14936/galidor-was-it-all-bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galidor: was it all bad?2 Apr 2015 — The twenty Galidor sets LEGO produced in 2002, in case you need reminding, are generally considered...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brickset.com  
    Title: lego fails galidor  
-   Link: <a href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/25231/lego-fails-galidor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fails: Galidor10 Dec 2016 — Another big failure of Galidor was failing to adequately account for UK broadcasting laws, which prohibi...</p></details>
+   Link:<a href="https://brickset.com/article/25231/lego-fails-galidor" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/25231/lego-fails-galidor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Fails: Galidor10 Dec 2016 — Another big failure of Galidor was failing to adequately account for UK broadcasting laws, which prohibi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: brickset.com  
    Title: galidor yes it was all bad  
-   Link: <a href="https://brickset.com/article/14947/galidor-yes-it-was-all-bad" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/14947/galidor-yes-it-was-all-bad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galidor: yes it was all bad3 Apr 2015 — This has to be the worst LEGO set I&#x27;ve ever built: no instructions, legs and arms sprouting out a...</p></details>
+   Link:<a href="https://brickset.com/article/14947/galidor-yes-it-was-all-bad" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/14947/galidor-yes-it-was-all-bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galidor: yes it was all bad3 Apr 2015 — This has to be the worst LEGO set I&#x27;ve ever built: no instructions, legs and arms sprouting out a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: d3.harvard.edu  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — Lesson learned: focus on core competencies, and do not be afraid to shut...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/the-lego-success-story-getting-everything-to-awesome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Success Story: Getting Everything to Awesome!28 Nov 2015 — Lesson learned: focus on core competencies, and do not be afraid to shut...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: d3.harvard.edu  
    Title: rebuilding lego  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(5)David Robertson, “Innovating a Turnaround at LEGO,”...Read more...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/rebuilding-lego/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(5)David Robertson, “Innovating a Turnaround at LEGO,”...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... Galidor supporte...</p></details>
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... Galidor supporte...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IZ9ArQSpofM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IZ9ArQSpofM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround of LEGO | From Losing $1 Million Per Day To...In 2003, LEGO was losing a million dollars a day. The company was $800 mill...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IZ9ArQSpofM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IZ9ArQSpofM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Turnaround of LEGO | From Losing $1 Million Per Day To...In 2003, LEGO was losing a million dollars a day. The company was $800 mill...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Near Bankruptcy: Simplifying to SurviveThe turnaround came from an unexpected move: they cut products, not people. Fewer bricks. F...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/supaste_lego-nearly-went-bankrupt-in-the-early-2000s-activity-7429795902984294400-qC7_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Near Bankruptcy: Simplifying to SurviveThe turnaround came from an unexpected move: they cut products, not people. Fewer bricks. F...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Turnaround: Innovation Lessons from Near-...LEGO® was losing ~$1M a day—and nearly collapsed. What they did next became a masterc...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/everyonecaninnovate_afol-legoseriouslpay-lego-activity-7422382077158834177-bi9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Turnaround: Innovation Lessons from Near-...LEGO® was losing ~$1M a day—and nearly collapsed. What they did next became a masterc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/wck4ie/lego_galidor_the_toy_that_almost_bankrupted_lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/wck4ie/lego_galidor_the_toy_that_almost_bankrupted_lego/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Galidor: The Toy that Almost Bankrupted Lego: r/legoGalidor centered around a 15-year-old boy named Nick Bluetooth who utilized int...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/wck4ie/lego_galidor_the_toy_that_almost_bankrupted_lego/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/wck4ie/lego_galidor_the_toy_that_almost_bankrupted_lego/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego Galidor: The Toy that Almost Bankrupted Lego: r/legoGalidor centered around a 15-year-old boy named Nick Bluetooth who utilized int...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: designnews.com  
-   Link: <a href="https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps" target="_blank" rel="noopener noreferrer nofollow">https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Odd Ventures &amp; Mishaps16 Jul 2025 — Nice-try failures. Galidor (2002). Perhaps LEGO&#x27;s most infamous failure, Galidor was launched...</p></details>
+   Link:<a href="https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps" target="_blank" rel="noopener noreferrer nofollow">https://www.designnews.com/design-engineering/legos-unconventional-ventures-from-galidor-to-brittle-bricks-engineering-missteps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO&#x27;s Odd Ventures &amp; Mishaps16 Jul 2025 — Nice-try failures. Galidor (2002). Perhaps LEGO&#x27;s most infamous failure, Galidor was launched...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pinterest.com  
    Title: why [sustainability](&#123;&#123; 'sustainability/' | relative_url &#125;&#125;) is now the key driver of innovation 185984659607539299  
-   Link: <a href="https://www.pinterest.com/pin/why-sustainability-is-now-the-key-driver-of-innovation--185984659607539299/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/why-sustainability-is-now-the-key-driver-of-innovation--185984659607539299/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Innovating a Turnaround at LEGO31 Aug 2009 —... Galidor supported by a television show—were unprofitable or had failed outright. Today...</p></details>
+   Link:<a href="https://www.pinterest.com/pin/why-sustainability-is-now-the-key-driver-of-innovation--185984659607539299/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/why-sustainability-is-now-the-key-driver-of-innovation--185984659607539299/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Innovating a Turnaround at LEGO31 Aug 2009 —... Galidor supported by a television show—were unprofitable or had failed outright. Today...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hbr.org  
    Title: innovation under constraint constructing a turnaround at lego  
-   Link: <a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Innovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Rivkin takes listeners be...</p></details>
+   Link:<a href="https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/10/innovation-under-constraint-constructing-a-turnaround-at-lego</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Innovation Under Constraint: Constructing a Turnaround at...4 Oct 2016 — Harvard Business School professor Jan Rivkin takes listeners be...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: how lego clicked the super brand that reinvented itself  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego clicked: the super brand that reinvented itself4 Jun 2017 — A book devoted to the subject, David Robertson&#x27;s Brick by Brick: How...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Lego clicked: the super brand that reinvented itself4 Jun 2017 — A book devoted to the subject, David Robertson&#x27;s Brick by Brick: How...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: markhub24.com  
    Title: lego strategic turnaround through innovation and focus  
-   Link: <a href="https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025 — The company achieved a strategic turnaround by refocusing on its cor...</p></details>
+   Link:<a href="https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/lego-strategic-turnaround-through-innovation-and-focus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO: Strategic Turnaround Through Innovation and Focus15 Dec 2025 — The company achieved a strategic turnaround by refocusing on its cor...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: helpmegrow.co.uk  
    Title: the lego turnaround a masterclass in business revival  
-   Link: <a href="https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/" target="_blank" rel="noopener noreferrer nofollow">https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Turnaround: A Masterclass in Business Revival11 Dec 2024 — From crisis to triumph: LEGO&#x27;s business transformation - Learn how st...</p></details>
+   Link:<a href="https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/" target="_blank" rel="noopener noreferrer nofollow">https://helpmegrow.co.uk/the-lego-turnaround-a-masterclass-in-business-revival/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LEGO Turnaround: A Masterclass in Business Revival11 Dec 2024 — From crisis to triumph: LEGO&#x27;s business transformation - Learn how st...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lego/comments/1ngozk2/do_you_think_lego_would_have_gone_out_of_business/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ngozk2/do_you_think_lego_would_have_gone_out_of_business/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>idor if their name was instead &quot;LEZJO&quot; which would have had slightly...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/lego/comments/1ngozk2/do_you_think_lego_would_have_gone_out_of_business/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lego/comments/1ngozk2/do_you_think_lego_would_have_gone_out_of_business/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idor if their name was instead &quot;LEZJO&quot; which would have had slightly...Read more...</p></details>

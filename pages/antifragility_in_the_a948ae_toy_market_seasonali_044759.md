@@ -352,7 +352,7 @@ image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-ov
 
 ## Introduction
 
-Toy-market seasonality is one of LEGO’s clearest volatility tests because the company must commit to products, production, inventory and shelf space long before much of the year’s demand is visible. In its 2004 annual report, LEGO described a market shaped by short-lived fads, price pressure and heavy seasonality, with as much as half of toy sales occurring in the final three months of the year. It also warned that more than half of its own annual sales took place between September and December, placing heavy demands on product development and adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 ENG</span></span></span>
+Toy-market seasonality is one of LEGO’s clearest volatility tests because the company must commit to products, production, inventory and shelf space long before much of the year’s demand is visible. In its 2004 annual report, LEGO described a market shaped by short-lived fads, price pressure and heavy seasonality, with as much as half of toy sales occurring in the final three months of the year. It also warned that more than half of its own annual sales took place between September and December, placing heavy demands on product development and adaptation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 ENG</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-overview.webp" | relative_url }}" alt="Overview image for Seasonality" loading="eager" decoding="sync" fetchpriority="high">
 In an antifragility frame, this matters because holiday volatility can either expose weakness or sharpen the system. A fragile LEGO would overbuild the wrong sets, miss fast-moving trends, disappoint retailers or discount excess stock after Christmas. A stronger LEGO uses the same pressure to improve forecasting, [portfolio mix]({{ 'portfolio-mix/' | relative_url }}), manufacturing proximity and product renewal. The challenge is not simply “sell more at Christmas”; it is to make a business with huge seasonal spikes less dependent on guessing one perfect winner.
@@ -361,22 +361,22 @@ In an antifragility frame, this matters because holiday volatility can either ex
 
 The toy industry is unusually exposed to calendar risk. A family can delay many purchases, but Christmas, birthdays and school-holiday gifting create hard deadlines. A toy that arrives too late for the December rush does not simply sell a week later at the same value; it may miss the emotional moment, lose shelf priority or be marked down. That gives the final quarter a disproportionate influence over annual results, retailer relationships and working capital.
 
-The wider research on toy supply chains shows why this is so difficult. A California Management Review study of toy-industry supply-chain risk described demand risks including seasonality, fad volatility, new-product adoption and short product life, while supply risks included capacity [limits]({{ 'limits/' | relative_url }}), logistics crunches and long lead times. It found that November and December alone represented nearly 45% of traditional toy sales, with December at 27% and November at 17.8% in the cited NPD data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mba.tuck.dartmouth.edu">[Tuck School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mba.tuck.dartmouth.edu</span><span class="citation-popover-title">Tuck School of Business Johnson CMR202.qxd</span><span class="citation-popover-snippet">Tuck School of Business Johnson CMR202.qxd</span></span></span>
+The wider research on toy supply chains shows why this is so difficult. A California Management Review study of toy-industry supply-chain risk described demand risks including seasonality, fad volatility, new-product adoption and short product life, while supply risks included capacity [limits]({{ 'limits/' | relative_url }}), logistics crunches and long lead times. It found that November and December alone represented nearly 45% of traditional toy sales, with December at 27% and November at 17.8% in the cited NPD data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mba.tuck.dartmouth.edu">[Tuck School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mba.tuck.dartmouth.edu</span><span class="citation-popover-title">Tuck School of Business Johnson CMR202.qxd</span><span class="citation-popover-snippet">Tuck School of Business Johnson CMR202.qxd</span></span></span>
 
-LEGO’s own 2004 risk discussion fits that pattern closely. The company said consumer demand was becoming harder to predict and more subject to fashion, while some products had shorter life cycles; at the same time, sales were “highly seasonal”, with more than half of annual sales in September to December. That combination is more dangerous than seasonality alone: it means LEGO had to prepare for the busiest selling period while the products most likely to win could change quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the lego group achieves double digit top and bottom line growth in h1 2025</span><span class="citation-popover-snippet">the lego group achieves double digit top and bottom line growth in h1 2025</span></span></span>
+LEGO’s own 2004 risk discussion fits that pattern closely. The company said consumer demand was becoming harder to predict and more subject to fashion, while some products had shorter life cycles; at the same time, sales were “highly seasonal”, with more than half of annual sales in September to December. That combination is more dangerous than seasonality alone: it means LEGO had to prepare for the busiest selling period while the products most likely to win could change quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the lego group achieves double digit top and bottom line growth in h1 2025</span><span class="citation-popover-snippet">the lego group achieves double digit top and bottom line growth in h1 2025</span></span></span>
 
-The financial consequences are practical. Too little stock can mean empty shelves just when parents are ready to buy. Too much stock can mean tied-up cash, crowded warehouses and post-season discounting. The European Commission’s study of the toy industry made the same point more broadly: toy product life cycles often run from six months to two years, demand is highly seasonal around Christmas, and volatility creates risks of obsolete inventory and markdowns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-title">European Commission Study on the competitiveness of the toy industry</span><span class="citation-popover-snippet">European Commission Study on the competitiveness of the toy industry</span></span></span>
+The financial consequences are practical. Too little stock can mean empty shelves just when parents are ready to buy. Too much stock can mean tied-up cash, crowded warehouses and post-season discounting. The European Commission’s study of the toy industry made the same point more broadly: toy product life cycles often run from six months to two years, demand is highly seasonal around Christmas, and volatility creates risks of obsolete inventory and markdowns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-title">European Commission Study on the competitiveness of the toy industry</span><span class="citation-popover-snippet">European Commission Study on the competitiveness of the toy industry</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-Illustration-1-dark.svg" | relative_url }}" alt="Seasonality illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fads shorten product life cycles
 
 Seasonality would be easier if the same products sold predictably every year. The harder toy-market problem is that demand is seasonal and fashion-sensitive at the same time. A film release, game, social-media craze, character license or collectible format can suddenly move demand from one product type to another. For LEGO, this creates a tension between the long life of the [brick system]({{ 'brick-system/' | relative_url }}) and the short life of many themes, tie-ins and retail moments.
 
-LEGO’s 2004 report captured this in unusually direct language, describing a market of “here-today-gone-tomorrow fads” that shortened product life cycles. This was not an abstract industry comment: it appeared in the same section that discussed pressure from large retailers, discount terms, lower retailer stocks, demands for shorter delivery times and shrinking gross margins. In other words, volatility was not only about children changing their minds; it was also about retailers pushing inventory risk back upstream to manufacturers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+LEGO’s 2004 report captured this in unusually direct language, describing a market of “here-today-gone-tomorrow fads” that shortened product life cycles. This was not an abstract industry comment: it appeared in the same section that discussed pressure from large retailers, discount terms, lower retailer stocks, demands for shorter delivery times and shrinking gross margins. In other words, volatility was not only about children changing their minds; it was also about retailers pushing inventory risk back upstream to manufacturers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
-Modern toy-market data suggests that this pressure has not disappeared; it has changed form. Circana reported that in the first half of 2025, collectibles were a major growth driver, with global first-half sales up 35%, while licensed toy sales grew 17% and accounted for 35% of global toy sales. The same report noted that the second half of the year accounts for more than 60% of annual toy sales, making the holiday run-in both an opportunity and a risk window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-snippet">Global Toy Market Size 2025 – Strong Rebound in H1 2025...</span></span></span>
+Modern toy-market data suggests that this pressure has not disappeared; it has changed form. Circana reported that in the first half of 2025, collectibles were a major growth driver, with global first-half sales up 35%, while licensed toy sales grew 17% and accounted for 35% of global toy sales. The same report noted that the second half of the year accounts for more than 60% of annual toy sales, making the holiday run-in both an opportunity and a risk window.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circana.com">[Circana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circana.com</span><span class="citation-popover-snippet">Global Toy Market Size 2025 – Strong Rebound in H1 2025...</span></span></span>
 
-This is where LEGO’s portfolio model becomes important. Licensed themes such as [Star Wars]({{ 'star-wars/' | relative_url }}), Formula 1, Minecraft, Super Mario, Bluey, One Piece and Pokémon can help LEGO connect with current culture, but [licensing]({{ 'licensing/' | relative_url }}) also adds timing risk. A set tied to a film, game, streaming hit or sports season can be powerful when released at the right moment and weaker if demand peaks before supply arrives. Reuters reported that LEGO’s H1 2025 record sales were helped by brand tie-ups including Formula One, Jurassic Park and Fortnite, and that the company launched a record 314 new sets in that period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Helped by brand tie-ups, Lego&#x27;s first-half sales hit a record</span><span class="citation-popover-snippet">CEO Niels Christiansen attributed this growth to brand partnerships with franchises like Formula One, Jurassic Park, Fortnite, and others...</span></span></span>
+This is where LEGO’s portfolio model becomes important. Licensed themes such as [Star Wars]({{ 'star-wars/' | relative_url }}), Formula 1, Minecraft, Super Mario, Bluey, One Piece and Pokémon can help LEGO connect with current culture, but [licensing]({{ 'licensing/' | relative_url }}) also adds timing risk. A set tied to a film, game, streaming hit or sports season can be powerful when released at the right moment and weaker if demand peaks before supply arrives. Reuters reported that LEGO’s H1 2025 record sales were helped by brand tie-ups including Formula One, Jurassic Park and Fortnite, and that the company launched a record 314 new sets in that period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Helped by brand tie-ups, Lego&#x27;s first-half sales hit a record</span><span class="citation-popover-snippet">CEO Niels Christiansen attributed this growth to brand partnerships with franchises like Formula One, Jurassic Park, Fortnite, and others...</span></span></span>
 
 The antifragile lesson is that LEGO does not eliminate fad risk by avoiding fads. Instead, it tries to absorb fads into a reusable system. A licensed set may have a short selling window, but the bricks, design knowledge, building techniques, adult-fan response, retail data and theme-management experience can inform future products. This is very different from betting the company on a single standalone craze.
 
@@ -386,13 +386,13 @@ The antifragile lesson is that LEGO does not eliminate fad risk by avoiding fads
 
 LEGO’s strongest response to seasonality is not one single tool. It is a bundle of portfolio and operating choices that reduce dependence on any one December hit. The company still benefits from gift peaks, but it has worked to make those peaks less brittle.
 
-**A broader product spread.** In 2025, LEGO said it launched its largest portfolio to date, with more than 860 products, about half of them new. Popular themes included City, Technic, Star Wars, Icons and Botanicals, appealing to children, adults and different “passion points”. That breadth matters because a weak result in one age group, theme or license can be offset by strength elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">the LEGO Group Annual Report 2024</span></span></span>
+**A broader product spread.** In 2025, LEGO said it launched its largest portfolio to date, with more than 860 products, about half of them new. Popular themes included City, Technic, Star Wars, Icons and Botanicals, appealing to children, adults and different “passion points”. That breadth matters because a weak result in one age group, theme or license can be offset by strength elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">the LEGO Group Annual Report 2024</span><span class="citation-popover-snippet">the LEGO Group Annual Report 2024</span></span></span>
 
-**More occasions beyond Christmas.** LEGO Botanicals is a useful example because it shifts LEGO further into [adult gifting]({{ 'adult-gifting/' | relative_url }}) and non-Christmas occasions. In H1 2025, LEGO said Botanicals was popular around Valentine’s Day and Mother’s Day, while its Formula 1 partnership was supported by Grand Prix activations. These moments do not remove the holiday spike, but they give LEGO more demand windows across the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">FINAL Annual Report 2023</span><span class="citation-popover-snippet">FINAL Annual Report 2023</span></span></span>
+**More occasions beyond Christmas.** LEGO Botanicals is a useful example because it shifts LEGO further into [adult gifting]({{ 'adult-gifting/' | relative_url }}) and non-Christmas occasions. In H1 2025, LEGO said Botanicals was popular around Valentine’s Day and Mother’s Day, while its Formula 1 partnership was supported by Grand Prix activations. These moments do not remove the holiday spike, but they give LEGO more demand windows across the year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">FINAL Annual Report 2023</span><span class="citation-popover-snippet">FINAL Annual Report 2023</span></span></span>
 
 **A balance of evergreen and trend-led sets.** City, Technic and classic building themes can behave differently from entertainment licenses. Evergreen lines help provide continuity; licensed and event-led products help LEGO stay culturally relevant. The risk is over-rotating towards short-lived novelty, but the opportunity is that LEGO can test new interests while keeping the brick system as the common platform.
 
-**Retail execution and direct channels.** LEGO’s 2025 full-year release linked growth not only to product innovation but also to “excellent retail execution”, record visitors to LEGO branded retail stores and LEGO.com, and close collaboration with retail partners. Better direct and partner retail data can help the company read demand earlier and adjust allocation more intelligently during the peak season. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group FY 2024 Financial Highlights</span><span class="citation-popover-snippet">The LEGO Group FY 2024 Financial Highlights</span></span></span>
+**Retail execution and direct channels.** LEGO’s 2025 full-year release linked growth not only to product innovation but also to “excellent retail execution”, record visitors to LEGO branded retail stores and LEGO.com, and close collaboration with retail partners. Better direct and partner retail data can help the company read demand earlier and adjust allocation more intelligently during the peak season.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">The LEGO Group FY 2024 Financial Highlights</span><span class="citation-popover-snippet">The LEGO Group FY 2024 Financial Highlights</span></span></span>
 
 These tools are not magic. A broad portfolio can also create [complexity]({{ 'complexity/' | relative_url }}), and frequent product renewal can burden forecasting, tooling, [packaging]({{ 'packaging/' | relative_url }}) and shelf planning. The antifragile question is whether variety creates useful options or uncontrolled sprawl. LEGO’s early-2000s crisis showed the danger of complexity without discipline; its later model depends on variety that still connects back to the brick system.
 
@@ -401,20 +401,20 @@ These tools are not magic. A broad portfolio can also create [complexity]({{ 'co
 
 Holiday demand is not only a marketing problem. It is a manufacturing and logistics problem. LEGO needs enough capacity before the rush, enough flexibility to move products to the right markets, and enough resilience to handle disruption without turning a seasonal spike into a service failure.
 
-This is why LEGO’s regional manufacturing strategy matters. In 2025, the company opened a new factory and regional distribution centre in Vietnam, progressed a factory and regional distribution centre in Virginia, and expanded factories in Hungary, Mexico and China. LEGO described this as strengthening its global supply chain so it could manage growing complexity while meeting demand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">lego group delivers record results in 2024</span></span></span>
+This is why LEGO’s regional manufacturing strategy matters. In 2025, the company opened a new factory and regional distribution centre in Vietnam, progressed a factory and regional distribution centre in Virginia, and expanded factories in Hungary, Mexico and China. LEGO described this as strengthening its global supply chain so it could manage growing complexity while meeting demand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego group delivers record results in 2024</span><span class="citation-popover-snippet">lego group delivers record results in 2024</span></span></span>
 
-Reuters reported that LEGO’s Vietnam factory was part of a long-running strategy of placing production closer to key markets, a move intended to help control costs and reduce exposure to external shocks and supply-chain disruption. The company now has factories in Denmark, Hungary, the Czech Republic, Mexico, China and Vietnam, with a Virginia factory planned to start production in 2027. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Toymaker Lego opens Vietnam factory, taking production closer to key markets</span><span class="citation-popover-snippet">Toymaker Lego opens Vietnam factory, taking production closer to key markets</span></span></span>
+Reuters reported that LEGO’s Vietnam factory was part of a long-running strategy of placing production closer to key markets, a move intended to help control costs and reduce exposure to external shocks and supply-chain disruption. The company now has factories in Denmark, Hungary, the Czech Republic, Mexico, China and Vietnam, with a Virginia factory planned to start production in 2027.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Toymaker Lego opens Vietnam factory, taking production closer to key markets</span><span class="citation-popover-snippet">Toymaker Lego opens Vietnam factory, taking production closer to key markets</span></span></span>
 
 Operationally, this reduces the penalty for uncertainty. If demand surprises occur late in the year, a company with regional capacity and distribution options has more room to adapt than one dependent on long, single-route supply lines. It still has to forecast, but its forecasts do not need to be perfect in quite the same way.
 
-The tradeoff is that resilience is expensive. LEGO reported substantial investment in factories, existing facilities and sustainability initiatives, with free cash flow in 2025 supported by high operating profit but still shaped by heavy capital spending. That is the cost side of antifragility: the system becomes better at handling volatility only if the company is willing to fund spare capability, proximity and learning before the shock arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">lego delivered topline growth and outpaced market in 2023</span></span></span>
+The tradeoff is that resilience is expensive. LEGO reported substantial investment in factories, existing facilities and sustainability initiatives, with free cash flow in 2025 supported by high operating profit but still shaped by heavy capital spending. That is the cost side of antifragility: the system becomes better at handling volatility only if the company is willing to fund spare capability, proximity and learning before the shock arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">lego delivered topline growth and outpaced market in 2023</span><span class="citation-popover-snippet">lego delivered topline growth and outpaced market in 2023</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-Illustration-3-dark.svg" | relative_url }}" alt="Seasonality illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The risk is managed, not solved
 
-LEGO’s recent results show that the company has become better at turning seasonal and trend volatility into growth. In 2025, LEGO reported revenue up 12% to DKK 83.5 billion, consumer sales up 16%, operating profit up 18% to DKK 22.0 billion and market-share gains, with demand strong among both children and adults. That performance suggests LEGO is not merely surviving toy-market volatility; it is often using portfolio renewal and operational scale to outperform the market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group Sustainability Statement 2024</span><span class="citation-popover-snippet">LEGO Group Sustainability Statement 2024</span></span></span>
+LEGO’s recent results show that the company has become better at turning seasonal and trend volatility into growth. In 2025, LEGO reported revenue up 12% to DKK 83.5 billion, consumer sales up 16%, operating profit up 18% to DKK 22.0 billion and market-share gains, with demand strong among both children and adults. That performance suggests LEGO is not merely surviving toy-market volatility; it is often using portfolio renewal and operational scale to outperform the market.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">LEGO Group Sustainability Statement 2024</span><span class="citation-popover-snippet">LEGO Group Sustainability Statement 2024</span></span></span>
 
-But this does not make LEGO immune. Seasonality still concentrates risk into a narrow selling window. A weak holiday season, poor macroeconomic conditions, late shipments, mistimed licensed products or excess inventory can still hurt results. Reuters reported in 2023 that US toy imports fell sharply during a key ordering period for holiday stock, while Circana expected shoppers to come through late in the three weeks before Christmas; that kind of late-demand uncertainty is exactly what makes the toy business difficult to plan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/markets/santas-sleigh-be-lighter-people-buy-fewer-toys-2023-11-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Holiday toy sales expected to slow amid economic struggles &#124; Reuters</span><span class="citation-popover-snippet">Holiday toy sales expected to slow amid economic struggles &#124; Reuters</span></span></span>
+But this does not make LEGO immune. Seasonality still concentrates risk into a narrow selling window. A weak holiday season, poor macroeconomic conditions, late shipments, mistimed licensed products or excess inventory can still hurt results. Reuters reported in 2023 that US toy imports fell sharply during a key ordering period for holiday stock, while Circana expected shoppers to come through late in the three weeks before Christmas; that kind of late-demand uncertainty is exactly what makes the toy business difficult to plan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/markets/santas-sleigh-be-lighter-people-buy-fewer-toys-2023-11-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Holiday toy sales expected to slow amid economic struggles &#124; Reuters</span><span class="citation-popover-snippet">Holiday toy sales expected to slow amid economic struggles &#124; Reuters</span></span></span>
 
 The most useful conclusion is therefore narrow. Toy-market seasonality is not a side detail in LEGO’s antifragility story; it is one of the pressures that tests whether the company’s system is genuinely adaptive. LEGO’s strength lies in making the Christmas spike less binary: more product types, more age groups, more gifting occasions, more regional supply options and more feedback from owned and partner channels.
 
@@ -423,194 +423,194 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9mRzJaVjkzQ" title="LEGO&#x27;s financial report is good news for adults" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9mRzJaVjkzQ" target="_blank" rel="noopener noreferrer">LEGO&#x27;s financial report is good news for adults</a></p><p class="youtube-embed-meta">Channel: Brick Fanatics &middot; Views: 13.4K &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9mRzJaVjkzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9mRzJaVjkzQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Toy Seasonality Tests LEGO&#x27;s Strength. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Toy Seasonality Tests LEGO&#x27;s Strength. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly supports analysis of seasonal stress in toy markets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports analysis of seasonal stress in toy markets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to adaptation and experimentation under uncertain demand.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to adaptation and experimentation under uncertain demand.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2314080-M.jpg" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2314080-M.jpg" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides insight into seasonal consumer buying behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into seasonal consumer buying behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=knIgAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store">The Everything Store</a>
-        </h4>
-        <p class="fr-book-author">By Brad Stone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=knIgAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store">The Everything Store</a>
+</h4>
+<p class="fr-book-author">By Brad Stone</p>
         
-        <p class="fr-book-desc">Includes lessons about scaling and managing peak-demand periods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes lessons about scaling and managing peak-demand periods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 4002025 Employee Exclusive Christmas Gift Set 2025 Brand New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/WjoAAeSw~bpqKn-r/s-l225.jpg" alt="Listing image for LEGO 4002025 Employee Exclusive Christmas Gift Set 2025 Brand New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 4002025 Employee Exclusive Christmas Gift Set 2025 Brand New &amp; Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO 4002025 Employee Exclusive Christmas Gift Set 2025 Brand New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/WjoAAeSw~bpqKn-r/s-l225.jpg" alt="Listing image for LEGO 4002025 Employee Exclusive Christmas Gift Set 2025 Brand New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">LEGO 4002025 Employee Exclusive Christmas Gift Set 2025 Brand New &amp; Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christmas Cracker Mini Lego Surprise Gift Set"><img src="https://i.ebayimg.com/images/g/wDkAAeSwUfVpDlA~/s-l225.jpg" alt="Listing image for Christmas Cracker Mini Lego Surprise Gift Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Christmas Cracker Mini Lego Surprise Gift Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christmas Cracker Mini Lego Surprise Gift Set"><img src="https://i.ebayimg.com/images/g/wDkAAeSwUfVpDlA~/s-l225.jpg" alt="Listing image for Christmas Cracker Mini Lego Surprise Gift Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Christmas Cracker Mini Lego Surprise Gift Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego flowers with dust cover -Gift Idea, Home Decor Set, Toy(24 HOUR FLASH SALE)"><img src="https://i.ebayimg.com/images/g/WCQAAeSwCr1o1oVJ/s-l225.jpg" alt="Listing image for Lego flowers with dust cover -Gift Idea, Home Decor Set, Toy(24 HOUR FLASH SALE)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Lego flowers with dust cover -Gift Idea, Home Decor Set, Toy(24 HOUR FLASH SALE)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego flowers with dust cover -Gift Idea, Home Decor Set, Toy(24 HOUR FLASH SALE)"><img src="https://i.ebayimg.com/images/g/WCQAAeSwCr1o1oVJ/s-l225.jpg" alt="Listing image for Lego flowers with dust cover -Gift Idea, Home Decor Set, Toy(24 HOUR FLASH SALE)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Lego flowers with dust cover -Gift Idea, Home Decor Set, Toy(24 HOUR FLASH SALE)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces"><img src="https://i.ebayimg.com/images/g/3UcAAOSwpnpnlVuB/s-l225.jpg" alt="Listing image for Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces"><img src="https://i.ebayimg.com/images/g/3UcAAOSwpnpnlVuB/s-l225.jpg" alt="Listing image for Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">Kabah Lego Gift Set Makkah Kids Adults Perfect For Families 400+ pieces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO gift set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO gift set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+gift+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toy-seasonality-tests-lego-s-strength-lego-gift-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO gift set" data-ebay-reference="why-toy-seasonality-tests-lego-s-strength-lego-gift-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,207 +816,207 @@ Seasonality still creates volatility, but LEGO’s post-crisis model tries to ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: circana.com  
-   Link: <a href="https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Toy Market Size 2025 – Strong Rebound in H1 2025...</p></details>
+   Link:<a href="https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-market-experiences-a-strong-rebound-in-the-first-half-of-2025-with-all-markets-growing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Toy Market Size 2025 – Strong Rebound in H1 2025...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Helped by brand tie-ups, Lego's first-half sales hit a record  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEO Niels Christiansen attributed this growth to brand partnerships with franchises like Formula One, Jurassic Park, Fortnite, and others...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/helped-by-brand-tie-ups-legos-first-half-sales-hit-record-2025-08-27/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEO Niels Christiansen attributed this growth to brand partnerships with franchises like Formula One, Jurassic Park, Fortnite, and others...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: the lego group achieves double digit top and bottom line growth in h1 2025  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/august/the-lego-group-achieves-double-digit-top--and-bottom-line-growth-in-h1-2025</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2026/march/the-lego-group-delivers-record-results-in-2025-driven-by-strong-brand-and-innovative-portfolio</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Toymaker Lego opens Vietnam factory, taking production closer to key markets  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/</a>  
+   Link:<a href="https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/lego-opens-new-factory-vietnam-increase-local-production-2025-04-09/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: Holiday toy sales expected to slow amid economic struggles | Reuters  
-   Link: <a href="https://www.reuters.com/markets/santas-sleigh-be-lighter-people-buy-fewer-toys-2023-11-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/santas-sleigh-be-lighter-people-buy-fewer-toys-2023-11-15/</a>  
+   Link:<a href="https://www.reuters.com/markets/santas-sleigh-be-lighter-people-buy-fewer-toys-2023-11-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/santas-sleigh-be-lighter-people-buy-fewer-toys-2023-11-15/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lego.com  
    Title: the LEGO Group Annual Report 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1cdf90a38318ef56/the_LEGO_Group_Annual_Report_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lego.com  
    Title: FINAL Annual Report 2023  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt7e9167f47da173a6/FINAL_Annual_Report_2023.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Financial Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltf2a6246ed68fd0b6/The_LEGO_Group_FY_2024_Financial_Highlights.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lego.com  
    Title: lego group delivers record results in 2024  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2025/march/lego-group-delivers-record-results-in-2024</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lego.com  
    Title: lego delivered topline growth and outpaced market in 2023  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lego.com  
    Title: LEGO Group Sustainability Statement 2024  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt2a759726033d5b67/LEGO_Group_Sustainability_Statement_2024.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lego.com  
    Title: The LEGO Group 2025 Annual Report  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lego.com  
    Title: 2025 Performance Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt1587fc5fdc823ffb/2025_Performance_Highlights.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lego.com  
    Title: 2025 Financial Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltfcc5213b1a38d85b/2025_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltfcc5213b1a38d85b/2025_Financial_Highlights.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltfcc5213b1a38d85b/2025_Financial_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltfcc5213b1a38d85b/2025_Financial_Highlights.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/categories/f1" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/f1</a>  
+   Link:<a href="https://www.lego.com/en-gb/categories/f1" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/categories/f1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
+   Link:<a href="https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/lego-group/policies-and-reporting/reports</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lego.com  
    Title: The LEGO Group FY 2024 Performance Highlights  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/bltefaef83bc5bbde27/The_LEGO_Group_FY_2024_Performance_Highlights.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: circana.com  
-   Link: <a href="https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive</a>  
+   Link:<a href="https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/building-up-to-christmas-uk-toy-market-grows-to-3-9bn-as-creativity-and-collectibles-lead-festive</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: circana.com  
-   Link: <a href="https://www.circana.com/industries/toys" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/industries/toys</a>  
+   Link:<a href="https://www.circana.com/industries/toys" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/industries/toys</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: circana.com  
-   Link: <a href="https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu</a>  
+   Link:<a href="https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: circana.com  
    Title: the npd group u s toy industry retail sales flat in 2022  
-   Link: <a href="https://www.circana.com/post/the-npd-group-u-s-toy-industry-retail-sales-flat-in-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/the-npd-group-u-s-toy-industry-retail-sales-flat-in-2022</a>  
+   Link:<a href="https://www.circana.com/post/the-npd-group-u-s-toy-industry-retail-sales-flat-in-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/the-npd-group-u-s-toy-industry-retail-sales-flat-in-2022</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: circana.com  
-   Link: <a href="https://www.circana.com/news/press-releases/2025/toy-sales-trends-q4-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/news/press-releases/2025/toy-sales-trends-q4-2025</a>  
+   Link:<a href="https://www.circana.com/news/press-releases/2025/toy-sales-trends-q4-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/news/press-releases/2025/toy-sales-trends-q4-2025</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: circana.com  
    Title: circana reports on the 2023 global toy industry retail sales results  
-   Link: <a href="https://www.circana.com/post/circana-reports-on-the-2023-global-toy-industry-retail-sales-results" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/circana-reports-on-the-2023-global-toy-industry-retail-sales-results</a>  
+   Link:<a href="https://www.circana.com/post/circana-reports-on-the-2023-global-toy-industry-retail-sales-results" target="_blank" rel="noopener noreferrer nofollow">https://www.circana.com/post/circana-reports-on-the-2023-global-toy-industry-retail-sales-results</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: formula1.com  
    Title: formula 1 and lego group build partnership from 2025.6jIHhyR02uLh8wK7Uzj4iB  
-   Link: <a href="https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB" target="_blank" rel="noopener noreferrer nofollow">https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB</a>  
+   Link:<a href="https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB" target="_blank" rel="noopener noreferrer nofollow">https://www.formula1.com/en/latest/article/formula-1-and-lego-group-build-partnership-from-2025.6jIHhyR02uLh8wK7Uzj4iB</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mba.tuck.dartmouth.edu  
    Title: Tuck School of Business Johnson CMR202.qxd  
-   Link: <a href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf</a>  
+   Link:<a href="https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mba.tuck.dartmouth.edu/digital/Research/AcademicPublications/CMRToys.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ec.europa.eu  
    Title: European Commission Study on the competitiveness of the toy industry  
-   Link: <a href="https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native</a>  
+   Link:<a href="https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/docsroom/documents/6653/attachments/1/translations/en/renditions/native</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/947531738/Lego" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/947531738/Lego</a>  
+   Link:<a href="https://www.scribd.com/document/947531738/Lego" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/947531738/Lego</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: unglobalcompact.org  
-   Link: <a href="https://unglobalcompact.org/participation/report/cop/detail/1416" target="_blank" rel="noopener noreferrer nofollow">https://unglobalcompact.org/participation/report/cop/detail/1416</a>  
+   Link:<a href="https://unglobalcompact.org/participation/report/cop/detail/1416" target="_blank" rel="noopener noreferrer nofollow">https://unglobalcompact.org/participation/report/cop/detail/1416</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: strategosinstitute.com  
    Title: LEG O®  
-   Link: <a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
+   Link:<a href="https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strategosinstitute.com/uploads/cf17cf06ff987718f7a8d8edfb65bc2e6abe59cb33bfd8b079f41b20964e04af.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: toyassociation.org  
    Title: circana us toy industry sales grew 7 percent ytd 2025.aspx  
-   Link: <a href="https://www.toyassociation.org/ta/PressRoom2/News/2025_News/circana-us-toy-industry-sales-grew-7-percent-ytd-2025.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.toyassociation.org/ta/PressRoom2/News/2025_News/circana-us-toy-industry-sales-grew-7-percent-ytd-2025.aspx</a>  
+   Link:<a href="https://www.toyassociation.org/ta/PressRoom2/News/2025_News/circana-us-toy-industry-sales-grew-7-percent-ytd-2025.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.toyassociation.org/ta/PressRoom2/News/2025_News/circana-us-toy-industry-sales-grew-7-percent-ytd-2025.aspx</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: toyfoundation.org  
    Title: circana us 2024 toy sales remain flat moving from correction to consistency.aspx  
-   Link: <a href="https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx" target="_blank" rel="noopener noreferrer nofollow">https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx</a>  
+   Link:<a href="https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx" target="_blank" rel="noopener noreferrer nofollow">https://toyfoundation.org/ttf/PressRoom2/News/2025_News/circana-us-2024-toy-sales-remain-flat-moving-from-correction-to-consistency.aspx</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: toybook.com  
    Title: circana u s toy industry returns to growth ahead of holiday season  
-   Link: <a href="https://toybook.com/circana-u-s-toy-industry-returns-to-growth-ahead-of-holiday-season/" target="_blank" rel="noopener noreferrer nofollow">https://toybook.com/circana-u-s-toy-industry-returns-to-growth-ahead-of-holiday-season/</a>  
+   Link:<a href="https://toybook.com/circana-u-s-toy-industry-returns-to-growth-ahead-of-holiday-season/" target="_blank" rel="noopener noreferrer nofollow">https://toybook.com/circana-u-s-toy-industry-returns-to-growth-ahead-of-holiday-season/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: learningthroughplay.com  
-   Link: <a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
+   Link:<a href="https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports" target="_blank" rel="noopener noreferrer nofollow">https://learningthroughplay.com/about-us/governance-leadership-and-policies/annual-reports-and-sustainability-reports</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/building-blocks-recovery-how-lego-snapped-its-supply-chain-jagtap-ahslc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/building-blocks-recovery-how-lego-snapped-its-supply-chain-jagtap-ahslc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/building-blocks-recovery-how-lego-snapped-its-supply-chain-jagtap-ahslc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/building-blocks-recovery-how-lego-snapped-its-supply-chain-jagtap-ahslc</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/gazisanaulhasansupplychain_supplychain-lego-logistics-activity-7312137170314481664-WOf_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gazisanaulhasansupplychain_supplychain-lego-logistics-activity-7312137170314481664-WOf_</a>  
+   Link:<a href="https://www.linkedin.com/posts/gazisanaulhasansupplychain_supplychain-lego-logistics-activity-7312137170314481664-WOf_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gazisanaulhasansupplychain_supplychain-lego-logistics-activity-7312137170314481664-WOf_</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: chegg.com  
-   Link: <a href="https://www.chegg.com/homework-help/questions-and-answers/consumer-demand-lego-products-varies-throughout-year-noticeable-spikes-major-holidays-gift-q244638261" target="_blank" rel="noopener noreferrer nofollow">https://www.chegg.com/homework-help/questions-and-answers/consumer-demand-lego-products-varies-throughout-year-noticeable-spikes-major-holidays-gift-q244638261</a>  
+   Link:<a href="https://www.chegg.com/homework-help/questions-and-answers/consumer-demand-lego-products-varies-throughout-year-noticeable-spikes-major-holidays-gift-q244638261" target="_blank" rel="noopener noreferrer nofollow">https://www.chegg.com/homework-help/questions-and-answers/consumer-demand-lego-products-varies-throughout-year-noticeable-spikes-major-holidays-gift-q244638261</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: jaysbrickblog.com  
-   Link: <a href="https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/</a>  
+   Link:<a href="https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/legos-first-half-of-2023-financial-performance-slows-down-but-outperforms-declining-toy-industry/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/rachael-brown-520430156_lego-2024-annual-report-showcases-manufacturing-activity-7305958350565920768-kezH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rachael-brown-520430156_lego-2024-annual-report-showcases-manufacturing-activity-7305958350565920768-kezH</a>  
+   Link:<a href="https://www.linkedin.com/posts/rachael-brown-520430156_lego-2024-annual-report-showcases-manufacturing-activity-7305958350565920768-kezH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rachael-brown-520430156_lego-2024-annual-report-showcases-manufacturing-activity-7305958350565920768-kezH</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ</a>  
+   Link:<a href="https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/andreas-friis-5b176187_2025-annual-results-announcement-activity-7437079754089922560--hDQ</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: jaysbrickblog.com  
-   Link: <a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
+   Link:<a href="https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/" target="_blank" rel="noopener noreferrer nofollow">https://jaysbrickblog.com/news/the-lego-group-posts-stellar-2024-financial-results-with-record-revenue-and-profits/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: bricksup.co.uk  
-   Link: <a href="https://www.bricksup.co.uk/post/the-lego-group-reports-record-growth-in-2025-with-strong-sales-expanding-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.bricksup.co.uk/post/the-lego-group-reports-record-growth-in-2025-with-strong-sales-expanding-portfolio</a>  
+   Link:<a href="https://www.bricksup.co.uk/post/the-lego-group-reports-record-growth-in-2025-with-strong-sales-expanding-portfolio" target="_blank" rel="noopener noreferrer nofollow">https://www.bricksup.co.uk/post/the-lego-group-reports-record-growth-in-2025-with-strong-sales-expanding-portfolio</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
    Title: its here the official harry potter lego annual yearbook 2024 is now in bookxcess  
-   Link: <a href="https://www.facebook.com/BookXcess/videos/its-here-the-official-harry-potter-lego-annual-yearbook-2024-is-now-in-bookxcess/1656854451816382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BookXcess/videos/its-here-the-official-harry-potter-lego-annual-yearbook-2024-is-now-in-bookxcess/1656854451816382/</a>
+   Link:<a href="https://www.facebook.com/BookXcess/videos/its-here-the-official-harry-potter-lego-annual-yearbook-2024-is-now-in-bookxcess/1656854451816382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BookXcess/videos/its-here-the-official-harry-potter-lego-annual-yearbook-2024-is-now-in-bookxcess/1656854451816382/</a>

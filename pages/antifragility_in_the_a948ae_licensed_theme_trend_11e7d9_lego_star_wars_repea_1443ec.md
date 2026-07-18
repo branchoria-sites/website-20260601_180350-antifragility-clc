@@ -274,22 +274,22 @@ image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_le
 
 ## Introduction
 
-LEGO Star Wars is one of the clearest examples of a licensed product line becoming antifragile rather than fragile. Most entertainment tie-ins depend on a single film launch or short marketing cycle. LEGO Star Wars has instead turned anniversaries, re-releases, streaming shows, collector nostalgia and fan rituals into a recurring demand engine that renews itself every few years. What began in 1999 as a tie-in to *The Phantom Menace* evolved into a product ecosystem that can sell to children discovering Star Wars for the first time and adults rebuilding memories from decades earlier. The result is a [licensing]({{ 'licensing/' | relative_url }}) model that gains new opportunities whenever the franchise accumulates more history. Rather than being exhausted by age, LEGO Star Wars often becomes more commercially useful as anniversaries multiply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-title">the story behind the 1999 launch of lego star wars feature</span><span class="citation-popover-snippet">The Brothers BrickThe story behind the 1999 launch of LEGO Star Wars...April 9, 2019 — 9 Apr 2019 — Where were you when the LEGO Star Wa...</span><span class="citation-popover-meta">Published: April 9, 2019</span></span></span>
+LEGO Star Wars is one of the clearest examples of a licensed product line becoming antifragile rather than fragile. Most entertainment tie-ins depend on a single film launch or short marketing cycle. LEGO Star Wars has instead turned anniversaries, re-releases, streaming shows, collector nostalgia and fan rituals into a recurring demand engine that renews itself every few years. What began in 1999 as a tie-in to *The Phantom Menace* evolved into a product ecosystem that can sell to children discovering Star Wars for the first time and adults rebuilding memories from decades earlier. The result is a [licensing]({{ 'licensing/' | relative_url }}) model that gains new opportunities whenever the franchise accumulates more history. Rather than being exhausted by age, LEGO Star Wars often becomes more commercially useful as anniversaries multiply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-title">the story behind the 1999 launch of lego star wars feature</span><span class="citation-popover-snippet">The Brothers BrickThe story behind the 1999 launch of LEGO Star Wars...April 9, 2019 — 9 Apr 2019 — Where were you when the LEGO Star Wa...</span><span class="citation-popover-meta">Published: April 9, 2019</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-1-dark.svg" | relative_url }}" alt="Star Wars illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From one tie-in to a recurring product calendar
 
-The original LEGO Star Wars launch arrived alongside the theatrical release of *The Phantom Menace* in 1999. At that moment, the partnership looked like a conventional licensed toy arrangement: a film arrives, products appear, and demand follows the entertainment release. Yet Star Wars possessed something unusual. Its audience was already spread across generations, and every new film added another layer of nostalgia rather than replacing the previous one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-title">the story behind the 1999 launch of lego star wars feature</span><span class="citation-popover-snippet">The Brothers BrickThe story behind the 1999 launch of LEGO Star Wars...April 9, 2019 — 9 Apr 2019 — Where were you when the LEGO Star Wa...</span><span class="citation-popover-meta">Published: April 9, 2019</span></span></span>
+The original LEGO Star Wars launch arrived alongside the theatrical release of *The Phantom Menace* in 1999. At that moment, the partnership looked like a conventional licensed toy arrangement: a film arrives, products appear, and demand follows the entertainment release. Yet Star Wars possessed something unusual. Its audience was already spread across generations, and every new film added another layer of nostalgia rather than replacing the previous one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brothers-brick.com">[The Brothers Brick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brothers-brick.com</span><span class="citation-popover-title">the story behind the 1999 launch of lego star wars feature</span><span class="citation-popover-snippet">The Brothers BrickThe story behind the 1999 launch of LEGO Star Wars...April 9, 2019 — 9 Apr 2019 — Where were you when the LEGO Star Wa...</span><span class="citation-popover-meta">Published: April 9, 2019</span></span></span>
 
 Over time, LEGO learned that Star Wars could support a repeating calendar rather than a single launch cycle. Several recurring moments now generate predictable waves of attention:
 
 * New films and television series.
 * Annual May the 4th promotions.
-* Franchise anniversaries such as *The Phantom Menace* turning 25. <span class="citation-chip-wrap"><a class="citation-chip" href="https://manchesterreporter.co.uk/lego-star-wars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manchesterreporter.co.uk">[lego star wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manchesterreporter.co.uk</span><span class="citation-popover-snippet">Guide to Sets, Games, Minifigures and...21 May 2026 — Discover everything about LEGO Star Wars including iconic sets, games, minifigures...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> rs partnership anniversaries. * Collector-focused Ultimate Collector Series (UCS) releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[gamesradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">Retailing for $199.99/£179.99, this intricate 18+ build closely represents the AT-ST from Return of the Jedi, featuring sturdy constructi...</span></span></span> * Fan conventions and Star Wars Celebration events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
+* Franchise anniversaries such as *The Phantom Menace* turning 25.<span class="citation-chip-wrap"><a class="citation-chip" href="https://manchesterreporter.co.uk/lego-star-wars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manchesterreporter.co.uk">[lego star wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manchesterreporter.co.uk</span><span class="citation-popover-snippet">Guide to Sets, Games, Minifigures and...21 May 2026 — Discover everything about LEGO Star Wars including iconic sets, games, minifigures...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> rs partnership anniversaries. * Collector-focused Ultimate Collector Series (UCS) releases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[gamesradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">Retailing for $199.99/£179.99, this intricate 18+ build closely represents the AT-ST from Return of the Jedi, featuring sturdy constructi...</span></span></span> * Fan conventions and Star Wars Celebration events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
 
 Because these events arrive at different times and appeal to different audiences, demand does not depend on a single cultural moment. A child might enter through a Disney+ series, while an adult collector returns because a favourite vehicle from 1983 or 1999 receives a new edition. The same intellectual property keeps producing fresh reasons to buy.
 
-The LEGO Group increasingly treats these milestones as programmed retail events. Its 2024 celebration of 25 years of LEGO Star Wars included new product launches, livestreams, store activities, collectible gifts-with-purchase, designer appearances, a travelling brick-built R2-D2 display, a film festival and a coffee-table book. The anniversary became a multi-format commercial season rather than a commemorative message. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
+The LEGO Group increasingly treats these milestones as programmed retail events. Its 2024 celebration of 25 years of LEGO Star Wars included new product launches, livestreams, store activities, collectible gifts-with-purchase, designer appearances, a travelling brick-built R2-D2 display, a film festival and a coffee-table book. The anniversary became a multi-format commercial season rather than a commemorative message.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jTf_RJWHehs" title="How LEGO became so successful" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jTf_RJWHehs" target="_blank" rel="noopener noreferrer">How LEGO became so successful</a></p><p class="youtube-embed-meta">Channel: Jeff Tilley &middot; Views: 1.2K &middot; Uploaded: December 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jTf_RJWHehs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jTf_RJWHehs">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +299,7 @@ Most consumer products lose momentum as they age. LEGO Star Wars often does the 
 
 A key mechanism is selective remaking. A starfighter, droid or capital ship that appeared twenty years ago can return with improved building techniques, more accurate proportions and a different target audience. The object is familiar enough to trigger recognition but new enough to justify another purchase.
 
-The Ultimate Collector Series demonstrates this especially well. Large display models frequently revisit iconic vehicles that already existed in earlier LEGO form. Fans who bought an earlier version may still want the newer one because it offers higher detail, greater scale or stronger [display value]({{ 'display-value/' | relative_url }}). Instead of competing with the old set, the new set benefits from the history of the old set. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[GamesRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">Retailing for $199.99/£179.99, this intricate 18+ build closely represents the AT-ST from Return of the Jedi, featuring sturdy constructi...</span></span></span>
+The Ultimate Collector Series demonstrates this especially well. Large display models frequently revisit iconic vehicles that already existed in earlier LEGO form. Fans who bought an earlier version may still want the newer one because it offers higher detail, greater scale or stronger [display value]({{ 'display-value/' | relative_url }}). Instead of competing with the old set, the new set benefits from the history of the old set.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamesradar.com">[GamesRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamesradar.com</span><span class="citation-popover-snippet">Retailing for $199.99/£179.99, this intricate 18+ build closely represents the AT-ST from Return of the Jedi, featuring sturdy constructi...</span></span></span>
 
 This dynamic turns the passage of time into a commercial asset:
 
@@ -320,7 +320,7 @@ In antifragility terms, the growing [complexity]({{ 'complexity/' | relative_url
 
 The durability of LEGO Star Wars comes from its ability to sell different versions of the same franchise to different audiences simultaneously.
 
-The 2024 anniversary range illustrates this clearly. LEGO released premium 18+ display models such as the TIE Interceptor and Mos Espa Podrace Diorama, mid-range play sets such as Darth Maul's Sith Infiltrator, smaller children's products and lower-cost BrickHeadz figures. All were connected to the same anniversary narrative but aimed at different spending levels and motivations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
+The 2024 anniversary range illustrates this clearly. LEGO released premium 18+ display models such as the TIE Interceptor and Mos Espa Podrace Diorama, mid-range play sets such as Darth Maul's Sith Infiltrator, smaller children's products and lower-cost BrickHeadz figures. All were connected to the same anniversary narrative but aimed at different spending levels and motivations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
 
 This segmentation matters because anniversaries do not mean the same thing to every customer.
 
@@ -335,36 +335,36 @@ A child buying a clone trooper battle pack is not necessarily participating in a
 
 Adults experience anniversaries differently. They remember specific films, games and previous LEGO releases. Anniversary branding signals that LEGO is recognising those memories.
 
-The 2024 programme leaned heavily on this approach through commemorative minifigures, anniversary-printed bricks, retrospective content and references to earlier eras of the theme. The celebration was not only about Star Wars itself; it was also about twenty-five years of LEGO Star Wars memories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Celebrating 25 Years of LEGO® Star WarsSee the story behind our collectible 25th Anniversary Edition LEGO® Star Wars™ sets and join u...</span></span></span>
+The 2024 programme leaned heavily on this approach through commemorative minifigures, anniversary-printed bricks, retrospective content and references to earlier eras of the theme. The celebration was not only about Star Wars itself; it was also about twenty-five years of LEGO Star Wars memories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Celebrating 25 Years of LEGO® Star WarsSee the story behind our collectible 25th Anniversary Edition LEGO® Star Wars™ sets and join u...</span></span></span>
 
 ### Collectors buy scarcity and completion
 
 Collectors respond to limited-time opportunities. Gifts-with-purchase, exclusive minifigures, special [packaging]({{ 'packaging/' | relative_url }}) and anniversary markers encourage purchases during a specific window.
 
-May the 4th promotions are especially effective because they combine fandom identity with retail urgency. Fans know that certain bonuses or exclusive items may disappear once the event ends. The annual ritual becomes a predictable demand spike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
+May the 4th promotions are especially effective because they combine fandom identity with retail urgency. Fans know that certain bonuses or exclusive items may disappear once the event ends. The annual ritual becomes a predictable demand spike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
 
 ## The 25th anniversary shows how LEGO expands the event beyond toys
 
 One reason LEGO Star Wars remains resilient is that anniversaries no longer depend solely on new sets.
 
-The 25th anniversary campaign stretched across multiple formats: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
+The 25th anniversary campaign stretched across multiple formats:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Star Wars 25th Anniversary</span><span class="citation-popover-snippet">Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Physical building sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
+* Physical building sets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
 * Store experiences.
 * Designer meet-and-greets.
 * Fan film competitions.
 * Livestream reveals.
 * Collectible publications.
 * Digital integrations.
-* Promotional rewards. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Highlighting the event is the release of new Star Wars sets themed around *The Mandalorian and Grogu*, coinciding with the upcoming movie...</span></span></span>
+* Promotional rewards. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Highlighting the event is the release of new Star Wars sets themed around *The Mandalorian and Grogu*, coinciding with the upcoming movie...</span></span></span>
 
 </div>
 
 This broad approach reduces dependence on any single product launch. A fan who does not buy a large collector model may still engage through a smaller set, an event, a video, a contest or a digital experience.
 
-The LEGO Group even linked the anniversary to other parts of its business. The company announced LEGO Star Wars content arriving in LEGO Fortnite during the celebration period, connecting one successful licensed ecosystem to another. The anniversary therefore became a platform for cross-promotion rather than merely a retrospective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
+The LEGO Group even linked the anniversary to other parts of its business. The company announced LEGO Star Wars content arriving in LEGO Fortnite during the celebration period, connecting one successful licensed ecosystem to another. The anniversary therefore became a platform for cross-promotion rather than merely a retrospective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ThnjiYOT5uU" title="EVEN MORE LEGO STAR WARS 2024 INFO! (May 4th Promo, 25th Anniversary Set, &amp; Piece Counts)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ThnjiYOT5uU" target="_blank" rel="noopener noreferrer">EVEN MORE LEGO STAR WARS 2024 INFO! (May 4th Promo, 25th Anniversary Set, &amp; Piece Counts)</a></p><p class="youtube-embed-meta">Channel: MandRproductions &middot; Views: 97.7K &middot; Uploaded: January 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ThnjiYOT5uU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ThnjiYOT5uU">Open on YouTube</a></p></div></div></div>
 
@@ -372,7 +372,7 @@ The LEGO Group even linked the anniversary to other parts of its business. The c
 
 A common problem with licensed products is exhaustion. Consumers eventually feel they have seen everything before. LEGO Star Wars has often escaped this trap because Star Wars continuously generates new layers of material while preserving older favourites.
 
-The same anniversary year can celebrate: <span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbrains.com/2024/01/celebrate-25-years-of-lego-star-wars-all-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbrains.com">[brickbrains.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbrains.com</span><span class="citation-popover-title">celebrate 25 years of lego star wars all year</span><span class="citation-popover-snippet">!30 Jan 2024 — Get ready to blast off into an epic year because 2024 is not just any year – it&#x27;s the 25th anniversary of the LEGO Star Wa...</span></span></span>
+The same anniversary year can celebrate:<span class="citation-chip-wrap"><a class="citation-chip" href="https://brickbrains.com/2024/01/celebrate-25-years-of-lego-star-wars-all-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brickbrains.com">[brickbrains.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brickbrains.com</span><span class="citation-popover-title">celebrate 25 years of lego star wars all year</span><span class="citation-popover-snippet">!30 Jan 2024 — Get ready to blast off into an epic year because 2024 is not just any year – it&#x27;s the 25th anniversary of the LEGO Star Wa...</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -380,14 +380,14 @@ The same anniversary year can celebrate: <span class="citation-chip-wrap"><a cla
 * The prequel trilogy.
 * Animated series.
 * Modern streaming shows.
-* Earlier LEGO sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
+* Earlier LEGO sets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[lego.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">® Star Wars™ 25 Anniversary</span><span class="citation-popover-snippet">About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</span></span></span>
 * New collector releases.
 
 </div>
 
-This allows LEGO to target several nostalgia cycles at once. A fan who grew up with *The Phantom Menace* now occupies a different life stage from someone who discovered Star Wars through *The Clone Wars* or *The Mandalorian*, yet all can be reached through the same product line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Celebrating 25 Years of LEGO® Star WarsSee the story behind our collectible 25th Anniversary Edition LEGO® Star Wars™ sets and join u...</span></span></span>
+This allows LEGO to target several nostalgia cycles at once. A fan who grew up with *The Phantom Menace* now occupies a different life stage from someone who discovered Star Wars through *The Clone Wars* or *The Mandalorian*, yet all can be reached through the same product line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Celebrating 25 Years of LEGO® Star WarsSee the story behind our collectible 25th Anniversary Edition LEGO® Star Wars™ sets and join u...</span></span></span>
 
-Recent releases continue to show this pattern. New collector-oriented products such as large UCS models draw on decades-old source material, while newer sets connect to contemporary Star Wars stories. The catalogue therefore stretches across multiple generations of fandom simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Here is Lego&#x27;s $1,000 Death Star, the most expensive Lego set ever</span><span class="citation-popover-snippet">Standing nearly two feet tall and featuring over six different levels, the set offers a highly detailed cross-section diorama of the icon...</span></span></span>
+Recent releases continue to show this pattern. New collector-oriented products such as large UCS models draw on decades-old source material, while newer sets connect to contemporary Star Wars stories. The catalogue therefore stretches across multiple generations of fandom simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Here is Lego&#x27;s $1,000 Death Star, the most expensive Lego set ever</span><span class="citation-popover-snippet">Standing nearly two feet tall and featuring over six different levels, the set offers a highly detailed cross-section diorama of the icon...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-3-dark.svg" | relative_url }}" alt="Star Wars illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 25th anniversary reveals about licensing resilience
@@ -396,197 +396,197 @@ The 25th anniversary celebration revealed that LEGO Star Wars is no longer a lic
 
 That distinction matters for understanding LEGO's antifragility. A fragile licensing strategy would depend on predicting the success of the next film. LEGO Star Wars increasingly depends on accumulated history instead. Every additional year creates more scenes to revisit, more collectors to serve, more anniversaries to celebrate and more opportunities to redesign familiar vehicles.
 
-The partnership's longevity has effectively transformed age into an advantage. The passage of time does not merely preserve demand; it creates new forms of it. By turning anniversaries into recurring commercial events, LEGO converts the growing complexity of the Star Wars franchise into repeated reasons for fans to return, rebuild and buy again. LEGO <span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/lego-celebrates-25-years-of-star-wars-collaboration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[2toyworldmag.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-title">lego celebrates 25 years of star wars collaboration</span><span class="citation-popover-snippet">31 Jan 2024 — The Lego Star Wars collaboration has enjoyed a most impressive 25 years with products, video games, animated content, big b...</span></span></span>
+The partnership's longevity has effectively transformed age into an advantage. The passage of time does not merely preserve demand; it creates new forms of it. By turning anniversaries into recurring commercial events, LEGO converts the growing complexity of the Star Wars franchise into repeated reasons for fans to return, rebuild and buy again. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://toyworldmag.co.uk/lego-celebrates-25-years-of-star-wars-collaboration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toyworldmag.co.uk">[2toyworldmag.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toyworldmag.co.uk</span><span class="citation-popover-title">lego celebrates 25 years of star wars collaboration</span><span class="citation-popover-snippet">31 Jan 2024 — The Lego Star Wars collaboration has enjoyed a most impressive 25 years with products, video games, animated content, big b...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why LEGO Star Wars keeps coming back. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why LEGO Star Wars keeps coming back. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how LEGO turned partnerships into durable growth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how LEGO turned partnerships into durable growth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lego on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13106014-M.jpg" alt="Cover for Lego" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lego">Lego</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for LEGO&#x27;s long-term licensing strategy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for LEGO&#x27;s long-term licensing strategy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars+Michael+Kaminski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of Star Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10351901-M.jpg" alt="Cover for The Secret History of Star Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars+Michael+Kaminski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of Star Wars">The Secret History of Star Wars</a>
-        </h4>
-        <p class="fr-book-author">By Michael Kaminski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars+Michael+Kaminski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of Star Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10351901-M.jpg" alt="Cover for The Secret History of Star Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars+Michael+Kaminski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of Star Wars">The Secret History of Star Wars</a>
+</h4>
+<p class="fr-book-author">By Michael Kaminski</p>
         
-        <p class="fr-book-desc">First published 2008.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars+Michael+Kaminski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars+Michael+Kaminski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Star+Wars+and+History+Nancy+Reagin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Star Wars and History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15143988-M.jpg" alt="Cover for Star Wars and History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Star+Wars+and+History+Nancy+Reagin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Star Wars and History">Star Wars and History</a>
-        </h4>
-        <p class="fr-book-author">By Nancy Reagin, Janice Liedl et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Star+Wars+and+History+Nancy+Reagin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Star Wars and History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15143988-M.jpg" alt="Cover for Star Wars and History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Star+Wars+and+History+Nancy+Reagin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Star Wars and History">Star Wars and History</a>
+</h4>
+<p class="fr-book-author">By Nancy Reagin, Janice Liedl et al.</p>
         
-        <p class="fr-book-desc">First published 2012.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Star+Wars+and+History+Nancy+Reagin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Star+Wars+and+History+Nancy+Reagin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret History of Star Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lego&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lego</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+History+of+Star+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret History of Star Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars Luke&#x27;s Landspeeder 8092 Complete Set, Boxed with instructions."><img src="https://i.ebayimg.com/images/g/pwAAAeSw6LhqKqsM/s-l225.jpg" alt="Listing image for LEGO Star Wars Luke&#x27;s Landspeeder 8092 Complete Set, Boxed with instructions." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars Luke&#x27;s Landspeeder 8092 Complete Set, Boxed with instructions.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars Luke&#x27;s Landspeeder 8092 Complete Set, Boxed with instructions."><img src="https://i.ebayimg.com/images/g/pwAAAeSw6LhqKqsM/s-l225.jpg" alt="Listing image for LEGO Star Wars Luke&#x27;s Landspeeder 8092 Complete Set, Boxed with instructions." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars Luke&#x27;s Landspeeder 8092 Complete Set, Boxed with instructions.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Star Wars 75152 Imperial Assault Hovertank Set"><img src="https://i.ebayimg.com/images/g/xegAAeSwrmVqKwG-/s-l225.jpg" alt="Listing image for Lego Star Wars 75152 Imperial Assault Hovertank Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">Lego Star Wars 75152 Imperial Assault Hovertank Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Star Wars 75152 Imperial Assault Hovertank Set"><img src="https://i.ebayimg.com/images/g/xegAAeSwrmVqKwG-/s-l225.jpg" alt="Listing image for Lego Star Wars 75152 Imperial Assault Hovertank Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">Lego Star Wars 75152 Imperial Assault Hovertank Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars 75342 Republic Fighter Tank – Retired – New Sealed"><img src="https://i.ebayimg.com/images/g/F6AAAeSwbdxqKbAm/s-l225.jpg" alt="Listing image for LEGO Star Wars 75342 Republic Fighter Tank – Retired – New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars 75342 Republic Fighter Tank – Retired – New Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars 75342 Republic Fighter Tank – Retired – New Sealed"><img src="https://i.ebayimg.com/images/g/F6AAAeSwbdxqKbAm/s-l225.jpg" alt="Listing image for LEGO Star Wars 75342 Republic Fighter Tank – Retired – New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars 75342 Republic Fighter Tank – Retired – New Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars 75399 Rebel U-Wing Starfighter 594pcs Set w/ Minifigures"><img src="https://i.ebayimg.com/images/g/acQAAeSw9AZqKwPd/s-l225.jpg" alt="Listing image for LEGO Star Wars 75399 Rebel U-Wing Starfighter 594pcs Set w/ Minifigures" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars 75399 Rebel U-Wing Starfighter 594pcs Set w/ Minifigures</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Star Wars 75399 Rebel U-Wing Starfighter 594pcs Set w/ Minifigures"><img src="https://i.ebayimg.com/images/g/acQAAeSw9AZqKwPd/s-l225.jpg" alt="Listing image for LEGO Star Wars 75399 Rebel U-Wing Starfighter 594pcs Set w/ Minifigures" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Star Wars 75399 Rebel U-Wing Starfighter 594pcs Set w/ Minifigures</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Star Wars set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Star Wars set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Star+Wars+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-star-wars-keeps-coming-back-lego-star-wars-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Star Wars set" data-ebay-reference="why-lego-star-wars-keeps-coming-back-lego-star-wars-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ The partnership's longevity has effectively transformed age into an advantage. T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ The partnership's longevity has effectively transformed age into an advantage. T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ The partnership's longevity has effectively transformed age into an advantage. T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ The partnership's longevity has effectively transformed age into an advantage. T
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ The partnership's longevity has effectively transformed age into an advantage. T
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,155 +792,155 @@ The partnership's longevity has effectively transformed age into an advantage. T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: brothers-brick.com  
    Title: the story behind the 1999 launch of lego star wars feature  
-   Link: <a href="https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickThe story behind the 1999 launch of LEGO Star Wars...April 9, 2019 — 9 Apr 2019 — Where were you when the LEGO Star Wa...</p></details>
+   Link:<a href="https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brothers BrickThe story behind the 1999 launch of LEGO Star Wars...April 9, 2019 — 9 Apr 2019 — Where were you when the LEGO Star Wa...</p></details>
    Published: April 9, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: Star Wars 25th Anniversary  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/april/star-wars-25th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star Wars 25th Anniversary - About Us15 Apr 2024 — The LEGO Group and Lucasfilm continue to celebrate 25 years of the LEGO® Star Wars...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lego.com  
    Title: ® Star Wars™ 25 Anniversary  
-   Link: <a href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</p></details>
+   Link:<a href="https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-us/aboutus/news/2024/january/lego-star-wars-25-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us29 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a selection of 25th annive...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: toyworldmag.co.uk  
    Title: lego celebrates 25 years of star wars collaboration  
-   Link: <a href="https://toyworldmag.co.uk/lego-celebrates-25-years-of-star-wars-collaboration/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/lego-celebrates-25-years-of-star-wars-collaboration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jan 2024 — The Lego Star Wars collaboration has enjoyed a most impressive 25 years with products, video games, animated content, big b...</p></details>
+   Link:<a href="https://toyworldmag.co.uk/lego-celebrates-25-years-of-star-wars-collaboration/" target="_blank" rel="noopener noreferrer nofollow">https://toyworldmag.co.uk/lego-celebrates-25-years-of-star-wars-collaboration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jan 2024 — The Lego Star Wars collaboration has enjoyed a most impressive 25 years with products, video games, animated content, big b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gamesradar.com  
-   Link: <a href="https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retailing for $199.99/£179.99, this intricate 18+ build closely represents the AT-ST from Return of the Jedi, featuring sturdy constructi...</p></details>
+   Link:<a href="https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/toys-collectibles/lego-star-wars-at-st-walker-75417-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retailing for $199.99/£179.99, this intricate 18+ build closely represents the AT-ST from Return of the Jedi, featuring sturdy constructi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 25 Years of LEGO® Star WarsSee the story behind our collectible 25th Anniversary Edition LEGO® Star Wars™ sets and join u...</p></details>
+   Link:<a href="https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/en-gb/themes/star-wars/lego-star-wars-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 25 Years of LEGO® Star WarsSee the story behind our collectible 25th Anniversary Edition LEGO® Star Wars™ sets and join u...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: brothers-brick.com  
    Title: sets celebrating 25 years of lego star wars announced news  
-   Link: <a href="https://www.brothers-brick.com/2024/01/30/sets-celebrating-25-years-of-lego-star-wars-announced-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2024/01/30/sets-celebrating-25-years-of-lego-star-wars-announced-news/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sets celebrating 25 years of LEGO Star Wars announced [...30 Jan 2024 — The new LEGO Star Wars 25th anniversary sets are available for p...</p></details>
+   Link:<a href="https://www.brothers-brick.com/2024/01/30/sets-celebrating-25-years-of-lego-star-wars-announced-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.brothers-brick.com/2024/01/30/sets-celebrating-25-years-of-lego-star-wars-announced-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sets celebrating 25 years of LEGO Star Wars announced [...30 Jan 2024 — The new LEGO Star Wars 25th anniversary sets are available for p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How LEGO became so successful  
-   Link: <a href="https://www.youtube.com/watch?v=jTf_RJWHehs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jTf_RJWHehs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars business strategy history LEGO&#x27;s Genius Business Model Finance Bureau...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jTf_RJWHehs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jTf_RJWHehs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars business strategy history LEGO&#x27;s Genius Business Model Finance Bureau...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gooddata.ai  
    Title: lego star wars 25 year celebration  
-   Link: <a href="https://www.gooddata.ai/blog/lego-star-wars-25-year-celebration/" target="_blank" rel="noopener noreferrer nofollow">https://www.gooddata.ai/blog/lego-star-wars-25-year-celebration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate 25 Years of LEGO® Star Wars™!3 May 2024 — LEGO® Star Wars began with 8 sets focused on Episode I and has since expanded to incl...</p></details>
+   Link:<a href="https://www.gooddata.ai/blog/lego-star-wars-25-year-celebration/" target="_blank" rel="noopener noreferrer nofollow">https://www.gooddata.ai/blog/lego-star-wars-25-year-celebration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate 25 Years of LEGO® Star Wars™!3 May 2024 — LEGO® Star Wars began with 8 sets focused on Episode I and has since expanded to incl...</p></details>
    Published: May 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theverge.com  
    Title: The Verge Here is Lego's $1,000 Death Star, the most expensive Lego set ever  
-   Link: <a href="https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Standing nearly two feet tall and featuring over six different levels, the set offers a highly detailed cross-section diorama of the icon...</p></details>
+   Link:<a href="https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Standing nearly two feet tall and featuring over six different levels, the set offers a highly detailed cross-section diorama of the icon...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: starwars.com  
    Title: lego star wars 25 years short  
-   Link: <a href="https://www.starwars.com/news/lego-star-wars-25-years-short" target="_blank" rel="noopener noreferrer nofollow">https://www.starwars.com/news/lego-star-wars-25-years-short</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars Celebrates 25 Years with Charming New...30 Apr 2024 — In celebration of its landmark anniversary, the LEGO Group and Luca...</p></details>
+   Link:<a href="https://www.starwars.com/news/lego-star-wars-25-years-short" target="_blank" rel="noopener noreferrer nofollow">https://www.starwars.com/news/lego-star-wars-25-years-short</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars Celebrates 25 Years with Charming New...30 Apr 2024 — In celebration of its landmark anniversary, the LEGO Group and Luca...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brickfanatics.com  
    Title: lego star wars celebration 2025 designer  
-   Link: <a href="https://www.brickfanatics.com/lego-star-wars-celebration-2025-designer" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-star-wars-celebration-2025-designer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars Celebration 2025 plans include designer...13 Apr 2025 — More LEGO Star Wars plans have been confirmed for Star Wars Celeb...</p></details>
+   Link:<a href="https://www.brickfanatics.com/lego-star-wars-celebration-2025-designer" target="_blank" rel="noopener noreferrer nofollow">https://www.brickfanatics.com/lego-star-wars-celebration-2025-designer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Star Wars Celebration 2025 plans include designer...13 Apr 2025 — More LEGO Star Wars plans have been confirmed for Star Wars Celeb...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: #LEGOStar Wars #Star Wars.Read more  
-   Link: <a href="https://www.facebook.com/brickset/posts/how-did-lego-settle-on-this-format-for-the-new-death-star-find-out-the-answer-to/1184379073727257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brickset/posts/how-did-lego-settle-on-this-format-for-the-new-death-star-find-out-the-answer-to/1184379073727257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with César Soares, designer of 75419 Death StarFind out the answer to this and many other questions in our interview with César...</p></details>
+   Link:<a href="https://www.facebook.com/brickset/posts/how-did-lego-settle-on-this-format-for-the-new-death-star-find-out-the-answer-to/1184379073727257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brickset/posts/how-did-lego-settle-on-this-format-for-the-new-death-star-find-out-the-answer-to/1184379073727257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with César Soares, designer of 75419 Death StarFind out the answer to this and many other questions in our interview with César...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ramblingbrick.com  
    Title: lego star wars 25th  
-   Link: <a href="https://ramblingbrick.com/2024/01/30/lego-star-wars-25th/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2024/01/30/lego-star-wars-25th/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anniversary Celebrations kick off30 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a...</p></details>
+   Link:<a href="https://ramblingbrick.com/2024/01/30/lego-star-wars-25th/" target="_blank" rel="noopener noreferrer nofollow">https://ramblingbrick.com/2024/01/30/lego-star-wars-25th/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anniversary Celebrations kick off30 Jan 2024 — The LEGO Star Wars collaboration marks its 25-year milestone at the Spielwarenmesse with a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: manchesterreporter.co.uk  
    Title: lego star wars  
-   Link: <a href="https://manchesterreporter.co.uk/lego-star-wars/" target="_blank" rel="noopener noreferrer nofollow">https://manchesterreporter.co.uk/lego-star-wars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Sets, Games, Minifigures and...21 May 2026 — Discover everything about LEGO Star Wars including iconic sets, games, minifigures...</p></details>
+   Link:<a href="https://manchesterreporter.co.uk/lego-star-wars/" target="_blank" rel="noopener noreferrer nofollow">https://manchesterreporter.co.uk/lego-star-wars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Sets, Games, Minifigures and...21 May 2026 — Discover everything about LEGO Star Wars including iconic sets, games, minifigures...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newelementary.com  
    Title: lego star wars gifts with purchase may  
-   Link: <a href="https://www.newelementary.com/2024/04/lego-star-wars-gifts-with-purchase-may.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newelementary.com/2024/04/lego-star-wars-gifts-with-purchase-may.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Star Wars™ Gifts with Purchase: May the 4th 202430 Apr 2024 — A battalion of new sets are available from midnight Wednesday 1 May 2...</p></details>
+   Link:<a href="https://www.newelementary.com/2024/04/lego-star-wars-gifts-with-purchase-may.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newelementary.com/2024/04/lego-star-wars-gifts-with-purchase-may.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® Star Wars™ Gifts with Purchase: May the 4th 202430 Apr 2024 — A battalion of new sets are available from midnight Wednesday 1 May 2...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bricksworld.com  
-   Link: <a href="https://www.bricksworld.com/blogs/news/what%27s-trending-celebrating-25-years-of-lego%C2%AE-star-wars%E2%84%A2?srsltid=AfmBOorOgkZQafvk5PzFl41Oa-jMb4lh_F1NZkt0y8anE_run47VRyNg" target="_blank" rel="noopener noreferrer nofollow">https://www.bricksworld.com/blogs/news/what%27s-trending-celebrating-25-years-of-lego%C2%AE-star-wars%E2%84%A2?srsltid=AfmBOorOgkZQafvk5PzFl41Oa-jMb4lh_F1NZkt0y8anE_run47VRyNg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 25 Years of LEGO® Star WarsThis year marks an incredible milestone as the LEGO Group and Lucasfilm celebrate 25 years of LEGO...</p></details>
+   Link:<a href="https://www.bricksworld.com/blogs/news/what%27s-trending-celebrating-25-years-of-lego%C2%AE-star-wars%E2%84%A2?srsltid=AfmBOorOgkZQafvk5PzFl41Oa-jMb4lh_F1NZkt0y8anE_run47VRyNg" target="_blank" rel="noopener noreferrer nofollow">https://www.bricksworld.com/blogs/news/what%27s-trending-celebrating-25-years-of-lego%C2%AE-star-wars%E2%84%A2?srsltid=AfmBOorOgkZQafvk5PzFl41Oa-jMb4lh_F1NZkt0y8anE_run47VRyNg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 25 Years of LEGO® Star WarsThis year marks an incredible milestone as the LEGO Group and Lucasfilm celebrate 25 years of LEGO...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: starwars.com  
-   Link: <a href="https://www.starwars.com/news/lego-star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.starwars.com/news/lego-star-wars-25th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate 25 Years of the LEGO Star Wars Collaboration...The LEGO Group and Lucasfilm are celebrating 25 years of LEGO Star Wars buildin...</p></details>
+   Link:<a href="https://www.starwars.com/news/lego-star-wars-25th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.starwars.com/news/lego-star-wars-25th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate 25 Years of the LEGO Star Wars Collaboration...The LEGO Group and Lucasfilm are celebrating 25 years of LEGO Star Wars buildin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/streaming/entertainment/exclusive-lego-just-revealed-a-new-star-wars-sandcrawler-set-inspired-by-the-mandalorian" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/streaming/entertainment/exclusive-lego-just-revealed-a-new-star-wars-sandcrawler-set-inspired-by-the-mandalorian</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This exclusive set, now available for preorder for $199.99 / £179.99 / AU$329.99, includes 1,683 pieces. It features a detailed Sandcrawl...</p></details>
+   Link:<a href="https://www.techradar.com/streaming/entertainment/exclusive-lego-just-revealed-a-new-star-wars-sandcrawler-set-inspired-by-the-mandalorian" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/streaming/entertainment/exclusive-lego-just-revealed-a-new-star-wars-sandcrawler-set-inspired-by-the-mandalorian</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This exclusive set, now available for preorder for $199.99 / £179.99 / AU$329.99, includes 1,683 pieces. It features a detailed Sandcrawl...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighting the event is the release of new Star Wars sets themed around *The Mandalorian and Grogu*, coinciding with the upcoming movie...</p></details>
+   Link:<a href="https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighting the event is the release of new Star Wars sets themed around *The Mandalorian and Grogu*, coinciding with the upcoming movie...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nerdist.com  
    Title: celebrate 25 years of lego star wars with millenium falcon r2 d2 tantive iv  
-   Link: <a href="https://nerdist.com/article/celebrate-25-years-of-lego-star-wars-with-millenium-falcon-r2-d2-tantive-iv/" target="_blank" rel="noopener noreferrer nofollow">https://nerdist.com/article/celebrate-25-years-of-lego-star-wars-with-millenium-falcon-r2-d2-tantive-iv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate 25 Years of LEGO STAR WARS With Millennium...1 Apr 2024 — LEGO and Star Wars celebrate 25 years of collaborating with new sets...</p></details>
+   Link:<a href="https://nerdist.com/article/celebrate-25-years-of-lego-star-wars-with-millenium-falcon-r2-d2-tantive-iv/" target="_blank" rel="noopener noreferrer nofollow">https://nerdist.com/article/celebrate-25-years-of-lego-star-wars-with-millenium-falcon-r2-d2-tantive-iv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate 25 Years of LEGO STAR WARS With Millennium...1 Apr 2024 — LEGO and Star Wars celebrate 25 years of collaborating with new sets...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: starwarsnewsnet.com  
    Title: star wars and lego celebrate 25 year collaboration with new sets and more  
-   Link: <a href="https://www.starwarsnewsnet.com/2024/01/star-wars-and-lego-celebrate-25-year-collaboration-with-new-sets-and-more.html" target="_blank" rel="noopener noreferrer nofollow">https://www.starwarsnewsnet.com/2024/01/star-wars-and-lego-celebrate-25-year-collaboration-with-new-sets-and-more.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Star Wars&#x27; and LEGO Celebrate 25-Year Collaboration...31 Jan 2024 — Lucasfilm and LEGO will commemorate 25 years of collaboration with...</p></details>
+   Link:<a href="https://www.starwarsnewsnet.com/2024/01/star-wars-and-lego-celebrate-25-year-collaboration-with-new-sets-and-more.html" target="_blank" rel="noopener noreferrer nofollow">https://www.starwarsnewsnet.com/2024/01/star-wars-and-lego-celebrate-25-year-collaboration-with-new-sets-and-more.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Star Wars&#x27; and LEGO Celebrate 25-Year Collaboration...31 Jan 2024 — Lucasfilm and LEGO will commemorate 25 years of collaboration with...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dIs-rmpwFvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dIs-rmpwFvc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Wars LEGO Collectors Interview with StarWars.com | Star...Star Wars LEGO collectors, Duncan Jenkins and James Burns, talk about the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dIs-rmpwFvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dIs-rmpwFvc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star Wars LEGO Collectors Interview with StarWars.com | Star...Star Wars LEGO collectors, Duncan Jenkins and James Burns, talk about the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY6Nq1LTH1-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY6Nq1LTH1-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon from 2007 and this being the first ever big UCS set...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY6Nq1LTH1-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY6Nq1LTH1-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon from 2007 and this being the first ever big UCS set...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: brickbrains.com  
    Title: celebrate 25 years of lego star wars all year  
-   Link: <a href="https://brickbrains.com/2024/01/celebrate-25-years-of-lego-star-wars-all-year/" target="_blank" rel="noopener noreferrer nofollow">https://brickbrains.com/2024/01/celebrate-25-years-of-lego-star-wars-all-year/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>!30 Jan 2024 — Get ready to blast off into an epic year because 2024 is not just any year – it&#x27;s the 25th anniversary of the LEGO Star Wa...</p></details>
+   Link:<a href="https://brickbrains.com/2024/01/celebrate-25-years-of-lego-star-wars-all-year/" target="_blank" rel="noopener noreferrer nofollow">https://brickbrains.com/2024/01/celebrate-25-years-of-lego-star-wars-all-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>!30 Jan 2024 — Get ready to blast off into an epic year because 2024 is not just any year – it&#x27;s the 25th anniversary of the LEGO Star Wa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: brickset.com  
    Title: star wars 25th anniversary range revealed!  
-   Link: <a href="https://brickset.com/article/105767/star-wars-25th-anniversary-range-revealed%21" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/105767/star-wars-25th-anniversary-range-revealed%21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jan 2024 — The new LEGO Star Wars 25 th anniversary sets are available for pre-order now via www.LEGO.com/star-wars and otherwise avai...</p></details>
+   Link:<a href="https://brickset.com/article/105767/star-wars-25th-anniversary-range-revealed%21" target="_blank" rel="noopener noreferrer nofollow">https://brickset.com/article/105767/star-wars-25th-anniversary-range-revealed%21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jan 2024 — The new LEGO Star Wars 25 th anniversary sets are available for pre-order now via www.LEGO.com/star-wars and otherwise avai...</p></details>

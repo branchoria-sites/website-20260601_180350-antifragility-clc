@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-physical/
 description: Focused pages that expand on Digital Play.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_physical_digital_pla_5f0dee
 parent_title: Digital Play
@@ -16,7 +16,7 @@ parent_permalink: /digital-play/
 
 # Explore Topics in Digital Play
 
-The following pages expand on the main **[Digital Play]({{ '/digital-play/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Digital Play]({{ '/digital-play/' | relative_url }})** page and cover its key branches in.
 
 - [Fortnite]({{ '/fortnite/' | relative_url }})
 - [Hidden Side]({{ '/hidden-side/' | relative_url }})

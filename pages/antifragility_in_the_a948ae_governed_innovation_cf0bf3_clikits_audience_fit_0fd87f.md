@@ -268,7 +268,7 @@ image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_cli
 
 ## Introduction
 
-LEGO’s Clikits line became an important lesson in why audience expansion alone could not guarantee durable growth. Introduced in the early 2000s, Clikits was designed to attract more girls to the LEGO brand through jewellery, accessories and craft-oriented play. The commercial logic seemed reasonable: girls represented a large share of the toy market, while LEGO remained heavily associated with boys and construction toys. Yet Clikits eventually became one of the company’s most cited examples of a growth initiative that struggled despite years of [investment]({{ 'investment/' | relative_url }}) and marketing effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-snippet">Campaign LiveANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Girls account for only 10% of its audience but about 45% of the ov...</span></span></span>
+LEGO’s Clikits line became an important lesson in why audience expansion alone could not guarantee durable growth. Introduced in the early 2000s, Clikits was designed to attract more girls to the LEGO brand through jewellery, accessories and craft-oriented play. The commercial logic seemed reasonable: girls represented a large share of the toy market, while LEGO remained heavily associated with boys and construction toys. Yet Clikits eventually became one of the company’s most cited examples of a growth initiative that struggled despite years of [investment]({{ 'investment/' | relative_url }}) and marketing effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-snippet">Campaign LiveANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Girls account for only 10% of its audience but about 45% of the ov...</span></span></span>
 
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-1-dark.svg" | relative_url }}" alt="Clikits Fit illustration 1" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of LEGO’s later recovery, Clikits mattered because it exposed a deeper problem than a failed product launch. The line showed that reaching a new customer segment was not enough if the product did not reinforce the company’s core strengths, create repeat demand within the LEGO system, or fit the economics and capabilities that made the business resilient. The lesson became central to LEGO’s more disciplined approach to innovation after its early-2000s crisis.
@@ -277,19 +277,19 @@ In the context of LEGO’s later recovery, Clikits mattered because it exposed a
 
 ### What Clikits was trying to solve
 
-Clikits emerged during a period when LEGO was aggressively searching for new growth. Executives recognised that girls represented a much larger share of the overall toy market than LEGO was capturing. Trade reporting at the time noted that girls accounted for only a small proportion of LEGO’s audience even though they represented a major part of total toy spending. Clikits was positioned as LEGO’s biggest attempt yet to close that gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-snippet">Campaign LiveANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Girls account for only 10% of its audience but about 45% of the ov...</span></span></span>
+Clikits emerged during a period when LEGO was aggressively searching for new growth. Executives recognised that girls represented a much larger share of the overall toy market than LEGO was capturing. Trade reporting at the time noted that girls accounted for only a small proportion of LEGO’s audience even though they represented a major part of total toy spending. Clikits was positioned as LEGO’s biggest attempt yet to close that gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[Campaign Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-snippet">Campaign LiveANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Girls account for only 10% of its audience but about 45% of the ov...</span></span></span>
 
-The product line centred on customisable bracelets, jewellery, bags, photo frames and decorative accessories. Rather than focusing on complex construction, it emphasised personalisation, fashion and self-expression. The strategy reflected a broader belief inside LEGO that growth could come from expanding into adjacent play categories rather than relying mainly on the traditional [brick system]({{ 'brick-system/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyforoperators.substack.com">[History for Operators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyforoperators.substack.com</span><span class="citation-popover-snippet">History for OperatorsHow LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — Clikits (craft jewelry kits for girls), these were...</span><span class="citation-popover-meta">Published: June 22, 2025</span></span></span>
+The product line centred on customisable bracelets, jewellery, bags, photo frames and decorative accessories. Rather than focusing on complex construction, it emphasised personalisation, fashion and self-expression. The strategy reflected a broader belief inside LEGO that growth could come from expanding into adjacent play categories rather than relying mainly on the traditional [brick system]({{ 'brick-system/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyforoperators.substack.com">[History for Operators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyforoperators.substack.com</span><span class="citation-popover-snippet">History for OperatorsHow LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — Clikits (craft jewelry kits for girls), these were...</span><span class="citation-popover-meta">Published: June 22, 2025</span></span></span>
 
-At first glance, the idea appeared to solve a genuine strategic problem. LEGO needed new customers, and Clikits offered an entry point into a market where the company historically struggled. Early sales were encouraging enough that the company continued investing in the line. LEGO’s 2003 annual report even noted that the new girls’ products had “got off to a good start”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Annual Report 2003 LEGO CompanyMarch 10, 2004 — The drop in sales of these products accounted for more than 50 per- cent of the overa...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
+At first glance, the idea appeared to solve a genuine strategic problem. LEGO needed new customers, and Clikits offered an entry point into a market where the company historically struggled. Early sales were encouraging enough that the company continued investing in the line. LEGO’s 2003 annual report even noted that the new girls’ products had “got off to a good start”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Annual Report 2003 LEGO CompanyMarch 10, 2004 — The drop in sales of these products accounted for more than 50 per- cent of the overa...</span><span class="citation-popover-meta">Published: March 10, 2004</span></span></span>
 
 The difficulty was that attracting initial attention and building a sustainable business turned out to be different challenges.
 
 ### Why the line struggled despite intense effort
 
-The clearest evidence comes from LEGO’s own reporting. In its 2005 annual report, the company stated that Clikits experienced declining sales despite “several years’ intense efforts” connected with the launch. LEGO concluded that no new Clikits products would be introduced after 2006. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 2005, whereas one of the Group&#x27;s girls&#x27; products, CLIKITS, saw a decli...</span><span class="citation-popover-meta">Published: February 14, 2006</span></span></span>
+The clearest evidence comes from LEGO’s own reporting. In its 2005 annual report, the company stated that Clikits experienced declining sales despite “several years’ intense efforts” connected with the launch. LEGO concluded that no new Clikits products would be introduced after 2006.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2005 ENG</span><span class="citation-popover-snippet">Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 2005, whereas one of the Group&#x27;s girls&#x27; products, CLIKITS, saw a decli...</span><span class="citation-popover-meta">Published: February 14, 2006</span></span></span>
 
-That statement is significant because it suggests the problem was not simply lack of awareness. LEGO had already spent years trying to establish the range. The company was not abandoning an untested experiment; it was withdrawing from a product family that had failed to achieve lasting momentum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupGeneral economic pressure on consu- mer demand combined with a squeeze on the toy market specifically driven...</span></span></span>
+That statement is significant because it suggests the problem was not simply lack of awareness. LEGO had already spent years trying to establish the range. The company was not abandoning an untested experiment; it was withdrawing from a product family that had failed to achieve lasting momentum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupGeneral economic pressure on consu- mer demand combined with a squeeze on the toy market specifically driven...</span></span></span>
 
 Several factors help explain why.
 
@@ -299,7 +299,7 @@ Several factors help explain why.
 
 **Repeat engagement was harder to sustain.** Traditional LEGO themes often encourage collection, expansion and recombination. A child who owns one set can connect it to another. Clikits products offered personalisation, but they did not create the same long-term ecosystem of interconnected play. Once the novelty of a bracelet or accessory faded, there were fewer reasons to keep buying into the system.
 
-**The fit with LEGO’s operational model was weaker.** During the years before the turnaround, LEGO was already struggling with rising [complexity]({{ 'complexity/' | relative_url }}), too many product variants and costly experimentation. Products that sat further from the core brick system added organisational complexity without necessarily strengthening the company’s most valuable capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — Sales dropped 30 percent in 2003 and 10 percent more in 2...</span><span class="citation-popover-meta">Published: August 29, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — Sales dropped 30 percent in 2003 and 10 percent more in 2...</span><span class="citation-popover-meta">Published: August 29, 2007</span></span></span>
+**The fit with LEGO’s operational model was weaker.** During the years before the turnaround, LEGO was already struggling with rising [complexity]({{ 'complexity/' | relative_url }}), too many product variants and costly experimentation. Products that sat further from the core brick system added organisational complexity without necessarily strengthening the company’s most valuable capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — Sales dropped 30 percent in 2003 and 10 percent more in 2...</span><span class="citation-popover-meta">Published: August 29, 2007</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-snippet">Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — Sales dropped 30 percent in 2003 and 10 percent more in 2...</span><span class="citation-popover-meta">Published: August 29, 2007</span></span></span>
 
 From an antifragility perspective, Clikits exposed a critical weakness. The experiment created risk and complexity, but the lessons and assets generated by that risk were difficult to feed back into the core business.
 
@@ -310,7 +310,7 @@ One reason Clikits remains an important case is that it challenges a common assu
 
 LEGO had correctly identified a real market opportunity. Girls were not fully represented within the company’s customer base. The failure came from treating audience access as the primary problem rather than asking how that audience could be served in a way that reinforced LEGO’s distinctive strengths.
 
-The contrast with later initiatives is revealing. When LEGO launched Friends in 2012, the company again pursued stronger engagement with girls. However, Friends remained much more tightly connected to the core construction system. The sets used building-based play, integrated with LEGO’s manufacturing and design capabilities, and created opportunities for repeat purchases across a coherent theme. The line became one of LEGO’s biggest commercial successes, with sales to girls rising dramatically after launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Friends" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Friends</span><span class="citation-popover-snippet">Lego Friends</span></span></span>
+The contrast with later initiatives is revealing. When LEGO launched Friends in 2012, the company again pursued stronger engagement with girls. However, Friends remained much more tightly connected to the core construction system. The sets used building-based play, integrated with LEGO’s manufacturing and design capabilities, and created opportunities for repeat purchases across a coherent theme. The line became one of LEGO’s biggest commercial successes, with sales to girls rising dramatically after launch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lego_Friends" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lego Friends</span><span class="citation-popover-snippet">Lego Friends</span></span></span>
 
 The comparison does not mean Clikits failed because girls were an unattractive market. It suggests the opposite. The market opportunity was real, but the product architecture and business fit were not strong enough in the earlier attempt.
 
@@ -320,7 +320,7 @@ This distinction became important during LEGO’s recovery. The lesson was not �
 
 ## What the Case Reveals About Governed Audience Expansion
 
-Within LEGO’s broader turnaround story, Clikits helped demonstrate why innovation needed stronger governance. Before the crisis, the company often explored opportunities by moving into adjacent categories, hoping that growth would follow. Clikits, Galidor and several other initiatives showed that adjacency alone was not a sufficient test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... failed outright....</span></span></span>
+Within LEGO’s broader turnaround story, Clikits helped demonstrate why innovation needed stronger governance. Before the crisis, the company often explored opportunities by moving into adjacent categories, hoping that growth would follow. Clikits, Galidor and several other initiatives showed that adjacency alone was not a sufficient test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Harvard Business ReviewInnovating a Turnaround at LEGOMany of its innovation efforts—theme parks, Clikits craft sets... failed outright....</span></span></span>
 
 The post-crisis organisation increasingly asked tougher questions:
 
@@ -340,194 +340,194 @@ That is why Clikits remains more than a discontinued product range. It became ev
 <img src="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-3-dark.svg" | relative_url }}" alt="Clikits Fit illustration 3" data-theme-src-dark="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why LEGO&#x27;s Craft Bet Did Not Stick. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why LEGO&#x27;s Craft Bet Did Not Stick. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for Clikits and audience-fit mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Clikits and audience-fit mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on controlled testing and limiting downside risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on controlled testing and limiting downside risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-        </h4>
-        <p class="fr-book-author">By April Dunford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+</h4>
+<p class="fr-book-author">By April Dunford</p>
         
-        <p class="fr-book-desc">Focuses on product-market fit and audience alignment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on product-market fit and audience alignment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s theme of learning from failed bets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s theme of learning from failed bets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Clikits Flower Bracelet Jewellery Set 3195"><img src="https://i.ebayimg.com/images/g/-QkAAOSwBXRmwK4d/s-l225.jpg" alt="Listing image for LEGO Clikits Flower Bracelet Jewellery Set 3195" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Clikits Flower Bracelet Jewellery Set 3195</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Clikits Flower Bracelet Jewellery Set 3195"><img src="https://i.ebayimg.com/images/g/-QkAAOSwBXRmwK4d/s-l225.jpg" alt="Listing image for LEGO Clikits Flower Bracelet Jewellery Set 3195" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">LEGO Clikits Flower Bracelet Jewellery Set 3195</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 7530 Clikits retired Starry Decoration Craft kit Contents new sealed 2004"><img src="https://i.ebayimg.com/images/g/UPcAAeSwgqhpfy4t/s-l225.jpg" alt="Listing image for Lego 7530 Clikits retired Starry Decoration Craft kit Contents new sealed 2004" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">Lego 7530 Clikits retired Starry Decoration Craft kit Contents new sealed 2004</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego 7530 Clikits retired Starry Decoration Craft kit Contents new sealed 2004"><img src="https://i.ebayimg.com/images/g/UPcAAeSwgqhpfy4t/s-l225.jpg" alt="Listing image for Lego 7530 Clikits retired Starry Decoration Craft kit Contents new sealed 2004" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">Lego 7530 Clikits retired Starry Decoration Craft kit Contents new sealed 2004</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Clikits 7525 Sunshine Picture Clips Set Photos &amp; Memo Stand 2004 New"><img src="https://i.ebayimg.com/images/g/~K4AAOSw2fFkoXd2/s-l225.jpg" alt="Listing image for Lego Clikits 7525 Sunshine Picture Clips Set Photos &amp; Memo Stand 2004 New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">Lego Clikits 7525 Sunshine Picture Clips Set Photos &amp; Memo Stand 2004 New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Clikits 7525 Sunshine Picture Clips Set Photos &amp; Memo Stand 2004 New"><img src="https://i.ebayimg.com/images/g/~K4AAOSw2fFkoXd2/s-l225.jpg" alt="Listing image for Lego Clikits 7525 Sunshine Picture Clips Set Photos &amp; Memo Stand 2004 New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">Lego Clikits 7525 Sunshine Picture Clips Set Photos &amp; Memo Stand 2004 New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Clikits set 7519 (Cool Room Frames), produced in 2003 (not complete)"><img src="https://i.ebayimg.com/images/g/MiMAAOSw3X9l13Oa/s-l225.jpg" alt="Listing image for Lego Clikits set 7519 (Cool Room Frames), produced in 2003 (not complete)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">Lego Clikits set 7519 (Cool Room Frames), produced in 2003 (not complete)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search <span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lego Clikits set 7519 (Cool Room Frames), produced in 2003 (not complete)"><img src="https://i.ebayimg.com/images/g/MiMAAOSw3X9l13Oa/s-l225.jpg" alt="Listing image for Lego Clikits set 7519 (Cool Room Frames), produced in 2003 (not complete)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">Lego Clikits set 7519 (Cool Room Frames), produced in 2003 (not complete)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LEGO Clikits set">Search<span data-ebay-domain-label>eBay.co.uk</span>: LEGO Clikits set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LEGO+Clikits+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lego-s-craft-bet-did-not-stick-lego-clikits-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LEGO Clikits set" data-ebay-reference="why-lego-s-craft-bet-did-not-stick-lego-clikits-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ That is why Clikits remains more than a discontinued product range. It became ev
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ That is why Clikits remains more than a discontinued product range. It became ev
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ That is why Clikits remains more than a discontinued product range. It became ev
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ That is why Clikits remains more than a discontinued product range. It became ev
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ That is why Clikits remains more than a discontinued product range. It became ev
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,137 +733,137 @@ That is why Clikits remains more than a discontinued product range. It became ev
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lego.com  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2003 LEGO CompanyMarch 10, 2004 — The drop in sales of these products accounted for more than 50 per- cent of the overa...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2003 LEGO CompanyMarch 10, 2004 — The drop in sales of these products accounted for more than 50 per- cent of the overa...</p></details>
    Published: March 10, 2004  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lego.com  
    Title: Annual Report 2005 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 2005, whereas one of the Group&#x27;s girls&#x27; products, CLIKITS, saw a decli...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2005 LEGO GroupFebruary 14, 2006 — 14 Feb 2006 — 2005, whereas one of the Group&#x27;s girls&#x27; products, CLIKITS, saw a decli...</p></details>
    Published: February 14, 2006  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Lego Friends  
-   Link: <a href="https://en.wikipedia.org/wiki/Lego_Friends" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Friends</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lego_Friends" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lego_Friends</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lego.com  
    Title: Annual Report 2004 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupGeneral economic pressure on consu- mer demand combined with a squeeze on the toy market specifically driven...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2004 LEGO GroupGeneral economic pressure on consu- mer demand combined with a squeeze on the toy market specifically driven...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lego.com  
    Title: Annual Report 2006 ENG  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2006 LEGO Groupproducts.sales.were.expected.to.show. a.small.decrease.and.earnings.were.expected.to.remain.un- changed.co...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt6469a262aeabdb3d/Annual_Report_2006_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2006 LEGO Groupproducts.sales.were.expected.to.show. a.small.decrease.and.earnings.were.expected.to.remain.un- changed.co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lego.com  
    Title: Progress report2006  
-   Link: <a href="https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Sustainability](&amp;#123;&amp;#123; &#x27;sustainability/&#x27; | relative_url &amp;#125;&amp;#125;) report 2006We believe that the LEGO Group performed well in 2006 towards our consumers; however we have noted an unsatisfa...</p></details>
+   Link:<a href="https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/aboutus/assets/blt84e427a3dcec8045/Progress_report2006.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Sustainability](&amp;#123;&amp;#123; &#x27;sustainability/&#x27; | relative_url &amp;#125;&amp;#125;) report 2006We believe that the LEGO Group performed well in 2006 towards our consumers; however we have noted an unsatisfa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: campaignlive.co.uk  
-   Link: <a href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Campaign LiveANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Girls account for only 10% of its audience but about 45% of the ov...</p></details>
+   Link:<a href="https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/analysis-lego-moves-girls-market/170455</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campaign LiveANALYSIS: Lego moves in on the girls&#x27; market13 Feb 2003 — Girls account for only 10% of its audience but about 45% of the ov...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
+   Link:<a href="https://hbr.org/2009/09/innovating-a-turnaround-at-lego" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2009/09/innovating-a-turnaround-at-lego</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: campaignlive.co.uk  
    Title: lego targets girls clikits range  
-   Link: <a href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego targets girls with Clikits range6 Feb 2003 — Lego is making its biggest attempt yet to crack the girls&#x27; toys market with a designer...</p></details>
+   Link:<a href="https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786" target="_blank" rel="noopener noreferrer nofollow">https://www.campaignlive.co.uk/article/lego-targets-girls-clikits-range/169786</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego targets girls with Clikits range6 Feb 2003 — Lego is making its biggest attempt yet to crack the girls&#x27; toys market with a designer...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: historyforoperators.substack.com  
-   Link: <a href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://historyforoperators.substack.com/p/the-lego-turnaround</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History for OperatorsHow LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — Clikits (craft jewelry kits for girls), these were...</p></details>
+   Link:<a href="https://historyforoperators.substack.com/p/the-lego-turnaround" target="_blank" rel="noopener noreferrer nofollow">https://historyforoperators.substack.com/p/the-lego-turnaround</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History for OperatorsHow LEGO Nearly Collapsed - History for OperatorsJune 22, 2025 — Clikits (craft jewelry kits for girls), these were...</p></details>
    Published: June 22, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: strategy-business.com  
-   Link: <a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — Sales dropped 30 percent in 2003 and 10 percent more in 2...</p></details>
+   Link:<a href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow">https://www.strategy-business.com/article/07306</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy+businessRebuilding Lego, Brick by BrickAugust 29, 2007 — 29 Aug 2007 — Sales dropped 30 percent in 2003 and 10 percent more in 2...</p></details>
    Published: August 29, 2007  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: business turnaround lesson from legoin the early 2000s lego was in deep trouble  
-   Link: <a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
+   Link:<a href="https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darrenleejacklin/posts/-business-turnaround-lesson-from-legoin-the-early-2000s-lego-was-in-deep-trouble/10172441418155512/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Turnaround Lesson from Lego In the early 2000s...💡 Business Turnaround Lesson from Lego In the early 2000s, Lego was in deep tr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/758824395633075/posts/1524908099024697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/758824395633075/posts/1524908099024697/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company was...In 2004, LEGO was in serious trouble. The company was losing about $1 million every day. It had tried to grow into man...</p></details>
+   Link:<a href="https://www.facebook.com/groups/758824395633075/posts/1524908099024697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/758824395633075/posts/1524908099024697/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company was...In 2004, LEGO was in serious trouble. The company was losing about $1 million every day. It had tried to grow into man...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ebay.de  
-   Link: <a href="https://www.ebay.de/itm/267598180247?srsltid=AfmBOoqbeKM_VFfU_4IpgAPO_k06gxA1GIuwglxvfw6l4Fu0hCoWZtOa" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.de/itm/267598180247?srsltid=AfmBOoqbeKM_VFfU_4IpgAPO_k06gxA1GIuwglxvfw6l4Fu0hCoWZtOa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLIKITS LEGO Girls Creative Design Jewellery Make Build...A mixed collection of fun original Lego Clikits toys. A fun lot of design jewe...</p></details>
+   Link:<a href="https://www.ebay.de/itm/267598180247?srsltid=AfmBOoqbeKM_VFfU_4IpgAPO_k06gxA1GIuwglxvfw6l4Fu0hCoWZtOa" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.de/itm/267598180247?srsltid=AfmBOoqbeKM_VFfU_4IpgAPO_k06gxA1GIuwglxvfw6l4Fu0hCoWZtOa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLIKITS LEGO Girls Creative Design Jewellery Make Build...A mixed collection of fun original Lego Clikits toys. A fun lot of design jewe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: proactiveinvestors.com.au  
    Title: lego shows first annual sales decline since 2004 192679  
-   Link: <a href="https://www.proactiveinvestors.com.au/companies/news/192679/lego-shows-first-annual-sales-decline-since-2004-192679.html" target="_blank" rel="noopener noreferrer nofollow">https://www.proactiveinvestors.com.au/companies/news/192679/lego-shows-first-annual-sales-decline-since-2004-192679.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego shows first annual sales decline since 20046 Mar 2018 — Privately-owned Lego Group has seen its first fall in annual sales in 13 yea...</p></details>
+   Link:<a href="https://www.proactiveinvestors.com.au/companies/news/192679/lego-shows-first-annual-sales-decline-since-2004-192679.html" target="_blank" rel="noopener noreferrer nofollow">https://www.proactiveinvestors.com.au/companies/news/192679/lego-shows-first-annual-sales-decline-since-2004-192679.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego shows first annual sales decline since 20046 Mar 2018 — Privately-owned Lego Group has seen its first fall in annual sales in 13 yea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: slideshare.net  
    Title: the lego case study the great turnaround 2003 2013  
-   Link: <a href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego case study, the great turnaround 2003 - 2013 | PDFThe Lego case study outlines the company&#x27;s remarkable turnaround from a signif...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-lego-case-study-the-great-turnaround-2003-2013/33496623</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lego case study, the great turnaround 2003 - 2013 | PDFThe Lego case study outlines the company&#x27;s remarkable turnaround from a signif...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: lego posts first sales fall for 13 years 11278420  
-   Link: <a href="https://news.sky.com/story/lego-posts-first-sales-fall-for-13-years-11278420" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/lego-posts-first-sales-fall-for-13-years-11278420</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>posts first sales fall for 13 years | Money News6 Mar 2018 — Lego has reported its first fall in annual sales for 13 years after a challe...</p></details>
+   Link:<a href="https://news.sky.com/story/lego-posts-first-sales-fall-for-13-years-11278420" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/lego-posts-first-sales-fall-for-13-years-11278420</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>posts first sales fall for 13 years | Money News6 Mar 2018 — Lego has reported its first fall in annual sales for 13 years after a challe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thehustle.co  
-   Link: <a href="https://thehustle.co/first-time-13-years-lego-reported-decline-revenue-profit" target="_blank" rel="noopener noreferrer nofollow">https://thehustle.co/first-time-13-years-lego-reported-decline-revenue-profit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7%, and revenue drop 8%, breaking their 13-year growth streak...</p></details>
+   Link:<a href="https://thehustle.co/first-time-13-years-lego-reported-decline-revenue-profit" target="_blank" rel="noopener noreferrer nofollow">https://thehustle.co/first-time-13-years-lego-reported-decline-revenue-profit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7%, and revenue drop 8%, breaking their 13-year growth streak...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: toypro.com  
    Title: lego r history lego r clikits  
-   Link: <a href="https://www.toypro.com/en/news/973/lego-r-history-lego-r-clikits?srsltid=AfmBOopaYbwOKU-g4jnm9WrnLJxWghWXwRNI6sf2bxYTSqlrRe2z2RXn" target="_blank" rel="noopener noreferrer nofollow">https://www.toypro.com/en/news/973/lego-r-history-lego-r-clikits?srsltid=AfmBOopaYbwOKU-g4jnm9WrnLJxWghWXwRNI6sf2bxYTSqlrRe2z2RXn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® History: LEGO® Clikits16 May 2023 — LEGO Clikits is a colorful and fun series of LEGO parts and accessories introduced in 2003. Des...</p></details>
+   Link:<a href="https://www.toypro.com/en/news/973/lego-r-history-lego-r-clikits?srsltid=AfmBOopaYbwOKU-g4jnm9WrnLJxWghWXwRNI6sf2bxYTSqlrRe2z2RXn" target="_blank" rel="noopener noreferrer nofollow">https://www.toypro.com/en/news/973/lego-r-history-lego-r-clikits?srsltid=AfmBOopaYbwOKU-g4jnm9WrnLJxWghWXwRNI6sf2bxYTSqlrRe2z2RXn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO® History: LEGO® Clikits16 May 2023 — LEGO Clikits is a colorful and fun series of LEGO parts and accessories introduced in 2003. Des...</p></details>
    Published: May 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: studocu.com  
    Title: annual report 2004 lego  
-   Link: <a href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group Annual Report 2004: Strategy and Market...General economic pressure on consu- mer demand combined with a squeeze on the toy m...</p></details>
+   Link:<a href="https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/laurentian-university/strategic-management/annual-report-2004-lego/40878675</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGO Group Annual Report 2004: Strategy and Market...General economic pressure on consu- mer demand combined with a squeeze on the toy m...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How LEGO's 'Blue Ocean' Strategy Nearly Destroyed Them  
-   Link: <a href="http://www.youtube.com/watch?v=s5U5Q2H9U1M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=s5U5Q2H9U1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lego 2021: Financial Analysis - how profitable is the world&#x27;s largest maker of car tyres?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=s5U5Q2H9U1M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=s5U5Q2H9U1M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lego 2021: Financial Analysis - how profitable is the world&#x27;s largest maker of car tyres?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Lego Group's Near Bankruptcy: A Case Study in Innovation Failure  
-   Link: <a href="http://www.youtube.com/watch?v=y_K9h2H7x_A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=y_K9h2H7x_A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why LEGO Almost Went Bankrupt (And How They Recovered)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=y_K9h2H7x_A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=y_K9h2H7x_A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why LEGO Almost Went Bankrupt (And How They Recovered)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why LEGO Almost Went Bankrupt (And How They Recovered)  
-   Link: <a href="http://www.youtube.com/watch?v=i90sC4-b778" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i90sC4-b778</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Innovation Lessons from the Rise, Fall, and Rise of LEGO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=i90sC4-b778" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i90sC4-b778</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Innovation Lessons from the Rise, Fall, and Rise of LEGO...</p></details>
