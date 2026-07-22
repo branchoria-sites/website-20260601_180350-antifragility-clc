@@ -509,16 +509,16 @@ The strongest lesson is disciplined openness. LEGO’s fan communities are not a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tribes%3A+We+Need+You+to+Lead+Us+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tribes: We Need You to Lead Us on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code: The Secrets of Highly Successful Groups on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tribes%3A+We+Need+You+to+Lead+Us+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tribes: We Need You to Lead Us">Tribes: We Need You to Lead Us</a>
+          <a href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code: The Secrets of Highly Successful Groups">The Culture Code: The Secrets of Highly Successful Groups</a>
         </h4>
-        <p class="fr-book-author">By Seth Godin</p>
+        <p class="fr-book-author">By Daniel Coyle</p>
 
-        <p class="fr-book-desc">Insights on community building relevant to fan signals.</p>
+        <p class="fr-book-desc">Understanding group dynamics relevant to fan communities.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tribes%3A+We+Need+You+to+Lead+Us+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

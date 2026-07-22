@@ -424,16 +424,16 @@ In other words, the problem was never that LEGO offered many ways to build. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The goal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12483680-M.jpg" alt="Cover for The goal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+goal+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The goal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12483680-M.jpg" alt="Cover for The goal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The goal">The goal</a>
+          <a href="https://www.amazon.com/s?k=The+goal+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The goal">The goal</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
 
         <p class="fr-book-desc">Illustrates bottlenecks caused by complexity.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+goal+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,16 +441,16 @@ In other words, the problem was never that LEGO offered many ways to build. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal (Excellence In Manufacturing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14969992-M.jpg" alt="Cover for The Goal (Excellence In Manufacturing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+Robertson+and+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal (Excellence In Manufacturing)">The Goal (Excellence In Manufacturing)</a>
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+Robertson+and+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry">Brick by Brick: How LEGO Rewrote the Rules of Innovation and...</a>
         </h4>
-        <p class="fr-book-author">By Eliyahu M. Goldratt and Jeff Cox</p>
+        <p class="fr-book-author">By David Robertson and Bill Breen</p>
 
-        <p class="fr-book-desc">First published 1984.</p>
+        <p class="fr-book-desc">Covers SKU proliferation and operational complexity.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+Robertson+and+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
