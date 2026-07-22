@@ -368,89 +368,89 @@ The later turnaround was significant not because LEGO simply cut costs, but beca
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DdGC51pfT9g" title="How LEGO Went From Bankruptcy to Billion Dollar Empire!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DdGC51pfT9g" target="_blank" rel="noopener noreferrer">How LEGO Went From Bankruptcy to Billion Dollar Empire!</a></p><p class="youtube-embed-meta">Channel: Legonymous &middot; Views: 189 &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DdGC51pfT9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DdGC51pfT9g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why LEGO&#x27;s Expansion Made It Fragile. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why LEGO&#x27;s Expansion Made It Fragile. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Explains why complexity often creates fragility.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scaling+Up+Verne+Harnish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scaling Up on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8215424-M.jpg" alt="Cover for Scaling Up" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Scaling+Up+Verne+Harnish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scaling Up">Scaling Up</a>
-</h4>
-<p class="fr-book-author">By Verne Harnish</p>
-        
-<p class="fr-book-desc">Addresses operational complexity during expansion.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Scaling+Up+Verne+Harnish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the diversification argument behind decor-driven growth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma%3A+The+Revolutionary+Book+That+Will+Change+the+Way+You+Do+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma: The Revolutionary Book That Will Change the Way You Do Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8453126-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma: The Revolutionary Book That Will Change the Way You Do Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma%3A+The+Revolutionary+Book+That+Will+Change+the+Way+You+Do+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma: The Revolutionary Book That Will Change the Way You Do Business">The Innovator&#x27;s Dilemma: The Revolutionary Book That Will Cha...</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Examines strategic mistakes that can weaken successful firms.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma%3A+The+Revolutionary+Book+That+Will+Change+the+Way+You+Do+Business&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274687-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
+        </h4>
+        <p class="fr-book-author">By Clayton M. Christensen, L J Ganser et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good to Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13852627-M.jpg" alt="Cover for Good to Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good to Great">Good to Great</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Highlights disciplined focus on core strengths.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Good+to+Great&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines strategic mistakes that can weaken successful firms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scaling+Up&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scaling Up</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma%3A+The+Revolutionary+Book+That+Will+Change+the+Way+You+Do+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma: The Revolutionary Book That Will Change the Way You Do Business</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Built to Last on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/684195-M.jpg" alt="Cover for Built to Last" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Built to Last">Built to Last</a>
+        </h4>
+        <p class="fr-book-author">By Collins, James C., Jim Collins et al.</p>
+
+        <p class="fr-book-desc">Relevant to sustaining growth without excessive complexity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Built+to+Last+Collins%2C+James+C.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile%3A+Things+That+Gain+from+Disorder+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile: Things That Gain from Disorder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile%3A+Things+That+Gain+from+Disorder+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile: Things That Gain from Disorder">Antifragile: Things That Gain from Disorder</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+
+        <p class="fr-book-desc">Explains why complexity often creates fragility.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile%3A+Things+That+Gain+from+Disorder+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Built+to+Last&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Built to Last</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

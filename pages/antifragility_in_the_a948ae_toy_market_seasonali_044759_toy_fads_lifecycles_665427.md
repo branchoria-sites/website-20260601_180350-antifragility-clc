@@ -392,89 +392,89 @@ That distinction helps explain why LEGO has remained more durable than many toy 
 In that sense, toy fads do more than shorten LEGO product lifecycles. They repeatedly stress-test the company’s ability to convert temporary excitement into long-term capability. The faster trends move, the more valuable it becomes to separate what changes quickly from what remains reusable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">Annual Report 2004 ENG</span><span class="citation-popover-snippet">Annual Report 2004 LEGO GroupApril 26, 2005 — ised by here-today-gone-tomorrow fads, which shorten the market life cycle of products...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/271812956_Learning_From_Toys_Lessons_in_Managing_Supply_Chain_Risk_from_the_Toy_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Lessons in Managing Supply Chain Risk from the Toy...Like the high-technology industry, toys also suffer from many supply ch...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Fads Move Faster Than Factory Plans. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Fads Move Faster Than Factory Plans. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tipping Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7281935-M.jpg" alt="Cover for The Tipping Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tipping Point">The Tipping Point</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Directly helps explain toy fads, viral demand shifts, and why products suddenly surge or collapse.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hit+Makers+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hit Makers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M-gczwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hit Makers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hit+Makers+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hit Makers">Hit Makers</a>
+        </h4>
+        <p class="fr-book-author">By Derek Thompson</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hit+makers+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hit makers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7899784-M.jpg" alt="Cover for Hit makers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hit+makers+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hit makers">Hit makers</a>
-</h4>
-<p class="fr-book-author">By Derek Thompson</p>
-        
-<p class="fr-book-desc">Connects strongly to toy crazes, licensed themes, popularity cycles, and changing consumer tastes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hit+makers+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Connects strongly to toy crazes, licensed themes, popularity cycles, and changing consumer tastes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hit+Makers+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Provides the core framework for benefiting from volatility, uncertainty, and unpredictable market shifts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Innovator&#x27;s Dilemma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274687-M.jpg" alt="Cover for The Innovator&#x27;s Dilemma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
+        </h4>
+        <p class="fr-book-author">By Clayton M. Christensen, L J Ganser et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-</h4>
-<p class="fr-book-author">By Eric Ries</p>
-<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-<p class="fr-book-desc">Relevant to adaptation and experimentation under uncertain demand.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how established firms adapt to changing markets, product lifecycles, and disruptive shifts in consumer demand.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tipping Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hit+makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hit makers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
+
+        <p class="fr-book-desc">Supports the diversification argument behind decor-driven growth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tipping+Point+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tipping Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7281935-M.jpg" alt="Cover for The Tipping Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Tipping+Point+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tipping Point">The Tipping Point</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Directly helps explain toy fads, viral demand shifts, and why products suddenly surge or collapse.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Tipping+Point+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hit+Makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hit Makers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Innovator&#x27;s Dilemma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

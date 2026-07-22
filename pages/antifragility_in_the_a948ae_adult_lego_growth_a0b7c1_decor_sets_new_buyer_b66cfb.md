@@ -372,89 +372,89 @@ The success of LEGO Botanicals demonstrates this principle particularly clearly.
 That is why decor-focused sets represent more than a successful theme. They show how LEGO can enter households through aesthetics, occasions and everyday living rather than through fandom alone. In doing so, they expand the company’s customer base and make its adult business less dependent on any single cultural trend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-us/aboutus/news/2024/november/grow-your-creativity-with-four-new-lego-botanicals-sets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">grow your creativity with four new lego botanicals sets</span><span class="citation-popover-snippet">Grow Your Creativity With Four New LEGO® Botanicals Sets12 Nov 2024 — These sets offer a fresh experience to building, allowing fans of a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/es-es/themes/botanicals/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">a experiencia de construcción y, luego, siéntate a contemplar las...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/en-gb/categories/adults-welcome/article/lego-florist-london" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-title">florist london</span><span class="citation-popover-snippet">How we turned a LEGO Store into a florist shop18 Feb 2024 — With the LEGO Botanical Collection, you can have them on display forever. The...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How LEGO found buyers beyond fandom. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How LEGO found buyers beyond fandom. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Explains strategic expansion beyond traditional toy positioning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Supports the diversification argument behind decor-driven growth.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the diversification argument behind decor-driven growth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-</h4>
-<p class="fr-book-author">By Don Norman</p>
-        
-<p class="fr-book-desc">Connects product appeal, usability and visual desirability.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+        </h4>
+        <p class="fr-book-author">By Don Norman</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14579504-M.jpg" alt="Cover for Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historia de Lego. Como un Juguete Despertó la Imaginación Del Mundo / the Lego Story">Historia de Lego. Como un Juguete Despertó la Imaginación Del...</a>
-</h4>
-<p class="fr-book-author">By Jens Andersen</p>
-        
-<p class="fr-book-desc">First published 2023.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Historia+de+Lego.+Como+un+Juguete+Despert%C3%B3+la+Imaginaci%C3%B3n+Del+Mundo+%2F+the+Lego+Story+Jens+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Connects product appeal, usability and visual desirability.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brick+by+brick+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10411613-M.jpg" alt="Cover for Brick by brick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Brick+by+brick+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains strategic expansion beyond traditional toy positioning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Brick+by+brick+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The experience economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9274589-M.jpg" alt="Cover for The experience economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The experience economy">The experience economy</a>
+        </h4>
+        <p class="fr-book-author">By B. Joseph Pine</p>
+
+        <p class="fr-book-desc">Relevant to decor sets being purchased for lifestyle and display value.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+experience+economy+B.+Joseph+Pine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

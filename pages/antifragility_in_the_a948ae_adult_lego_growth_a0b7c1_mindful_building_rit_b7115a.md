@@ -342,89 +342,89 @@ In antifragility terms, that is significant. LEGO transformed a construction toy
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EOiAlYf1lhM" title="LEGO『Find Your Flow』" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EOiAlYf1lhM" target="_blank" rel="noopener noreferrer">LEGO『Find Your Flow』</a></p><p class="youtube-embed-meta">Channel: Dose of Good Ads &middot; Views: 2.6K &middot; Uploaded: March 2023 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EOiAlYf1lhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EOiAlYf1lhM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why adults build LEGO to unwind. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why adults build LEGO to unwind. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Supports the idea of beneficial stress and adaptive routines.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-</h4>
-<p class="fr-book-author">By Johann Hari</p>
-        
-<p class="fr-book-desc">Relates to why physical building activities feel restorative.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the diversification argument behind decor-driven growth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/767930-M.jpg" alt="Cover for Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed">Cram101 textbook outlines to accompany Flow, the psychology o...</a>
-</h4>
-<p class="fr-book-author">By Mihaly Csikszentmihalyi</p>
-        
-<p class="fr-book-desc">First published 2006. Subjects: Happiness, Outlines, syllabi, Attention.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+        </h4>
+        <p class="fr-book-author">By Johann Hari</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Joy of Missing Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12075189-M.jpg" alt="Cover for Joy of Missing Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Joy of Missing Out">Joy of Missing Out</a>
-</h4>
-<p class="fr-book-author">By Tanya Dalton</p>
-        
-<p class="fr-book-desc">First published 2019.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Relates to why physical building activities feel restorative.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Joy of Missing Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12075189-M.jpg" alt="Cover for Joy of Missing Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Joy of Missing Out">Joy of Missing Out</a>
+        </h4>
+        <p class="fr-book-author">By Tanya Dalton</p>
+
+        <p class="fr-book-desc">Connects with focus, ritual and reducing distraction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Joy+of+Missing+Out+Tanya+Dalton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/767930-M.jpg" alt="Cover for Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cram101 textbook outlines to accompany Flow, the psychology of optimal experience. Csikszentmihalyi. 1st ed">Cram101 textbook outlines to accompany Flow, the psychology o...</a>
+        </h4>
+        <p class="fr-book-author">By Mihaly Csikszentmihalyi</p>
+
+        <p class="fr-book-desc">First published 2006. Subjects: Happiness, Outlines, syllabi, Attention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cram101+textbook+outlines+to+accompany+Flow%2C+the+psychology+of+optimal+experience.+Csikszentmihalyi.+1st+ed+Mihaly+Csikszentmihalyi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Joy+of+Missing+Out&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Joy of Missing Out</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

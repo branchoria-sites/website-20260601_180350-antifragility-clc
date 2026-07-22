@@ -379,89 +379,89 @@ The lesson for antifragility is subtle. LEGO became stronger not by eliminating 
 In other words, the problem was never that LEGO offered many ways to build. The problem was that the company had created too many ways to package, forecast and distribute those possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strategy-business.com/article/07306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strategy-business.com">[business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strategy-business.com</span><span class="citation-popover-title">Strategy+business Rebuilding Lego, Brick by Brick</span><span class="citation-popover-snippet">retail giants like Wal-Mart and Carrefour gained dominance.... 10,000 permutations of its products packaged in hundreds of configuration...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Hidden Cost of Too Many Boxes. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Hidden Cost of Too Many Boxes. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Connects operational complexity with fragility.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n81SEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
+        </h4>
+        <p class="fr-book-author">By Donella Meadows</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n81SEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
-</h4>
-<p class="fr-book-author">By Donella Meadows</p>
-        
-<p class="fr-book-desc">Useful for understanding cascading effects of permutations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for understanding cascading effects of permutations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal (Excellence In Manufacturing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14969992-M.jpg" alt="Cover for The Goal (Excellence In Manufacturing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal (Excellence In Manufacturing)">The Goal (Excellence In Manufacturing)</a>
-</h4>
-<p class="fr-book-author">By Eliyahu M. Goldratt and Jeff Cox</p>
-        
-<p class="fr-book-desc">First published 1984.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9180157-M.jpg" alt="Cover for Antifragile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick">Brick by Brick</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Covers SKU proliferation and operational complexity.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the diversification argument behind decor-driven growth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Goal (Excellence In Manufacturing)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The goal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12483680-M.jpg" alt="Cover for The goal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The goal">The goal</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Illustrates bottlenecks caused by complexity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal (Excellence In Manufacturing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14969992-M.jpg" alt="Cover for The Goal (Excellence In Manufacturing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal (Excellence In Manufacturing)">The Goal (Excellence In Manufacturing)</a>
+        </h4>
+        <p class="fr-book-author">By Eliyahu M. Goldratt and Jeff Cox</p>
+
+        <p class="fr-book-desc">First published 1984.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Goal+%28Excellence+In+Manufacturing%29+Eliyahu+M.+Goldratt+and+Jeff+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Antifragile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Antifragile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The goal</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

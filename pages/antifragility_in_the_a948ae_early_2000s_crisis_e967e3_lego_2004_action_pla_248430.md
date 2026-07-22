@@ -372,7 +372,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
 <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile">Antifragile</a>
 </h4>
 <p class="fr-book-author">By Nassim Nicholas Taleb, Genís Sánchez Barberán et al.</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Resilience (Personality trait), PSYCHOLOGY / General, BUSINESS &amp; ECONOMICS / General, Long Now Manual for...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Antifragile+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
 <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Strategy, Bad Strategy">Good Strategy, Bad Strategy</a>
 </h4>
 <p class="fr-book-author">By Richard P. Rumelt</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Planning, Strategic planning, Strategy, management, Hd30.28 .r854 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
 <a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Playing to Win">Playing to Win</a>
 </h4>
 <p class="fr-book-author">By Roger L. Martin A. G. Lafley, L.J. Ganser</p>
-        
+
 <p class="fr-book-desc">First published 2014.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Seen through the lens of antifragility, the 2004 reset was not simply a turnarou
 <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
 </h4>
 <p class="fr-book-author">By David C. Robertson</p>
-        
+
 <p class="fr-book-desc">Directly analyzes the 2004 reset and restructuring.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

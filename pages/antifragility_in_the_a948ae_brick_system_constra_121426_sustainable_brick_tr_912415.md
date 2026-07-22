@@ -353,7 +353,7 @@ Within the broader story of LEGO’s antifragility, this matters because the com
 <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Material World">Material World</a>
 </h4>
 <p class="fr-book-author">By Ed Conway</p>
-        
+
 <p class="fr-book-desc">Explores the realities of materials innovation and supply chains.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Within the broader story of LEGO’s antifragility, this matters because the com
 <a href="https://www.amazon.com/s?k=How+Bad+Are+Bananas%3F%3A+The+Carbon+Footprint+of+Everything+Mike+Berners-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Bad Are Bananas?: The Carbon Footprint of Everything">How Bad Are Bananas?: The Carbon Footprint of Everything</a>
 </h4>
 <p class="fr-book-author">By Mike Berners-Lee</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+Bad+Are+Bananas%3F%3A+The+Carbon+Footprint+of+Everything+Mike+Berners-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Within the broader story of LEGO’s antifragility, this matters because the com
 <a href="https://www.amazon.com/s?k=Cradle+to+Cradle+William+McDonough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cradle to Cradle">Cradle to Cradle</a>
 </h4>
 <p class="fr-book-author">By William McDonough, Michael Braungart et al.</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: industrial management, environmental aspects, recycling, Long Now Manual for Civilization, Recycling (Was...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cradle+to+Cradle+William+McDonough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Within the broader story of LEGO’s antifragility, this matters because the com
 <a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of LEGO Bricks: The Story of a Design Icon">The Secret Life of LEGO Bricks: The Story of a Design Icon</a>
 </h4>
 <p class="fr-book-author">By Daniel Konstanski</p>
-        
+
 <p class="fr-book-desc">Covers materials, moulding, tolerances and brick performance.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Secret+Life+of+LEGO+Bricks%3A+The+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

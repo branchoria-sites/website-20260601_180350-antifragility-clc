@@ -447,89 +447,89 @@ That is the link to antifragility. A fragile company fears volatility because un
 The strongest lesson is disciplined openness. LEGO’s fan communities are not a replacement for strategy, design or commercial judgement. They are an early-warning system for desire. Used well, they help LEGO turn cultural noise into better experiments, and better experiments into a more adaptable company.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How LEGO Fans Became a Market Sensor. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How LEGO Fans Became a Market Sensor. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by brick">Brick by brick</a>
-</h4>
-<p class="fr-book-author">By David C. Robertson</p>
-        
-<p class="fr-book-desc">Covers LEGO strategy including fan engagement and product community.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Brick+by+brick+David+C.+Robertson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+C.+Robertson+%26+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+C.+Robertson+%26+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry">Brick by Brick: How LEGO Rewrote the Rules of Innovation and...</a>
+        </h4>
+        <p class="fr-book-author">By David C. Robertson &amp; Bill Breen</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of Lego Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of Lego Bricks: The Inside Story of a Design Icon">The Secret Life of Lego Bricks: The Inside Story of a Design...</a>
-</h4>
-<p class="fr-book-author">By Daniel Konstanski</p>
-        
-<p class="fr-book-desc">Includes insights into design culture and community impact.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers LEGO strategy including fan engagement and product community.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+C.+Robertson+%26+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
-</h4>
-<p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
-        
-<p class="fr-book-desc">Framework for how communities inform business decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Life of Lego Bricks: The Inside Story of a Design Icon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Life of Lego Bricks: The Inside Story of a Design Icon">The Secret Life of Lego Bricks: The Inside Story of a Design...</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Konstanski</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tribes+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tribes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tribes+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tribes">Tribes</a>
-</h4>
-<p class="fr-book-author">By Seth Godin</p>
-        
-<p class="fr-book-desc">Insights on community building relevant to fan signals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tribes+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes insights into design culture and community impact.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon+Daniel+Konstanski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by brick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Life of Lego Bricks: The Inside Story of a Design Icon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fanocracy+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
+        </h4>
+        <p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
+
+        <p class="fr-book-desc">A Wall Street Journal bestseller From the author of New Rules of Marketing &amp; PR, a bold guide to converting customer passion into marketi...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fanocracy+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tribes%3A+We+Need+You+to+Lead+Us+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tribes: We Need You to Lead Us on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tribes%3A+We+Need+You+to+Lead+Us+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tribes: We Need You to Lead Us">Tribes: We Need You to Lead Us</a>
+        </h4>
+        <p class="fr-book-author">By Seth Godin</p>
+
+        <p class="fr-book-desc">Insights on community building relevant to fan signals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tribes%3A+We+Need+You+to+Lead+Us+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Life+of+Lego+Bricks%3A+The+Inside+Story+of+a+Design+Icon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Life of Lego Bricks: The Inside Story of a Design Icon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

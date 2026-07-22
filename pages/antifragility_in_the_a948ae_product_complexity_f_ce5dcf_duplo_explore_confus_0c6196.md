@@ -348,89 +348,89 @@ When LEGO restored the DUPLO name, it effectively chose coherence over abstracti
 That makes the Explore episode more than a branding misstep. It became a small but revealing case of hidden fragility. The company tried to broaden its preschool proposition, but in doing so it obscured the very signal that helped customers navigate the LEGO world. The failure demonstrated that growth in categories, names and concepts can make a business less adaptable when customers can no longer see the structure underneath. LEGO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campaignlive.co.uk/article/lego-axes-explore-revives-duplo-brand-rethink/201376" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campaignlive.co.uk">[2campaignlive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campaignlive.co.uk</span><span class="citation-popover-title">lego axes explore revives duplo brand rethink</span><span class="citation-popover-snippet">Lego axes Explore and revives Duplo in brand rethink4 Feb 2004 — Embattled toy giant Lego is performing a dramatic U-turn by scrapping it...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Replacing DUPLO Made LEGO Less Clear. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Replacing DUPLO Made LEGO Less Clear. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+Strong+Brands+David+A.+Aaker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building Strong Brands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18581-M.jpg" alt="Cover for Building Strong Brands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Building+Strong+Brands+David+A.+Aaker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Strong Brands">Building Strong Brands</a>
-</h4>
-<p class="fr-book-author">By David A. Aaker</p>
-        
-<p class="fr-book-desc">First published 1996. Subjects: Management, Brand name products, Valuation, Intangible property, Branding.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Building+Strong+Brands+David+A.+Aaker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+Strong+Brands+David+A.+Aaker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building Strong Brands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18581-M.jpg" alt="Cover for Building Strong Brands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Building+Strong+Brands+David+A.+Aaker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Strong Brands">Building Strong Brands</a>
+        </h4>
+        <p class="fr-book-author">By David A. Aaker</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2+Jenni+Romaniuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Brands Grow : Part 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8947122-M.jpg" alt="Cover for How Brands Grow : Part 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2+Jenni+Romaniuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Brands Grow : Part 2">How Brands Grow : Part 2</a>
-</h4>
-<p class="fr-book-author">By Jenni Romaniuk, Byron Sharp</p>
-        
-<p class="fr-book-desc">First published 2015. Subjects: Marketing, Branding (Marketing), Brand name products, Management.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2+Jenni+Romaniuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the value of clear, trusted brand architecture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Building+Strong+Brands+David+A.+Aaker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Positioning+Al+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Positioning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1075623-M.jpg" alt="Cover for Positioning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Positioning+Al+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Positioning">Positioning</a>
-</h4>
-<p class="fr-book-author">By Al Ries, Jack Trout</p>
-        
-<p class="fr-book-desc">First published 1982. Subjects: Positioning (Advertising), Reference, Information and Interdisciplinary Subjects, Marketing - Product Man...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Positioning+Al+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2+Jenni+Romaniuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Brands Grow : Part 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8947122-M.jpg" alt="Cover for How Brands Grow : Part 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2+Jenni+Romaniuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Brands Grow : Part 2">How Brands Grow : Part 2</a>
+        </h4>
+        <p class="fr-book-author">By Jenni Romaniuk, Byron Sharp</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick">Brick by Brick</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Provides context for branding mistakes during LEGO&#x27;s crisis years.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses brand salience and recognisability.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2+Jenni+Romaniuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+Strong+Brands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building Strong Brands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Brands Grow : Part 2</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Positioning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Positioning</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+Robertson+and+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+Robertson+and+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry">Brick by Brick: How LEGO Rewrote the Rules of Innovation and...</a>
+        </h4>
+        <p class="fr-book-author">By David Robertson and Bill Breen</p>
+
+        <p class="fr-book-desc">Provides context for branding mistakes during LEGO&#x27;s crisis years.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry+David+Robertson+and+Bill+Breen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Antifragile%3A+Things+That+Gain+from+Disorder+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Antifragile: Things That Gain from Disorder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Antifragile%3A+Things+That+Gain+from+Disorder+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antifragile: Things That Gain from Disorder">Antifragile: Things That Gain from Disorder</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+
+        <p class="fr-book-desc">Provides the broader framework for understanding fragility from complexity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Antifragile%3A+Things+That+Gain+from+Disorder+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+Strong+Brands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building Strong Brands</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Brands+Grow+%3A+Part+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Brands Grow : Part 2</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brick+by+Brick%3A+How+LEGO+Rewrote+the+Rules+of+Innovation+and+Conquered+the+Global+Toy+Industry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

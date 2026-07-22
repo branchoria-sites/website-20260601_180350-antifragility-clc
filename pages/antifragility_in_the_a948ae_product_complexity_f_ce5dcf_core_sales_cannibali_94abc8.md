@@ -364,7 +364,7 @@ The 2003 admission remains one of the most revealing moments in the company’s 
 <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Innovator&#x27;s Dilemma">The Innovator&#x27;s Dilemma</a>
 </h4>
 <p class="fr-book-author">By Clayton M. Christensen, L J Ganser et al.</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Industrial management, Disruptive technologies, Success in business, Customer services, innovation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Innovator%27s+Dilemma+Clayton+M.+Christensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The 2003 admission remains one of the most revealing moments in the company’s 
 <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Strategy, Bad Strategy">Good Strategy, Bad Strategy</a>
 </h4>
 <p class="fr-book-author">By Richard P. Rumelt</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Planning, Strategic planning, Strategy, management, Hd30.28 .r854 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Good+Strategy%2C+Bad+Strategy+Richard+P.+Rumelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The 2003 admission remains one of the most revealing moments in the company’s 
 <a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Playing to Win">Playing to Win</a>
 </h4>
 <p class="fr-book-author">By Roger L. Martin A. G. Lafley, L.J. Ganser</p>
-        
+
 <p class="fr-book-desc">First published 2014.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Playing+to+Win+Roger+L.+Martin+A.+G.+Lafley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The 2003 admission remains one of the most revealing moments in the company’s 
 <a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brick by Brick">Brick by Brick</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Covers the product-expansion mistakes that hurt LEGO&#x27;s core business.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Brick+by+Brick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
