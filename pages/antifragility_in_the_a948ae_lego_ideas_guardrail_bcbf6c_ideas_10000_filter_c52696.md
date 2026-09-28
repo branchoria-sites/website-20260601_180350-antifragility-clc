@@ -841,7 +841,7 @@ That is why 10,000 votes matter and why they are not enough. The threshold ident
 12.<a id="endnote-12"></a>
    Source: ideas.lego.com  
    Title: agree policies  
-   Link:<a href="https://ideas.lego.com/agree_policies" target="_blank" rel="noopener noreferrer nofollow">https://ideas.lego.com/agree_policies</a>  
+   Link:<a href="http://web.archive.org/web/20250819012555/https://ideas.lego.com/agree_policies" target="_blank" rel="noopener noreferrer nofollow">http://web.archive.org/web/20250819012555/https://ideas.lego.com/agree_policies</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Policies Have ChangedYour submissions must be your own work and no one else&#x27;s, unless you are formally collaborating with another person...</p></details>
 
 13.<a id="endnote-13"></a>
