@@ -266,6 +266,7 @@ next_link:
   short_title: Minecraft Signal
   heading_title: Why LEGO Minecraft Became a Demand Clue
 date: '2026-06-11 21:40:26 '
+last_modified_at: '2026-06-11 21:40:26 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1.webp

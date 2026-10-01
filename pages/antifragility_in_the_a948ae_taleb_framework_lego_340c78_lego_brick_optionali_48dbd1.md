@@ -260,6 +260,7 @@ next_link:
   short_title: Crisis Learning
   heading_title: How LEGO's Crisis Became a Learning System
 date: '2026-06-11 21:41:13 '
+last_modified_at: '2026-06-11 21:41:13 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1.webp

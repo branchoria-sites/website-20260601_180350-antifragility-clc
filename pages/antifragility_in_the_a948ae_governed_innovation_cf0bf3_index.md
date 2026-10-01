@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-governed/
 description: Focused pages that expand on Governed Bets.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_governed_innovation_cf0bf3
 parent_title: Governed Bets

@@ -266,6 +266,7 @@ next_link:
   short_title: Limits
   heading_title: Why LEGO Is Not Fully Antifragile
 date: '2026-06-11 21:40:05 '
+last_modified_at: '2026-06-11 21:40:05 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1.webp

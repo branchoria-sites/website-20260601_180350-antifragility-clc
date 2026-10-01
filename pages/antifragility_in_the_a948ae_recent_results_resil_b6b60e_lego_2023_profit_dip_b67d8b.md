@@ -260,6 +260,7 @@ prev_link:
   short_title: Portfolio
   heading_title: Why LEGO's range became a shock absorber
 date: '2026-06-11 21:40:58 '
+last_modified_at: '2026-06-11 21:40:58 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_2023_profit_dip_b67d8b-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_2023_profit_dip_b67d8b-Illustration-1.webp

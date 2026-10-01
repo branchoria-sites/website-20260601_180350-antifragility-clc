@@ -266,6 +266,7 @@ next_link:
   short_title: How LEGO s
   heading_title: Why LEGO Needs More Than Toy Shelves
 date: '2026-06-11 21:39:40 '
+last_modified_at: '2026-06-11 21:39:40 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1.webp

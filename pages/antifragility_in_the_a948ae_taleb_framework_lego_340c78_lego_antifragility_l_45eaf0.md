@@ -266,6 +266,7 @@ next_link:
   short_title: Overexpansion
   heading_title: Why LEGO's Expansion Made It Fragile
 date: '2026-06-11 21:41:12 '
+last_modified_at: '2026-06-11 21:41:12 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_antifragility_l_45eaf0-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_antifragility_l_45eaf0-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Display Value
   heading_title: Why LEGO became something adults display
 date: '2026-06-11 21:39:23 '
+last_modified_at: '2026-06-11 21:39:23 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_decor_sets_new_buyer_b66cfb-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_decor_sets_new_buyer_b66cfb-Illustration-1.webp

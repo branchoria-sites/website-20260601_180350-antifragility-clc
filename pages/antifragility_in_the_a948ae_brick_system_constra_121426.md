@@ -344,6 +344,7 @@ next_link:
   short_title: Complexity
   heading_title: When More LEGO Products Made LEGO Weaker
 date: '2026-06-11 21:39:01 '
+last_modified_at: '2026-06-11 21:39:01 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-overview.webp

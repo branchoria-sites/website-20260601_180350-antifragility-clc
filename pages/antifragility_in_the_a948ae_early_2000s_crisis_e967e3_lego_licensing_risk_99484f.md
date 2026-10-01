@@ -266,6 +266,7 @@ next_link:
   short_title: Product Sprawl
   heading_title: When LEGO Innovation Became Too Much
 date: '2026-06-11 21:39:31 '
+last_modified_at: '2026-06-11 21:39:31 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1.webp

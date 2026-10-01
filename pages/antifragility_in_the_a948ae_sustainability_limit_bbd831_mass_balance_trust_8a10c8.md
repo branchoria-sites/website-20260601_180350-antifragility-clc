@@ -266,6 +266,7 @@ next_link:
   short_title: Packaging
   heading_title: Why LEGO Bags Can Change Before Bricks
 date: '2026-06-11 21:39:50 '
+last_modified_at: '2026-06-11 21:39:50 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1.webp

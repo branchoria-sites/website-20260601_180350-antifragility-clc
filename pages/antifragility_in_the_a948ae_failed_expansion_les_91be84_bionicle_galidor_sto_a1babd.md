@@ -266,6 +266,7 @@ next_link:
   short_title: System Fit
   heading_title: The Test LEGO Learned From Its Flops
 date: '2026-06-11 21:40:16 '
+last_modified_at: '2026-06-11 21:40:16 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-1.webp

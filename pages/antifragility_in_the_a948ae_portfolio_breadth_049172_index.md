@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-portfolio/
 description: Focused pages that expand on Portfolio.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_portfolio_breadth_049172
 parent_title: Portfolio

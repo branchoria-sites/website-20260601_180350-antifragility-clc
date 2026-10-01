@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-recent/
 description: Focused pages that expand on Recent Results.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_recent_results_resil_b6b60e
 parent_title: Recent Results

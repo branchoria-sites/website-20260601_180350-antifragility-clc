@@ -260,6 +260,7 @@ prev_link:
   short_title: Story Test
   heading_title: Why Bionicle Worked Where Galidor Struggled
 date: '2026-06-11 21:40:17 '
+last_modified_at: '2026-06-11 21:40:17 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-licensed/
 description: Focused pages that expand on Licensed Themes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_licensed_theme_trend_11e7d9
 parent_title: Licensed Themes

@@ -266,6 +266,7 @@ next_link:
   short_title: Portfolio Mix
   heading_title: Can More LEGO Sets Mean Less Seasonal Risk?
 date: '2026-06-11 21:40:06 '
+last_modified_at: '2026-06-11 21:40:06 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1.webp

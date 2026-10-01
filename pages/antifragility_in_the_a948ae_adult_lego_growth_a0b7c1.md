@@ -338,6 +338,7 @@ next_link:
   short_title: Brick System
   heading_title: Why the Brick Became LEGO's Best Constraint
 date: '2026-06-11 21:38:56 '
+last_modified_at: '2026-06-11 21:38:56 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overview.webp

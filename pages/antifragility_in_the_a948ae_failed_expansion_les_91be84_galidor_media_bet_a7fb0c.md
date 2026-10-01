@@ -266,6 +266,7 @@ next_link:
   short_title: Park Strain
   heading_title: When a Great Brand Experience Becomes Too Heavy
 date: '2026-06-11 21:39:34 '
+last_modified_at: '2026-06-11 21:39:34 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-1.webp

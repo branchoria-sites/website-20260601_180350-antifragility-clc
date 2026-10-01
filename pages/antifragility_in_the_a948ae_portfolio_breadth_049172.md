@@ -344,6 +344,7 @@ next_link:
   short_title: Recent Results
   heading_title: What Recent LEGO Results Really Prove
 date: '2026-06-11 21:38:57 '
+last_modified_at: '2026-06-11 21:38:57 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172-overview.webp
