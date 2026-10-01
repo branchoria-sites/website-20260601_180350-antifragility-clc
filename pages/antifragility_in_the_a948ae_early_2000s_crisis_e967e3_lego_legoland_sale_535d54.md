@@ -266,6 +266,7 @@ next_link:
   short_title: Licensing Risk
   heading_title: The Hidden Risk in LEGO Movie Tie Ins
 date: '2026-06-11 21:39:19 '
+last_modified_at: '2026-06-11 21:39:19 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_legoland_sale_535d54-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_legoland_sale_535d54-Illustration-1.webp

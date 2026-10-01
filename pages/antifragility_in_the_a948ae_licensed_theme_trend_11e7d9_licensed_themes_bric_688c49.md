@@ -260,6 +260,7 @@ next_link:
   short_title: Fortnite
   heading_title: When a LEGO game becomes a toy line
 date: '2026-06-11 21:40:43 '
+last_modified_at: '2026-06-11 21:40:43 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_licensed_themes_bric_688c49-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_licensed_themes_bric_688c49-Illustration-1.webp

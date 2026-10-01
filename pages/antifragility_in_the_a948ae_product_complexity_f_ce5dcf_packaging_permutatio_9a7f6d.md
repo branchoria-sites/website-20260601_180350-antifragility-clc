@@ -266,6 +266,7 @@ next_link:
   short_title: Partner Shift
   heading_title: Why LEGO Did Not Need to Do Everything
 date: '2026-06-11 21:40:54 '
+last_modified_at: '2026-06-11 21:40:54 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1.webp

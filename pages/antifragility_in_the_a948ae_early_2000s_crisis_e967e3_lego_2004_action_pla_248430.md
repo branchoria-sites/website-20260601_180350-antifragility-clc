@@ -260,6 +260,7 @@ next_link:
   short_title: Faster Cycles
   heading_title: How LEGO Learned to Move Faster
 date: '2026-06-11 21:39:45 '
+last_modified_at: '2026-06-11 21:39:45 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-1.webp

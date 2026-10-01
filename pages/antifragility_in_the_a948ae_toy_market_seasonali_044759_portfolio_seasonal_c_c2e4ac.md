@@ -266,6 +266,7 @@ next_link:
   short_title: Regional Supply
   heading_title: Why Nearby Factories Matter Before Christmas
 date: '2026-06-11 21:41:20 '
+last_modified_at: '2026-06-11 21:41:20 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1.webp

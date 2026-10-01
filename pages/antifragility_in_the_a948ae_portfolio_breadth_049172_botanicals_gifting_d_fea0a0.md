@@ -266,6 +266,7 @@ next_link:
   short_title: Complexity Risk
   heading_title: When More LEGO Sets Become a Risk
 date: '2026-06-11 21:39:38 '
+last_modified_at: '2026-06-11 21:39:38 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_botanicals_gifting_d_fea0a0-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_botanicals_gifting_d_fea0a0-Illustration-1.webp

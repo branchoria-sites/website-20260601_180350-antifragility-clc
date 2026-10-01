@@ -344,6 +344,7 @@ next_link:
   short_title: Portfolio
   heading_title: How LEGO Built More Ways To Grow
 date: '2026-06-11 21:39:08 '
+last_modified_at: '2026-06-11 21:39:08 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: PET Failure
   heading_title: Why Recycled Bottles Did Not Become Bricks
 date: '2026-06-11 21:41:07 '
+last_modified_at: '2026-06-11 21:41:07 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1.webp

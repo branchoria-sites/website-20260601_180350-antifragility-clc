@@ -260,6 +260,7 @@ next_link:
   short_title: Galidor Risk
   heading_title: When Did LEGO Stop Feeling Like LEGO?
 date: '2026-06-11 21:39:53 '
+last_modified_at: '2026-06-11 21:39:53 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-1.webp

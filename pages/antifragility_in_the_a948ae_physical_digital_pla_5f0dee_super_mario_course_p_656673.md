@@ -266,6 +266,7 @@ next_link:
   short_title: VIDIYO
   heading_title: What happens when a LEGO app disappears?
 date: '2026-06-11 21:40:49 '
+last_modified_at: '2026-06-11 21:40:49 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-1.webp

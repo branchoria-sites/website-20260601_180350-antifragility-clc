@@ -266,6 +266,7 @@ next_link:
   short_title: Super Mario
   heading_title: How LEGO made Mario playable in bricks
 date: '2026-06-11 21:40:38 '
+last_modified_at: '2026-06-11 21:40:38 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-1.webp

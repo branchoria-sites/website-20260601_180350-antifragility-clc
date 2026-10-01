@@ -266,6 +266,7 @@ next_link:
   short_title: Profit dip
   heading_title: The warning inside LEGO's strong year
 date: '2026-06-11 21:41:04 '
+last_modified_at: '2026-06-11 21:41:04 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1.webp

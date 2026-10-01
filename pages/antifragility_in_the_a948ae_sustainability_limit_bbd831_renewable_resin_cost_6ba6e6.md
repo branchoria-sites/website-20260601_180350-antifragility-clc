@@ -266,6 +266,7 @@ next_link:
   short_title: Mass Balance
   heading_title: Can a Greener Brick Look Exactly the Same?
 date: '2026-06-11 21:41:10 '
+last_modified_at: '2026-06-11 21:41:10 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1.webp

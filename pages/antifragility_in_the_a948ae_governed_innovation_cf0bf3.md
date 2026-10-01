@@ -344,6 +344,7 @@ next_link:
   short_title: LEGO Ideas
   heading_title: Why LEGO Ideas Is Not Just Crowdsourcing
 date: '2026-06-11 21:39:00 '
+last_modified_at: '2026-06-11 21:39:00 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3-overview.webp

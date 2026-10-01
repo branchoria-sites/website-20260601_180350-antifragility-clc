@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-taleb/
 description: Focused pages that expand on Framework.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: antifragility_in_the_a948ae_taleb_framework_lego_340c78
 parent_title: Framework

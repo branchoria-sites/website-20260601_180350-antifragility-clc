@@ -256,6 +256,7 @@ prev_link:
   short_title: Evergreen Themes
   heading_title: The Quiet Power of LEGO's Evergreen Themes
 date: '2026-06-11 21:39:41 '
+last_modified_at: '2026-06-11 21:39:41 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_how_lego_s_retail_ch_94f2f7-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_how_lego_s_retail_ch_94f2f7-Illustration-1.webp

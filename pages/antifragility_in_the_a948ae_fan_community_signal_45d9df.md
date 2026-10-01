@@ -344,6 +344,7 @@ next_link:
   short_title: Framework
   heading_title: Is LEGO Really Antifragile or Just Resilient?
 date: '2026-06-11 21:39:04 '
+last_modified_at: '2026-06-11 21:39:04 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-overview.webp

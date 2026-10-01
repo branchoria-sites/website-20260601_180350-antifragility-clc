@@ -260,6 +260,7 @@ next_link:
   short_title: Investment
   heading_title: Why LEGO kept spending during pressure
 date: '2026-06-11 21:40:03 '
+last_modified_at: '2026-06-11 21:40:03 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1.webp
