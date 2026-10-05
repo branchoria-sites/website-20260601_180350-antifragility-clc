@@ -260,6 +260,7 @@ next_link:
   short_title: Cost Pressure
   heading_title: Who Pays for Greener LEGO Bricks?
 date: '2026-06-11 21:41:05 '
+last_modified_at: '2026-06-11 21:41:05 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-1.webp

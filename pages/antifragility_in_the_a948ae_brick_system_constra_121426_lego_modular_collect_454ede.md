@@ -260,6 +260,7 @@ prev_link:
   short_title: Materials
   heading_title: Why Greener LEGO Bricks Are So Hard
 date: '2026-06-11 21:40:13 '
+last_modified_at: '2026-06-11 21:40:13 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_modular_collect_454ede-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_modular_collect_454ede-Illustration-1.webp

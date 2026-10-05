@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-failed/
 description: Focused pages that expand on Failed Bets.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: antifragility_in_the_a948ae_failed_expansion_les_91be84
 parent_title: Failed Bets

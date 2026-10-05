@@ -260,6 +260,7 @@ next_link:
   short_title: Galidor Media
   heading_title: Why Galidor Needed Too Many Things to Work
 date: '2026-06-11 21:40:19 '
+last_modified_at: '2026-06-11 21:40:19 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-1.webp

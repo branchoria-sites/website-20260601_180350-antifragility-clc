@@ -344,6 +344,7 @@ next_link:
   short_title: Seasonality
   heading_title: Why Toy Seasonality Tests LEGO's Strength
 date: '2026-06-11 21:39:12 '
+last_modified_at: '2026-06-11 21:39:12 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e-overview.webp

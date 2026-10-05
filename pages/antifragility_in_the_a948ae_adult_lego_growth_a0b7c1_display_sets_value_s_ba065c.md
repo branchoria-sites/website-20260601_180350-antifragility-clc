@@ -266,6 +266,7 @@ next_link:
   short_title: Kidult Demand
   heading_title: Can adult buyers steady LEGO's growth?
 date: '2026-06-11 21:39:25 '
+last_modified_at: '2026-06-11 21:39:25 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1.webp

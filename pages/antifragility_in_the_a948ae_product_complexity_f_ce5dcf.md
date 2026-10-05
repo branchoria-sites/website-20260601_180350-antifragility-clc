@@ -344,6 +344,7 @@ next_link:
   short_title: Crisis Test
   heading_title: What LEGO's Crisis Revealed About Fragility
 date: '2026-06-11 21:39:11 '
+last_modified_at: '2026-06-11 21:39:11 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-overview.webp

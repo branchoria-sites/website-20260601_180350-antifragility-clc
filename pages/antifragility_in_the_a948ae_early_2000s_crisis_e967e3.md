@@ -344,6 +344,7 @@ next_link:
   short_title: Digital Play
   heading_title: Can LEGO Adapt Without Losing the Brick?
 date: '2026-06-11 21:38:59 '
+last_modified_at: '2026-06-11 21:38:59 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3-overview.webp

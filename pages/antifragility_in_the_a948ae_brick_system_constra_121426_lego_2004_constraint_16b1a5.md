@@ -260,6 +260,7 @@ next_link:
   short_title: Compatibility
   heading_title: Why Old LEGO Bricks Still Matter
 date: '2026-06-11 21:40:09 '
+last_modified_at: '2026-06-11 21:40:09 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1.webp

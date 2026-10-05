@@ -266,6 +266,7 @@ next_link:
   short_title: Market share
   heading_title: How LEGO grew while toys slowed
 date: '2026-06-11 21:41:00 '
+last_modified_at: '2026-06-11 21:41:00 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-1.webp

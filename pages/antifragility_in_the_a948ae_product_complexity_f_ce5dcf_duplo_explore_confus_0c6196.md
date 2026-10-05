@@ -260,6 +260,7 @@ prev_link:
   short_title: Special Parts
   heading_title: Why Some LEGO Failures Left More Waste
 date: '2026-06-11 21:40:52 '
+last_modified_at: '2026-06-11 21:40:52 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_duplo_explore_confus_0c6196-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_duplo_explore_confus_0c6196-Illustration-1.webp

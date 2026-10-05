@@ -266,6 +266,7 @@ next_link:
   short_title: LEGO Games
   heading_title: The Board Games That Tested Safer Innovation
 date: '2026-06-11 21:39:55 '
+last_modified_at: '2026-06-11 21:39:55 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-1.webp

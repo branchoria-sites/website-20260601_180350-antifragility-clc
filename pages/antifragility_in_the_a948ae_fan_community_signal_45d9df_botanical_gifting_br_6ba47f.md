@@ -266,6 +266,7 @@ next_link:
   short_title: Brick Link
   heading_title: What Brick Link Revealed That Surveys Missed
 date: '2026-06-11 21:40:24 '
+last_modified_at: '2026-06-11 21:40:24 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1.webp

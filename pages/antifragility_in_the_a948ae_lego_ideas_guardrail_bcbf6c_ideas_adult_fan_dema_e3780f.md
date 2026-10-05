@@ -266,6 +266,7 @@ next_link:
   short_title: Licensing
   heading_title: Why Some Popular LEGO Ideas Cannot Win
 date: '2026-06-11 21:40:31 '
+last_modified_at: '2026-06-11 21:40:31 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_adult_fan_dema_e3780f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_adult_fan_dema_e3780f-Illustration-1.webp

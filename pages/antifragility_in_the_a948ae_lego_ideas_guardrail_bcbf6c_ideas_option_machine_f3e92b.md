@@ -266,6 +266,7 @@ next_link:
   short_title: Review Gate
   heading_title: What Happens After a Fan Model Wins
 date: '2026-06-11 21:40:35 '
+last_modified_at: '2026-06-11 21:40:35 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_option_machine_f3e92b-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_option_machine_f3e92b-Illustration-1.webp

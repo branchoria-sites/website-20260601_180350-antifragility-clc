@@ -266,6 +266,7 @@ next_link:
   short_title: Vote Risk
   heading_title: When Fan Excitement Can Mislead LEGO
 date: '2026-06-11 21:40:29 '
+last_modified_at: '2026-06-11 21:40:29 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1.webp

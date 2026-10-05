@@ -266,6 +266,7 @@ next_link:
   short_title: SPIKE sunset
   heading_title: Can a LEGO robot outlive its software?
 date: '2026-06-11 21:40:45 '
+last_modified_at: '2026-06-11 21:40:45 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1.webp

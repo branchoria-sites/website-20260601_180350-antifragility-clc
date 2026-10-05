@@ -266,6 +266,7 @@ next_link:
   short_title: Toy Fads
   heading_title: When Fads Move Faster Than Factory Plans
 date: '2026-06-11 21:41:21 '
+last_modified_at: '2026-06-11 21:41:21 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1.webp

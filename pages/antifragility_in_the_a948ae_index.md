@@ -7,7 +7,8 @@ nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-index/
 description: Focused pages that expand on antifragility in the context of the Lego
   company.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: antifragility_in_the_a948ae
 parent_title: antifragility in the context of the Lego company

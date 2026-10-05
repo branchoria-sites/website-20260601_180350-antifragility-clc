@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antifragility-in-the-a948ae-physical/
 description: Focused pages that expand on Digital Play.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: antifragility_in_the_a948ae_physical_digital_pla_5f0dee
 parent_title: Digital Play

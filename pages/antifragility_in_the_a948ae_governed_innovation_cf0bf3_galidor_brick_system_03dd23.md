@@ -266,6 +266,7 @@ next_link:
   short_title: Innovation Board
   heading_title: Who Decided Which LEGO Ideas Survived?
 date: '2026-06-11 21:39:56 '
+last_modified_at: '2026-06-11 21:39:56 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_galidor_brick_system_03dd23-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_galidor_brick_system_03dd23-Illustration-1.webp

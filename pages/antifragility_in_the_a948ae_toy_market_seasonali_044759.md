@@ -344,6 +344,7 @@ next_link:
   short_title: Sustainability
   heading_title: Where LEGO's Antifragility Hits Hard Limits
 date: '2026-06-11 21:39:16 '
+last_modified_at: '2026-06-11 21:39:16 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-overview-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-overview.webp

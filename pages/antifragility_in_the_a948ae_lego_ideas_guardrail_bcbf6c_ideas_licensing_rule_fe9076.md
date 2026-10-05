@@ -266,6 +266,7 @@ next_link:
   short_title: Options
   heading_title: How LEGO Turns Fan Chaos Into Options
 date: '2026-06-11 21:40:33 '
+last_modified_at: '2026-06-11 21:40:33 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1.webp

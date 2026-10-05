@@ -266,6 +266,7 @@ next_link:
   short_title: LEGO Universe
   heading_title: What LEGO Learned From a Digital Failure
 date: '2026-06-11 21:39:58 '
+last_modified_at: '2026-06-11 21:39:58 '
 header:
   og_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-1-social.jpg
   preview_image: /assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-1.webp
