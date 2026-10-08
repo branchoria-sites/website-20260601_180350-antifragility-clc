@@ -209,7 +209,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-adult-lego-growth-a0b7c1" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-sets/' | relative_url }}" title="Why Adults Became Central to LEGO Growth | Antifragility In The" aria-label="Open page: Why Adults Became Central to LEGO Growth | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-sets/' | relative_url }}" title="Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1-overview.webp' | relative_url }}" alt="Overview image for Why Adults Became Central to LEGO Growth | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -231,7 +231,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-adult-lego-growth-a0b7c1-kidult-spending-resi-653e98" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'kidult-demand/' | relative_url }}" title="Can adult buyers steady LEGO&#x27;s growth? | Antifragility In The A948 Ae Adult Lego Growth" aria-label="Open page: Can adult buyers steady LEGO&#x27;s growth? | Antifragility In The A948 Ae Adult Lego Growth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kidult-demand/' | relative_url }}" title="Can adult buyers steady LEGO's growth? | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Can adult buyers steady LEGO's growth? | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_kidult_spending_resi_653e98-Illustration-1.webp' | relative_url }}" alt="Overview image for Can adult buyers steady LEGO&#x27;s growth? | Antifragility In The A948 Ae Adult Lego Growth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -251,7 +251,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-adult-lego-growth-a0b7c1-decor-sets-new-buyer-b66cfb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'decor-sets/' | relative_url }}" title="How LEGO found buyers beyond fandom | Antifragility In The A948 Ae Adult Lego Growth" aria-label="Open page: How LEGO found buyers beyond fandom | Antifragility In The A948 Ae Adult Lego Growth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'decor-sets/' | relative_url }}" title="How LEGO found buyers beyond fandom | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO found buyers beyond fandom | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_decor_sets_new_buyer_b66cfb-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO found buyers beyond fandom | Antifragility In The A948 Ae Adult Lego Growth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -271,7 +271,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-adult-lego-growth-a0b7c1-mindful-building-rit-b7115a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mindful-build/' | relative_url }}" title="Why adults build LEGO to unwind | Antifragility In The A948 Ae Adult Lego Growth" aria-label="Open page: Why adults build LEGO to unwind | Antifragility In The A948 Ae Adult Lego Growth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mindful-build/' | relative_url }}" title="Why adults build LEGO to unwind | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why adults build LEGO to unwind | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_mindful_building_rit_b7115a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why adults build LEGO to unwind | Antifragility In The A948 Ae Adult Lego Growth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -291,7 +291,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-adult-lego-growth-a0b7c1-premium-price-ladder-cddae9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'price-ladder/' | relative_url }}" title="Why adults pay more for LEGO | Antifragility In The A948 Ae Adult Lego Growth" aria-label="Open page: Why adults pay more for LEGO | Antifragility In The A948 Ae Adult Lego Growth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'price-ladder/' | relative_url }}" title="Why adults pay more for LEGO | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why adults pay more for LEGO | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_premium_price_ladder_cddae9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why adults pay more for LEGO | Antifragility In The A948 Ae Adult Lego Growth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -311,7 +311,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-adult-lego-growth-a0b7c1-display-sets-value-s-ba065c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'display-value/' | relative_url }}" title="Why LEGO became something adults display | Antifragility In The A948 Ae Adult Lego Growth" aria-label="Open page: Why LEGO became something adults display | Antifragility In The A948 Ae Adult Lego Growth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'display-value/' | relative_url }}" title="Why LEGO became something adults display | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO became something adults display | Why Adults Became Central to LEGO Growth | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_adult_lego_growth_a0b7c1_display_sets_value_s_ba065c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO became something adults display | Antifragility In The A948 Ae Adult Lego Growth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -333,7 +333,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-brick-system-constra-121426" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-system/' | relative_url }}" title="Why the Brick Became LEGO&#x27;s Best Constraint | Antifragility In The" aria-label="Open page: Why the Brick Became LEGO&#x27;s Best Constraint | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-system/' | relative_url }}" title="Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_brick_system_constra_121426-overview.webp' | relative_url }}" alt="Overview image for Why the Brick Became LEGO&#x27;s Best Constraint | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -355,7 +355,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-brick-system-constra-121426-lego-ideas-fan-const-d70286" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-ideas-69c96a/' | relative_url }}" title="How Fans Build Inside LEGO&#x27;s Rules | Antifragility In The A948 Ae Brick System Constra" aria-label="Open page: How Fans Build Inside LEGO&#x27;s Rules | Antifragility In The A948 Ae Brick System Constra">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-ideas-69c96a/' | relative_url }}" title="How Fans Build Inside LEGO's Rules | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How Fans Build Inside LEGO's Rules | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_ideas_fan_const_d70286-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fans Build Inside LEGO&#x27;s Rules | Antifragility In The A948 Ae Brick System Constra" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -375,7 +375,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-brick-system-constra-121426-lego-2004-constraint-16b1a5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '2004-refocus/' | relative_url }}" title="When LEGO Learned What Not to Build | Antifragility In The A948 Ae Brick System Constra" aria-label="Open page: When LEGO Learned What Not to Build | Antifragility In The A948 Ae Brick System Constra">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '2004-refocus/' | relative_url }}" title="When LEGO Learned What Not to Build | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When LEGO Learned What Not to Build | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_2004_constraint_16b1a5-Illustration-1.webp' | relative_url }}" alt="Overview image for When LEGO Learned What Not to Build | Antifragility In The A948 Ae Brick System Constra" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -395,7 +395,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-brick-system-constra-121426-sustainable-brick-tr-912415" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'materials/' | relative_url }}" title="Why Greener LEGO Bricks Are So Hard | Antifragility In The A948 Ae Brick System Constra" aria-label="Open page: Why Greener LEGO Bricks Are So Hard | Antifragility In The A948 Ae Brick System Constra">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'materials/' | relative_url }}" title="Why Greener LEGO Bricks Are So Hard | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Greener LEGO Bricks Are So Hard | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_sustainable_brick_tr_912415-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Greener LEGO Bricks Are So Hard | Antifragility In The A948 Ae Brick System Constra" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -415,7 +415,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-brick-system-constra-121426-lego-modular-collect-454ede" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'modulars/' | relative_url }}" title="Why LEGO Modular Streets Keep Growing | Antifragility In The A948 Ae Brick System Constra" aria-label="Open page: Why LEGO Modular Streets Keep Growing | Antifragility In The A948 Ae Brick System Constra">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'modulars/' | relative_url }}" title="Why LEGO Modular Streets Keep Growing | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Modular Streets Keep Growing | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_lego_modular_collect_454ede-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Modular Streets Keep Growing | Antifragility In The A948 Ae Brick System Constra" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -435,7 +435,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-brick-system-constra-121426-brick-compatibility-d2894f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'compatibility/' | relative_url }}" title="Why Old LEGO Bricks Still Matter | Antifragility In The A948 Ae Brick System Constra" aria-label="Open page: Why Old LEGO Bricks Still Matter | Antifragility In The A948 Ae Brick System Constra">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'compatibility/' | relative_url }}" title="Why Old LEGO Bricks Still Matter | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Old LEGO Bricks Still Matter | Why the Brick Became LEGO's Best Constraint | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_brick_system_constra_121426_brick_compatibility_d2894f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Old LEGO Bricks Still Matter | Antifragility In The A948 Ae Brick System Constra" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -457,7 +457,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-product-complexity-f-ce5dcf" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'complexity/' | relative_url }}" title="When More LEGO Products Made LEGO Weaker | Antifragility In The" aria-label="Open page: When More LEGO Products Made LEGO Weaker | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'complexity/' | relative_url }}" title="When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf-overview.webp' | relative_url }}" alt="Overview image for When More LEGO Products Made LEGO Weaker | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -479,7 +479,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-product-complexity-f-ce5dcf-packaging-permutatio-9a7f6d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'packaging-drag/' | relative_url }}" title="The Hidden Cost of Too Many Boxes | Antifragility In The A948 Ae Product Complexity" aria-label="Open page: The Hidden Cost of Too Many Boxes | Antifragility In The A948 Ae Product Complexity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'packaging-drag/' | relative_url }}" title="The Hidden Cost of Too Many Boxes | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The Hidden Cost of Too Many Boxes | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_packaging_permutatio_9a7f6d-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Cost of Too Many Boxes | Antifragility In The A948 Ae Product Complexity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -499,7 +499,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-product-complexity-f-ce5dcf-core-sales-cannibali-94abc8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cannibalisation/' | relative_url }}" title="When More LEGO Products Hurt the Core | Antifragility In The A948 Ae Product Complexity" aria-label="Open page: When More LEGO Products Hurt the Core | Antifragility In The A948 Ae Product Complexity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cannibalisation/' | relative_url }}" title="When More LEGO Products Hurt the Core | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When More LEGO Products Hurt the Core | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_core_sales_cannibali_94abc8-Illustration-1.webp' | relative_url }}" alt="Overview image for When More LEGO Products Hurt the Core | Antifragility In The A948 Ae Product Complexity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -519,7 +519,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-product-complexity-f-ce5dcf-partnering-complexit-5c6207" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'partner-shift/' | relative_url }}" title="Why LEGO Did Not Need to Do Everything | Antifragility In The A948 Ae Product Complexity" aria-label="Open page: Why LEGO Did Not Need to Do Everything | Antifragility In The A948 Ae Product Complexity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'partner-shift/' | relative_url }}" title="Why LEGO Did Not Need to Do Everything | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Did Not Need to Do Everything | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_partnering_complexit_5c6207-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Did Not Need to Do Everything | Antifragility In The A948 Ae Product Complexity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -539,7 +539,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-product-complexity-f-ce5dcf-duplo-explore-confus-0c6196" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'the-short-lived-replacement-of-duplo/' | relative_url }}" title="Why Replacing DUPLO Made LEGO Less Clear | Antifragility In The A948 Ae Product Complexity" aria-label="Open page: Why Replacing DUPLO Made LEGO Less Clear | Antifragility In The A948 Ae Product Complexity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'the-short-lived-replacement-of-duplo/' | relative_url }}" title="Why Replacing DUPLO Made LEGO Less Clear | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Replacing DUPLO Made LEGO Less Clear | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_duplo_explore_confus_0c6196-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Replacing DUPLO Made LEGO Less Clear | Antifragility In The A948 Ae Product Complexity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -559,7 +559,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-product-complexity-f-ce5dcf-specialised-parts-co-a70ba8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'special-parts/' | relative_url }}" title="Why Some LEGO Failures Left More Waste | Antifragility In The A948 Ae Product Complexity" aria-label="Open page: Why Some LEGO Failures Left More Waste | Antifragility In The A948 Ae Product Complexity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'special-parts/' | relative_url }}" title="Why Some LEGO Failures Left More Waste | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Some LEGO Failures Left More Waste | When More LEGO Products Made LEGO Weaker | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_product_complexity_f_ce5dcf_specialised_parts_co_a70ba8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some LEGO Failures Left More Waste | Antifragility In The A948 Ae Product Complexity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -581,7 +581,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-early-2000s-crisis-e967e3" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crisis-test/' | relative_url }}" title="What LEGO&#x27;s Crisis Revealed About Fragility | Antifragility In The" aria-label="Open page: What LEGO&#x27;s Crisis Revealed About Fragility | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crisis-test/' | relative_url }}" title="What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3-overview.webp' | relative_url }}" alt="Overview image for What LEGO&#x27;s Crisis Revealed About Fragility | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -603,7 +603,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-early-2000s-crisis-e967e3-lego-faster-developm-1e4880" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'faster-cycles/' | relative_url }}" title="How LEGO Learned to Move Faster | Antifragility In The A948 Ae Early 2000 S Crisis" aria-label="Open page: How LEGO Learned to Move Faster | Antifragility In The A948 Ae Early 2000 S Crisis">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'faster-cycles/' | relative_url }}" title="How LEGO Learned to Move Faster | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Learned to Move Faster | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_faster_developm_1e4880-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO Learned to Move Faster | Antifragility In The A948 Ae Early 2000 S Crisis" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -623,7 +623,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-early-2000s-crisis-e967e3-lego-2004-action-pla-248430" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'action-plan/' | relative_url }}" title="How LEGO&#x27;s 2004 Reset Changed Everything | Antifragility In The A948 Ae Early 2000 S Crisis" aria-label="Open page: How LEGO&#x27;s 2004 Reset Changed Everything | Antifragility In The A948 Ae Early 2000 S Crisis">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'action-plan/' | relative_url }}" title="How LEGO's 2004 Reset Changed Everything | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO's 2004 Reset Changed Everything | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_2004_action_pla_248430-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO&#x27;s 2004 Reset Changed Everything | Antifragility In The A948 Ae Early 2000 S Crisis" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -643,7 +643,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-early-2000s-crisis-e967e3-lego-licensing-risk-99484f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensing-risk/' | relative_url }}" title="The Hidden Risk in LEGO Movie Tie Ins | Antifragility In The A948 Ae Early 2000 S Crisis" aria-label="Open page: The Hidden Risk in LEGO Movie Tie Ins | Antifragility In The A948 Ae Early 2000 S Crisis">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensing-risk/' | relative_url }}" title="The Hidden Risk in LEGO Movie Tie Ins | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The Hidden Risk in LEGO Movie Tie Ins | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_licensing_risk_99484f-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Risk in LEGO Movie Tie Ins | Antifragility In The A948 Ae Early 2000 S Crisis" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -663,7 +663,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-early-2000s-crisis-e967e3-lego-product-sprawl-2bc170" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'product-sprawl/' | relative_url }}" title="When LEGO Innovation Became Too Much | Antifragility In The A948 Ae Early 2000 S Crisis" aria-label="Open page: When LEGO Innovation Became Too Much | Antifragility In The A948 Ae Early 2000 S Crisis">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'product-sprawl/' | relative_url }}" title="When LEGO Innovation Became Too Much | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When LEGO Innovation Became Too Much | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_product_sprawl_2bc170-Illustration-1.webp' | relative_url }}" alt="Overview image for When LEGO Innovation Became Too Much | Antifragility In The A948 Ae Early 2000 S Crisis" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -683,7 +683,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-early-2000s-crisis-e967e3-lego-legoland-sale-535d54" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'legoland-sale/' | relative_url }}" title="Why LEGO Let Go of LEGOLAND Parks | Antifragility In The A948 Ae Early 2000 S Crisis" aria-label="Open page: Why LEGO Let Go of LEGOLAND Parks | Antifragility In The A948 Ae Early 2000 S Crisis">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'legoland-sale/' | relative_url }}" title="Why LEGO Let Go of LEGOLAND Parks | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Let Go of LEGOLAND Parks | What LEGO's Crisis Revealed About Fragility | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_early_2000s_crisis_e967e3_lego_legoland_sale_535d54-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Let Go of LEGOLAND Parks | Antifragility In The A948 Ae Early 2000 S Crisis" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -705,7 +705,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-physical-digital-pla-5f0dee" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'digital-play/' | relative_url }}" title="Can LEGO Adapt Without Losing the Brick? | Antifragility In The" aria-label="Open page: Can LEGO Adapt Without Losing the Brick? | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'digital-play/' | relative_url }}" title="Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee-overview.webp' | relative_url }}" alt="Overview image for Can LEGO Adapt Without Losing the Brick? | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -727,7 +727,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-physical-digital-pla-5f0dee-spike-software-sunse-a59379" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'spike-sunset/' | relative_url }}" title="Can a LEGO robot outlive its software? | Antifragility In The A948 Ae Physical Digital Pla" aria-label="Open page: Can a LEGO robot outlive its software? | Antifragility In The A948 Ae Physical Digital Pla">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'spike-sunset/' | relative_url }}" title="Can a LEGO robot outlive its software? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Can a LEGO robot outlive its software? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_spike_software_sunse_a59379-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a LEGO robot outlive its software? | Antifragility In The A948 Ae Physical Digital Pla" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -747,7 +747,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-physical-digital-pla-5f0dee-fortnite-digital-to-b369f0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fortnite/' | relative_url }}" title="Can Fortnite make LEGO more resilient? | Antifragility In The A948 Ae Physical Digital Pla" aria-label="Open page: Can Fortnite make LEGO more resilient? | Antifragility In The A948 Ae Physical Digital Pla">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fortnite/' | relative_url }}" title="Can Fortnite make LEGO more resilient? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Can Fortnite make LEGO more resilient? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_fortnite_digital_to_b369f0-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Fortnite make LEGO more resilient? | Antifragility In The A948 Ae Physical Digital Pla" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -767,7 +767,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-physical-digital-pla-5f0dee-hidden-side-ar-balan-622834" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-side/' | relative_url }}" title="Did Hidden Side keep the brick first? | Antifragility In The A948 Ae Physical Digital Pla" aria-label="Open page: Did Hidden Side keep the brick first? | Antifragility In The A948 Ae Physical Digital Pla">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-side/' | relative_url }}" title="Did Hidden Side keep the brick first? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Did Hidden Side keep the brick first? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_hidden_side_ar_balan_622834-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Hidden Side keep the brick first? | Antifragility In The A948 Ae Physical Digital Pla" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -787,7 +787,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-physical-digital-pla-5f0dee-vidiyo-app-risk-1ce8ae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vidiyo/' | relative_url }}" title="What happens when a LEGO app disappears? | Antifragility In The A948 Ae Physical Digital Pla" aria-label="Open page: What happens when a LEGO app disappears? | Antifragility In The A948 Ae Physical Digital Pla">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vidiyo/' | relative_url }}" title="What happens when a LEGO app disappears? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What happens when a LEGO app disappears? | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_vidiyo_app_risk_1ce8ae-Illustration-1.webp' | relative_url }}" alt="Overview image for What happens when a LEGO app disappears? | Antifragility In The A948 Ae Physical Digital Pla" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -807,7 +807,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-physical-digital-pla-5f0dee-super-mario-course-p-656673" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'super-mario-b093bb/' | relative_url }}" title="Why Super Mario makes digital LEGO sturdier | Antifragility In The A948 Ae Physical Digital Pla" aria-label="Open page: Why Super Mario makes digital LEGO sturdier | Antifragility In The A948 Ae Physical Digital Pla">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'super-mario-b093bb/' | relative_url }}" title="Why Super Mario makes digital LEGO sturdier | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Super Mario makes digital LEGO sturdier | Can LEGO Adapt Without Losing the Brick? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_physical_digital_pla_5f0dee_super_mario_course_p_656673-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Super Mario makes digital LEGO sturdier | Antifragility In The A948 Ae Physical Digital Pla" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -829,7 +829,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-failed-expansion-les-91be84" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'failed-bets/' | relative_url }}" title="What LEGO&#x27;s Failed Bets Taught the Company | Antifragility In The" aria-label="Open page: What LEGO&#x27;s Failed Bets Taught the Company | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'failed-bets/' | relative_url }}" title="What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84-overview.webp' | relative_url }}" alt="Overview image for What LEGO&#x27;s Failed Bets Taught the Company | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -851,7 +851,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-failed-expansion-les-91be84-clikits-fashion-cycl-cf41ec" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'clikits-risk/' | relative_url }}" title="The Problem With Turning LEGO Into Fashion | Antifragility In The A948 Ae Failed Expansion Les" aria-label="Open page: The Problem With Turning LEGO Into Fashion | Antifragility In The A948 Ae Failed Expansion Les">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'clikits-risk/' | relative_url }}" title="The Problem With Turning LEGO Into Fashion | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The Problem With Turning LEGO Into Fashion | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_clikits_fashion_cycl_cf41ec-Illustration-1.webp' | relative_url }}" alt="Overview image for The Problem With Turning LEGO Into Fashion | Antifragility In The A948 Ae Failed Expansion Les" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -871,7 +871,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-failed-expansion-les-91be84-brand-vs-system-exte-e37db1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'system-fit/' | relative_url }}" title="The Test LEGO Learned From Its Flops | Antifragility In The A948 Ae Failed Expansion Les" aria-label="Open page: The Test LEGO Learned From Its Flops | Antifragility In The A948 Ae Failed Expansion Les">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'system-fit/' | relative_url }}" title="The Test LEGO Learned From Its Flops | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The Test LEGO Learned From Its Flops | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_brand_vs_system_exte_e37db1-Illustration-1.webp' | relative_url }}" alt="Overview image for The Test LEGO Learned From Its Flops | Antifragility In The A948 Ae Failed Expansion Les" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -891,7 +891,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-failed-expansion-les-91be84-legoland-operating-m-0351c0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'park-strain/' | relative_url }}" title="When a Great Brand Experience Becomes Too Heavy | Antifragility In The A948 Ae Failed Expansion Les" aria-label="Open page: When a Great Brand Experience Becomes Too Heavy | Antifragility In The A948 Ae Failed Expansion Les">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'park-strain/' | relative_url }}" title="When a Great Brand Experience Becomes Too Heavy | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When a Great Brand Experience Becomes Too Heavy | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_legoland_operating_m_0351c0-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Great Brand Experience Becomes Too Heavy | Antifragility In The A948 Ae Failed Expansion Les" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -911,7 +911,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-failed-expansion-les-91be84-bionicle-galidor-sto-a1babd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'story-test/' | relative_url }}" title="Why Bionicle Worked Where Galidor Struggled | Antifragility In The A948 Ae Failed Expansion Les" aria-label="Open page: Why Bionicle Worked Where Galidor Struggled | Antifragility In The A948 Ae Failed Expansion Les">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'story-test/' | relative_url }}" title="Why Bionicle Worked Where Galidor Struggled | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Bionicle Worked Where Galidor Struggled | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_bionicle_galidor_sto_a1babd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bionicle Worked Where Galidor Struggled | Antifragility In The A948 Ae Failed Expansion Les" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -931,7 +931,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-failed-expansion-les-91be84-galidor-media-bet-a7fb0c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'galidor-media/' | relative_url }}" title="Why Galidor Needed Too Many Things to Work | Antifragility In The A948 Ae Failed Expansion Les" aria-label="Open page: Why Galidor Needed Too Many Things to Work | Antifragility In The A948 Ae Failed Expansion Les">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'galidor-media/' | relative_url }}" title="Why Galidor Needed Too Many Things to Work | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Galidor Needed Too Many Things to Work | What LEGO's Failed Bets Taught the Company | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_failed_expansion_les_91be84_galidor_media_bet_a7fb0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Galidor Needed Too Many Things to Work | Antifragility In The A948 Ae Failed Expansion Les" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -953,7 +953,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-fan-community-signal-45d9df" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-signals/' | relative_url }}" title="How LEGO Fans Became a Market Sensor | Antifragility In The" aria-label="Open page: How LEGO Fans Became a Market Sensor | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-signals/' | relative_url }}" title="How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df-overview.webp' | relative_url }}" alt="Overview image for How LEGO Fans Became a Market Sensor | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -975,7 +975,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-fan-community-signal-45d9df-adult-fans-display-s-a7a1e8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-fans/' | relative_url }}" title="How Adult Fans Changed What LEGO Could Sell | Antifragility In The A948 Ae Fan Community Signal" aria-label="Open page: How Adult Fans Changed What LEGO Could Sell | Antifragility In The A948 Ae Fan Community Signal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-fans/' | relative_url }}" title="How Adult Fans Changed What LEGO Could Sell | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How Adult Fans Changed What LEGO Could Sell | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_adult_fans_display_s_a7a1e8-Illustration-1.webp' | relative_url }}" alt="Overview image for How Adult Fans Changed What LEGO Could Sell | Antifragility In The A948 Ae Fan Community Signal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -995,7 +995,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-fan-community-signal-45d9df-bricklink-parts-mark-d251e8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-link/' | relative_url }}" title="What Brick Link Revealed That Surveys Missed | Antifragility In The A948 Ae Fan Community Signal" aria-label="Open page: What Brick Link Revealed That Surveys Missed | Antifragility In The A948 Ae Fan Community Signal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-link/' | relative_url }}" title="What Brick Link Revealed That Surveys Missed | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What Brick Link Revealed That Surveys Missed | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_bricklink_parts_mark_d251e8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Brick Link Revealed That Surveys Missed | Antifragility In The A948 Ae Fan Community Signal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1015,7 +1015,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-fan-community-signal-45d9df-fan-vote-signal-risk-f2301c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vote-risk/' | relative_url }}" title="When Fan Excitement Can Mislead LEGO | Antifragility In The A948 Ae Fan Community Signal" aria-label="Open page: When Fan Excitement Can Mislead LEGO | Antifragility In The A948 Ae Fan Community Signal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vote-risk/' | relative_url }}" title="When Fan Excitement Can Mislead LEGO | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When Fan Excitement Can Mislead LEGO | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_fan_vote_signal_risk_f2301c-Illustration-1.webp' | relative_url }}" alt="Overview image for When Fan Excitement Can Mislead LEGO | Antifragility In The A948 Ae Fan Community Signal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1035,7 +1035,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-fan-community-signal-45d9df-botanical-gifting-br-6ba47f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'botanicals-3aa67f/' | relative_url }}" title="Why LEGO Flowers Reached New Builders | Antifragility In The A948 Ae Fan Community Signal" aria-label="Open page: Why LEGO Flowers Reached New Builders | Antifragility In The A948 Ae Fan Community Signal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'botanicals-3aa67f/' | relative_url }}" title="Why LEGO Flowers Reached New Builders | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Flowers Reached New Builders | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_botanical_gifting_br_6ba47f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Flowers Reached New Builders | Antifragility In The A948 Ae Fan Community Signal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1055,7 +1055,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-fan-community-signal-45d9df-minecraft-fan-signal-33910f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'minecraft-signal/' | relative_url }}" title="Why LEGO Minecraft Became a Demand Clue | Antifragility In The A948 Ae Fan Community Signal" aria-label="Open page: Why LEGO Minecraft Became a Demand Clue | Antifragility In The A948 Ae Fan Community Signal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'minecraft-signal/' | relative_url }}" title="Why LEGO Minecraft Became a Demand Clue | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Minecraft Became a Demand Clue | How LEGO Fans Became a Market Sensor | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_fan_community_signal_45d9df_minecraft_fan_signal_33910f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Minecraft Became a Demand Clue | Antifragility In The A948 Ae Fan Community Signal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1077,7 +1077,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-taleb-framework-lego-340c78" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'framework/' | relative_url }}" title="Is LEGO Really Antifragile or Just Resilient? | Antifragility In The" aria-label="Open page: Is LEGO Really Antifragile or Just Resilient? | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'framework/' | relative_url }}" title="Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78-overview.webp' | relative_url }}" alt="Overview image for Is LEGO Really Antifragile or Just Resilient? | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1099,7 +1099,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-taleb-framework-lego-340c78-lego-licensed-theme-10147b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensed-themes-52cc3d/' | relative_url }}" title="Do Licensed Themes Make LEGO Stronger? | Antifragility In The A948 Ae Taleb Framework Lego" aria-label="Open page: Do Licensed Themes Make LEGO Stronger? | Antifragility In The A948 Ae Taleb Framework Lego">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensed-themes-52cc3d/' | relative_url }}" title="Do Licensed Themes Make LEGO Stronger? | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Do Licensed Themes Make LEGO Stronger? | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_licensed_theme_10147b-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Licensed Themes Make LEGO Stronger? | Antifragility In The A948 Ae Taleb Framework Lego" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1119,7 +1119,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-taleb-framework-lego-340c78-lego-crisis-learning-59af81" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crisis-learning/' | relative_url }}" title="How LEGO&#x27;s Crisis Became a Learning System | Antifragility In The A948 Ae Taleb Framework Lego" aria-label="Open page: How LEGO&#x27;s Crisis Became a Learning System | Antifragility In The A948 Ae Taleb Framework Lego">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crisis-learning/' | relative_url }}" title="How LEGO's Crisis Became a Learning System | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO's Crisis Became a Learning System | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_crisis_learning_59af81-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO&#x27;s Crisis Became a Learning System | Antifragility In The A948 Ae Taleb Framework Lego" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1139,7 +1139,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-taleb-framework-lego-340c78-lego-antifragility-l-45eaf0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'limits/' | relative_url }}" title="Why LEGO Is Not Fully Antifragile | Antifragility In The A948 Ae Taleb Framework Lego" aria-label="Open page: Why LEGO Is Not Fully Antifragile | Antifragility In The A948 Ae Taleb Framework Lego">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'limits/' | relative_url }}" title="Why LEGO Is Not Fully Antifragile | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Is Not Fully Antifragile | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_antifragility_l_45eaf0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Is Not Fully Antifragile | Antifragility In The A948 Ae Taleb Framework Lego" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1159,7 +1159,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-taleb-framework-lego-340c78-lego-brick-optionali-48dbd1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-optionality/' | relative_url }}" title="Why LEGO&#x27;s Bricks Create Business Options | Antifragility In The A948 Ae Taleb Framework Lego" aria-label="Open page: Why LEGO&#x27;s Bricks Create Business Options | Antifragility In The A948 Ae Taleb Framework Lego">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-optionality/' | relative_url }}" title="Why LEGO's Bricks Create Business Options | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO's Bricks Create Business Options | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_brick_optionali_48dbd1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO&#x27;s Bricks Create Business Options | Antifragility In The A948 Ae Taleb Framework Lego" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1179,7 +1179,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-taleb-framework-lego-340c78-lego-overdiversifica-4791a3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'overexpansion/' | relative_url }}" title="Why LEGO&#x27;s Expansion Made It Fragile | Antifragility In The A948 Ae Taleb Framework Lego" aria-label="Open page: Why LEGO&#x27;s Expansion Made It Fragile | Antifragility In The A948 Ae Taleb Framework Lego">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'overexpansion/' | relative_url }}" title="Why LEGO's Expansion Made It Fragile | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO's Expansion Made It Fragile | Is LEGO Really Antifragile or Just Resilient? | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_taleb_framework_lego_340c78_lego_overdiversifica_4791a3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO&#x27;s Expansion Made It Fragile | Antifragility In The A948 Ae Taleb Framework Lego" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1201,7 +1201,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-governed-innovation-cf0bf3" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'governed-bets/' | relative_url }}" title="How LEGO Learned To Make Safer Bets | Antifragility In The" aria-label="Open page: How LEGO Learned To Make Safer Bets | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'governed-bets/' | relative_url }}" title="How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3-overview.webp' | relative_url }}" alt="Overview image for How LEGO Learned To Make Safer Bets | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1223,7 +1223,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-governed-innovation-cf0bf3-lego-games-contained-785413" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-games/' | relative_url }}" title="The Board Games That Tested Safer Innovation | Antifragility In The A948 Ae Governed Innovation" aria-label="Open page: The Board Games That Tested Safer Innovation | Antifragility In The A948 Ae Governed Innovation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-games/' | relative_url }}" title="The Board Games That Tested Safer Innovation | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The Board Games That Tested Safer Innovation | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_games_contained_785413-Illustration-1.webp' | relative_url }}" alt="Overview image for The Board Games That Tested Safer Innovation | Antifragility In The A948 Ae Governed Innovation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1243,7 +1243,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-governed-innovation-cf0bf3-lego-universe-scalin-21941b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-universe/' | relative_url }}" title="What LEGO Learned From a Digital Failure | Antifragility In The A948 Ae Governed Innovation" aria-label="Open page: What LEGO Learned From a Digital Failure | Antifragility In The A948 Ae Governed Innovation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-universe/' | relative_url }}" title="What LEGO Learned From a Digital Failure | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What LEGO Learned From a Digital Failure | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_lego_universe_scalin_21941b-Illustration-1.webp' | relative_url }}" alt="Overview image for What LEGO Learned From a Digital Failure | Antifragility In The A948 Ae Governed Innovation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1263,7 +1263,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-governed-innovation-cf0bf3-galidor-brick-system-03dd23" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'galidor-risk/' | relative_url }}" title="When Did LEGO Stop Feeling Like LEGO? | Antifragility In The A948 Ae Governed Innovation" aria-label="Open page: When Did LEGO Stop Feeling Like LEGO? | Antifragility In The A948 Ae Governed Innovation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'galidor-risk/' | relative_url }}" title="When Did LEGO Stop Feeling Like LEGO? | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When Did LEGO Stop Feeling Like LEGO? | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_galidor_brick_system_03dd23-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did LEGO Stop Feeling Like LEGO? | Antifragility In The A948 Ae Governed Innovation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1283,7 +1283,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-governed-innovation-cf0bf3-executive-innovation-e7b5cf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'innovation-board/' | relative_url }}" title="Who Decided Which LEGO Ideas Survived? | Antifragility In The A948 Ae Governed Innovation" aria-label="Open page: Who Decided Which LEGO Ideas Survived? | Antifragility In The A948 Ae Governed Innovation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'innovation-board/' | relative_url }}" title="Who Decided Which LEGO Ideas Survived? | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Who Decided Which LEGO Ideas Survived? | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_executive_innovation_e7b5cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Decided Which LEGO Ideas Survived? | Antifragility In The A948 Ae Governed Innovation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1303,7 +1303,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-governed-innovation-cf0bf3-clikits-audience-fit-0fd87f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'clikits-fit/' | relative_url }}" title="Why LEGO&#x27;s Craft Bet Did Not Stick | Antifragility In The A948 Ae Governed Innovation" aria-label="Open page: Why LEGO&#x27;s Craft Bet Did Not Stick | Antifragility In The A948 Ae Governed Innovation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'clikits-fit/' | relative_url }}" title="Why LEGO's Craft Bet Did Not Stick | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO's Craft Bet Did Not Stick | How LEGO Learned To Make Safer Bets | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_governed_innovation_cf0bf3_clikits_audience_fit_0fd87f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO&#x27;s Craft Bet Did Not Stick | Antifragility In The A948 Ae Governed Innovation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1325,7 +1325,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-lego-ideas-guardrail-bcbf6c" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-ideas/' | relative_url }}" title="Why LEGO Ideas Is Not Just Crowdsourcing | Antifragility In The" aria-label="Open page: Why LEGO Ideas Is Not Just Crowdsourcing | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lego-ideas/' | relative_url }}" title="Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c-overview.webp' | relative_url }}" alt="Overview image for Why LEGO Ideas Is Not Just Crowdsourcing | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1347,7 +1347,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-lego-ideas-guardrail-bcbf6c-ideas-adult-fan-dema-e3780f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-demand/' | relative_url }}" title="How Fans Show LEGO What It Missed | Antifragility In The A948 Ae Lego Ideas Guardrail" aria-label="Open page: How Fans Show LEGO What It Missed | Antifragility In The A948 Ae Lego Ideas Guardrail">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-demand/' | relative_url }}" title="How Fans Show LEGO What It Missed | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How Fans Show LEGO What It Missed | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_adult_fan_dema_e3780f-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fans Show LEGO What It Missed | Antifragility In The A948 Ae Lego Ideas Guardrail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1367,7 +1367,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-lego-ideas-guardrail-bcbf6c-ideas-option-machine-f3e92b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'options/' | relative_url }}" title="How LEGO Turns Fan Chaos Into Options | Antifragility In The A948 Ae Lego Ideas Guardrail" aria-label="Open page: How LEGO Turns Fan Chaos Into Options | Antifragility In The A948 Ae Lego Ideas Guardrail">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'options/' | relative_url }}" title="How LEGO Turns Fan Chaos Into Options | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Turns Fan Chaos Into Options | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_option_machine_f3e92b-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO Turns Fan Chaos Into Options | Antifragility In The A948 Ae Lego Ideas Guardrail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1387,7 +1387,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-lego-ideas-guardrail-bcbf6c-ideas-review-gate-6ffe49" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'review-gate/' | relative_url }}" title="What Happens After a Fan Model Wins | Antifragility In The A948 Ae Lego Ideas Guardrail" aria-label="Open page: What Happens After a Fan Model Wins | Antifragility In The A948 Ae Lego Ideas Guardrail">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'review-gate/' | relative_url }}" title="What Happens After a Fan Model Wins | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What Happens After a Fan Model Wins | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_review_gate_6ffe49-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happens After a Fan Model Wins | Antifragility In The A948 Ae Lego Ideas Guardrail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1407,7 +1407,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-lego-ideas-guardrail-bcbf6c-ideas-10000-filter-c52696" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '10-000-votes/' | relative_url }}" title="Why 10,000 Votes Are Not Enough | Antifragility In The A948 Ae Lego Ideas Guardrail" aria-label="Open page: Why 10,000 Votes Are Not Enough | Antifragility In The A948 Ae Lego Ideas Guardrail">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '10-000-votes/' | relative_url }}" title="Why 10,000 Votes Are Not Enough | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why 10,000 Votes Are Not Enough | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_10000_filter_c52696-Illustration-1.webp' | relative_url }}" alt="Overview image for Why 10,000 Votes Are Not Enough | Antifragility In The A948 Ae Lego Ideas Guardrail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1427,7 +1427,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-lego-ideas-guardrail-bcbf6c-ideas-licensing-rule-fe9076" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensing/' | relative_url }}" title="Why Some Popular LEGO Ideas Cannot Win | Antifragility In The A948 Ae Lego Ideas Guardrail" aria-label="Open page: Why Some Popular LEGO Ideas Cannot Win | Antifragility In The A948 Ae Lego Ideas Guardrail">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensing/' | relative_url }}" title="Why Some Popular LEGO Ideas Cannot Win | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Some Popular LEGO Ideas Cannot Win | Why LEGO Ideas Is Not Just Crowdsourcing | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_lego_ideas_guardrail_bcbf6c_ideas_licensing_rule_fe9076-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Popular LEGO Ideas Cannot Win | Antifragility In The A948 Ae Lego Ideas Guardrail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1449,7 +1449,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-licensed-theme-trend-11e7d9" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensed-themes/' | relative_url }}" title="How LEGO Turns Franchises Into Bricks | Antifragility In The" aria-label="Open page: How LEGO Turns Franchises Into Bricks | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensed-themes/' | relative_url }}" title="How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9-overview.webp' | relative_url }}" alt="Overview image for How LEGO Turns Franchises Into Bricks | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1471,7 +1471,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-licensed-theme-trend-11e7d9-lego-super-mario-phy-4ca564" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'super-mario/' | relative_url }}" title="How LEGO made Mario playable in bricks | Antifragility In The A948 Ae Licensed Theme Trend" aria-label="Open page: How LEGO made Mario playable in bricks | Antifragility In The A948 Ae Licensed Theme Trend">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'super-mario/' | relative_url }}" title="How LEGO made Mario playable in bricks | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO made Mario playable in bricks | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_super_mario_phy_4ca564-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO made Mario playable in bricks | Antifragility In The A948 Ae Licensed Theme Trend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1491,7 +1491,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-licensed-theme-trend-11e7d9-lego-fortnite-digita-6d6ccf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fortnite-714dde/' | relative_url }}" title="When a LEGO game becomes a toy line | Antifragility In The A948 Ae Licensed Theme Trend" aria-label="Open page: When a LEGO game becomes a toy line | Antifragility In The A948 Ae Licensed Theme Trend">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fortnite-714dde/' | relative_url }}" title="When a LEGO game becomes a toy line | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When a LEGO game becomes a toy line | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_fortnite_digita_6d6ccf-Illustration-1.webp' | relative_url }}" alt="Overview image for When a LEGO game becomes a toy line | Antifragility In The A948 Ae Licensed Theme Trend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1511,7 +1511,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-licensed-theme-trend-11e7d9-lego-theme-portfolio-66d16b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'theme-mix/' | relative_url }}" title="Why LEGO does not live on licences alone | Antifragility In The A948 Ae Licensed Theme Trend" aria-label="Open page: Why LEGO does not live on licences alone | Antifragility In The A948 Ae Licensed Theme Trend">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'theme-mix/' | relative_url }}" title="Why LEGO does not live on licences alone | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO does not live on licences alone | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_theme_portfolio_66d16b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO does not live on licences alone | Antifragility In The A948 Ae Licensed Theme Trend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1531,7 +1531,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-licensed-theme-trend-11e7d9-lego-star-wars-repea-1443ec" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'star-wars/' | relative_url }}" title="Why LEGO Star Wars keeps coming back | Antifragility In The A948 Ae Licensed Theme Trend" aria-label="Open page: Why LEGO Star Wars keeps coming back | Antifragility In The A948 Ae Licensed Theme Trend">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'star-wars/' | relative_url }}" title="Why LEGO Star Wars keeps coming back | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Star Wars keeps coming back | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_lego_star_wars_repea_1443ec-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Star Wars keeps coming back | Antifragility In The A948 Ae Licensed Theme Trend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1551,7 +1551,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-licensed-theme-trend-11e7d9-licensed-themes-bric-688c49" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-fit/' | relative_url }}" title="Why licensed LEGO still feels like LEGO | Antifragility In The A948 Ae Licensed Theme Trend" aria-label="Open page: Why licensed LEGO still feels like LEGO | Antifragility In The A948 Ae Licensed Theme Trend">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-fit/' | relative_url }}" title="Why licensed LEGO still feels like LEGO | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why licensed LEGO still feels like LEGO | How LEGO Turns Franchises Into Bricks | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_licensed_theme_trend_11e7d9_licensed_themes_bric_688c49-Illustration-1.webp' | relative_url }}" alt="Overview image for Why licensed LEGO still feels like LEGO | Antifragility In The A948 Ae Licensed Theme Trend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1573,7 +1573,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-portfolio-breadth-049172" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'portfolio/' | relative_url }}" title="How LEGO Built More Ways To Grow | Antifragility In The" aria-label="Open page: How LEGO Built More Ways To Grow | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'portfolio/' | relative_url }}" title="How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172-overview.webp' | relative_url }}" alt="Overview image for How LEGO Built More Ways To Grow | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1595,7 +1595,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-portfolio-breadth-049172-botanicals-gifting-d-fea0a0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'botanicals/' | relative_url }}" title="How LEGO Botanicals Found New Buyers | Antifragility In The A948 Ae Portfolio Breadth" aria-label="Open page: How LEGO Botanicals Found New Buyers | Antifragility In The A948 Ae Portfolio Breadth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'botanicals/' | relative_url }}" title="How LEGO Botanicals Found New Buyers | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Botanicals Found New Buyers | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_botanicals_gifting_d_fea0a0-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO Botanicals Found New Buyers | Antifragility In The A948 Ae Portfolio Breadth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1615,7 +1615,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-portfolio-breadth-049172-evergreen-themes-fra-a55b97" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'evergreen-themes/' | relative_url }}" title="The Quiet Power of LEGO&#x27;s Evergreen Themes | Antifragility In The A948 Ae Portfolio Breadth" aria-label="Open page: The Quiet Power of LEGO&#x27;s Evergreen Themes | Antifragility In The A948 Ae Portfolio Breadth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'evergreen-themes/' | relative_url }}" title="The Quiet Power of LEGO's Evergreen Themes | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The Quiet Power of LEGO's Evergreen Themes | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_evergreen_themes_fra_a55b97-Illustration-1.webp' | relative_url }}" alt="Overview image for The Quiet Power of LEGO&#x27;s Evergreen Themes | Antifragility In The A948 Ae Portfolio Breadth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1635,7 +1635,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-portfolio-breadth-049172-portfolio-breadth-co-a11e29" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'complexity-risk/' | relative_url }}" title="When More LEGO Sets Become a Risk | Antifragility In The A948 Ae Portfolio Breadth" aria-label="Open page: When More LEGO Sets Become a Risk | Antifragility In The A948 Ae Portfolio Breadth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'complexity-risk/' | relative_url }}" title="When More LEGO Sets Become a Risk | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When More LEGO Sets Become a Risk | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_portfolio_breadth_co_a11e29-Illustration-1.webp' | relative_url }}" alt="Overview image for When More LEGO Sets Become a Risk | Antifragility In The A948 Ae Portfolio Breadth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1655,7 +1655,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-portfolio-breadth-049172-adult-buyers-demand-544a65" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-buyers/' | relative_url }}" title="Why Adults Became LEGO&#x27;s Demand Cushion | Antifragility In The A948 Ae Portfolio Breadth" aria-label="Open page: Why Adults Became LEGO&#x27;s Demand Cushion | Antifragility In The A948 Ae Portfolio Breadth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-buyers/' | relative_url }}" title="Why Adults Became LEGO's Demand Cushion | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Adults Became LEGO's Demand Cushion | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_adult_buyers_demand_544a65-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Adults Became LEGO&#x27;s Demand Cushion | Antifragility In The A948 Ae Portfolio Breadth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1675,7 +1675,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-portfolio-breadth-049172-how-lego-s-retail-ch-94f2f7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'how-lego-s/' | relative_url }}" title="Why LEGO Needs More Than Toy Shelves | Antifragility In The A948 Ae Portfolio Breadth" aria-label="Open page: Why LEGO Needs More Than Toy Shelves | Antifragility In The A948 Ae Portfolio Breadth">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'how-lego-s/' | relative_url }}" title="Why LEGO Needs More Than Toy Shelves | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Needs More Than Toy Shelves | How LEGO Built More Ways To Grow | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_portfolio_breadth_049172_how_lego_s_retail_ch_94f2f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Needs More Than Toy Shelves | Antifragility In The A948 Ae Portfolio Breadth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1697,7 +1697,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-recent-results-resil-b6b60e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'recent-results/' | relative_url }}" title="What Recent LEGO Results Really Prove | Antifragility In The" aria-label="Open page: What Recent LEGO Results Really Prove | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'recent-results/' | relative_url }}" title="What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e-overview.webp' | relative_url }}" alt="Overview image for What Recent LEGO Results Really Prove | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1719,7 +1719,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-recent-results-resil-b6b60e-lego-market-share-do-555987" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'market-share/' | relative_url }}" title="How LEGO grew while toys slowed | Antifragility In The A948 Ae Recent Results Resil" aria-label="Open page: How LEGO grew while toys slowed | Antifragility In The A948 Ae Recent Results Resil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'market-share/' | relative_url }}" title="How LEGO grew while toys slowed | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO grew while toys slowed | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_market_share_do_555987-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO grew while toys slowed | Antifragility In The A948 Ae Recent Results Resil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1739,7 +1739,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-recent-results-resil-b6b60e-lego-china-regional-7c66e4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'china-risk/' | relative_url }}" title="The regional weakness LEGO could not ignore | Antifragility In The A948 Ae Recent Results Resil" aria-label="Open page: The regional weakness LEGO could not ignore | Antifragility In The A948 Ae Recent Results Resil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'china-risk/' | relative_url }}" title="The regional weakness LEGO could not ignore | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The regional weakness LEGO could not ignore | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_china_regional_7c66e4-Illustration-1.webp' | relative_url }}" alt="Overview image for The regional weakness LEGO could not ignore | Antifragility In The A948 Ae Recent Results Resil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1759,7 +1759,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-recent-results-resil-b6b60e-lego-2023-profit-dip-b67d8b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'profit-dip/' | relative_url }}" title="The warning inside LEGO&#x27;s strong year | Antifragility In The A948 Ae Recent Results Resil" aria-label="Open page: The warning inside LEGO&#x27;s strong year | Antifragility In The A948 Ae Recent Results Resil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'profit-dip/' | relative_url }}" title="The warning inside LEGO's strong year | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: The warning inside LEGO's strong year | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_2023_profit_dip_b67d8b-Illustration-1.webp' | relative_url }}" alt="Overview image for The warning inside LEGO&#x27;s strong year | Antifragility In The A948 Ae Recent Results Resil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1779,7 +1779,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-recent-results-resil-b6b60e-lego-investing-throu-16615d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'investment/' | relative_url }}" title="Why LEGO kept spending during pressure | Antifragility In The A948 Ae Recent Results Resil" aria-label="Open page: Why LEGO kept spending during pressure | Antifragility In The A948 Ae Recent Results Resil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'investment/' | relative_url }}" title="Why LEGO kept spending during pressure | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO kept spending during pressure | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_investing_throu_16615d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO kept spending during pressure | Antifragility In The A948 Ae Recent Results Resil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1799,7 +1799,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-recent-results-resil-b6b60e-lego-portfolio-shock-690f0c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'portfolio-1527aa/' | relative_url }}" title="Why LEGO&#x27;s range became a shock absorber | Antifragility In The A948 Ae Recent Results Resil" aria-label="Open page: Why LEGO&#x27;s range became a shock absorber | Antifragility In The A948 Ae Recent Results Resil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'portfolio-1527aa/' | relative_url }}" title="Why LEGO's range became a shock absorber | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO's range became a shock absorber | What Recent LEGO Results Really Prove | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_recent_results_resil_b6b60e_lego_portfolio_shock_690f0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO&#x27;s range became a shock absorber | Antifragility In The A948 Ae Recent Results Resil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1821,7 +1821,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-toy-market-seasonali-044759" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'seasonality/' | relative_url }}" title="Why Toy Seasonality Tests LEGO&#x27;s Strength | Antifragility In The" aria-label="Open page: Why Toy Seasonality Tests LEGO&#x27;s Strength | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'seasonality/' | relative_url }}" title="Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759-overview.webp' | relative_url }}" alt="Overview image for Why Toy Seasonality Tests LEGO&#x27;s Strength | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1843,7 +1843,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-toy-market-seasonali-044759-portfolio-seasonal-c-c2e4ac" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'portfolio-mix/' | relative_url }}" title="Can More LEGO Sets Mean Less Seasonal Risk? | Antifragility In The A948 Ae Toy Market Seasonali" aria-label="Open page: Can More LEGO Sets Mean Less Seasonal Risk? | Antifragility In The A948 Ae Toy Market Seasonali">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'portfolio-mix/' | relative_url }}" title="Can More LEGO Sets Mean Less Seasonal Risk? | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Can More LEGO Sets Mean Less Seasonal Risk? | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_portfolio_seasonal_c_c2e4ac-Illustration-1.webp' | relative_url }}" alt="Overview image for Can More LEGO Sets Mean Less Seasonal Risk? | Antifragility In The A948 Ae Toy Market Seasonali" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1863,7 +1863,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-toy-market-seasonali-044759-adult-gifting-demand-e89691" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-gifting/' | relative_url }}" title="How LEGO Finds Gift Moments Beyond Christmas | Antifragility In The A948 Ae Toy Market Seasonali" aria-label="Open page: How LEGO Finds Gift Moments Beyond Christmas | Antifragility In The A948 Ae Toy Market Seasonali">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-gifting/' | relative_url }}" title="How LEGO Finds Gift Moments Beyond Christmas | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: How LEGO Finds Gift Moments Beyond Christmas | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_adult_gifting_demand_e89691-Illustration-1.webp' | relative_url }}" alt="Overview image for How LEGO Finds Gift Moments Beyond Christmas | Antifragility In The A948 Ae Toy Market Seasonali" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1883,7 +1883,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-toy-market-seasonali-044759-toy-fads-lifecycles-665427" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'toy-fads/' | relative_url }}" title="When Fads Move Faster Than Factory Plans | Antifragility In The A948 Ae Toy Market Seasonali" aria-label="Open page: When Fads Move Faster Than Factory Plans | Antifragility In The A948 Ae Toy Market Seasonali">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'toy-fads/' | relative_url }}" title="When Fads Move Faster Than Factory Plans | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: When Fads Move Faster Than Factory Plans | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_toy_fads_lifecycles_665427-Illustration-1.webp' | relative_url }}" alt="Overview image for When Fads Move Faster Than Factory Plans | Antifragility In The A948 Ae Toy Market Seasonali" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1903,7 +1903,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-toy-market-seasonali-044759-christmas-inventory-da9677" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'holiday-risk/' | relative_url }}" title="Why Christmas Makes Toy Forecasts So Fragile | Antifragility In The A948 Ae Toy Market Seasonali" aria-label="Open page: Why Christmas Makes Toy Forecasts So Fragile | Antifragility In The A948 Ae Toy Market Seasonali">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'holiday-risk/' | relative_url }}" title="Why Christmas Makes Toy Forecasts So Fragile | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Christmas Makes Toy Forecasts So Fragile | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_christmas_inventory_da9677-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Christmas Makes Toy Forecasts So Fragile | Antifragility In The A948 Ae Toy Market Seasonali" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1923,7 +1923,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-toy-market-seasonali-044759-regional-factories-h-f451ac" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-supply/' | relative_url }}" title="Why Nearby Factories Matter Before Christmas | Antifragility In The A948 Ae Toy Market Seasonali" aria-label="Open page: Why Nearby Factories Matter Before Christmas | Antifragility In The A948 Ae Toy Market Seasonali">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-supply/' | relative_url }}" title="Why Nearby Factories Matter Before Christmas | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Nearby Factories Matter Before Christmas | Why Toy Seasonality Tests LEGO's Strength | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_toy_market_seasonali_044759_regional_factories_h_f451ac-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Nearby Factories Matter Before Christmas | Antifragility In The A948 Ae Toy Market Seasonali" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1945,7 +1945,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-antifragility-in-the-a948ae-sustainability-limit-bbd831" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sustainability/' | relative_url }}" title="Where LEGO&#x27;s Antifragility Hits Hard Limits | Antifragility In The" aria-label="Open page: Where LEGO&#x27;s Antifragility Hits Hard Limits | Antifragility In The">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sustainability/' | relative_url }}" title="Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831-overview.webp' | relative_url }}" alt="Overview image for Where LEGO&#x27;s Antifragility Hits Hard Limits | Antifragility In The" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1967,7 +1967,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-sustainability-limit-bbd831-mass-balance-trust-8a10c8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mass-balance/' | relative_url }}" title="Can a Greener Brick Look Exactly the Same? | Antifragility In The A948 Ae Sustainability Limit" aria-label="Open page: Can a Greener Brick Look Exactly the Same? | Antifragility In The A948 Ae Sustainability Limit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mass-balance/' | relative_url }}" title="Can a Greener Brick Look Exactly the Same? | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Can a Greener Brick Look Exactly the Same? | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_mass_balance_trust_8a10c8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Greener Brick Look Exactly the Same? | Antifragility In The A948 Ae Sustainability Limit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1987,7 +1987,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-sustainability-limit-bbd831-renewable-resin-cost-6ba6e6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cost-pressure/' | relative_url }}" title="Who Pays for Greener LEGO Bricks? | Antifragility In The A948 Ae Sustainability Limit" aria-label="Open page: Who Pays for Greener LEGO Bricks? | Antifragility In The A948 Ae Sustainability Limit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cost-pressure/' | relative_url }}" title="Who Pays for Greener LEGO Bricks? | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Who Pays for Greener LEGO Bricks? | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_renewable_resin_cost_6ba6e6-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Pays for Greener LEGO Bricks? | Antifragility In The A948 Ae Sustainability Limit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2007,7 +2007,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-sustainability-limit-bbd831-paper-packaging-vs-b-df576d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'packaging/' | relative_url }}" title="Why LEGO Bags Can Change Before Bricks | Antifragility In The A948 Ae Sustainability Limit" aria-label="Open page: Why LEGO Bags Can Change Before Bricks | Antifragility In The A948 Ae Sustainability Limit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'packaging/' | relative_url }}" title="Why LEGO Bags Can Change Before Bricks | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why LEGO Bags Can Change Before Bricks | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_paper_packaging_vs_b_df576d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why LEGO Bags Can Change Before Bricks | Antifragility In The A948 Ae Sustainability Limit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2027,7 +2027,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-sustainability-limit-bbd831-recycled-pet-failure-e7323a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pet-failure/' | relative_url }}" title="Why Recycled Bottles Did Not Become Bricks | Antifragility In The A948 Ae Sustainability Limit" aria-label="Open page: Why Recycled Bottles Did Not Become Bricks | Antifragility In The A948 Ae Sustainability Limit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pet-failure/' | relative_url }}" title="Why Recycled Bottles Did Not Become Bricks | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why Recycled Bottles Did Not Become Bricks | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_recycled_pet_failure_e7323a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Recycled Bottles Did Not Become Bricks | Antifragility In The A948 Ae Sustainability Limit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2047,7 +2047,7 @@ site_image_description: A tabletop scene with classic LEGO bricks, a partially r
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-antifragility-in-the-a948ae-sustainability-limit-bbd831-brick-clutch-materia-82b4d3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-clutch/' | relative_url }}" title="Why the LEGO Click Is Hard to Replace | Antifragility In The A948 Ae Sustainability Limit" aria-label="Open page: Why the LEGO Click Is Hard to Replace | Antifragility In The A948 Ae Sustainability Limit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'brick-clutch/' | relative_url }}" title="Why the LEGO Click Is Hard to Replace | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?" aria-label="Open page: Why the LEGO Click Is Hard to Replace | Where LEGO's Antifragility Hits Hard Limits | How Did LEGO Become Stronger After Crisis?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/antifragility_in_the_a948ae_sustainability_limit_bbd831_brick_clutch_materia_82b4d3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the LEGO Click Is Hard to Replace | Antifragility In The A948 Ae Sustainability Limit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
