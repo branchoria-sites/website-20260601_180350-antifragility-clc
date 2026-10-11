@@ -781,7 +781,6 @@ That is the deeper significance of display-oriented LEGO. The company did not me
 
 4.<a id="endnote-4"></a>
    Source: lego.com  
-   Link:https://www.lego.com/cdn/cs/[sustainability  
 
 5.<a id="endnote-5"></a>
    Source: lego.com  

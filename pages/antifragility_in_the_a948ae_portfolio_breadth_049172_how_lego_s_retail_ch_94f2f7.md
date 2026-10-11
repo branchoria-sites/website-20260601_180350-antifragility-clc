@@ -797,7 +797,6 @@ Within LEGO’s broader antifragility story, retail channels are therefore not m
 
 9.<a id="endnote-9"></a>
    Source: lego.com  
-   Link:https://www.lego.com/cdn/cs/[sustainability  
 
 10.<a id="endnote-10"></a>
    Source: lego.com  
