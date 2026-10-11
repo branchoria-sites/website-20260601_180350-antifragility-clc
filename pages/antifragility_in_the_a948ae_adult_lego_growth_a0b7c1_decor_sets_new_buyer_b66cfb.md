@@ -837,7 +837,6 @@ That is why decor-focused sets represent more than a successful theme. They show
 
 14.<a id="endnote-14"></a>
    Source: lego.com  
-   Link:https://www.lego.com/cdn/cs/[sustainability  
 
 15.<a id="endnote-15"></a>
    Source: lego.com  
