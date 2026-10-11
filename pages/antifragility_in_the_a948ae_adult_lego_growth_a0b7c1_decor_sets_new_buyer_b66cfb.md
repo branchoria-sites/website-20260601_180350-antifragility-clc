@@ -326,7 +326,7 @@ The company’s own adult-focused marketing reflects this positioning. The “Ad
 
 Another reason decor sets travel beyond fandom is that the value proposition includes the building experience itself.
 
-LEGO increasingly markets adult building as a form of relaxation, concentration and screen-free time. The company’s “Find Your Flow” messaging explicitly frames [adult sets]({{ 'adult-sets/' | relative_url }}) as a way to unwind and recharge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+LEGO increasingly markets adult building as a form of relaxation, concentration and screen-free time. The company’s “Find Your Flow” messaging explicitly frames [adult sets]({{ 'adult-sets/' | relative_url }}) as a way to unwind and recharge.<span class="citation-link-wrap">[LEGO]<span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 Decor-oriented subjects reinforce this message particularly well. Building a flower arrangement, bonsai tree or miniature garden aligns naturally with ideas of calmness and mindfulness. The subject matter supports the emotional positioning.
 
@@ -837,7 +837,7 @@ That is why decor-focused sets represent more than a successful theme. They show
 
 14.<a id="endnote-14"></a>
    Source: lego.com  
-   Link:<a href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/[sustainability</a>  
+   Link:https://www.lego.com/cdn/cs/[sustainability  
 
 15.<a id="endnote-15"></a>
    Source: lego.com  

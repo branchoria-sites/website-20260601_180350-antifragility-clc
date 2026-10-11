@@ -951,7 +951,7 @@ That is the adaptation risk in one sentence: LEGO must enter digital play deeply
 
 27.<a id="endnote-27"></a>
    Source: lego.com  
-   Link:<a href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/[sustainability</a>  
+   Link:https://www.lego.com/cdn/cs/[sustainability  
 
 28.<a id="endnote-28"></a>
    Source: lego.com  

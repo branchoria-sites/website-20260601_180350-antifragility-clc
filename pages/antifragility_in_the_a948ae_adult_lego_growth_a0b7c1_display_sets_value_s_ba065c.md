@@ -284,7 +284,7 @@ That shift matters because it created new reasons to buy LEGO. Instead of compet
 
 The most important change in adult-oriented LEGO design is that visual impact increasingly became a primary selling point rather than a secondary benefit.
 
-Traditional children's sets often emphasised functions: opening doors, firing mechanisms, moving parts, role-play scenarios and minifigure interaction. Adult display models still include engineering features, but they are usually judged first by how they look on a shelf. The design brief increasingly resembles that of a collectible or decorative object. LEGO's adult category openly markets sets around architecture, art, vehicles, film icons and interior design rather than around play scenarios. The company describes these products as premium sets designed specifically for adults and encourages buyers to “unplug, unbox and unwind”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lego.com">[LEGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
+Traditional children's sets often emphasised functions: opening doors, firing mechanisms, moving parts, role-play scenarios and minifigure interaction. Adult display models still include engineering features, but they are usually judged first by how they look on a shelf. The design brief increasingly resembles that of a collectible or decorative object. LEGO's adult category openly markets sets around architecture, art, vehicles, film icons and interior design rather than around play scenarios. The company describes these products as premium sets designed specifically for adults and encourages buyers to “unplug, unbox and unwind”.<span class="citation-link-wrap">[LEGO]<span class="citation-popover" role="note"><span class="citation-popover-source">lego.com</span><span class="citation-popover-snippet">Open source on lego.com.</span></span></span>
 
 This changes the meaning of value. A buyer considering a large-scale LEGO Porsche, a botanical arrangement or an architectural landmark is often asking different questions from a parent shopping for a child:
 
@@ -781,7 +781,7 @@ That is the deeper significance of display-oriented LEGO. The company did not me
 
 4.<a id="endnote-4"></a>
    Source: lego.com  
-   Link:<a href="https://www.lego.com/cdn/cs/[sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.lego.com/cdn/cs/[sustainability</a>  
+   Link:https://www.lego.com/cdn/cs/[sustainability  
 
 5.<a id="endnote-5"></a>
    Source: lego.com  
